@@ -1,0 +1,29 @@
+262	Flamengo 	263	Botafogo
+262	Flamengo	266	Fluminense
+262	Flamengo	267	Vasco
+263	Botafogo	266	Fluminense
+263	Botafogo	267	Vasco
+266	Fluminense  	267	Vasco
+264	Corinthians	275	Palmeiras
+264	Corinthians	276	São Paulo
+264	Corinthians	277	Santos
+275	Palmeiras	276	São Paulo
+275	Palmeiras	277	Santos
+276	São Paulo	277	Santos
+265	Bahia		287	Vitória
+282	Atlético-MG	283	Cruzeiro
+282	Atlético-MG	327	América-MG
+283	Cruzeiro	327	América-MG
+284	Grêmio		285	Internacional
+288	Criciúma	314	Avaí
+288	Criciúma	315	Chapecoense
+288	Criciúma	317	Joinville
+314	Avaí		315	Chapecoense
+314	Avaí		317	Joinville
+315	Chapecoense	317	Joinville
+290	Goiás		373	Atlético-GO
+293	Atlético-PR	217	Paraná
+293	Atlético-PR	294	Coritiba
+217	Paraná		294	Coritiba
+292	Sport		344	Santa Cruz
+204/354	Ceará		356	Fortaleza
