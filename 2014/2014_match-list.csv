@@ -1,0 +1,381 @@
+,round_num,team_home,team_away,week_day,time,stadium,referee
+0,1,Flamengo - RJ,Goiás - GO,Domingo,18:30,Mané Garrincha - Brasilia - DF,Anderson Daronco
+1,1,Fluminense - RJ,Figueirense - SC,Sábado,18:30,Maracanã - Rio de Janeiro - RJ,Ricardo Marques Ribeiro
+2,1,São Paulo - SP,Botafogo - RJ,Domingo,16:00,Morumbi - Sao Paulo - SP,Wilton Pereira Sampaio
+3,1,Santos - SP,Sport - PE,Domingo,18:30,Vila Belmiro - Santos - SP,Arilson Bispo da Anunciacao
+4,1,Atletico - PR,Grêmio - RS,Domingo,16:00,Orlando Scarpelli - Florianopolis - SC,Marcelo de Lima Henrique
+5,1,Atlético - MG,Corinthians - SP,Domingo,16:00,João Havelange - Uberlandia - MG,Heber Roberto Lopes
+6,1,Bahia - BA,Cruzeiro - MG,Domingo,16:00,Fonte Nova - Salvador - BA,Luiz Flavio de Oliveira
+7,1,Internacional - RS,Vitória - BA,Sábado,18:30,Beira-Rio - Porto Alegre - RS,Raphael Claus
+8,1,Criciuma - SC,Palmeiras - SP,Domingo,18:30,Heriberto Hulse - Criciuma - SC,Andre Luiz de Freitas Castro
+9,1,Chapecoense - SC,Coritiba - PR,Sábado,21:00,Arena Condá - Chapeco - SC,Rodrigo Nunes de Sa
+10,2,Botafogo - RJ,Internacional - RS,Domingo,16:00,Maracanã - Rio de Janeiro - RJ,Jailson Macedo Freitas
+11,2,Sport - PE,Chapecoense - SC,Domingo,18:30,Ilha do Retiro - Recife - PE,Francisco de Assis Almeida Filho
+12,2,Corinthians - SP,Flamengo - RJ,Domingo,16:00,Pacaembu - Sao Paulo - SP,Leandro Pedro Vuaden
+13,2,Palmeiras - SP,Fluminense - RJ,Sábado,21:00,Pacaembu - Sao Paulo - SP,Dewson Fernando Freitas da Silva
+14,2,Coritiba - PR,Santos - SP,Sábado,18:30,Couto Pereira - Curitiba - PR,Emerson de Almeida Ferreira
+15,2,Cruzeiro - MG,São Paulo - SP,Domingo,16:00,João Havelange - Uberlandia - MG,Wagner do Nascimento Magalhaes
+16,2,Vitória - BA,Atletico - PR,Domingo,16:00,Pituaçu - Salvador - BA,Francisco Carlos do Nascimento
+17,2,Grêmio - RS,Atlético - MG,Domingo,18:30,Arena do Grêmio - Porto Alegre - RS,Wagner Reway
+18,2,Figueirense - SC,Bahia - BA,Domingo,18:30,Arena Barueri - Barueri - SP,Sandro Meira Ricci
+19,2,Goiás - GO,Criciuma - SC,Domingo,18:30,Juscelino Kubitschek - Itumbiara - GO,Renan Roberto de Souza
+20,3,Flamengo - RJ,Palmeiras - SP,Domingo,16:00,Maracanã - Rio de Janeiro - RJ,Paulo H Godoy Bezerra
+21,3,Fluminense - RJ,Vitória - BA,Sábado,21:00,Maracanã - Rio de Janeiro - RJ,Marcos Andre Gomes da Penha
+22,3,São Paulo - SP,Coritiba - PR,Sábado,18:30,Pacaembu - Sao Paulo - SP,Claudio Francisco Lima E Silva
+23,3,Santos - SP,Grêmio - RS,Sábado,18:30,Vila Belmiro - Santos - SP,Ricardo Marques Ribeiro
+24,3,Atletico - PR,Cruzeiro - MG,Sábado,18:30,Mané Garrincha - Brasilia - DF,Elmo Alves Resende Cunha
+25,3,Atlético - MG,Goiás - GO,Domingo,18:30,Independência - Belo Horizonte - MG,Marcelo de Lima Henrique
+26,3,Bahia - BA,Botafogo - RJ,Domingo,16:00,Fonte Nova - Salvador - BA,Raphael Claus
+27,3,Internacional - RS,Sport - PE,Domingo,16:00,Beira-Rio - Porto Alegre - RS,Pablo dos Santos Alves
+28,3,Criciuma - SC,Figueirense - SC,Domingo,16:00,Heriberto Hulse - Criciuma - SC,Braulio da Silva Machado
+29,3,Chapecoense - SC,Corinthians - SP,Domingo,18:30,Arena Condá - Chapeco - SC,Wagner Reway
+30,4,Botafogo - RJ,Criciuma - SC,Sábado,21:00,Maracanã - Rio de Janeiro - RJ,Claudio Francisco Lima E Silva
+31,4,Fluminense - RJ,Flamengo - RJ,Domingo,16:00,Maracanã - Rio de Janeiro - RJ,Wagner do Nascimento Magalhaes
+32,4,São Paulo - SP,Corinthians - SP,Domingo,16:00,Arena Barueri - Barueri - SP,Raphael Claus
+33,4,Palmeiras - SP,Goiás - GO,Sábado,18:30,Pacaembu - Sao Paulo - SP,Felipe Gomes da Silva
+34,4,Coritiba - PR,Sport - PE,Domingo,18:30,Couto Pereira - Curitiba - PR,Jean Pierre Goncalves Lima
+35,4,Atlético - MG,Cruzeiro - MG,Domingo,16:00,Independência - Belo Horizonte - MG,Heber Roberto Lopes
+36,4,Bahia - BA,Vitória - BA,Domingo,18:30,Fonte Nova - Salvador - BA,Wilton Pereira Sampaio
+37,4,Internacional - RS,Atletico - PR,Sábado,18:30,Beira-Rio - Porto Alegre - RS,Sandro Meira Ricci
+38,4,Figueirense - SC,Santos - SP,Domingo,18:30,Do Café - Londrina - PR,Francisco Carlos do Nascimento
+39,4,Chapecoense - SC,Grêmio - RS,Domingo,16:00,Arena Condá - Chapeco - SC,Dewson Fernando Freitas da Silva
+40,5,Flamengo - RJ,São Paulo - SP,Domingo,16:00,Maracanã - Rio de Janeiro - RJ,Ricardo Marques Ribeiro
+41,5,Sport - PE,Bahia - BA,Quarta,21:00,Ilha do Retiro - Recife - PE,Marcelo Aparecido R de Souza
+42,5,Corinthians - SP,Figueirense - SC,Domingo,16:00,Arena Corinthians - Sao Paulo - SP,Jailson Macedo Freitas
+43,5,Santos - SP,Atlético - MG,Domingo,18:30,Arena Pantanal - Cuiaba - MT,Pericles Bassols Pegado Cortez
+44,5,Atletico - PR,Chapecoense - SC,Domingo,16:00,Willie Davids - Maringa - PR,Grazianni Maciel Rocha
+45,5,Cruzeiro - MG,Coritiba - PR,Sábado,18:30,Mineirão - Belo Horizonte - MG,Andre Luiz de Freitas Castro
+46,5,Vitória - BA,Palmeiras - SP,Domingo,18:30,Pituaçu - Salvador - BA,Leandro Pedro Vuaden
+47,5,Grêmio - RS,Fluminense - RJ,Domingo,16:00,Arena do Grêmio - Porto Alegre - RS,Sandro Meira Ricci
+48,5,Criciuma - SC,Internacional - RS,Domingo,18:30,Heriberto Hulse - Criciuma - SC,Raphael Claus
+49,5,Goiás - GO,Botafogo - RJ,Quarta,22:00,Mário Helênio - Juiz de Fora - MG,Ricardo Marques Ribeiro
+50,6,Flamengo - RJ,Bahia - BA,Quarta,19:30,Cláudio Moacyr - Macae - RJ,Gilberto Rodrigues Castro Junior
+51,6,Fluminense - RJ,São Paulo - SP,Quarta,22:00,Maracanã - Rio de Janeiro - RJ,Paulo H Godoy Bezerra
+52,6,Corinthians - SP,Atletico - PR,Quarta,22:00,Canindé - Sao Paulo - SP,Marcelo de Lima Henrique
+53,6,Palmeiras - SP,Figueirense - SC,Quinta,19:30,Fonte Luminosa - Araraquara - SP,Paulo H Schleich Vollkopf
+54,6,Coritiba - PR,Internacional - RS,Quarta,19:30,Couto Pereira - Curitiba - PR,Elmo Alves Resende Cunha
+55,6,Cruzeiro - MG,Sport - PE,Quarta,21:00,Mineirão - Belo Horizonte - MG,Felipe Gomes da Silva
+56,6,Vitória - BA,Atlético - MG,Quinta,21:00,Jóia da Princesa - Feira de Santana - BA,Vinicius Furlan
+57,6,Grêmio - RS,Botafogo - RJ,Quarta,22:00,Alfredo Jaconi - Caxias do Sul - RS,Flavio Rodrigues de Souza
+58,6,Criciuma - SC,Chapecoense - SC,Quarta,21:00,Heriberto Hulse - Criciuma - SC,Heber Roberto Lopes
+59,6,Goiás - GO,Santos - SP,Quinta,19:30,Serra Dourada - Goiania - GO,Igor Junio Benevenuto
+60,7,Botafogo - RJ,Vitória - BA,Domingo,18:30,Cláudio Moacyr - Macae - RJ,Dewson Fernando Freitas da Silva
+61,7,Sport - PE,Corinthians - SP,Domingo,16:00,Ilha do Retiro - Recife - PE,Pericles Bassols Pegado Cortez
+62,7,São Paulo - SP,Grêmio - RS,Sábado,21:00,Morumbi - Sao Paulo - SP,Wilton Pereira Sampaio
+63,7,Santos - SP,Flamengo - RJ,Domingo,16:00,Morumbi - Sao Paulo - SP,Jailson Macedo Freitas
+64,7,Atletico - PR,Coritiba - PR,Domingo,16:00,Willie Davids - Maringa - PR,Edivaldo Elias da Silva
+65,7,Atlético - MG,Criciuma - SC,Domingo,18:30,João Lamego - Ipatinga - MG,Wagner do Nascimento Magalhaes
+66,7,Bahia - BA,Fluminense - RJ,Sábado,18:30,Arena Barueri - Barueri - SP,Ricardo Marques Ribeiro
+67,7,Internacional - RS,Cruzeiro - MG,Domingo,18:30,Centenário - Caxias do Sul - RS,Paulo H Godoy Bezerra
+68,7,Figueirense - SC,Goiás - GO,Domingo,16:00,Orlando Scarpelli - Florianopolis - SC,Nielson Nogueira Dias
+69,7,Chapecoense - SC,Palmeiras - SP,Domingo,18:30,Arena Condá - Chapeco - SC,Emerson de Almeida Ferreira
+70,8,Flamengo - RJ,Figueirense - SC,Quinta,19:30,Morumbi - Sao Paulo - SP,Thiago Duarte Peixoto
+71,8,Sport - PE,Grêmio - RS,Quarta,19:30,Ilha do Retiro - Recife - PE,Marcelo de Lima Henrique
+72,8,Corinthians - SP,Cruzeiro - MG,Quarta,22:00,Canindé - Sao Paulo - SP,Dewson Fernando Freitas da Silva
+73,8,Palmeiras - SP,Botafogo - RJ,Quarta,19:30,Paulo Constantino - Presidente Prudente - SP,Heber Roberto Lopes
+74,8,Atletico - PR,São Paulo - SP,Quarta,22:00,João Havelange - Uberlandia - MG,Anderson Daronco
+75,8,Atlético - MG,Fluminense - RJ,Quarta,22:00,João Lamego - Ipatinga - MG,Raphael Claus
+76,8,Bahia - BA,Santos - SP,Quinta,21:00,Jóia da Princesa - Feira de Santana - BA,Wagner Reway
+77,8,Internacional - RS,Chapecoense - SC,Quarta,21:00,Centenário - Caxias do Sul - RS,Felipe Gomes da Silva
+78,8,Criciuma - SC,Coritiba - PR,Quarta,19:30,Heriberto Hulse - Criciuma - SC,Marcelo Aparecido R de Souza
+79,8,Goiás - GO,Vitória - BA,Quarta,21:00,Serra Dourada - Goiania - GO,Jean Pierre Goncalves Lima
+80,9,Botafogo - RJ,Corinthians - SP,Sábado,18:30,Arena da Amazônia - Manaus - AM,Andre Luiz de Freitas Castro
+81,9,Fluminense - RJ,Internacional - RS,Domingo,18:30,Cláudio Moacyr - Macae - RJ,Wilton Pereira Sampaio
+82,9,São Paulo - SP,Atlético - MG,Sábado,18:30,Morumbi - Sao Paulo - SP,Pericles Bassols Pegado Cortez
+83,9,Santos - SP,Criciuma - SC,Domingo,18:30,1º de Maio - Sao Bernardo do Campo - SP,Paulo H Schleich Vollkopf
+84,9,Coritiba - PR,Goiás - GO,Sábado,18:30,Durival Britto - Curitiba - PR,Pablo dos Santos Alves
+85,9,Cruzeiro - MG,Flamengo - RJ,Domingo,16:00,João Havelange - Uberlandia - MG,Luiz Flavio de Oliveira
+86,9,Vitória - BA,Sport - PE,Sábado,21:00,Jóia da Princesa - Feira de Santana - BA,Paulo H Godoy Bezerra
+87,9,Grêmio - RS,Palmeiras - SP,Domingo,16:00,Alfredo Jaconi - Caxias do Sul - RS,Jailson Macedo Freitas
+88,9,Figueirense - SC,Atletico - PR,Domingo,18:30,Orlando Scarpelli - Florianopolis - SC,Raphael Claus
+89,9,Chapecoense - SC,Bahia - BA,Domingo,16:00,Arena Condá - Chapeco - SC,Igor Junio Benevenuto
+90,10,Flamengo - RJ,Atletico - PR,Quarta,22:00,Cláudio Moacyr - Macae - RJ,Paulo H Godoy Bezerra
+91,10,Sport - PE,Botafogo - RJ,Quarta,19:30,Ilha do Retiro - Recife - PE,Francisco Carlos do Nascimento
+92,10,Corinthians - SP,Internacional - RS,Quinta,19:30,Arena Corinthians - Sao Paulo - SP,Wagner Reway
+93,10,Santos - SP,Palmeiras - SP,Quinta,19:30,Vila Belmiro - Santos - SP,Raphael Claus
+94,10,Coritiba - PR,Figueirense - SC,Quarta,19:30,Couto Pereira - Curitiba - PR,Charles Hebert Cavalcante Ferreira
+95,10,Cruzeiro - MG,Vitória - BA,Quinta,21:00,Mineirão - Belo Horizonte - MG,Pericles Bassols Pegado Cortez
+96,10,Bahia - BA,São Paulo - SP,Quarta,22:00,Fonte Nova - Salvador - BA,Dewson Fernando Freitas da Silva
+97,10,Grêmio - RS,Goiás - GO,Quarta,19:30,Arena do Grêmio - Porto Alegre - RS,Luiz Flavio de Oliveira
+98,10,Criciuma - SC,Fluminense - RJ,Quarta,22:00,Heriberto Hulse - Criciuma - SC,Rodrigo Batista Raposo
+99,10,Chapecoense - SC,Atlético - MG,Quarta,21:00,Arena Condá - Chapeco - SC,Wilton Pereira Sampaio
+100,11,Botafogo - RJ,Coritiba - PR,Sábado,21:00,Raulino de Oliveira - Volta Redonda - RJ,Nielson Nogueira Dias
+101,11,Fluminense - RJ,Santos - SP,Domingo,18:30,Raulino de Oliveira - Volta Redonda - RJ,Leandro Pedro Vuaden
+102,11,São Paulo - SP,Chapecoense - SC,Sábado,18:30,Morumbi - Sao Paulo - SP,Felipe Gomes da Silva
+103,11,Palmeiras - SP,Cruzeiro - MG,Domingo,16:00,Pacaembu - Sao Paulo - SP,Wilton Pereira Sampaio
+104,11,Atletico - PR,Criciuma - SC,Domingo,18:30,Arena da Baixada - Curitiba - PR,Claudio Francisco Lima E Silva
+105,11,Atlético - MG,Bahia - BA,Sábado,18:30,Independência - Belo Horizonte - MG,Vinicius Furlan
+106,11,Vitória - BA,Corinthians - SP,Domingo,16:00,Manoel Barradas - Salvador - BA,Heber Roberto Lopes
+107,11,Internacional - RS,Flamengo - RJ,Domingo,16:00,Beira-Rio - Porto Alegre - RS,Sandro Meira Ricci
+108,11,Figueirense - SC,Grêmio - RS,Sábado,18:30,Orlando Scarpelli - Florianopolis - SC,Marcelo de Lima Henrique
+109,11,Goiás - GO,Sport - PE,Domingo,18:30,Serra Dourada - Goiania - GO,Pericles Bassols Pegado Cortez
+110,12,Flamengo - RJ,Botafogo - RJ,Domingo,18:30,Maracanã - Rio de Janeiro - RJ,Wilton Pereira Sampaio
+111,12,Sport - PE,Atlético - MG,Domingo,16:00,Ilha do Retiro - Recife - PE,Thiago Duarte Peixoto
+112,12,Corinthians - SP,Palmeiras - SP,Domingo,16:00,Arena Corinthians - Sao Paulo - SP,Sandro Meira Ricci
+113,12,Santos - SP,Chapecoense - SC,Sábado,18:30,Vila Belmiro - Santos - SP,Pericles Bassols Pegado Cortez
+114,12,Atletico - PR,Fluminense - RJ,Domingo,16:00,Arena da Baixada - Curitiba - PR,Luiz Flavio de Oliveira
+115,12,Cruzeiro - MG,Figueirense - SC,Sábado,18:30,Mineirão - Belo Horizonte - MG,Gilberto Rodrigues Castro Junior
+116,12,Bahia - BA,Internacional - RS,Sábado,21:00,Fonte Nova - Salvador - BA,Heber Roberto Lopes
+117,12,Grêmio - RS,Coritiba - PR,Domingo,18:30,Arena do Grêmio - Porto Alegre - RS,Ricardo Marques Ribeiro
+118,12,Criciuma - SC,Vitória - BA,Sábado,18:30,Heriberto Hulse - Criciuma - SC,Marcelo de Lima Henrique
+119,12,Goiás - GO,São Paulo - SP,Domingo,16:00,Serra Dourada - Goiania - GO,Leandro Pedro Vuaden
+120,13,Botafogo - RJ,Cruzeiro - MG,Sábado,18:30,Maracanã - Rio de Janeiro - RJ,Luiz Flavio de Oliveira
+121,13,Fluminense - RJ,Goiás - GO,Domingo,18:30,Maracanã - Rio de Janeiro - RJ,Heber Roberto Lopes
+122,13,São Paulo - SP,Criciuma - SC,Sábado,18:30,Morumbi - Sao Paulo - SP,Ricardo Marques Ribeiro
+123,13,Palmeiras - SP,Bahia - BA,Domingo,16:00,Pacaembu - Sao Paulo - SP,Marcelo de Lima Henrique
+124,13,Coritiba - PR,Corinthians - SP,Domingo,16:00,Couto Pereira - Curitiba - PR,Leandro Pedro Vuaden
+125,13,Atlético - MG,Atletico - PR,Domingo,18:30,Independência - Belo Horizonte - MG,Dewson Fernando Freitas da Silva
+126,13,Vitória - BA,Grêmio - RS,Sábado,21:00,Manoel Barradas - Salvador - BA,Sandro Meira Ricci
+127,13,Internacional - RS,Santos - SP,Domingo,18:30,Beira-Rio - Porto Alegre - RS,Wilton Pereira Sampaio
+128,13,Figueirense - SC,Sport - PE,Domingo,16:00,Orlando Scarpelli - Florianopolis - SC,Jailson Macedo Freitas
+129,13,Chapecoense - SC,Flamengo - RJ,Domingo,16:00,Arena Condá - Chapeco - SC,Raphael Claus
+130,14,Flamengo - RJ,Sport - PE,Domingo,16:00,Maracanã - Rio de Janeiro - RJ,Emerson de Almeida Ferreira
+131,14,Fluminense - RJ,Coritiba - PR,Sábado,21:00,Maracanã - Rio de Janeiro - RJ,Flavio Rodrigues Guerra
+132,14,São Paulo - SP,Vitória - BA,Domingo,18:30,Morumbi - Sao Paulo - SP,Andre Luiz de Freitas Castro
+133,14,Santos - SP,Corinthians - SP,Domingo,16:00,Vila Belmiro - Santos - SP,Raphael Claus
+134,14,Atletico - PR,Botafogo - RJ,Domingo,16:00,Arena da Baixada - Curitiba - PR,Jean Pierre Goncalves Lima
+135,14,Atlético - MG,Palmeiras - SP,Domingo,18:30,Independência - Belo Horizonte - MG,Wagner do Nascimento Magalhaes
+136,14,Bahia - BA,Goiás - GO,Sábado,18:30,Fonte Nova - Salvador - BA,Paulo H Godoy Bezerra
+137,14,Internacional - RS,Grêmio - RS,Domingo,16:00,Beira-Rio - Porto Alegre - RS,Anderson Daronco
+138,14,Criciuma - SC,Cruzeiro - MG,Sábado,18:30,Heriberto Hulse - Criciuma - SC,Jailson Macedo Freitas
+139,14,Chapecoense - SC,Figueirense - SC,Domingo,18:30,Arena Condá - Chapeco - SC,Igor Junio Benevenuto
+140,15,Botafogo - RJ,Fluminense - RJ,Domingo,18:30,Mané Garrincha - Brasilia - DF,Marcelo Aparecido R de Souza
+141,15,Sport - PE,Atletico - PR,Domingo,18:30,Ilha do Retiro - Recife - PE,Vinicius Furlan
+142,15,Corinthians - SP,Bahia - BA,Sábado,21:00,Arena Corinthians - Sao Paulo - SP,Anderson Daronco
+143,15,Palmeiras - SP,São Paulo - SP,Domingo,16:00,Pacaembu - Sao Paulo - SP,Pericles Bassols Pegado Cortez
+144,15,Coritiba - PR,Flamengo - RJ,Domingo,16:00,Couto Pereira - Curitiba - PR,Ricardo Marques Ribeiro
+145,15,Cruzeiro - MG,Santos - SP,Domingo,16:00,Mineirão - Belo Horizonte - MG,Leandro Pedro Vuaden
+146,15,Vitória - BA,Chapecoense - SC,Domingo,16:00,Manoel Barradas - Salvador - BA,Jean Pierre Goncalves Lima
+147,15,Grêmio - RS,Criciuma - SC,Domingo,16:00,Arena do Grêmio - Porto Alegre - RS,Wilton Pereira Sampaio
+148,15,Figueirense - SC,Atlético - MG,Domingo,18:30,Orlando Scarpelli - Florianopolis - SC,Felipe Gomes da Silva
+149,15,Goiás - GO,Internacional - RS,Sábado,18:30,Serra Dourada - Goiania - GO,Emerson de Almeida Ferreira
+150,16,Flamengo - RJ,Atlético - MG,Quarta,22:00,Maracanã - Rio de Janeiro - RJ,Sandro Meira Ricci
+151,16,Sport - PE,Palmeiras - SP,Quarta,19:30,Arena Pernambuco - Sao Lourenco da Mata - PE,Heber Roberto Lopes
+152,16,Corinthians - SP,Goiás - GO,Quinta,19:30,Arena Corinthians - Sao Paulo - SP,Marcelo de Lima Henrique
+153,16,Santos - SP,Atletico - PR,Quarta,19:30,Vila Belmiro - Santos - SP,Igor Junio Benevenuto
+154,16,Coritiba - PR,Vitória - BA,Quarta,21:00,Couto Pereira - Curitiba - PR,Dewson Fernando Freitas da Silva
+155,16,Cruzeiro - MG,Grêmio - RS,Quinta,20:30,Mineirão - Belo Horizonte - MG,Flavio Rodrigues Guerra
+156,16,Bahia - BA,Criciuma - SC,Quarta,21:00,Fonte Nova - Salvador - BA,Pablo dos Santos Alves
+157,16,Internacional - RS,São Paulo - SP,Quarta,22:00,Beira-Rio - Porto Alegre - RS,Grazianni Maciel Rocha
+158,16,Figueirense - SC,Botafogo - RJ,Quarta,19:30,Orlando Scarpelli - Florianopolis - SC,Fabricio Neves Correa
+159,16,Chapecoense - SC,Fluminense - RJ,Quarta,22:00,Arena Condá - Chapeco - SC,Francisco Carlos do Nascimento
+160,17,Botafogo - RJ,Chapecoense - SC,Sábado,18:30,Maracanã - Rio de Janeiro - RJ,Anderson Daronco
+161,17,Fluminense - RJ,Sport - PE,Domingo,16:00,Maracanã - Rio de Janeiro - RJ,Andre Luiz de Freitas Castro
+162,17,São Paulo - SP,Santos - SP,Domingo,16:00,Morumbi - Sao Paulo - SP,Vinicius Furlan
+163,17,Palmeiras - SP,Coritiba - PR,Sábado,21:00,Pacaembu - Sao Paulo - SP,Marcos Andre Gomes da Penha
+164,17,Atletico - PR,Bahia - BA,Domingo,18:30,Arena da Baixada - Curitiba - PR,Sandro Meira Ricci
+165,17,Atlético - MG,Internacional - RS,Sábado,18:30,Independência - Belo Horizonte - MG,Luiz Flavio de Oliveira
+166,17,Vitória - BA,Figueirense - SC,Domingo,16:00,Manoel Barradas - Salvador - BA,Marcelo de Lima Henrique
+167,17,Grêmio - RS,Corinthians - SP,Domingo,16:00,Arena do Grêmio - Porto Alegre - RS,Heber Roberto Lopes
+168,17,Criciuma - SC,Flamengo - RJ,Domingo,16:00,Heriberto Hulse - Criciuma - SC,Leandro Pedro Vuaden
+169,17,Goiás - GO,Cruzeiro - MG,Domingo,18:30,Serra Dourada - Goiania - GO,Francisco Carlos do Nascimento
+170,18,Botafogo - RJ,Santos - SP,Domingo,16:00,Maracanã - Rio de Janeiro - RJ,Rodrigo D Alonso Ferreira
+171,18,Sport - PE,Criciuma - SC,Domingo,16:00,Ilha do Retiro - Recife - PE,Luiz Flavio de Oliveira
+172,18,Corinthians - SP,Fluminense - RJ,Domingo,16:00,Arena Corinthians - Sao Paulo - SP,Paulo H Godoy Bezerra
+173,18,Palmeiras - SP,Internacional - RS,Sábado,18:30,Pacaembu - Sao Paulo - SP,Ricardo Marques Ribeiro
+174,18,Coritiba - PR,Atlético - MG,Domingo,16:00,Couto Pereira - Curitiba - PR,Marcelo de Lima Henrique
+175,18,Cruzeiro - MG,Chapecoense - SC,Sábado,18:30,Mineirão - Belo Horizonte - MG,Dewson Fernando Freitas da Silva
+176,18,Vitória - BA,Flamengo - RJ,Domingo,18:30,Manoel Barradas - Salvador - BA,Anderson Daronco
+177,18,Grêmio - RS,Bahia - BA,Domingo,18:30,Arena do Grêmio - Porto Alegre - RS,Pericles Bassols Pegado Cortez
+178,18,Figueirense - SC,São Paulo - SP,Domingo,16:00,Orlando Scarpelli - Florianopolis - SC,Wilton Pereira Sampaio
+179,18,Goiás - GO,Atletico - PR,Domingo,18:30,Serra Dourada - Goiania - GO,Wagner do Nascimento Magalhaes
+180,19,Flamengo - RJ,Grêmio - RS,Sábado,18:30,Maracanã - Rio de Janeiro - RJ,Andre Luiz de Freitas Castro
+181,19,Fluminense - RJ,Cruzeiro - MG,Domingo,16:00,Maracanã - Rio de Janeiro - RJ,Anderson Daronco
+182,19,São Paulo - SP,Sport - PE,Domingo,16:00,Morumbi - Sao Paulo - SP,Braulio da Silva Machado
+183,19,Santos - SP,Vitória - BA,Sábado,18:30,Pacaembu - Sao Paulo - SP,Felipe Gomes da Silva
+184,19,Atletico - PR,Palmeiras - SP,Domingo,18:30,Arena da Baixada - Curitiba - PR,Leandro Pedro Vuaden
+185,19,Atlético - MG,Botafogo - RJ,Domingo,16:00,Independência - Belo Horizonte - MG,Flavio Rodrigues Guerra
+186,19,Bahia - BA,Coritiba - PR,Domingo,18:30,Fonte Nova - Salvador - BA,Francisco Carlos do Nascimento
+187,19,Internacional - RS,Figueirense - SC,Domingo,18:30,Beira-Rio - Porto Alegre - RS,Marcelo Aparecido R de Souza
+188,19,Criciuma - SC,Corinthians - SP,Domingo,16:00,Heriberto Hulse - Criciuma - SC,Igor Junio Benevenuto
+189,19,Chapecoense - SC,Goiás - GO,Sábado,21:00,Arena Condá - Chapeco - SC,Paulo H Schleich Vollkopf
+190,20,Botafogo - RJ,São Paulo - SP,Quarta,22:00,Mané Garrincha - Brasilia - DF,Marielson Alves Silva
+191,20,Sport - PE,Santos - SP,Quarta,21:00,Arena Pernambuco - Sao Lourenco da Mata - PE,Grazianni Maciel Rocha
+192,20,Corinthians - SP,Atlético - MG,Quinta,19:30,Arena Corinthians - Sao Paulo - SP,Dewson Fernando Freitas da Silva
+193,20,Palmeiras - SP,Criciuma - SC,Quarta,19:30,Pacaembu - Sao Paulo - SP,Cleisson Veloso Pereira
+194,20,Coritiba - PR,Chapecoense - SC,Quarta,21:00,Couto Pereira - Curitiba - PR,Devarly Lira do Rosario
+195,20,Cruzeiro - MG,Bahia - BA,Quinta,20:30,Mineirão - Belo Horizonte - MG,Marcos Mateus Pereira
+196,20,Vitória - BA,Internacional - RS,Quarta,22:00,Manoel Barradas - Salvador - BA,Pericles Bassols Pegado Cortez
+197,20,Grêmio - RS,Atletico - PR,Quarta,19:30,Arena do Grêmio - Porto Alegre - RS,Marcelo de Lima Henrique
+198,20,Figueirense - SC,Fluminense - RJ,Quarta,19:30,Orlando Scarpelli - Florianopolis - SC,Luiz Flavio de Oliveira
+199,20,Goiás - GO,Flamengo - RJ,Quarta,22:00,Arena Pantanal - Cuiaba - MT,Ricardo Marques Ribeiro
+200,21,Flamengo - RJ,Corinthians - SP,Domingo,16:00,Maracanã - Rio de Janeiro - RJ,Sandro Meira Ricci
+201,21,Fluminense - RJ,Palmeiras - SP,Sábado,18:30,Maracanã - Rio de Janeiro - RJ,Elmo Alves Resende Cunha
+202,21,São Paulo - SP,Cruzeiro - MG,Domingo,16:00,Morumbi - Sao Paulo - SP,Leandro Pedro Vuaden
+203,21,Santos - SP,Coritiba - PR,Sábado,21:00,Vila Belmiro - Santos - SP,Marcelo de Lima Henrique
+204,21,Atletico - PR,Vitória - BA,Domingo,18:30,Arena da Baixada - Curitiba - PR,Pablo dos Santos Alves
+205,21,Atlético - MG,Grêmio - RS,Domingo,18:30,Independência - Belo Horizonte - MG,Jailson Macedo Freitas
+206,21,Bahia - BA,Figueirense - SC,Domingo,16:00,Jóia da Princesa - Feira de Santana - BA,Gilberto Rodrigues Castro Junior
+207,21,Internacional - RS,Botafogo - RJ,Domingo,16:00,Beira-Rio - Porto Alegre - RS,Andre Luiz de Freitas Castro
+208,21,Criciuma - SC,Goiás - GO,Domingo,18:30,Heriberto Hulse - Criciuma - SC,Alinor Silva da Paixao
+209,21,Chapecoense - SC,Sport - PE,Sábado,18:30,Arena Condá - Chapeco - SC,Rodrigo Batista Raposo
+210,22,Botafogo - RJ,Bahia - BA,Quarta,22:00,Maracanã - Rio de Janeiro - RJ,Igor Junio Benevenuto
+211,22,Sport - PE,Internacional - RS,Quarta,21:00,Arena Pernambuco - Sao Lourenco da Mata - PE,Felipe Gomes da Silva
+212,22,Corinthians - SP,Chapecoense - SC,Quinta,19:30,Arena Corinthians - Sao Paulo - SP,Felipe Duarte Varejao
+213,22,Palmeiras - SP,Flamengo - RJ,Quarta,22:00,Pacaembu - Sao Paulo - SP,Anderson Daronco
+214,22,Coritiba - PR,São Paulo - SP,Quarta,22:00,Couto Pereira - Curitiba - PR,Dewson Fernando Freitas da Silva
+215,22,Cruzeiro - MG,Atletico - PR,Quarta,19:30,Mineirão - Belo Horizonte - MG,Marcelo Aparecido R de Souza
+216,22,Vitória - BA,Fluminense - RJ,Quarta,19:30,Manoel Barradas - Salvador - BA,Thiago Duarte Peixoto
+217,22,Grêmio - RS,Santos - SP,Quinta,20:30,Arena do Grêmio - Porto Alegre - RS,Ricardo Marques Ribeiro
+218,22,Figueirense - SC,Criciuma - SC,Quarta,21:00,Orlando Scarpelli - Florianopolis - SC,Paulo H Godoy Bezerra
+219,22,Goiás - GO,Atlético - MG,Quinta,19:30,Serra Dourada - Goiania - GO,Luiz Flavio de Oliveira
+220,23,Flamengo - RJ,Fluminense - RJ,Domingo,16:00,Maracanã - Rio de Janeiro - RJ,Dewson Fernando Freitas da Silva
+221,23,Sport - PE,Coritiba - PR,Domingo,16:00,Ilha do Retiro - Recife - PE,Leandro Pedro Vuaden
+222,23,Corinthians - SP,São Paulo - SP,Domingo,16:00,Arena Corinthians - Sao Paulo - SP,Luiz Flavio de Oliveira
+223,23,Santos - SP,Figueirense - SC,Domingo,18:30,Vila Belmiro - Santos - SP,Elmo Alves Resende Cunha
+224,23,Atletico - PR,Internacional - RS,Sábado,18:30,Arena da Baixada - Curitiba - PR,Flavio Rodrigues de Souza
+225,23,Cruzeiro - MG,Atlético - MG,Domingo,16:00,Mineirão - Belo Horizonte - MG,Marcelo de Lima Henrique
+226,23,Vitória - BA,Bahia - BA,Domingo,16:00,Fonte Nova - Salvador - BA,Ricardo Marques Ribeiro
+227,23,Grêmio - RS,Chapecoense - SC,Domingo,18:30,Arena do Grêmio - Porto Alegre - RS,Andre Luiz de Freitas Castro
+228,23,Criciuma - SC,Botafogo - RJ,Sábado,21:00,Heriberto Hulse - Criciuma - SC,Wilton Pereira Sampaio
+229,23,Goiás - GO,Palmeiras - SP,Domingo,18:30,Serra Dourada - Goiania - GO,Igor Junio Benevenuto
+230,24,Botafogo - RJ,Goiás - GO,Quinta,19:30,Maracanã - Rio de Janeiro - RJ,Leandro Pedro Vuaden
+231,24,Fluminense - RJ,Grêmio - RS,Quarta,22:00,Maracanã - Rio de Janeiro - RJ,Heber Roberto Lopes
+232,24,São Paulo - SP,Flamengo - RJ,Quarta,22:00,Morumbi - Sao Paulo - SP,Andre Luiz de Freitas Castro
+233,24,Palmeiras - SP,Vitória - BA,Quinta,19:30,Pacaembu - Sao Paulo - SP,Wilton Pereira Sampaio
+234,24,Coritiba - PR,Cruzeiro - MG,Quarta,19:30,Couto Pereira - Curitiba - PR,Vinicius Furlan
+235,24,Atlético - MG,Santos - SP,Quinta,20:30,Independência - Belo Horizonte - MG,Rodrigo D Alonso Ferreira
+236,24,Bahia - BA,Sport - PE,Quarta,21:00,Fonte Nova - Salvador - BA,Flavio Rodrigues Guerra
+237,24,Internacional - RS,Criciuma - SC,Quarta,19:30,Beira-Rio - Porto Alegre - RS,Marcelo de Lima Henrique
+238,24,Figueirense - SC,Corinthians - SP,Quarta,22:00,Orlando Scarpelli - Florianopolis - SC,Ricardo Marques Ribeiro
+239,24,Chapecoense - SC,Atletico - PR,Quarta,21:00,Arena Condá - Chapeco - SC,Charles Hebert Cavalcante Ferreira
+240,25,Botafogo - RJ,Grêmio - RS,Domingo,16:00,Maracanã - Rio de Janeiro - RJ,Elmo Alves Resende Cunha
+241,25,Sport - PE,Cruzeiro - MG,Sábado,18:30,Arena Pernambuco - Sao Lourenco da Mata - PE,Marielson Alves Silva
+242,25,São Paulo - SP,Fluminense - RJ,Sábado,21:00,Morumbi - Sao Paulo - SP,Ricardo Marques Ribeiro
+243,25,Santos - SP,Goiás - GO,Domingo,18:30,Pacaembu - Sao Paulo - SP,Heber Roberto Lopes
+244,25,Atletico - PR,Corinthians - SP,Domingo,16:00,Arena da Baixada - Curitiba - PR,Marcelo de Lima Henrique
+245,25,Atlético - MG,Vitória - BA,Domingo,16:00,Independência - Belo Horizonte - MG,Marcelo Aparecido R de Souza
+246,25,Bahia - BA,Flamengo - RJ,Domingo,16:00,Fonte Nova - Salvador - BA,Leandro Pedro Vuaden
+247,25,Internacional - RS,Coritiba - PR,Domingo,18:30,Beira-Rio - Porto Alegre - RS,Luiz Flavio de Oliveira
+248,25,Figueirense - SC,Palmeiras - SP,Domingo,18:30,Orlando Scarpelli - Florianopolis - SC,Dewson Fernando Freitas da Silva
+249,25,Chapecoense - SC,Criciuma - SC,Sábado,18:30,Arena Condá - Chapeco - SC,Braulio da Silva Machado
+250,26,Flamengo - RJ,Santos - SP,Sábado,16:20,Maracanã - Rio de Janeiro - RJ,Marielson Alves Silva
+251,26,Fluminense - RJ,Bahia - BA,Sábado,16:20,Mané Garrincha - Brasilia - DF,Anderson Daronco
+252,26,Corinthians - SP,Sport - PE,Sábado,18:30,Arena Corinthians - Sao Paulo - SP,Braulio da Silva Machado
+253,26,Palmeiras - SP,Chapecoense - SC,Quinta,19:30,Pacaembu - Sao Paulo - SP,Leandro Pedro Vuaden
+254,26,Coritiba - PR,Atletico - PR,Sábado,16:20,Couto Pereira - Curitiba - PR,Ricardo Marques Ribeiro
+255,26,Cruzeiro - MG,Internacional - RS,Sábado,18:30,Mineirão - Belo Horizonte - MG,Marcelo de Lima Henrique
+256,26,Vitória - BA,Botafogo - RJ,Sábado,16:20,Manoel Barradas - Salvador - BA,Sandro Meira Ricci
+257,26,Grêmio - RS,São Paulo - SP,Sábado,16:20,Arena do Grêmio - Porto Alegre - RS,Felipe Gomes da Silva
+258,26,Criciuma - SC,Atlético - MG,Sábado,18:30,Heriberto Hulse - Criciuma - SC,Francisco Carlos do Nascimento
+259,26,Goiás - GO,Figueirense - SC,Sábado,21:00,Serra Dourada - Goiania - GO,Marcelo Aparecido R de Souza
+260,27,Botafogo - RJ,Palmeiras - SP,Quarta,19:30,Maracanã - Rio de Janeiro - RJ,Fabricio Neves Correa
+261,27,Fluminense - RJ,Atlético - MG,Quinta,19:30,Maracanã - Rio de Janeiro - RJ,Heber Roberto Lopes
+262,27,São Paulo - SP,Atletico - PR,Quarta,19:30,Morumbi - Sao Paulo - SP,Jailson Macedo Freitas
+263,27,Santos - SP,Bahia - BA,Quinta,19:30,Vila Belmiro - Santos - SP,Jean Pierre Goncalves Lima
+264,27,Coritiba - PR,Criciuma - SC,Quarta,19:30,Couto Pereira - Curitiba - PR,Sandro Meira Ricci
+265,27,Cruzeiro - MG,Corinthians - SP,Quarta,22:00,Mineirão - Belo Horizonte - MG,Leandro Pedro Vuaden
+266,27,Vitória - BA,Goiás - GO,Quarta,21:00,Manoel Barradas - Salvador - BA,Pericles Bassols Pegado Cortez
+267,27,Grêmio - RS,Sport - PE,Quarta,22:00,Arena do Grêmio - Porto Alegre - RS,Marcelo de Lima Henrique
+268,27,Figueirense - SC,Flamengo - RJ,Quarta,22:00,Orlando Scarpelli - Florianopolis - SC,Flavio Rodrigues Guerra
+269,27,Chapecoense - SC,Internacional - RS,Quinta,20:30,Arena Condá - Chapeco - SC,Ricardo Marques Ribeiro
+270,28,Flamengo - RJ,Cruzeiro - MG,Domingo,16:00,Maracanã - Rio de Janeiro - RJ,Francisco Carlos do Nascimento
+271,28,Sport - PE,Vitória - BA,Domingo,18:30,Ilha do Retiro - Recife - PE,Leandro Pedro Vuaden
+272,28,Corinthians - SP,Botafogo - RJ,Domingo,16:00,Arena Corinthians - Sao Paulo - SP,Leandro Pedro Vuaden
+273,28,Palmeiras - SP,Grêmio - RS,Sábado,21:00,Pacaembu - Sao Paulo - SP,Sandro Meira Ricci
+274,28,Atletico - PR,Figueirense - SC,Domingo,18:30,Arena da Baixada - Curitiba - PR,Marcelo de Lima Henrique
+275,28,Atlético - MG,São Paulo - SP,Domingo,16:00,Independência - Belo Horizonte - MG,Marielson Alves Silva
+276,28,Bahia - BA,Chapecoense - SC,Domingo,16:00,Fonte Nova - Salvador - BA,Flavio Rodrigues de Souza
+277,28,Internacional - RS,Fluminense - RJ,Domingo,16:00,Beira-Rio - Porto Alegre - RS,Raphael Claus
+278,28,Criciuma - SC,Santos - SP,Domingo,18:30,Heriberto Hulse - Criciuma - SC,Pericles Bassols Pegado Cortez
+279,28,Goiás - GO,Coritiba - PR,Sábado,18:30,Serra Dourada - Goiania - GO,Flavio Rodrigues Guerra
+280,29,Botafogo - RJ,Sport - PE,Domingo,18:30,Raulino de Oliveira - Volta Redonda - RJ,Ricardo Marques Ribeiro
+281,29,Fluminense - RJ,Criciuma - SC,Sábado,18:30,Maracanã - Rio de Janeiro - RJ,Marcelo Aparecido R de Souza
+282,29,São Paulo - SP,Bahia - BA,Sábado,18:30,Morumbi - Sao Paulo - SP,Marcelo de Lima Henrique
+283,29,Palmeiras - SP,Santos - SP,Domingo,16:00,Pacaembu - Sao Paulo - SP,Flavio Rodrigues de Souza
+284,29,Atletico - PR,Flamengo - RJ,Domingo,16:00,Arena da Baixada - Curitiba - PR,Jean Pierre Goncalves Lima
+285,29,Atlético - MG,Chapecoense - SC,Sábado,21:00,Independência - Belo Horizonte - MG,Francisco Carlos do Nascimento
+286,29,Vitória - BA,Cruzeiro - MG,Domingo,18:30,Manoel Barradas - Salvador - BA,Raphael Claus
+287,29,Internacional - RS,Corinthians - SP,Domingo,16:00,Beira-Rio - Porto Alegre - RS,Dewson Fernando Freitas da Silva
+288,29,Figueirense - SC,Coritiba - PR,Domingo,16:00,Orlando Scarpelli - Florianopolis - SC,Pericles Bassols Pegado Cortez
+289,29,Goiás - GO,Grêmio - RS,Sábado,18:30,Serra Dourada - Goiania - GO,Marielson Alves Silva
+290,30,Flamengo - RJ,Internacional - RS,Quarta,19:30,Maracanã - Rio de Janeiro - RJ,Thiago Duarte Peixoto
+291,30,Sport - PE,Goiás - GO,Quarta,22:30,Ilha do Retiro - Recife - PE,Marcelo de Lima Henrique
+292,30,Corinthians - SP,Vitória - BA,Quarta,19:30,Arena Pantanal - Cuiaba - MT,Alinor Silva da Paixao
+293,30,Santos - SP,Fluminense - RJ,Quarta,22:00,Vila Belmiro - Santos - SP,Francisco Carlos do Nascimento
+294,30,Coritiba - PR,Botafogo - RJ,Quarta,21:00,Couto Pereira - Curitiba - PR,Anderson Daronco
+295,30,Cruzeiro - MG,Palmeiras - SP,Quarta,19:30,Mineirão - Belo Horizonte - MG,Pericles Bassols Pegado Cortez
+296,30,Bahia - BA,Atlético - MG,Terça,21:50,Fonte Nova - Salvador - BA,Elmo Alves Resende Cunha
+297,30,Grêmio - RS,Figueirense - SC,Quarta,21:00,Arena do Grêmio - Porto Alegre - RS,Vinicius Furlan
+298,30,Criciuma - SC,Atletico - PR,Quarta,19:30,Heriberto Hulse - Criciuma - SC,Ricardo Marques Ribeiro
+299,30,Chapecoense - SC,São Paulo - SP,Quarta,22:00,Arena Condá - Chapeco - SC,Wagner do Nascimento Magalhaes
+300,31,Botafogo - RJ,Flamengo - RJ,Sábado,21:00,Arena da Amazônia - Manaus - AM,Ricardo Marques Ribeiro
+301,31,Fluminense - RJ,Atletico - PR,Sábado,16:20,Maracanã - Rio de Janeiro - RJ,Marielson Alves Silva
+302,31,São Paulo - SP,Goiás - GO,Segunda,20:30,Morumbi - Sao Paulo - SP,Braulio da Silva Machado
+303,31,Palmeiras - SP,Corinthians - SP,Sábado,16:20,Pacaembu - Sao Paulo - SP,Flavio Rodrigues Guerra
+304,31,Coritiba - PR,Grêmio - RS,Sábado,18:30,Couto Pereira - Curitiba - PR,Dewson Fernando Freitas da Silva
+305,31,Atlético - MG,Sport - PE,Sábado,18:30,Independência - Belo Horizonte - MG,Felipe Gomes da Silva
+306,31,Vitória - BA,Criciuma - SC,Sábado,18:30,Manoel Barradas - Salvador - BA,Leandro Pedro Vuaden
+307,31,Internacional - RS,Bahia - BA,Sábado,21:00,Beira-Rio - Porto Alegre - RS,Marcos Andre Gomes da Penha
+308,31,Figueirense - SC,Cruzeiro - MG,Sábado,16:20,Orlando Scarpelli - Florianopolis - SC,Pablo dos Santos Alves
+309,31,Chapecoense - SC,Santos - SP,Sábado,18:30,Arena Condá - Chapeco - SC,Anderson Daronco
+310,32,Flamengo - RJ,Chapecoense - SC,Domingo,19:30,Maracanã - Rio de Janeiro - RJ,Wilton Pereira Sampaio
+311,32,Sport - PE,Figueirense - SC,Domingo,17:00,Ilha do Retiro - Recife - PE,Alinor Silva da Paixao
+312,32,Corinthians - SP,Coritiba - PR,Sábado,21:00,Arena Corinthians - Sao Paulo - SP,Jean Pierre Goncalves Lima
+313,32,Santos - SP,Internacional - RS,Domingo,17:00,Vila Belmiro - Santos - SP,Jailson Macedo Freitas
+314,32,Atletico - PR,Atlético - MG,Domingo,19:30,Arena da Baixada - Curitiba - PR,Pericles Bassols Pegado Cortez
+315,32,Cruzeiro - MG,Botafogo - RJ,Domingo,17:00,Mineirão - Belo Horizonte - MG,Elmo Alves Resende Cunha
+316,32,Bahia - BA,Palmeiras - SP,Domingo,20:00,Fonte Nova - Salvador - BA,Leandro Pedro Vuaden
+317,32,Grêmio - RS,Vitória - BA,Sábado,19:30,Arena do Grêmio - Porto Alegre - RS,Thiago Duarte Peixoto
+318,32,Criciuma - SC,São Paulo - SP,Domingo,17:00,Heriberto Hulse - Criciuma - SC,Dewson Fernando Freitas da Silva
+319,32,Goiás - GO,Fluminense - RJ,Sábado,19:30,Serra Dourada - Goiania - GO,Ricardo Marques Ribeiro
+320,33,Botafogo - RJ,Atletico - PR,Sábado,21:00,Raulino de Oliveira - Volta Redonda - RJ,Ricardo Marques Ribeiro
+321,33,Sport - PE,Flamengo - RJ,Domingo,17:00,Arena Pernambuco - Sao Lourenco da Mata - PE,Elmo Alves Resende Cunha
+322,33,Corinthians - SP,Santos - SP,Domingo,19:30,Arena Corinthians - Sao Paulo - SP,Vinicius Furlan
+323,33,Palmeiras - SP,Atlético - MG,Sábado,19:30,Pacaembu - Sao Paulo - SP,Emerson Luiz Sobral
+324,33,Coritiba - PR,Fluminense - RJ,Sábado,19:30,Couto Pereira - Curitiba - PR,Thiago Duarte Peixoto
+325,33,Cruzeiro - MG,Criciuma - SC,Domingo,19:30,Mineirão - Belo Horizonte - MG,Marcos Andre Gomes da Penha
+326,33,Vitória - BA,São Paulo - SP,Domingo,17:00,Manoel Barradas - Salvador - BA,Wilton Pereira Sampaio
+327,33,Grêmio - RS,Internacional - RS,Domingo,17:00,Arena do Grêmio - Porto Alegre - RS,Luiz Flavio de Oliveira
+328,33,Figueirense - SC,Chapecoense - SC,Domingo,17:00,Orlando Scarpelli - Florianopolis - SC,Heber Roberto Lopes
+329,33,Goiás - GO,Bahia - BA,Domingo,19:30,Serra Dourada - Goiania - GO,Raphael Claus
+330,34,Flamengo - RJ,Coritiba - PR,Domingo,17:00,Maracanã - Rio de Janeiro - RJ,Leandro Pedro Vuaden
+331,34,Fluminense - RJ,Botafogo - RJ,Sábado,19:30,Maracanã - Rio de Janeiro - RJ,Pericles Bassols Pegado Cortez
+332,34,São Paulo - SP,Palmeiras - SP,Domingo,19:30,Morumbi - Sao Paulo - SP,Marcelo Aparecido R de Souza
+333,34,Santos - SP,Cruzeiro - MG,Domingo,17:00,Vila Belmiro - Santos - SP,Alinor Silva da Paixao
+334,34,Atletico - PR,Sport - PE,Domingo,17:00,Arena da Baixada - Curitiba - PR,Guilherme Ceretta de Lima
+335,34,Atlético - MG,Figueirense - SC,Domingo,19:30,Independência - Belo Horizonte - MG,Thiago Duarte Peixoto
+336,34,Bahia - BA,Corinthians - SP,Domingo,17:00,Fonte Nova - Salvador - BA,Elmo Alves Resende Cunha
+337,34,Internacional - RS,Goiás - GO,Domingo,17:00,Beira-Rio - Porto Alegre - RS,Marielson Alves Silva
+338,34,Criciuma - SC,Grêmio - RS,Sábado,19:30,Heriberto Hulse - Criciuma - SC,Raphael Claus
+339,34,Chapecoense - SC,Vitória - BA,Domingo,19:30,Arena Condá - Chapeco - SC,Luiz Flavio de Oliveira
+340,35,Botafogo - RJ,Figueirense - SC,Quarta,19:30,São Januário - Rio de Janeiro - RJ,Anderson Daronco
+341,35,Fluminense - RJ,Chapecoense - SC,Quinta,19:30,Maracanã - Rio de Janeiro - RJ,Elmo Alves Resende Cunha
+342,35,São Paulo - SP,Internacional - RS,Quarta,22:00,Morumbi - Sao Paulo - SP,Heber Roberto Lopes
+343,35,Palmeiras - SP,Sport - PE,Quarta,22:00,Allianz Parque - Sao Paulo - SP,Dewson Fernando Freitas da Silva
+344,35,Atletico - PR,Santos - SP,Quarta,19:30,Arena da Baixada - Curitiba - PR,Arnoldo Vasconcelos Figarela
+345,35,Atlético - MG,Flamengo - RJ,Quarta,22:00,Independência - Belo Horizonte - MG,Flavio Rodrigues de Souza
+346,35,Vitória - BA,Coritiba - PR,Quarta,21:00,Manoel Barradas - Salvador - BA,Ricardo Marques Ribeiro
+347,35,Grêmio - RS,Cruzeiro - MG,Quinta,21:50,Arena do Grêmio - Porto Alegre - RS,Vinicius Furlan
+348,35,Criciuma - SC,Bahia - BA,Quarta,21:00,Heriberto Hulse - Criciuma - SC,Luiz Flavio de Oliveira
+349,35,Goiás - GO,Corinthians - SP,Quarta,21:00,Olímpico do Pará - Belem - PA,Leandro Pedro Vuaden
+350,36,Flamengo - RJ,Criciuma - SC,Domingo,17:00,Castelão/MA - Sao Luis - MA,Francisco Carlos do Nascimento
+351,36,Sport - PE,Fluminense - RJ,Domingo,17:00,Arena Pernambuco - Sao Lourenco da Mata - PE,Anderson Daronco
+352,36,Corinthians - SP,Grêmio - RS,Domingo,19:30,Arena Corinthians - Sao Paulo - SP,Ricardo Marques Ribeiro
+353,36,Santos - SP,São Paulo - SP,Domingo,17:00,Arena Pantanal - Cuiaba - MT,Flavio Rodrigues Guerra
+354,36,Coritiba - PR,Palmeiras - SP,Domingo,19:30,Couto Pereira - Curitiba - PR,Elmo Alves Resende Cunha
+355,36,Cruzeiro - MG,Goiás - GO,Domingo,17:00,Mineirão - Belo Horizonte - MG,Paulo H Godoy Bezerra
+356,36,Bahia - BA,Atletico - PR,Sábado,21:00,Fonte Nova - Salvador - BA,Andre Luiz de Freitas Castro
+357,36,Internacional - RS,Atlético - MG,Sábado,19:30,Beira-Rio - Porto Alegre - RS,Pericles Bassols Pegado Cortez
+358,36,Figueirense - SC,Vitória - BA,Domingo,17:00,Orlando Scarpelli - Florianopolis - SC,Dewson Fernando Freitas da Silva
+359,36,Chapecoense - SC,Botafogo - RJ,Domingo,19:30,Arena Condá - Chapeco - SC,Leandro Pedro Vuaden
+360,37,Flamengo - RJ,Vitória - BA,Sábado,21:00,Arena da Amazônia - Manaus - AM,Elmo Alves Resende Cunha
+361,37,Fluminense - RJ,Corinthians - SP,Domingo,17:00,Maracanã - Rio de Janeiro - RJ,Wilton Pereira Sampaio
+362,37,São Paulo - SP,Figueirense - SC,Domingo,17:00,Morumbi - Sao Paulo - SP,Antonio Denival de Morais
+363,37,Santos - SP,Botafogo - RJ,Domingo,17:00,Vila Belmiro - Santos - SP,Paulo H Godoy Bezerra
+364,37,Atletico - PR,Goiás - GO,Domingo,19:30,Arena da Baixada - Curitiba - PR,Thiago Duarte Peixoto
+365,37,Atlético - MG,Coritiba - PR,Domingo,19:30,Independência - Belo Horizonte - MG,Pablo dos Santos Alves
+366,37,Bahia - BA,Grêmio - RS,Domingo,19:30,Fonte Nova - Salvador - BA,Dewson Fernando Freitas da Silva
+367,37,Internacional - RS,Palmeiras - SP,Sábado,19:30,Beira-Rio - Porto Alegre - RS,Ricardo Marques Ribeiro
+368,37,Criciuma - SC,Sport - PE,Sábado,19:30,Heriberto Hulse - Criciuma - SC,Wagner Reway
+369,37,Chapecoense - SC,Cruzeiro - MG,Domingo,17:00,Arena Condá - Chapeco - SC,Grazianni Maciel Rocha
+370,38,Botafogo - RJ,Atlético - MG,Domingo,17:00,Mané Garrincha - Brasilia - DF,Manoel Nunes Lopo Garrido
+371,38,Sport - PE,São Paulo - SP,Domingo,17:00,Arena Pernambuco - Sao Lourenco da Mata - PE,Wagner Reway
+372,38,Corinthians - SP,Criciuma - SC,Sábado,16:30,Arena Corinthians - Sao Paulo - SP,Dewson Fernando Freitas da Silva
+373,38,Palmeiras - SP,Atletico - PR,Domingo,17:00,Allianz Parque - Sao Paulo - SP,Leandro Pedro Vuaden
+374,38,Coritiba - PR,Bahia - BA,Domingo,17:00,Couto Pereira - Curitiba - PR,Marcelo de Lima Henrique
+375,38,Cruzeiro - MG,Fluminense - RJ,Domingo,17:00,Mineirão - Belo Horizonte - MG,Raphael Claus
+376,38,Vitória - BA,Santos - SP,Domingo,17:00,Manoel Barradas - Salvador - BA,Anderson Daronco
+377,38,Grêmio - RS,Flamengo - RJ,Domingo,17:00,Arena do Grêmio - Porto Alegre - RS,Luiz Flavio de Oliveira
+378,38,Figueirense - SC,Internacional - RS,Sábado,16:30,Orlando Scarpelli - Florianopolis - SC,Marielson Alves Silva
+379,38,Goiás - GO,Chapecoense - SC,Domingo,17:00,Serra Dourada - Goiania - GO,Flavio Feijo de Omena

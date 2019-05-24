@@ -1,32 +1,32 @@
-team_id	team_name
-217	Paraná
-262	Flamengo
-263	Botafogo
-264	Corinthians
-265	Bahia
-266	Fluminense
-267	Vasco
-275	Palmeiras
-276	São Paulo
-277	Santos
-282	Atlético-MG
-283	Cruzeiro
-284	Grêmio
-285	Internacional
-287	Vitória
-288	Criciúma
-290	Goiás
-292	Sport
-293	Atlético-PR
-294	Coritiba
-303	Ponte Preta
-314	Avaí
-315	Chapecoense
-316	Figueirense
-317	Joinville
-327	América-MG
-341	CSA
-344	Santa Cruz
-356	Fortaleza
-373	Atlético-GO
-204/354	Ceará
+team_id	team_name_1	team_name_2
+217	Paraná	Paraná Clube
+262	Flamengo	Clube de Regatas do Flamengo
+263	Botafogo	Botafogo de Futebol e Regatas
+264	Corinthians	Sport Club Corinthians Paulista
+265	Bahia	Esporte Clube Bahia
+266	Fluminense	Fluminense Football Club
+267	Vasco	Club de Regatas Vasco da Gama
+275	Palmeiras	Sociedade Esportiva Palmeiras
+276	São Paulo	São Paulo Futebol Clube
+277	Santos	Santos FC
+282	Atlético-MG	Clube Atlético Mineiro
+283	Cruzeiro	Cruzeiro Esporte Clube
+284	Grêmio	Grêmio Foot-Ball Porto Alegrense
+285	Internacional	Sport Club Internacional
+287	Vitória	Esporte Clube Vitória
+288	Criciúma	Criciúma Esporte Clube
+290	Goiás	Goiás Esporte Clube
+292	Sport	Sport Club do Recife
+293	Atlético-PR	Club Athletico Paranaense
+294	Coritiba	Coritiba Foot Ball Club
+303	Ponte Preta	Associação Atlética Ponte Preta SP
+314	Avaí	Avaí Futebol Clube (SC)
+315	Chapecoense	Associação Chapecoense de Futebol
+316	Figueirense	Figueirense Futebol Clube
+317	Joinville	Joinville EC (SC)
+327	América-MG	América Futebol Clube (MG)
+341	CSA	Centro Sportivo Alagoano (AL)
+344	Santa Cruz	Santa Cruz Futebol Clube (PE)
+356	Fortaleza	Fortaleza Esporte Clube
+373	Atlético-GO	AC Goianiense (GO)
+204/354	Ceará	Ceará Sporting Club
