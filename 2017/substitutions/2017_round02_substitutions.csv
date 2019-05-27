@@ -1,0 +1,119 @@
+match_num,player_name_2,player_team,player_status
+11,Rodrigo,Botafogo - RJ,out
+11,Airton,Botafogo - RJ,in
+11,Roger,Botafogo - RJ,out
+11,Guilherme Augusto,Botafogo - RJ,in
+11,Camilo,Botafogo - RJ,out
+11,Gilson,Botafogo - RJ,in
+11,Fernando,Ponte Preta - SP,out
+11,Wendel,Ponte Preta - SP,in
+11,Lins,Ponte Preta - SP,out
+11,Xuxa,Ponte Preta - SP,in
+11,Jadson,Ponte Preta - SP,out
+11,Yuri,Ponte Preta - SP,in
+12,Jean,Vasco da Gama - RJ,out
+12,Bruno,Vasco da Gama - RJ,in
+12,Rafael Marques,Vasco da Gama - RJ,out
+12,Breno,Vasco da Gama - RJ,in
+12,Yago,Vasco da Gama - RJ,out
+12,Wagner,Vasco da Gama - RJ,in
+12,Matheus Sales,Bahia - BA,out
+12,Edigar Junio,Bahia - BA,in
+12,Diego Rosa,Bahia - BA,out
+12,Ze Rafael,Bahia - BA,in
+12,Maikon,Bahia - BA,out
+12,Allione,Bahia - BA,in
+13,Matheus,Santos - SP,out
+13,Copete,Santos - SP,in
+13,Lucas Lima,Santos - SP,out
+13,Rafael Longuine,Santos - SP,in
+13,Vladimir Hernandez,Santos - SP,out
+13,Sousa,Santos - SP,in
+13,H. Almeida,Coritiba - PR,out
+13,Alecsandro,Coritiba - PR,in
+13,Neto Berola,Coritiba - PR,out
+13,Getterson,Coritiba - PR,in
+13,W. Maia,Coritiba - PR,out
+13,Marcio,Coritiba - PR,in
+14,Marcinho,São Paulo - SP,out
+14,Luiz,São Paulo - SP,in
+14,Thiago Mendes,São Paulo - SP,out
+14,Antonio,São Paulo - SP,in
+14,Cueva,São Paulo - SP,out
+14,João Schmidt,São Paulo - SP,in
+14,Diego,Avaí - SC,out
+14,Lourenço,Avaí - SC,in
+14,Marquinhos,Avaí - SC,out
+14,Iury,Avaí - SC,in
+14,Judson,Avaí - SC,out
+14,Simião,Avaí - SC,in
+15,Rafael Carioca,Atlético - MG,out
+15,Maicosuel,Atlético - MG,in
+15,Otero,Atlético - MG,out
+15,Rafael Moura,Atlético - MG,in
+15,Lucas,Fluminense - RJ,out
+15,Renato,Fluminense - RJ,in
+15,Richarlison,Fluminense - RJ,out
+15,Marcos Jr,Fluminense - RJ,in
+15,Gustavo Scarpa,Fluminense - RJ,out
+15,Douglas,Fluminense - RJ,in
+16,Eduardo da Silva,Atlético - PR,out
+16,Grafite,Atlético - PR,in
+16,Carlos Alberto,Atlético - PR,out
+16,Guilherme,Atlético - PR,in
+16,Pablo,Atlético - PR,out
+16,Douglas,Atlético - PR,in
+16,Arthur,Grêmio - RS,out
+16,R. Thyere,Grêmio - RS,in
+16,Lucas Barrios,Grêmio - RS,out
+16,Leo,Grêmio - RS,in
+16,Pedro Rocha,Grêmio - RS,out
+16,Jailson,Grêmio - RS,in
+17,Neto,Sport - PE,out
+17,Juninho,Sport - PE,in
+17,Samuel,Sport - PE,out
+17,Evandro,Sport - PE,in
+17,Ronaldo,Sport - PE,out
+17,Fabricio,Sport - PE,in
+17,Rafinha,Cruzeiro - MG,out
+17,Rafael Marques,Cruzeiro - MG,in
+17,Lucas Romero,Cruzeiro - MG,out
+17,Ariel Cabral,Cruzeiro - MG,in
+17,Ábila,Cruzeiro - MG,out
+17,Alex Sandro,Cruzeiro - MG,in
+18,Uillian Correia,Vitória - BA,out
+18,Euller,Vitória - BA,in
+18,Fael,Vitória - BA,out
+18,Jhemerson,Vitória - BA,in
+18,Cleiton Xavier,Vitória - BA,out
+18,Pisculichi,Vitória - BA,in
+18,Jadson,Corinthians - SP,out
+18,Paulo Roberto,Corinthians - SP,in
+18,Maycon,Corinthians - SP,out
+18,Marquinhos Gabriel,Corinthians - SP,in
+18,Balbuena,Corinthians - SP,out
+18,Léo Santos,Corinthians - SP,in
+19,Walter,Atlético - GO,out
+19,Walterson,Atlético - GO,in
+19,Andre,Atlético - GO,out
+19,Andrigo,Atlético - GO,in
+19,Everaldo,Atlético - GO,out
+19,Junior Vicosa,Atlético - GO,in
+19,Everton,Flamengo - RJ,out
+19,Rodinei,Flamengo - RJ,in
+19,Gabriel,Flamengo - RJ,out
+19,Matheus Savio,Flamengo - RJ,in
+19,Eder,Flamengo - RJ,out
+19,Vinicius Jr.,Flamengo - RJ,in
+20,Rossi,Chapecoense - SC,out
+20,Osman,Chapecoense - SC,in
+20,Wellington Paulista,Chapecoense - SC,out
+20,Tulio de Melo,Chapecoense - SC,in
+20,Seijas,Chapecoense - SC,out
+20,Odair,Chapecoense - SC,in
+20,Willian,Palmeiras - SP,out
+20,Erik,Palmeiras - SP,in
+20,Raphael Veiga,Palmeiras - SP,out
+20,Hyoran,Palmeiras - SP,in
+20,Keno,Palmeiras - SP,out
+20,Matheus,Palmeiras - SP,in

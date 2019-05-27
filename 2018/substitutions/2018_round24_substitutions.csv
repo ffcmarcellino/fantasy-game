@@ -1,119 +1,119 @@
-,match_num,player_name_2,player_team,player_status
-0,231,Ernando,Sport - PE,out
-1,231,Raul,Sport - PE,in
-2,231,Andrigo,Sport - PE,out
-3,231,Mateus Gonçalves,Sport - PE,in
-4,231,Neto,Sport - PE,out
-5,231,Jair,Sport - PE,in
-6,231,Robinho,Cruzeiro - MG,out
-7,231,Raniel Santana de Vasconcelos,Cruzeiro - MG,in
-8,231,Rafinha,Cruzeiro - MG,out
-9,231,Ederson,Cruzeiro - MG,in
-10,231,Barcos,Cruzeiro - MG,out
-11,231,David,Cruzeiro - MG,in
-12,232,Régis Souza,São Paulo - SP,out
-13,232,Igor,São Paulo - SP,in
-14,232,Everton Felipe,São Paulo - SP,out
-15,232,Santiago,São Paulo - SP,in
-16,232,Elton,Bahia - BA,out
-17,232,Elber,Bahia - BA,in
-18,232,Vinicius,Bahia - BA,out
-19,232,Edigar Junio,Bahia - BA,in
-20,232,Gilberto,Bahia - BA,out
-21,232,Clayton,Bahia - BA,in
-22,233,Everton Ribeiro,Flamengo - RJ,out
-23,233,Marlos Moreno,Flamengo - RJ,in
-24,233,Rodinei,Flamengo - RJ,out
-25,233,Pará,Flamengo - RJ,in
-26,233,URIBE,Flamengo - RJ,out
-27,233,Berrio,Flamengo - RJ,in
-28,233,Amaral,Chapecoense - SC,out
-29,233,Barreto,Chapecoense - SC,in
-30,233,Marcio Araujo,Chapecoense - SC,out
-31,233,Diego Torres,Chapecoense - SC,in
-32,233,Joao Victor,Chapecoense - SC,out
-33,233,Marquinhos,Chapecoense - SC,in
-34,234,Rafael Moura,América - MG,out
-35,234,Matheusinho,América - MG,in
-36,234,Giovanni,América - MG,out
-37,234,Lincoln,América - MG,in
-38,234,Wesley,América - MG,out
-39,234,Wesley,América - MG,in
-40,234,Pedro Ken,Ceará - CE,out
-41,234,Arnaldo,Ceará - CE,in
-42,234,Felipe Azevedo,Ceará - CE,out
-43,234,Arthur,Ceará - CE,in
-44,234,Juninho Quixadá,Ceará - CE,out
-45,234,Ricardinho,Ceará - CE,in
-46,235,Julio Cesar,Fluminense - RJ,out
-47,235,Rodolfo,Fluminense - RJ,in
-48,235,Luciano,Fluminense - RJ,out
-49,235,Marcos Jr,Fluminense - RJ,in
-50,235,Everaldo,Fluminense - RJ,out
-51,235,Matheus Alessandro,Fluminense - RJ,in
-52,235,Matheus Fernandes,Botafogo - RJ,out
-53,235,Pimpao,Botafogo - RJ,in
-54,235,Marcio,Botafogo - RJ,out
-55,235,Luis Ricardo Silva Umbelino,Botafogo - RJ,in
-56,235,Luiz Fernando,Botafogo - RJ,out
-57,235,Brenner,Botafogo - RJ,in
-58,236,Hyoran,Palmeiras - SP,out
-59,236,Jean,Palmeiras - SP,in
-60,236,Thiago Santos,Palmeiras - SP,out
-61,236,Moises,Palmeiras - SP,in
-62,236,Deyverson,Palmeiras - SP,out
-63,236,Willian,Palmeiras - SP,in
-64,236,Roger,Corinthians - SP,out
-65,236,Jonathas,Corinthians - SP,in
-66,236,Guilherme Mantuan,Corinthians - SP,out
-67,236,Gabriel,Corinthians - SP,in
-68,236,Pedro,Corinthians - SP,out
-69,236,Clayson,Corinthians - SP,in
-70,237,Uendel,Internacional - RS,out
-71,237,Fabiano,Internacional - RS,in
-72,237,Nico Lopez,Internacional - RS,out
-73,237,Dalessandro,Internacional - RS,in
-74,237,JONATAN ALVEZ,Internacional - RS,out
-75,237,Leandro Damiao,Internacional - RS,in
-76,237,Andre,Grêmio - RS,out
-77,237,T. Anderson,Grêmio - RS,in
-78,237,Thaciano,Grêmio - RS,out
-79,237,Pepe,Grêmio - RS,in
-80,237,Luan,Grêmio - RS,out
-81,237,Jean Pyerre,Grêmio - RS,in
-82,238,Jose Rodrigo Andrade Ramos,Vitória - BA,out
-83,238,Lucas Fernandes,Vitória - BA,in
-84,238,Leonardo,Vitória - BA,out
-85,238,Aderllan,Vitória - BA,in
-86,238,Neilton,Vitória - BA,out
-87,238,Andre Lima,Vitória - BA,in
-88,238,DESABATO,Vasco da Gama - RJ,out
-89,238,Marrony,Vasco da Gama - RJ,in
-90,238,Wagner,Vasco da Gama - RJ,out
-91,238,Yago,Vasco da Gama - RJ,in
-92,238,Willian,Vasco da Gama - RJ,out
-93,238,Kelvin,Vasco da Gama - RJ,in
-94,239,Nadson,Paraná - PR,out
-95,239,Ortigoza,Paraná - PR,in
-96,239,Caio Henrique,Paraná - PR,out
-97,239,Maicosuel,Paraná - PR,in
-98,239,Carlos Alberto Carvalho,Paraná - PR,out
-99,239,Deivid,Paraná - PR,in
-100,239,Yuri,Santos - SP,out
-101,239,Renato,Santos - SP,in
-102,239,Gabriel B.,Santos - SP,out
-103,239,Copete,Santos - SP,in
-104,239,Bryan Ruiz,Santos - SP,out
-105,239,Rodrygo,Santos - SP,in
-106,240,Adilson,Atlético - MG,out
-107,240,Welison,Atlético - MG,in
-108,240,M. Galdezani,Atlético - MG,out
-109,240,Elias,Atlético - MG,in
-110,240,Tomas Andrade,Atlético - MG,out
-111,240,David Terans,Atlético - MG,in
-112,240,Bruno Guimaraes,Atlético - PR,out
-113,240,Bergson,Atlético - PR,in
-114,240,Marcinho,Atlético - PR,out
-115,240,Roni,Atlético - PR,in
-116,240,Lucho Gonzalez,Atlético - PR,out
-117,240,Matheus,Atlético - PR,in
+match_num,player_name_2,player_team,player_status
+231,Ernando,Sport - PE,out
+231,Raul,Sport - PE,in
+231,Andrigo,Sport - PE,out
+231,Mateus Gonçalves,Sport - PE,in
+231,Neto,Sport - PE,out
+231,Jair,Sport - PE,in
+231,Robinho,Cruzeiro - MG,out
+231,Raniel Santana de Vasconcelos,Cruzeiro - MG,in
+231,Rafinha,Cruzeiro - MG,out
+231,Ederson,Cruzeiro - MG,in
+231,Barcos,Cruzeiro - MG,out
+231,David,Cruzeiro - MG,in
+232,Régis Souza,São Paulo - SP,out
+232,Igor,São Paulo - SP,in
+232,Everton Felipe,São Paulo - SP,out
+232,Santiago,São Paulo - SP,in
+232,Elton,Bahia - BA,out
+232,Elber,Bahia - BA,in
+232,Vinicius,Bahia - BA,out
+232,Edigar Junio,Bahia - BA,in
+232,Gilberto,Bahia - BA,out
+232,Clayton,Bahia - BA,in
+233,Everton Ribeiro,Flamengo - RJ,out
+233,Marlos Moreno,Flamengo - RJ,in
+233,Rodinei,Flamengo - RJ,out
+233,Pará,Flamengo - RJ,in
+233,URIBE,Flamengo - RJ,out
+233,Berrio,Flamengo - RJ,in
+233,Amaral,Chapecoense - SC,out
+233,Barreto,Chapecoense - SC,in
+233,Marcio Araujo,Chapecoense - SC,out
+233,Diego Torres,Chapecoense - SC,in
+233,Joao Victor,Chapecoense - SC,out
+233,Marquinhos,Chapecoense - SC,in
+234,Rafael Moura,América - MG,out
+234,Matheusinho,América - MG,in
+234,Giovanni,América - MG,out
+234,Lincoln,América - MG,in
+234,Wesley,América - MG,out
+234,Wesley,América - MG,in
+234,Pedro Ken,Ceará - CE,out
+234,Arnaldo,Ceará - CE,in
+234,Felipe Azevedo,Ceará - CE,out
+234,Arthur,Ceará - CE,in
+234,Juninho Quixadá,Ceará - CE,out
+234,Ricardinho,Ceará - CE,in
+235,Julio Cesar,Fluminense - RJ,out
+235,Rodolfo,Fluminense - RJ,in
+235,Luciano,Fluminense - RJ,out
+235,Marcos Jr,Fluminense - RJ,in
+235,Everaldo,Fluminense - RJ,out
+235,Matheus Alessandro,Fluminense - RJ,in
+235,Matheus Fernandes,Botafogo - RJ,out
+235,Pimpao,Botafogo - RJ,in
+235,Marcio,Botafogo - RJ,out
+235,Luis Ricardo Silva Umbelino,Botafogo - RJ,in
+235,Luiz Fernando,Botafogo - RJ,out
+235,Brenner,Botafogo - RJ,in
+236,Hyoran,Palmeiras - SP,out
+236,Jean,Palmeiras - SP,in
+236,Thiago Santos,Palmeiras - SP,out
+236,Moises,Palmeiras - SP,in
+236,Deyverson,Palmeiras - SP,out
+236,Willian,Palmeiras - SP,in
+236,Roger,Corinthians - SP,out
+236,Jonathas,Corinthians - SP,in
+236,Guilherme Mantuan,Corinthians - SP,out
+236,Gabriel,Corinthians - SP,in
+236,Pedro,Corinthians - SP,out
+236,Clayson,Corinthians - SP,in
+237,Uendel,Internacional - RS,out
+237,Fabiano,Internacional - RS,in
+237,Nico Lopez,Internacional - RS,out
+237,Dalessandro,Internacional - RS,in
+237,JONATAN ALVEZ,Internacional - RS,out
+237,Leandro Damiao,Internacional - RS,in
+237,Andre,Grêmio - RS,out
+237,T. Anderson,Grêmio - RS,in
+237,Thaciano,Grêmio - RS,out
+237,Pepe,Grêmio - RS,in
+237,Luan,Grêmio - RS,out
+237,Jean Pyerre,Grêmio - RS,in
+238,Jose Rodrigo Andrade Ramos,Vitória - BA,out
+238,Lucas Fernandes,Vitória - BA,in
+238,Leonardo,Vitória - BA,out
+238,Aderllan,Vitória - BA,in
+238,Neilton,Vitória - BA,out
+238,Andre Lima,Vitória - BA,in
+238,DESABATO,Vasco da Gama - RJ,out
+238,Marrony,Vasco da Gama - RJ,in
+238,Wagner,Vasco da Gama - RJ,out
+238,Yago,Vasco da Gama - RJ,in
+238,Willian,Vasco da Gama - RJ,out
+238,Kelvin,Vasco da Gama - RJ,in
+239,Nadson,Paraná - PR,out
+239,Ortigoza,Paraná - PR,in
+239,Caio Henrique,Paraná - PR,out
+239,Maicosuel,Paraná - PR,in
+239,Carlos Alberto Carvalho,Paraná - PR,out
+239,Deivid,Paraná - PR,in
+239,Yuri,Santos - SP,out
+239,Renato,Santos - SP,in
+239,Gabriel B.,Santos - SP,out
+239,Copete,Santos - SP,in
+239,Bryan Ruiz,Santos - SP,out
+239,Rodrygo,Santos - SP,in
+240,Adilson,Atlético - MG,out
+240,Welison,Atlético - MG,in
+240,M. Galdezani,Atlético - MG,out
+240,Elias,Atlético - MG,in
+240,Tomas Andrade,Atlético - MG,out
+240,David Terans,Atlético - MG,in
+240,Bruno Guimaraes,Atlético - PR,out
+240,Bergson,Atlético - PR,in
+240,Marcinho,Atlético - PR,out
+240,Roni,Atlético - PR,in
+240,Lucho Gonzalez,Atlético - PR,out
+240,Matheus,Atlético - PR,in

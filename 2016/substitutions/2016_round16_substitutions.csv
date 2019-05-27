@@ -1,119 +1,119 @@
-,match_num,player_name_2,player_team,player_status
-0,151,Rodriguinho,Corinthians - SP,out
-1,151,Elias,Corinthians - SP,in
-2,151,Bruno,Corinthians - SP,out
-3,151,Guilherme,Corinthians - SP,in
-4,151,Giovanni Augusto,Corinthians - SP,out
-5,151,Danilo,Corinthians - SP,in
-6,151,Elicarlos,Figueirense - SC,out
-7,151,Jackson Caucaia,Figueirense - SC,in
-8,151,Rafael Silva,Figueirense - SC,out
-9,151,Bady,Figueirense - SC,in
-10,151,Para,Figueirense - SC,out
-11,151,Morassi,Figueirense - SC,in
-12,152,Arthur,Santa Cruz - PE,out
-13,152,Danilo,Santa Cruz - PE,in
-14,152,Marion,Santa Cruz - PE,out
-15,152,Bruno Moraes,Santa Cruz - PE,in
-16,152,Marcilio,Santa Cruz - PE,out
-17,152,Marcio,Santa Cruz - PE,in
-18,152,K. Giacomazzi,Coritiba - PR,out
-19,152,Iago Dias,Coritiba - PR,in
-20,152,Raphael Veiga,Coritiba - PR,out
-21,152,Felipe Amorim,Coritiba - PR,in
-22,152,Jose,Coritiba - PR,out
-23,152,Nery Bareiro,Coritiba - PR,in
-24,153,Thiago Santos,Palmeiras - SP,out
-25,153,Matheus Sales,Palmeiras - SP,in
-26,153,Erik,Palmeiras - SP,out
-27,153,Alecsandro,Palmeiras - SP,in
-28,153,Cleiton Xavier,Palmeiras - SP,out
-29,153,Lucas Barrios,Palmeiras - SP,in
-30,153,Maicosuel,Atlético - MG,out
-31,153,Luan,Atlético - MG,in
-32,153,Fred,Atlético - MG,out
-33,153,Lucas Pratto,Atlético - MG,in
-34,153,Leandro Donizete,Atlético - MG,out
-35,153,Yago Henrique Severino dos Santos,Atlético - MG,in
-36,154,Wendel,Ponte Preta - SP,out
-37,154,Matheus Sousa de Jesus,Ponte Preta - SP,in
-38,154,Rhayner,Ponte Preta - SP,out
-39,154,Leonardo,Ponte Preta - SP,in
-40,154,Maycon,Ponte Preta - SP,out
-41,154,Wellington Paulista,Ponte Preta - SP,in
-42,154,Eduardo Sasha,Internacional - RS,out
-43,154,Marquinhos,Internacional - RS,in
-44,154,Gustavo Ferrareis,Internacional - RS,out
-45,154,Anderson,Internacional - RS,in
-46,154,Valdivia,Internacional - RS,out
-47,154,Ariel,Internacional - RS,in
-48,155,Ariel Cabral,Cruzeiro - MG,out
-49,155,Robinho,Cruzeiro - MG,in
-50,155,Lucas,Cruzeiro - MG,out
-51,155,Douglas,Cruzeiro - MG,in
-52,155,Ábila,Cruzeiro - MG,out
-53,155,Rafinha,Cruzeiro - MG,in
-54,155,Edmilson dos Santos Silva,Sport - PE,out
-55,155,Rodrigo Mancha,Sport - PE,in
-56,155,Diego Souza,Sport - PE,out
-57,155,Tulio de Melo,Sport - PE,in
-58,155,Rogerio,Sport - PE,out
-59,155,M Gonzalez,Sport - PE,in
-60,156,Douglas,Grêmio - RS,out
-61,156,H. Almeida,Grêmio - RS,in
-62,156,Everton,Grêmio - RS,out
-63,156,Pedro Rocha,Grêmio - RS,in
-64,156,Negueba,Grêmio - RS,out
-65,156,Kaio,Grêmio - RS,in
-66,156,Gilberto,São Paulo - SP,out
-67,156,Kelvin,São Paulo - SP,in
-68,156,Centurion,São Paulo - SP,out
-69,156,Pedro,São Paulo - SP,in
-70,157,Walter,Atlético - PR,out
-71,157,Marcos,Atlético - PR,in
-72,157,Vinicius,Atlético - PR,out
-73,157,Juninho,Atlético - PR,in
-74,157,Yago,Atlético - PR,out
-75,157,Giovanny,Atlético - PR,in
-76,157,Maranhão,Fluminense - RJ,out
-77,157,Dudu,Fluminense - RJ,in
-78,157,Douglas,Fluminense - RJ,out
-79,157,Edson,Fluminense - RJ,in
-80,157,Richarlison,Fluminense - RJ,out
-81,157,Magno Alves,Fluminense - RJ,in
-82,158,Ananias,Chapecoense - SC,out
-83,158,Lucas,Chapecoense - SC,in
-84,158,Sergio Manoel,Chapecoense - SC,out
-85,158,Matheus Biteco,Chapecoense - SC,in
-86,158,Hyoran,Chapecoense - SC,out
-87,158,Martinucio,Chapecoense - SC,in
-88,158,Jonathan,Botafogo - RJ,out
-89,158,Neilton,Botafogo - RJ,in
-90,158,Salgueiro,Botafogo - RJ,out
-91,158,Gervasio,Botafogo - RJ,in
-92,158,Canales,Botafogo - RJ,out
-93,158,Luis Henrique,Botafogo - RJ,in
-94,159,Willian,Vitória - BA,out
-95,159,Tiago Real,Vitória - BA,in
-96,159,Dagoberto,Vitória - BA,out
-97,159,Rodrigo Ramallo,Vitória - BA,in
-98,159,Sergio,Vitória - BA,out
-99,159,Cardenas,Vitória - BA,in
-100,159,Ricardo Oliveira,Santos - SP,out
-101,159,Rodrigao,Santos - SP,in
-102,159,Leo Cittadini,Santos - SP,out
-103,159,Sousa,Santos - SP,in
-104,159,Lucas Lima,Santos - SP,out
-105,159,Fernando,Santos - SP,in
-106,160,Fernandinho,Flamengo - RJ,out
-107,160,Gabriel,Flamengo - RJ,in
-108,160,Chiquinho,Flamengo - RJ,out
-109,160,Rafael Vaz,Flamengo - RJ,in
-110,160,Alan Patrick,Flamengo - RJ,out
-111,160,Adryan,Flamengo - RJ,in
-112,160,Victor Rangel,América - MG,out
-113,160,Michael,América - MG,in
-114,160,Alan,América - MG,out
-115,160,Claudinei,América - MG,in
-116,160,Bruno Teles,América - MG,out
-117,160,Danilo,América - MG,in
+match_num,player_name_2,player_team,player_status
+151,Rodriguinho,Corinthians - SP,out
+151,Elias,Corinthians - SP,in
+151,Bruno,Corinthians - SP,out
+151,Guilherme,Corinthians - SP,in
+151,Giovanni Augusto,Corinthians - SP,out
+151,Danilo,Corinthians - SP,in
+151,Elicarlos,Figueirense - SC,out
+151,Jackson Caucaia,Figueirense - SC,in
+151,Rafael Silva,Figueirense - SC,out
+151,Bady,Figueirense - SC,in
+151,Para,Figueirense - SC,out
+151,Morassi,Figueirense - SC,in
+152,Arthur,Santa Cruz - PE,out
+152,Danilo,Santa Cruz - PE,in
+152,Marion,Santa Cruz - PE,out
+152,Bruno Moraes,Santa Cruz - PE,in
+152,Marcilio,Santa Cruz - PE,out
+152,Marcio,Santa Cruz - PE,in
+152,K. Giacomazzi,Coritiba - PR,out
+152,Iago Dias,Coritiba - PR,in
+152,Raphael Veiga,Coritiba - PR,out
+152,Felipe Amorim,Coritiba - PR,in
+152,Jose,Coritiba - PR,out
+152,Nery Bareiro,Coritiba - PR,in
+153,Thiago Santos,Palmeiras - SP,out
+153,Matheus Sales,Palmeiras - SP,in
+153,Erik,Palmeiras - SP,out
+153,Alecsandro,Palmeiras - SP,in
+153,Cleiton Xavier,Palmeiras - SP,out
+153,Lucas Barrios,Palmeiras - SP,in
+153,Maicosuel,Atlético - MG,out
+153,Luan,Atlético - MG,in
+153,Fred,Atlético - MG,out
+153,Lucas Pratto,Atlético - MG,in
+153,Leandro Donizete,Atlético - MG,out
+153,Yago Henrique Severino dos Santos,Atlético - MG,in
+154,Wendel,Ponte Preta - SP,out
+154,Matheus Sousa de Jesus,Ponte Preta - SP,in
+154,Rhayner,Ponte Preta - SP,out
+154,Leonardo,Ponte Preta - SP,in
+154,Maycon,Ponte Preta - SP,out
+154,Wellington Paulista,Ponte Preta - SP,in
+154,Eduardo Sasha,Internacional - RS,out
+154,Marquinhos,Internacional - RS,in
+154,Gustavo Ferrareis,Internacional - RS,out
+154,Anderson,Internacional - RS,in
+154,Valdivia,Internacional - RS,out
+154,Ariel,Internacional - RS,in
+155,Ariel Cabral,Cruzeiro - MG,out
+155,Robinho,Cruzeiro - MG,in
+155,Lucas,Cruzeiro - MG,out
+155,Douglas,Cruzeiro - MG,in
+155,Ábila,Cruzeiro - MG,out
+155,Rafinha,Cruzeiro - MG,in
+155,Edmilson dos Santos Silva,Sport - PE,out
+155,Rodrigo Mancha,Sport - PE,in
+155,Diego Souza,Sport - PE,out
+155,Tulio de Melo,Sport - PE,in
+155,Rogerio,Sport - PE,out
+155,M Gonzalez,Sport - PE,in
+156,Douglas,Grêmio - RS,out
+156,H. Almeida,Grêmio - RS,in
+156,Everton,Grêmio - RS,out
+156,Pedro Rocha,Grêmio - RS,in
+156,Negueba,Grêmio - RS,out
+156,Kaio,Grêmio - RS,in
+156,Gilberto,São Paulo - SP,out
+156,Kelvin,São Paulo - SP,in
+156,Centurion,São Paulo - SP,out
+156,Pedro,São Paulo - SP,in
+157,Walter,Atlético - PR,out
+157,Marcos,Atlético - PR,in
+157,Vinicius,Atlético - PR,out
+157,Juninho,Atlético - PR,in
+157,Yago,Atlético - PR,out
+157,Giovanny,Atlético - PR,in
+157,Maranhão,Fluminense - RJ,out
+157,Dudu,Fluminense - RJ,in
+157,Douglas,Fluminense - RJ,out
+157,Edson,Fluminense - RJ,in
+157,Richarlison,Fluminense - RJ,out
+157,Magno Alves,Fluminense - RJ,in
+158,Ananias,Chapecoense - SC,out
+158,Lucas,Chapecoense - SC,in
+158,Sergio Manoel,Chapecoense - SC,out
+158,Matheus Biteco,Chapecoense - SC,in
+158,Hyoran,Chapecoense - SC,out
+158,Martinucio,Chapecoense - SC,in
+158,Jonathan,Botafogo - RJ,out
+158,Neilton,Botafogo - RJ,in
+158,Salgueiro,Botafogo - RJ,out
+158,Gervasio,Botafogo - RJ,in
+158,Canales,Botafogo - RJ,out
+158,Luis Henrique,Botafogo - RJ,in
+159,Willian,Vitória - BA,out
+159,Tiago Real,Vitória - BA,in
+159,Dagoberto,Vitória - BA,out
+159,Rodrigo Ramallo,Vitória - BA,in
+159,Sergio,Vitória - BA,out
+159,Cardenas,Vitória - BA,in
+159,Ricardo Oliveira,Santos - SP,out
+159,Rodrigao,Santos - SP,in
+159,Leo Cittadini,Santos - SP,out
+159,Sousa,Santos - SP,in
+159,Lucas Lima,Santos - SP,out
+159,Fernando,Santos - SP,in
+160,Fernandinho,Flamengo - RJ,out
+160,Gabriel,Flamengo - RJ,in
+160,Chiquinho,Flamengo - RJ,out
+160,Rafael Vaz,Flamengo - RJ,in
+160,Alan Patrick,Flamengo - RJ,out
+160,Adryan,Flamengo - RJ,in
+160,Victor Rangel,América - MG,out
+160,Michael,América - MG,in
+160,Alan,América - MG,out
+160,Claudinei,América - MG,in
+160,Bruno Teles,América - MG,out
+160,Danilo,América - MG,in

@@ -1,121 +1,121 @@
-,match_num,player_name_2,player_team,player_status
-0,301,Carlos Alberto,Botafogo - RJ,out
-1,301,Ramirez,Botafogo - RJ,in
-2,301,Rogerio,Botafogo - RJ,out
-3,301,Jobson,Botafogo - RJ,in
-4,301,Mauricio,Botafogo - RJ,out
-5,301,Dankler,Botafogo - RJ,in
-6,301,Lucas,Flamengo - RJ,out
-7,301,Igor,Flamengo - RJ,in
-8,301,Nixon,Flamengo - RJ,out
-9,301,Elton,Flamengo - RJ,in
-10,301,Luiz Antonio,Flamengo - RJ,out
-11,301,Eduardo da Silva,Flamengo - RJ,in
-12,302,Chiquinho,Fluminense - RJ,out
-13,302,Carlinhos,Fluminense - RJ,in
-14,302,Valencia,Fluminense - RJ,out
-15,302,Bruno,Fluminense - RJ,in
-16,302,Marlon,Fluminense - RJ,out
-17,302,Elivelton,Fluminense - RJ,in
-18,302,Sueliton,Atletico - PR,out
-19,302,Mario Sergio,Atletico - PR,in
-20,302,Bady,Atletico - PR,out
-21,302,Nathan,Atletico - PR,in
-22,302,Guilherme,Atletico - PR,out
-23,302,Douglas,Atletico - PR,in
-24,303,Michel Bastos,São Paulo - SP,out
-25,303,Ademilson,São Paulo - SP,in
-26,303,Alan Kardec,São Paulo - SP,out
-27,303,Osvaldo,São Paulo - SP,in
-28,303,Souza,São Paulo - SP,out
-29,303,Maicon,São Paulo - SP,in
-30,303,David França,Goiás - GO,out
-31,303,Tiago Real,Goiás - GO,in
-32,303,Ramon,Goiás - GO,out
-33,303,Bruno Mineiro,Goiás - GO,in
-34,303,Felipe,Goiás - GO,out
-35,303,Moises,Goiás - GO,in
-36,304,Wesley,Palmeiras - SP,out
-37,304,Washington,Palmeiras - SP,in
-38,304,Mazinho,Palmeiras - SP,out
-39,304,Diogo,Palmeiras - SP,in
-40,304,Valdivia,Palmeiras - SP,out
-41,304,Felipe,Palmeiras - SP,in
-42,304,Jadson,Corinthians - SP,out
-43,304,Malcom,Corinthians - SP,in
-44,304,Fabio Santos,Corinthians - SP,out
-45,304,Danilo,Corinthians - SP,in
-46,304,Petros,Corinthians - SP,out
-47,304,Angel Romero,Corinthians - SP,in
-48,305,Sergio Manoel,Coritiba - PR,out
-49,305,Dudu,Coritiba - PR,in
-50,305,Alex,Coritiba - PR,out
-51,305,Helder,Coritiba - PR,in
-52,305,Ze Eduardo,Coritiba - PR,out
-53,305,Elber,Coritiba - PR,in
-54,305,Dudu,Grêmio - RS,out
-55,305,Nicolas Careca,Grêmio - RS,in
-56,305,Matheus Biteco,Grêmio - RS,out
-57,305,Alan Ruiz,Grêmio - RS,in
-58,305,Erik,Grêmio - RS,out
-59,305,Lucas,Grêmio - RS,in
-60,306,Maicosuel,Atlético - MG,out
-61,306,Marion,Atlético - MG,in
-62,306,Cesar,Atlético - MG,out
-63,306,Uilson,Atlético - MG,in
-64,306,Alex Silva,Atlético - MG,out
-65,306,Pierre,Atlético - MG,in
-66,306,Ronaldo,Sport - PE,out
-67,306,Danilo,Sport - PE,in
-68,306,Rene,Sport - PE,out
-69,306,Ze Mario,Sport - PE,in
-70,306,Wendel,Sport - PE,out
-71,306,Ananias,Sport - PE,in
-72,307,Edno,Vitória - BA,out
-73,307,William Henrique,Vitória - BA,in
-74,307,Dinei,Vitória - BA,out
-75,307,Ednei,Vitória - BA,in
-76,307,Vinicius,Vitória - BA,out
-77,307,Beltran,Vitória - BA,in
-78,307,Rodrigo,Criciuma - SC,out
-79,307,Bruno,Criciuma - SC,in
-80,307,Joao Vitor,Criciuma - SC,out
-81,307,Ze Carlos,Criciuma - SC,in
-82,307,Lucca,Criciuma - SC,out
-83,307,Roger,Criciuma - SC,in
-84,308,Alan Patrick,Internacional - RS,out
-85,308,Valdivia,Internacional - RS,in
-86,308,Nilmar,Internacional - RS,out
-87,308,Wellington Paulista,Internacional - RS,in
-88,308,Jorge Henrique,Internacional - RS,out
-89,308,Alan Ruschel,Internacional - RS,in
-90,308,Uelliton,Bahia - BA,out
-91,308,Lincoln,Bahia - BA,in
-92,308,Diego Macedo,Bahia - BA,out
-93,308,Potita,Bahia - BA,in
-94,308,Biancucchi,Bahia - BA,out
-95,308,Wiliam Barbio,Bahia - BA,in
-96,309,Giovanni Augusto,Figueirense - SC,out
-97,309,Clayton,Figueirense - SC,in
-98,309,Marcao,Figueirense - SC,out
-99,309,Pablo,Figueirense - SC,in
-100,309,França,Figueirense - SC,out
-101,309,Leonardo,Figueirense - SC,in
-102,309,Henrique,Cruzeiro - MG,out
-103,309,Willian,Cruzeiro - MG,in
-104,309,Everton Ribeiro,Cruzeiro - MG,out
-105,309,Willian,Cruzeiro - MG,in
-106,309,Ricardo Goulart,Cruzeiro - MG,out
-107,309,Lucas Silva,Cruzeiro - MG,in
-108,310,Camilo,Chapecoense - SC,out
-109,310,Bruno Rangel,Chapecoense - SC,in
-110,310,Bruno Silva,Chapecoense - SC,out
-111,310,Odair,Chapecoense - SC,in
-112,310,Abuda,Chapecoense - SC,out
-113,310,Fabinho Alves,Chapecoense - SC,in
-114,310,Leandro Damiao,Santos - SP,out
-115,310,Stefano Yuri Goncalves Almeida,Santos - SP,in
-116,310,Sergio,Santos - SP,out
-117,310,Thiago Maia,Santos - SP,in
-118,310,Gabriel B.,Santos - SP,out
-119,310,Jorge Eduardo,Santos - SP,in
+match_num,player_name_2,player_team,player_status
+301,Carlos Alberto,Botafogo - RJ,out
+301,Ramirez,Botafogo - RJ,in
+301,Rogerio,Botafogo - RJ,out
+301,Jobson,Botafogo - RJ,in
+301,Mauricio,Botafogo - RJ,out
+301,Dankler,Botafogo - RJ,in
+301,Lucas,Flamengo - RJ,out
+301,Igor,Flamengo - RJ,in
+301,Nixon,Flamengo - RJ,out
+301,Elton,Flamengo - RJ,in
+301,Luiz Antonio,Flamengo - RJ,out
+301,Eduardo da Silva,Flamengo - RJ,in
+302,Chiquinho,Fluminense - RJ,out
+302,Carlinhos,Fluminense - RJ,in
+302,Valencia,Fluminense - RJ,out
+302,Bruno,Fluminense - RJ,in
+302,Marlon,Fluminense - RJ,out
+302,Elivelton,Fluminense - RJ,in
+302,Sueliton,Atletico - PR,out
+302,Mario Sergio,Atletico - PR,in
+302,Bady,Atletico - PR,out
+302,Nathan,Atletico - PR,in
+302,Guilherme,Atletico - PR,out
+302,Douglas,Atletico - PR,in
+303,Michel Bastos,São Paulo - SP,out
+303,Ademilson,São Paulo - SP,in
+303,Alan Kardec,São Paulo - SP,out
+303,Osvaldo,São Paulo - SP,in
+303,Souza,São Paulo - SP,out
+303,Maicon,São Paulo - SP,in
+303,David França,Goiás - GO,out
+303,Tiago Real,Goiás - GO,in
+303,Ramon,Goiás - GO,out
+303,Bruno Mineiro,Goiás - GO,in
+303,Felipe,Goiás - GO,out
+303,Moises,Goiás - GO,in
+304,Wesley,Palmeiras - SP,out
+304,Washington,Palmeiras - SP,in
+304,Mazinho,Palmeiras - SP,out
+304,Diogo,Palmeiras - SP,in
+304,Valdivia,Palmeiras - SP,out
+304,Felipe,Palmeiras - SP,in
+304,Jadson,Corinthians - SP,out
+304,Malcom,Corinthians - SP,in
+304,Fabio Santos,Corinthians - SP,out
+304,Danilo,Corinthians - SP,in
+304,Petros,Corinthians - SP,out
+304,Angel Romero,Corinthians - SP,in
+305,Sergio Manoel,Coritiba - PR,out
+305,Dudu,Coritiba - PR,in
+305,Alex,Coritiba - PR,out
+305,Helder,Coritiba - PR,in
+305,Ze Eduardo,Coritiba - PR,out
+305,Elber,Coritiba - PR,in
+305,Dudu,Grêmio - RS,out
+305,Nicolas Careca,Grêmio - RS,in
+305,Matheus Biteco,Grêmio - RS,out
+305,Alan Ruiz,Grêmio - RS,in
+305,Erik,Grêmio - RS,out
+305,Lucas,Grêmio - RS,in
+306,Maicosuel,Atlético - MG,out
+306,Marion,Atlético - MG,in
+306,Cesar,Atlético - MG,out
+306,Uilson,Atlético - MG,in
+306,Alex Silva,Atlético - MG,out
+306,Pierre,Atlético - MG,in
+306,Ronaldo,Sport - PE,out
+306,Danilo,Sport - PE,in
+306,Rene,Sport - PE,out
+306,Ze Mario,Sport - PE,in
+306,Wendel,Sport - PE,out
+306,Ananias,Sport - PE,in
+307,Edno,Vitória - BA,out
+307,William Henrique,Vitória - BA,in
+307,Dinei,Vitória - BA,out
+307,Ednei,Vitória - BA,in
+307,Vinicius,Vitória - BA,out
+307,Beltran,Vitória - BA,in
+307,Rodrigo,Criciuma - SC,out
+307,Bruno,Criciuma - SC,in
+307,Joao Vitor,Criciuma - SC,out
+307,Ze Carlos,Criciuma - SC,in
+307,Lucca,Criciuma - SC,out
+307,Roger,Criciuma - SC,in
+308,Alan Patrick,Internacional - RS,out
+308,Valdivia,Internacional - RS,in
+308,Nilmar,Internacional - RS,out
+308,Wellington Paulista,Internacional - RS,in
+308,Jorge Henrique,Internacional - RS,out
+308,Alan Ruschel,Internacional - RS,in
+308,Uelliton,Bahia - BA,out
+308,Lincoln,Bahia - BA,in
+308,Diego Macedo,Bahia - BA,out
+308,Potita,Bahia - BA,in
+308,Biancucchi,Bahia - BA,out
+308,Wiliam Barbio,Bahia - BA,in
+309,Giovanni Augusto,Figueirense - SC,out
+309,Clayton,Figueirense - SC,in
+309,Marcao,Figueirense - SC,out
+309,Pablo,Figueirense - SC,in
+309,França,Figueirense - SC,out
+309,Leonardo,Figueirense - SC,in
+309,Henrique,Cruzeiro - MG,out
+309,Willian,Cruzeiro - MG,in
+309,Everton Ribeiro,Cruzeiro - MG,out
+309,Willian,Cruzeiro - MG,in
+309,Ricardo Goulart,Cruzeiro - MG,out
+309,Lucas Silva,Cruzeiro - MG,in
+310,Camilo,Chapecoense - SC,out
+310,Bruno Rangel,Chapecoense - SC,in
+310,Bruno Silva,Chapecoense - SC,out
+310,Odair,Chapecoense - SC,in
+310,Abuda,Chapecoense - SC,out
+310,Fabinho Alves,Chapecoense - SC,in
+310,Leandro Damiao,Santos - SP,out
+310,Stefano Yuri Goncalves Almeida,Santos - SP,in
+310,Sergio,Santos - SP,out
+310,Thiago Maia,Santos - SP,in
+310,Gabriel B.,Santos - SP,out
+310,Jorge Eduardo,Santos - SP,in

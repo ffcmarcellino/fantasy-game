@@ -1,119 +1,119 @@
-,match_num,player_name_2,player_team,player_status
-0,321,Marquinhos,Avaí - SC,out
-1,321,Simião,Avaí - SC,in
-2,321,Maicon,Avaí - SC,out
-3,321,Diego,Avaí - SC,in
-4,321,Luan Pereira,Avaí - SC,out
-5,321,Mauro,Avaí - SC,in
-6,321,Allione,Bahia - BA,out
-7,321,Matheus Sales,Bahia - BA,in
-8,321,Mendoza,Bahia - BA,out
-9,321,Regis,Bahia - BA,in
-10,321,Rene Junior,Bahia - BA,out
-11,321,Feijao,Bahia - BA,in
-12,322,Elton,Ponte Preta - SP,out
-13,322,Leonardo,Ponte Preta - SP,in
-14,322,Naldo,Ponte Preta - SP,out
-15,322,Léo Artur,Ponte Preta - SP,in
-16,322,Jeferson,Ponte Preta - SP,out
-17,322,Saraiva,Ponte Preta - SP,in
-18,322,Ramiro,Grêmio - RS,out
-19,322,Leonardo,Grêmio - RS,in
-20,322,Jael,Grêmio - RS,out
-21,322,Beto da Silva,Grêmio - RS,in
-22,322,Jailson,Grêmio - RS,out
-23,322,Fernandinho,Grêmio - RS,in
-24,323,Wesley,Sport - PE,out
-25,323,Marquinhos,Sport - PE,in
-26,323,Rogerio,Sport - PE,out
-27,323,R. Lenis,Sport - PE,in
-28,323,Samuel,Sport - PE,out
-29,323,Thomas,Sport - PE,in
-30,323,Brenner,Botafogo - RJ,out
-31,323,Guilherme Augusto,Botafogo - RJ,in
-32,323,Rodrigo,Botafogo - RJ,out
-33,323,Matheus Fernandes,Botafogo - RJ,in
-34,323,Joao Paulo,Botafogo - RJ,out
-35,323,Gilson,Botafogo - RJ,in
-36,324,Nikao,Atlético - PR,out
-37,324,Pablo,Atlético - PR,in
-38,324,Gedoz,Atlético - PR,out
-39,324,Douglas,Atlético - PR,in
-40,324,Lucas Fernandes,Atlético - PR,out
-41,324,Matheus,Atlético - PR,in
-42,324,Walter,Corinthians - SP,out
-43,324,Caique,Corinthians - SP,in
-44,324,Maycon,Corinthians - SP,out
-45,324,Paulo Roberto,Corinthians - SP,in
-46,324,Clayson,Corinthians - SP,out
-47,324,Giovanni Augusto,Corinthians - SP,in
-48,325,Everton Ribeiro,Flamengo - RJ,out
-49,325,Rodinei,Flamengo - RJ,in
-50,325,Lucas Paquetá,Flamengo - RJ,out
-51,325,Vinicius Jr.,Flamengo - RJ,in
-52,325,Rafael Marques,Cruzeiro - MG,out
-53,325,Rafael Sobis,Cruzeiro - MG,in
-54,325,Robinho,Cruzeiro - MG,out
-55,325,Jonata,Cruzeiro - MG,in
-56,325,Alisson,Cruzeiro - MG,out
-57,325,Elber,Cruzeiro - MG,in
-58,326,David Braz,Santos - SP,out
-59,326,Luiz,Santos - SP,in
-60,326,Ricardo Oliveira,Santos - SP,out
-61,326,Copete,Santos - SP,in
-62,326,Alison,Santos - SP,out
-63,326,Kayke,Santos - SP,in
-64,326,Gabriel,Vasco da Gama - RJ,out
-65,326,Jordi,Vasco da Gama - RJ,in
-66,326,Yago,Vasco da Gama - RJ,out
-67,326,Eder,Vasco da Gama - RJ,in
-68,326,Jean,Vasco da Gama - RJ,out
-69,326,Evander,Vasco da Gama - RJ,in
-70,327,Fillipe Soutto,Vitória - BA,out
-71,327,Ramon,Vitória - BA,in
-72,327,Yago Felipe,Vitória - BA,out
-73,327,Rene,Vitória - BA,in
-74,327,Welison,Vitória - BA,out
-75,327,Carlos Eduardo,Vitória - BA,in
-76,327,Bruno,Palmeiras - SP,out
-77,327,Fernando,Palmeiras - SP,in
-78,327,Erik,Palmeiras - SP,out
-79,327,Roger Guedes,Palmeiras - SP,in
-80,327,Keno,Palmeiras - SP,out
-81,327,Guerra,Palmeiras - SP,in
-82,328,Petros,São Paulo - SP,out
-83,328,Maicosuel,São Paulo - SP,in
-84,328,Felipe,São Paulo - SP,out
-85,328,Lucas,São Paulo - SP,in
-86,328,Shaylon,São Paulo - SP,out
-87,328,Gilberto,São Paulo - SP,in
-88,328,Luiz Antonio,Chapecoense - SC,out
-89,328,Joao Pedro,Chapecoense - SC,in
-90,328,Moises,Chapecoense - SC,out
-91,328,Elicarlos,Chapecoense - SC,in
-92,328,Arthur,Chapecoense - SC,out
-93,328,Lucas,Chapecoense - SC,in
-94,329,Adilson,Atlético - MG,out
-95,329,Yago Henrique Severino dos Santos,Atlético - MG,in
-96,329,Valdivia,Atlético - MG,out
-97,329,Gustavo,Atlético - MG,in
-98,329,Cazares,Atlético - MG,out
-99,329,Luan,Atlético - MG,in
-100,329,Diego Rosa,Atlético - GO,out
-101,329,Niltinho,Atlético - GO,in
-102,329,Andrigo,Atlético - GO,out
-103,329,Paulinho,Atlético - GO,in
-104,329,Igor,Atlético - GO,out
-105,329,Pedro,Atlético - GO,in
-106,330,Lucas,Fluminense - RJ,out
-107,330,Matheus Alessandro,Fluminense - RJ,in
-108,330,Marcos Jr,Fluminense - RJ,out
-109,330,Wellington Silva,Fluminense - RJ,in
-110,330,Mateus Norton,Fluminense - RJ,out
-111,330,Wendel,Fluminense - RJ,in
-112,330,Rildo,Coritiba - PR,out
-113,330,K. Giacomazzi,Coritiba - PR,in
-114,330,Yan Sasse,Coritiba - PR,out
-115,330,Getterson,Coritiba - PR,in
-116,330,Tiago Real,Coritiba - PR,out
-117,330,Dodô,Coritiba - PR,in
+match_num,player_name_2,player_team,player_status
+321,Marquinhos,Avaí - SC,out
+321,Simião,Avaí - SC,in
+321,Maicon,Avaí - SC,out
+321,Diego,Avaí - SC,in
+321,Luan Pereira,Avaí - SC,out
+321,Mauro,Avaí - SC,in
+321,Allione,Bahia - BA,out
+321,Matheus Sales,Bahia - BA,in
+321,Mendoza,Bahia - BA,out
+321,Regis,Bahia - BA,in
+321,Rene Junior,Bahia - BA,out
+321,Feijao,Bahia - BA,in
+322,Elton,Ponte Preta - SP,out
+322,Leonardo,Ponte Preta - SP,in
+322,Naldo,Ponte Preta - SP,out
+322,Léo Artur,Ponte Preta - SP,in
+322,Jeferson,Ponte Preta - SP,out
+322,Saraiva,Ponte Preta - SP,in
+322,Ramiro,Grêmio - RS,out
+322,Leonardo,Grêmio - RS,in
+322,Jael,Grêmio - RS,out
+322,Beto da Silva,Grêmio - RS,in
+322,Jailson,Grêmio - RS,out
+322,Fernandinho,Grêmio - RS,in
+323,Wesley,Sport - PE,out
+323,Marquinhos,Sport - PE,in
+323,Rogerio,Sport - PE,out
+323,R. Lenis,Sport - PE,in
+323,Samuel,Sport - PE,out
+323,Thomas,Sport - PE,in
+323,Brenner,Botafogo - RJ,out
+323,Guilherme Augusto,Botafogo - RJ,in
+323,Rodrigo,Botafogo - RJ,out
+323,Matheus Fernandes,Botafogo - RJ,in
+323,Joao Paulo,Botafogo - RJ,out
+323,Gilson,Botafogo - RJ,in
+324,Nikao,Atlético - PR,out
+324,Pablo,Atlético - PR,in
+324,Gedoz,Atlético - PR,out
+324,Douglas,Atlético - PR,in
+324,Lucas Fernandes,Atlético - PR,out
+324,Matheus,Atlético - PR,in
+324,Walter,Corinthians - SP,out
+324,Caique,Corinthians - SP,in
+324,Maycon,Corinthians - SP,out
+324,Paulo Roberto,Corinthians - SP,in
+324,Clayson,Corinthians - SP,out
+324,Giovanni Augusto,Corinthians - SP,in
+325,Everton Ribeiro,Flamengo - RJ,out
+325,Rodinei,Flamengo - RJ,in
+325,Lucas Paquetá,Flamengo - RJ,out
+325,Vinicius Jr.,Flamengo - RJ,in
+325,Rafael Marques,Cruzeiro - MG,out
+325,Rafael Sobis,Cruzeiro - MG,in
+325,Robinho,Cruzeiro - MG,out
+325,Jonata,Cruzeiro - MG,in
+325,Alisson,Cruzeiro - MG,out
+325,Elber,Cruzeiro - MG,in
+326,David Braz,Santos - SP,out
+326,Luiz,Santos - SP,in
+326,Ricardo Oliveira,Santos - SP,out
+326,Copete,Santos - SP,in
+326,Alison,Santos - SP,out
+326,Kayke,Santos - SP,in
+326,Gabriel,Vasco da Gama - RJ,out
+326,Jordi,Vasco da Gama - RJ,in
+326,Yago,Vasco da Gama - RJ,out
+326,Eder,Vasco da Gama - RJ,in
+326,Jean,Vasco da Gama - RJ,out
+326,Evander,Vasco da Gama - RJ,in
+327,Fillipe Soutto,Vitória - BA,out
+327,Ramon,Vitória - BA,in
+327,Yago Felipe,Vitória - BA,out
+327,Rene,Vitória - BA,in
+327,Welison,Vitória - BA,out
+327,Carlos Eduardo,Vitória - BA,in
+327,Bruno,Palmeiras - SP,out
+327,Fernando,Palmeiras - SP,in
+327,Erik,Palmeiras - SP,out
+327,Roger Guedes,Palmeiras - SP,in
+327,Keno,Palmeiras - SP,out
+327,Guerra,Palmeiras - SP,in
+328,Petros,São Paulo - SP,out
+328,Maicosuel,São Paulo - SP,in
+328,Felipe,São Paulo - SP,out
+328,Lucas,São Paulo - SP,in
+328,Shaylon,São Paulo - SP,out
+328,Gilberto,São Paulo - SP,in
+328,Luiz Antonio,Chapecoense - SC,out
+328,Joao Pedro,Chapecoense - SC,in
+328,Moises,Chapecoense - SC,out
+328,Elicarlos,Chapecoense - SC,in
+328,Arthur,Chapecoense - SC,out
+328,Lucas,Chapecoense - SC,in
+329,Adilson,Atlético - MG,out
+329,Yago Henrique Severino dos Santos,Atlético - MG,in
+329,Valdivia,Atlético - MG,out
+329,Gustavo,Atlético - MG,in
+329,Cazares,Atlético - MG,out
+329,Luan,Atlético - MG,in
+329,Diego Rosa,Atlético - GO,out
+329,Niltinho,Atlético - GO,in
+329,Andrigo,Atlético - GO,out
+329,Paulinho,Atlético - GO,in
+329,Igor,Atlético - GO,out
+329,Pedro,Atlético - GO,in
+330,Lucas,Fluminense - RJ,out
+330,Matheus Alessandro,Fluminense - RJ,in
+330,Marcos Jr,Fluminense - RJ,out
+330,Wellington Silva,Fluminense - RJ,in
+330,Mateus Norton,Fluminense - RJ,out
+330,Wendel,Fluminense - RJ,in
+330,Rildo,Coritiba - PR,out
+330,K. Giacomazzi,Coritiba - PR,in
+330,Yan Sasse,Coritiba - PR,out
+330,Getterson,Coritiba - PR,in
+330,Tiago Real,Coritiba - PR,out
+330,Dodô,Coritiba - PR,in

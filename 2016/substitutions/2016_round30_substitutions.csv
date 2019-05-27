@@ -1,121 +1,121 @@
-,match_num,player_name_2,player_team,player_status
-0,291,Cleber Santana,Chapecoense - SC,out
-1,291,Lucas,Chapecoense - SC,in
-2,291,Ananias,Chapecoense - SC,out
-3,291,Hyoran,Chapecoense - SC,in
-4,291,Alan Ruschel,Chapecoense - SC,out
-5,291,Arthur,Chapecoense - SC,in
-6,291,Diego Souza,Sport - PE,out
-7,291,Vinicius Araujo,Sport - PE,in
-8,291,Rogerio,Sport - PE,out
-9,291,Edmilson dos Santos Silva,Sport - PE,in
-10,291,Everton Felipe,Sport - PE,out
-11,291,Apodi,Sport - PE,in
-12,292,Pierre,Fluminense - RJ,out
-13,292,Marquinho,Fluminense - RJ,in
-14,292,Marcos Jr,Fluminense - RJ,out
-15,292,Magno Alves,Fluminense - RJ,in
-16,292,Richarlison,Fluminense - RJ,out
-17,292,Henrique Dourado,Fluminense - RJ,in
-18,292,Alan Patrick,Flamengo - RJ,out
-19,292,Everton,Flamengo - RJ,in
-20,292,Leandro Damiao,Flamengo - RJ,out
-21,292,Emerson Sheik,Flamengo - RJ,in
-22,292,Fernandinho,Flamengo - RJ,out
-23,292,Marcelo Cirino,Flamengo - RJ,in
-24,293,Nery Bareiro,Coritiba - PR,out
-25,293,W. Maia,Coritiba - PR,in
-26,293,Cesar Benitez,Coritiba - PR,out
-27,293,Cesar Gonzales,Coritiba - PR,in
-28,293,Kazim-richards,Coritiba - PR,out
-29,293,Vinicius,Coritiba - PR,in
-30,293,Lins,Figueirense - SC,out
-31,293,Gustavo Ermel,Figueirense - SC,in
-32,293,Dodo,Figueirense - SC,out
-33,293,Elvis,Figueirense - SC,in
-34,293,Renato,Figueirense - SC,out
-35,293,Ferrugem,Figueirense - SC,in
-36,294,Dudu Cearense,Botafogo - RJ,out
-37,294,Pimpao,Botafogo - RJ,in
-38,294,Neilton,Botafogo - RJ,out
-39,294,Gervasio,Botafogo - RJ,in
-40,294,Vinicius,Botafogo - RJ,out
-41,294,Sassá,Botafogo - RJ,in
-42,294,Alex,Internacional - RS,out
-43,294,Seijas,Internacional - RS,in
-44,294,Ceara,Internacional - RS,out
-45,294,Geferson,Internacional - RS,in
-46,294,Valdivia,Internacional - RS,out
-47,294,Eduardo Sasha,Internacional - RS,in
-48,295,Moises,Palmeiras - SP,out
-49,295,Alecsandro,Palmeiras - SP,in
-50,295,Dudu,Palmeiras - SP,out
-51,295,Cleiton Xavier,Palmeiras - SP,in
-52,295,Roger Guedes,Palmeiras - SP,out
-53,295,Rafael Marques,Palmeiras - SP,in
-54,295,Rafael Sobis,Cruzeiro - MG,out
-55,295,Ariel Cabral,Cruzeiro - MG,in
-56,295,Robinho,Cruzeiro - MG,out
-57,295,De Arrascaeta,Cruzeiro - MG,in
-58,295,Ábila,Cruzeiro - MG,out
-59,295,Willian,Cruzeiro - MG,in
-60,296,Jadson,Santa Cruz - PE,out
-61,296,Marion,Santa Cruz - PE,in
-62,296,Joao Paulo,Santa Cruz - PE,out
-63,296,Wagner,Santa Cruz - PE,in
-64,296,Grafite,Santa Cruz - PE,out
-65,296,Bruno Moraes,Santa Cruz - PE,in
-66,296,Camacho,Corinthians - SP,out
-67,296,Willians,Corinthians - SP,in
-68,296,Guilherme,Corinthians - SP,out
-69,296,Lucca,Corinthians - SP,in
-70,296,Giovanni Augusto,Corinthians - SP,out
-71,296,Cristian,Corinthians - SP,in
-72,297,Wendel,Ponte Preta - SP,out
-73,297,Matheus Sousa de Jesus,Ponte Preta - SP,in
-74,297,Rhayner,Ponte Preta - SP,out
-75,297,William,Ponte Preta - SP,in
-76,297,Maycon,Ponte Preta - SP,out
-77,297,Elton,Ponte Preta - SP,in
-78,297,Ze Eduardo,Vitória - BA,out
-79,297,Vander,Vitória - BA,in
-80,297,Tiago Real,Vitória - BA,out
-81,297,David,Vitória - BA,in
-82,297,Cardenas,Vitória - BA,out
-83,297,Sergio,Vitória - BA,in
-84,298,Robinho,Atlético - MG,out
-85,298,Patric,Atlético - MG,in
-86,298,Rafael Carioca,Atlético - MG,out
-87,298,Yago Henrique Severino dos Santos,Atlético - MG,in
-88,298,Clayton,Atlético - MG,out
-89,298,Lucas Pratto,Atlético - MG,in
-90,298,Nixon,América - MG,out
-91,298,Matheusinho,América - MG,in
-92,298,Messias,América - MG,out
-93,298,Claudinei,América - MG,in
-94,298,Tony,América - MG,out
-95,298,Danilo,América - MG,in
-96,299,Douglas,Grêmio - RS,out
-97,299,Lincoln,Grêmio - RS,in
-98,299,Ramiro,Grêmio - RS,out
-99,299,Jailson,Grêmio - RS,in
-100,299,Pedro Rocha,Grêmio - RS,out
-101,299,Everton,Grêmio - RS,in
-102,299,Marcos Guilherme,Atlético - PR,out
-103,299,Juninho,Atlético - PR,in
-104,299,Paulo Andre,Atlético - PR,out
-105,299,Wanderson,Atlético - PR,in
-106,299,Matheus,Atlético - PR,out
-107,299,Guilherme,Atlético - PR,in
-108,300,Carlinhos,São Paulo - SP,out
-109,300,Kelvin,São Paulo - SP,in
-110,300,Hudson,São Paulo - SP,out
-111,300,Jean Carlos,São Paulo - SP,in
-112,300,Wesley,São Paulo - SP,out
-113,300,Cueva,São Paulo - SP,in
-114,300,Victor Ferraz,Santos - SP,out
-115,300,Daniel Guedes,Santos - SP,in
-116,300,Renato,Santos - SP,out
-117,300,Noguera,Santos - SP,in
-118,300,Lucas Lima,Santos - SP,out
-119,300,Yuri,Santos - SP,in
+match_num,player_name_2,player_team,player_status
+291,Cleber Santana,Chapecoense - SC,out
+291,Lucas,Chapecoense - SC,in
+291,Ananias,Chapecoense - SC,out
+291,Hyoran,Chapecoense - SC,in
+291,Alan Ruschel,Chapecoense - SC,out
+291,Arthur,Chapecoense - SC,in
+291,Diego Souza,Sport - PE,out
+291,Vinicius Araujo,Sport - PE,in
+291,Rogerio,Sport - PE,out
+291,Edmilson dos Santos Silva,Sport - PE,in
+291,Everton Felipe,Sport - PE,out
+291,Apodi,Sport - PE,in
+292,Pierre,Fluminense - RJ,out
+292,Marquinho,Fluminense - RJ,in
+292,Marcos Jr,Fluminense - RJ,out
+292,Magno Alves,Fluminense - RJ,in
+292,Richarlison,Fluminense - RJ,out
+292,Henrique Dourado,Fluminense - RJ,in
+292,Alan Patrick,Flamengo - RJ,out
+292,Everton,Flamengo - RJ,in
+292,Leandro Damiao,Flamengo - RJ,out
+292,Emerson Sheik,Flamengo - RJ,in
+292,Fernandinho,Flamengo - RJ,out
+292,Marcelo Cirino,Flamengo - RJ,in
+293,Nery Bareiro,Coritiba - PR,out
+293,W. Maia,Coritiba - PR,in
+293,Cesar Benitez,Coritiba - PR,out
+293,Cesar Gonzales,Coritiba - PR,in
+293,Kazim-richards,Coritiba - PR,out
+293,Vinicius,Coritiba - PR,in
+293,Lins,Figueirense - SC,out
+293,Gustavo Ermel,Figueirense - SC,in
+293,Dodo,Figueirense - SC,out
+293,Elvis,Figueirense - SC,in
+293,Renato,Figueirense - SC,out
+293,Ferrugem,Figueirense - SC,in
+294,Dudu Cearense,Botafogo - RJ,out
+294,Pimpao,Botafogo - RJ,in
+294,Neilton,Botafogo - RJ,out
+294,Gervasio,Botafogo - RJ,in
+294,Vinicius,Botafogo - RJ,out
+294,Sassá,Botafogo - RJ,in
+294,Alex,Internacional - RS,out
+294,Seijas,Internacional - RS,in
+294,Ceara,Internacional - RS,out
+294,Geferson,Internacional - RS,in
+294,Valdivia,Internacional - RS,out
+294,Eduardo Sasha,Internacional - RS,in
+295,Moises,Palmeiras - SP,out
+295,Alecsandro,Palmeiras - SP,in
+295,Dudu,Palmeiras - SP,out
+295,Cleiton Xavier,Palmeiras - SP,in
+295,Roger Guedes,Palmeiras - SP,out
+295,Rafael Marques,Palmeiras - SP,in
+295,Rafael Sobis,Cruzeiro - MG,out
+295,Ariel Cabral,Cruzeiro - MG,in
+295,Robinho,Cruzeiro - MG,out
+295,De Arrascaeta,Cruzeiro - MG,in
+295,Ábila,Cruzeiro - MG,out
+295,Willian,Cruzeiro - MG,in
+296,Jadson,Santa Cruz - PE,out
+296,Marion,Santa Cruz - PE,in
+296,Joao Paulo,Santa Cruz - PE,out
+296,Wagner,Santa Cruz - PE,in
+296,Grafite,Santa Cruz - PE,out
+296,Bruno Moraes,Santa Cruz - PE,in
+296,Camacho,Corinthians - SP,out
+296,Willians,Corinthians - SP,in
+296,Guilherme,Corinthians - SP,out
+296,Lucca,Corinthians - SP,in
+296,Giovanni Augusto,Corinthians - SP,out
+296,Cristian,Corinthians - SP,in
+297,Wendel,Ponte Preta - SP,out
+297,Matheus Sousa de Jesus,Ponte Preta - SP,in
+297,Rhayner,Ponte Preta - SP,out
+297,William,Ponte Preta - SP,in
+297,Maycon,Ponte Preta - SP,out
+297,Elton,Ponte Preta - SP,in
+297,Ze Eduardo,Vitória - BA,out
+297,Vander,Vitória - BA,in
+297,Tiago Real,Vitória - BA,out
+297,David,Vitória - BA,in
+297,Cardenas,Vitória - BA,out
+297,Sergio,Vitória - BA,in
+298,Robinho,Atlético - MG,out
+298,Patric,Atlético - MG,in
+298,Rafael Carioca,Atlético - MG,out
+298,Yago Henrique Severino dos Santos,Atlético - MG,in
+298,Clayton,Atlético - MG,out
+298,Lucas Pratto,Atlético - MG,in
+298,Nixon,América - MG,out
+298,Matheusinho,América - MG,in
+298,Messias,América - MG,out
+298,Claudinei,América - MG,in
+298,Tony,América - MG,out
+298,Danilo,América - MG,in
+299,Douglas,Grêmio - RS,out
+299,Lincoln,Grêmio - RS,in
+299,Ramiro,Grêmio - RS,out
+299,Jailson,Grêmio - RS,in
+299,Pedro Rocha,Grêmio - RS,out
+299,Everton,Grêmio - RS,in
+299,Marcos Guilherme,Atlético - PR,out
+299,Juninho,Atlético - PR,in
+299,Paulo Andre,Atlético - PR,out
+299,Wanderson,Atlético - PR,in
+299,Matheus,Atlético - PR,out
+299,Guilherme,Atlético - PR,in
+300,Carlinhos,São Paulo - SP,out
+300,Kelvin,São Paulo - SP,in
+300,Hudson,São Paulo - SP,out
+300,Jean Carlos,São Paulo - SP,in
+300,Wesley,São Paulo - SP,out
+300,Cueva,São Paulo - SP,in
+300,Victor Ferraz,Santos - SP,out
+300,Daniel Guedes,Santos - SP,in
+300,Renato,Santos - SP,out
+300,Noguera,Santos - SP,in
+300,Lucas Lima,Santos - SP,out
+300,Yuri,Santos - SP,in

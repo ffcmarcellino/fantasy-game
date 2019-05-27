@@ -1,0 +1,115 @@
+match_num,player_name_2,player_team,player_status
+1,Lucas,Flamengo - RJ,out
+1,Matheus,Flamengo - RJ,in
+1,Amaral,Flamengo - RJ,out
+1,Gabriel,Flamengo - RJ,in
+1,Rychely,Goiás - GO,out
+1,Tiago Real,Goiás - GO,in
+1,Joao Paulo,Goiás - GO,out
+1,Ramon,Goiás - GO,in
+1,Araujo,Goiás - GO,out
+1,Welinton,Goiás - GO,in
+2,Diguinho,Fluminense - RJ,out
+2,Valencia,Fluminense - RJ,in
+2,Rafael Sobis,Fluminense - RJ,out
+2,Walter,Fluminense - RJ,in
+2,Wagner,Fluminense - RJ,out
+2,Diego,Fluminense - RJ,in
+2,Dudu,Figueirense - SC,out
+2,Vitor Junior,Figueirense - SC,in
+2,Lucio,Figueirense - SC,out
+2,Nem,Figueirense - SC,in
+2,Marcos Assuncao,Figueirense - SC,out
+2,Paulo Roberto,Figueirense - SC,in
+3,Alexandre Pato,São Paulo - SP,out
+3,Osvaldo,São Paulo - SP,in
+3,Gabriel,São Paulo - SP,out
+3,Pabon,São Paulo - SP,in
+3,Alvaro Pereira,São Paulo - SP,out
+3,Reinaldo,São Paulo - SP,in
+3,Edilson,Botafogo - RJ,out
+3,Lucas,Botafogo - RJ,in
+3,Wallyson,Botafogo - RJ,out
+3,Bolatti,Botafogo - RJ,in
+3,Jorge Wagner Goes Conceicao,Botafogo - RJ,out
+3,Pablo Daniel,Botafogo - RJ,in
+4,Marcos,Santos - SP,out
+4,Alan Santos,Santos - SP,in
+4,Thiago Ribeiro,Santos - SP,out
+4,Lucas Lima,Santos - SP,in
+4,Neto,Santos - SP,out
+4,Jubal,Santos - SP,in
+4,Wendel,Sport - PE,out
+4,Ananias,Sport - PE,in
+4,Renan,Sport - PE,out
+4,Augusto Cesar,Sport - PE,in
+4,Ewerton,Sport - PE,out
+4,Rithely,Sport - PE,in
+5,Marcos Guilherme,Atletico - PR,out
+5,Mosquito,Atletico - PR,in
+5,João Paulo,Atletico - PR,out
+5,Otavio,Atletico - PR,in
+5,Ederson,Atletico - PR,out
+5,Lucas Olaza,Atletico - PR,in
+5,Pará,Grêmio - RS,out
+5,Everton,Grêmio - RS,in
+5,Bressan,Grêmio - RS,out
+5,Rodriguinho,Grêmio - RS,in
+5,Breno,Grêmio - RS,out
+5,Leo Gago,Grêmio - RS,in
+6,Guilherme,Atlético - MG,out
+6,Neto Berola,Atlético - MG,in
+6,Fernandinho,Atlético - MG,out
+6,Marion,Atlético - MG,in
+6,Jadson,Corinthians - SP,out
+6,Jose Paulo,Corinthians - SP,in
+6,Guilherme,Corinthians - SP,out
+6,Bruno,Corinthians - SP,in
+6,Luciano,Corinthians - SP,out
+6,Guerrero,Corinthians - SP,in
+7,Rafael,Bahia - BA,out
+7,Wilson,Bahia - BA,in
+7,Lincoln,Bahia - BA,out
+7,Lima,Bahia - BA,in
+7,Max,Bahia - BA,out
+7,Jeam,Bahia - BA,in
+7,Borges,Cruzeiro - MG,out
+7,Marcelo Moreno,Cruzeiro - MG,in
+7,Willian,Cruzeiro - MG,out
+7,Alisson,Cruzeiro - MG,in
+7,Tinga,Cruzeiro - MG,out
+7,Willian,Cruzeiro - MG,in
+8,Alex,Internacional - RS,out
+8,Jorge Henrique,Internacional - RS,in
+8,Dalessandro,Internacional - RS,out
+8,Ygor,Internacional - RS,in
+8,Alan Patrick,Internacional - RS,out
+8,Valdivia,Internacional - RS,in
+8,Neto,Vitória - BA,out
+8,Marcelo,Vitória - BA,in
+8,Mansur,Vitória - BA,out
+8,William Henrique,Vitória - BA,in
+8,Luis,Vitória - BA,out
+8,Vinicius,Vitória - BA,in
+9,Bruno,Criciuma - SC,out
+9,Vitor,Criciuma - SC,in
+9,Joao Vitor,Criciuma - SC,out
+9,Cortez,Criciuma - SC,in
+9,Paulo Baier,Criciuma - SC,out
+9,Wellington,Criciuma - SC,in
+9,Marquinhos Gabriel,Palmeiras - SP,out
+9,Weverson,Palmeiras - SP,in
+9,Bruno,Palmeiras - SP,out
+9,Rodolfo,Palmeiras - SP,in
+9,M. Oliveira,Palmeiras - SP,out
+9,W. Matheus,Palmeiras - SP,in
+10,Roni,Chapecoense - SC,out
+10,Fabinho Alves,Chapecoense - SC,in
+10,Abuda,Chapecoense - SC,out
+10,Willian Arão,Chapecoense - SC,in
+10,Regis,Chapecoense - SC,out
+10,Tiago Luis,Chapecoense - SC,in
+10,Victor Ferraz,Coritiba - PR,out
+10,Moacir,Coritiba - PR,in
+10,Ronei,Coritiba - PR,out
+10,Ze Eduardo,Coritiba - PR,in

@@ -1,0 +1,119 @@
+match_num,player_name_2,player_team,player_status
+61,Carlos Alberto Carvalho,Atlético - MG,out
+61,Maicosuel,Atlético - MG,in
+61,Lucas Pratto,Atlético - MG,out
+61,Jo,Atlético - MG,in
+61,Giovanni Augusto,Atlético - MG,out
+61,Guilherme,Atlético - MG,in
+61,Gigio,Santos - SP,out
+61,Thiago Maia,Santos - SP,in
+61,Elano,Santos - SP,out
+61,Rafael Longuine,Santos - SP,in
+61,Gabriel B.,Santos - SP,out
+61,Leandro,Santos - SP,in
+62,Petros,Corinthians - SP,out
+62,Vagner Love,Corinthians - SP,in
+62,Cristian,Corinthians - SP,out
+62,Ralf,Corinthians - SP,in
+62,Angel Romero,Corinthians - SP,out
+62,Danilo,Corinthians - SP,in
+62,Jorge Henrique,Internacional - RS,out
+62,Vitinho,Internacional - RS,in
+62,Alan Costa,Internacional - RS,out
+62,Taiberson,Internacional - RS,in
+62,Nicolas,Internacional - RS,out
+62,Nilton,Internacional - RS,in
+63,Helder,Coritiba - PR,out
+63,Marcos Aurelio,Coritiba - PR,in
+63,Henrique,Coritiba - PR,out
+63,Negueba,Coritiba - PR,in
+63,Fabricio,Coritiba - PR,out
+63,Thiago,Coritiba - PR,in
+63,Everton,Flamengo - RJ,out
+63,Arthur,Flamengo - RJ,in
+63,Gabriel,Flamengo - RJ,out
+63,Paulinho,Flamengo - RJ,in
+63,Eduardo da Silva,Flamengo - RJ,out
+63,Marcelo Cirino,Flamengo - RJ,in
+64,Elicarlos,Chapecoense - SC,out
+64,Bruno Rangel,Chapecoense - SC,in
+64,Ananias,Chapecoense - SC,out
+64,Maranhão,Chapecoense - SC,in
+64,Wagner,Chapecoense - SC,out
+64,Camilo,Chapecoense - SC,in
+64,Carlinhos,São Paulo - SP,out
+64,Auro,São Paulo - SP,in
+64,Hudson,São Paulo - SP,out
+64,Wesley,São Paulo - SP,in
+64,Reinaldo,São Paulo - SP,out
+64,Alexandre Pato,São Paulo - SP,in
+65,Jhon,Vasco da Gama - RJ,out
+65,Thalles,Vasco da Gama - RJ,in
+65,Jackson Caucaia,Vasco da Gama - RJ,out
+65,Julio dos Santos,Vasco da Gama - RJ,in
+65,Diguinho,Vasco da Gama - RJ,out
+65,Yago,Vasco da Gama - RJ,in
+65,Allano,Cruzeiro - MG,out
+65,Bruno Ramires,Cruzeiro - MG,in
+65,Mayke,Cruzeiro - MG,out
+65,Fabiano,Cruzeiro - MG,in
+65,Willian,Cruzeiro - MG,out
+65,Joel,Cruzeiro - MG,in
+66,Matheus Ferraz,Sport - PE,out
+66,Ewerton,Sport - PE,in
+66,Samuel,Sport - PE,out
+66,Andre,Sport - PE,in
+66,Neto,Sport - PE,out
+66,Danilo,Sport - PE,in
+66,Rafael Costa,Joinville - SC,out
+66,Kempes,Joinville - SC,in
+66,Tiago Luis,Joinville - SC,out
+66,Marcelinho Paraiba,Joinville - SC,in
+66,Willian Popp,Joinville - SC,out
+66,Jael,Joinville - SC,in
+67,Marcos,Palmeiras - SP,out
+67,Cristaldo,Palmeiras - SP,in
+67,Cleiton Xavier,Palmeiras - SP,out
+67,Robinho,Palmeiras - SP,in
+67,Ze Roberto,Palmeiras - SP,out
+67,Alecsandro,Palmeiras - SP,in
+67,Vinicius,Fluminense - RJ,out
+67,Marcos Jr,Fluminense - RJ,in
+67,Antonio Carlos,Fluminense - RJ,out
+67,Carlos Henrique,Fluminense - RJ,in
+67,Gerson,Fluminense - RJ,out
+67,Lucas,Fluminense - RJ,in
+68,Diego,Ponte Preta - SP,out
+68,Cesar,Ponte Preta - SP,in
+68,Gilson,Ponte Preta - SP,out
+68,Juninho,Ponte Preta - SP,in
+68,Felipe Azevedo,Ponte Preta - SP,out
+68,Ronei,Ponte Preta - SP,in
+68,Felipe,Goiás - GO,out
+68,Wiliam,Goiás - GO,in
+68,Rodrigo,Goiás - GO,out
+68,Pericles,Goiás - GO,in
+68,Bruno,Goiás - GO,out
+68,Carlos,Goiás - GO,in
+69,Douglas,Grêmio - RS,out
+69,Braian Rodriguez,Grêmio - RS,in
+69,Giuliano,Grêmio - RS,out
+69,Yuri Mamute,Grêmio - RS,in
+69,Galhardo,Grêmio - RS,out
+69,Lucas Ramon,Grêmio - RS,in
+69,Douglas,Atlético - PR,out
+69,Felipe,Atlético - PR,in
+69,Nikao,Atlético - PR,out
+69,Giovanni,Atlético - PR,in
+69,Hernani,Atlético - PR,out
+69,Cleo,Atlético - PR,in
+70,Andre Lima,Avaí - SC,out
+70,Eduardo Costa,Avaí - SC,in
+70,Pablo,Avaí - SC,out
+70,William,Avaí - SC,in
+70,Yago Felipe,Figueirense - SC,out
+70,Thiago Santana,Figueirense - SC,in
+70,Clayton,Figueirense - SC,out
+70,Everaldo,Figueirense - SC,in
+70,Paulo Roberto,Figueirense - SC,out
+70,Saimon,Figueirense - SC,in

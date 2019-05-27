@@ -1,121 +1,121 @@
-,match_num,player_name_2,player_team,player_status
-0,331,Ze Eduardo,Vitória - BA,out
-1,331,David,Vitória - BA,in
-2,331,Flavio,Vitória - BA,out
-3,331,Cardenas,Vitória - BA,in
-4,331,Euller,Vitória - BA,out
-5,331,Diogo,Vitória - BA,in
-6,331,Nicolas,Atlético - PR,out
-7,331,Sidcley,Atlético - PR,in
-8,331,Lucas Fernandes,Atlético - PR,out
-9,331,Joao Pedro,Atlético - PR,in
-10,331,Otavio,Atlético - PR,out
-11,331,Deivid,Atlético - PR,in
-12,332,Willian Arão,Flamengo - RJ,out
-13,332,Leandro Damiao,Flamengo - RJ,in
-14,332,Gabriel,Flamengo - RJ,out
-15,332,Marcelo Cirino,Flamengo - RJ,in
-16,332,Fernandinho,Flamengo - RJ,out
-17,332,Emerson Sheik,Flamengo - RJ,in
-18,332,Airton,Botafogo - RJ,out
-19,332,Diogo,Botafogo - RJ,in
-20,332,Victor,Botafogo - RJ,out
-21,332,Gervasio,Botafogo - RJ,in
-22,332,Neilton,Botafogo - RJ,out
-23,332,Sassá,Botafogo - RJ,in
-24,333,Kelvin,São Paulo - SP,out
-25,333,Luiz,São Paulo - SP,in
-26,333,David Neres,São Paulo - SP,out
-27,333,Wesley,São Paulo - SP,in
-28,333,Chavez,São Paulo - SP,out
-29,333,Pedro,São Paulo - SP,in
-30,333,Guilherme,Corinthians - SP,out
-31,333,Camacho,Corinthians - SP,in
-32,333,Uendel,Corinthians - SP,out
-33,333,Guilherme Arana,Corinthians - SP,in
-34,333,Marquinhos Gabriel,Corinthians - SP,out
-35,333,Rildo,Corinthians - SP,in
-36,334,Cleiton Xavier,Palmeiras - SP,out
-37,334,Fabiano,Palmeiras - SP,in
-38,334,Thiago Santos,Palmeiras - SP,out
-39,334,Gabriel,Palmeiras - SP,in
-40,334,Roger Guedes,Palmeiras - SP,out
-41,334,Alecsandro,Palmeiras - SP,in
-42,334,Ceara,Internacional - RS,out
-43,334,Eduardo Sasha,Internacional - RS,in
-44,334,Alex,Internacional - RS,out
-45,334,Valdivia,Internacional - RS,in
-46,334,Aylon,Internacional - RS,out
-47,334,Diego,Internacional - RS,in
-48,335,Willian,Cruzeiro - MG,out
-49,335,Ábila,Cruzeiro - MG,in
-50,335,Alisson,Cruzeiro - MG,out
-51,335,Bruno Nazario,Cruzeiro - MG,in
-52,335,De Arrascaeta,Cruzeiro - MG,out
-53,335,Alex Sandro,Cruzeiro - MG,in
-54,335,Wellington Silva,Fluminense - RJ,out
-55,335,Marcos Jr,Fluminense - RJ,in
-56,335,Richarlison,Fluminense - RJ,out
-57,335,Magno Alves,Fluminense - RJ,in
-58,335,Aquino,Fluminense - RJ,out
-59,335,Danilinho,Fluminense - RJ,in
-60,336,H. Almeida,Grêmio - RS,out
-61,336,Batista,Grêmio - RS,in
-62,336,Negueba,Grêmio - RS,out
-63,336,Sandows,Grêmio - RS,in
-64,336,Pedro Rocha,Grêmio - RS,out
-65,336,Guilherme Augusto,Grêmio - RS,in
-66,336,Apodi,Sport - PE,out
-67,336,Serginho,Sport - PE,in
-68,336,Rogerio,Sport - PE,out
-69,336,R. Lenis,Sport - PE,in
-70,336,Ronaldo,Sport - PE,out
-71,336,Rodrigo Mancha,Sport - PE,in
-72,337,Juan,Coritiba - PR,out
-73,337,Geovane,Coritiba - PR,in
-74,337,Raphael Veiga,Coritiba - PR,out
-75,337,Edinho,Coritiba - PR,in
-76,337,Cesar Gonzales,Coritiba - PR,out
-77,337,Kazim-richards,Coritiba - PR,in
-78,337,Luan,Atlético - MG,out
-79,337,Robinho,Atlético - MG,in
-80,337,Cazares,Atlético - MG,out
-81,337,Maicosuel,Atlético - MG,in
-82,337,Otero,Atlético - MG,out
-83,337,Fred,Atlético - MG,in
-84,338,Gil,Chapecoense - SC,out
-85,338,Hyoran,Chapecoense - SC,in
-86,338,Ananias,Chapecoense - SC,out
-87,338,Lucas,Chapecoense - SC,in
-88,338,Tiago Rocha,Chapecoense - SC,out
-89,338,Kempes,Chapecoense - SC,in
-90,338,Lins,Figueirense - SC,out
-91,338,Rafael Silva,Figueirense - SC,in
-92,338,Ferrugem,Figueirense - SC,out
-93,338,Renato,Figueirense - SC,in
-94,338,Bady,Figueirense - SC,out
-95,338,Everton Santos,Figueirense - SC,in
-96,339,Joao Vitor,Ponte Preta - SP,out
-97,339,Abuda,Ponte Preta - SP,in
-98,339,Wendel,Ponte Preta - SP,out
-99,339,Thiago,Ponte Preta - SP,in
-100,339,Maycon,Ponte Preta - SP,out
-101,339,Elton,Ponte Preta - SP,in
-102,339,Sousa,Santos - SP,out
-103,339,Arthur,Santos - SP,in
-104,339,Vitor Bueno,Santos - SP,out
-105,339,Leo Cittadini,Santos - SP,in
-106,339,Noguera,Santos - SP,out
-107,339,Yuri,Santos - SP,in
-108,340,Grafite,Santa Cruz - PE,out
-109,340,Bruno Moraes,Santa Cruz - PE,in
-110,340,Vitor,Santa Cruz - PE,out
-111,340,Arthur,Santa Cruz - PE,in
-112,340,Jadson,Santa Cruz - PE,out
-113,340,Danilo,Santa Cruz - PE,in
-114,340,Eder,América - MG,out
-115,340,Roger,América - MG,in
-116,340,Matheusinho,América - MG,out
-117,340,Renato Bruno,América - MG,in
-118,340,Leandro Luchese,América - MG,out
-119,340,Danilo,América - MG,in
+match_num,player_name_2,player_team,player_status
+331,Ze Eduardo,Vitória - BA,out
+331,David,Vitória - BA,in
+331,Flavio,Vitória - BA,out
+331,Cardenas,Vitória - BA,in
+331,Euller,Vitória - BA,out
+331,Diogo,Vitória - BA,in
+331,Nicolas,Atlético - PR,out
+331,Sidcley,Atlético - PR,in
+331,Lucas Fernandes,Atlético - PR,out
+331,Joao Pedro,Atlético - PR,in
+331,Otavio,Atlético - PR,out
+331,Deivid,Atlético - PR,in
+332,Willian Arão,Flamengo - RJ,out
+332,Leandro Damiao,Flamengo - RJ,in
+332,Gabriel,Flamengo - RJ,out
+332,Marcelo Cirino,Flamengo - RJ,in
+332,Fernandinho,Flamengo - RJ,out
+332,Emerson Sheik,Flamengo - RJ,in
+332,Airton,Botafogo - RJ,out
+332,Diogo,Botafogo - RJ,in
+332,Victor,Botafogo - RJ,out
+332,Gervasio,Botafogo - RJ,in
+332,Neilton,Botafogo - RJ,out
+332,Sassá,Botafogo - RJ,in
+333,Kelvin,São Paulo - SP,out
+333,Luiz,São Paulo - SP,in
+333,David Neres,São Paulo - SP,out
+333,Wesley,São Paulo - SP,in
+333,Chavez,São Paulo - SP,out
+333,Pedro,São Paulo - SP,in
+333,Guilherme,Corinthians - SP,out
+333,Camacho,Corinthians - SP,in
+333,Uendel,Corinthians - SP,out
+333,Guilherme Arana,Corinthians - SP,in
+333,Marquinhos Gabriel,Corinthians - SP,out
+333,Rildo,Corinthians - SP,in
+334,Cleiton Xavier,Palmeiras - SP,out
+334,Fabiano,Palmeiras - SP,in
+334,Thiago Santos,Palmeiras - SP,out
+334,Gabriel,Palmeiras - SP,in
+334,Roger Guedes,Palmeiras - SP,out
+334,Alecsandro,Palmeiras - SP,in
+334,Ceara,Internacional - RS,out
+334,Eduardo Sasha,Internacional - RS,in
+334,Alex,Internacional - RS,out
+334,Valdivia,Internacional - RS,in
+334,Aylon,Internacional - RS,out
+334,Diego,Internacional - RS,in
+335,Willian,Cruzeiro - MG,out
+335,Ábila,Cruzeiro - MG,in
+335,Alisson,Cruzeiro - MG,out
+335,Bruno Nazario,Cruzeiro - MG,in
+335,De Arrascaeta,Cruzeiro - MG,out
+335,Alex Sandro,Cruzeiro - MG,in
+335,Wellington Silva,Fluminense - RJ,out
+335,Marcos Jr,Fluminense - RJ,in
+335,Richarlison,Fluminense - RJ,out
+335,Magno Alves,Fluminense - RJ,in
+335,Aquino,Fluminense - RJ,out
+335,Danilinho,Fluminense - RJ,in
+336,H. Almeida,Grêmio - RS,out
+336,Batista,Grêmio - RS,in
+336,Negueba,Grêmio - RS,out
+336,Sandows,Grêmio - RS,in
+336,Pedro Rocha,Grêmio - RS,out
+336,Guilherme Augusto,Grêmio - RS,in
+336,Apodi,Sport - PE,out
+336,Serginho,Sport - PE,in
+336,Rogerio,Sport - PE,out
+336,R. Lenis,Sport - PE,in
+336,Ronaldo,Sport - PE,out
+336,Rodrigo Mancha,Sport - PE,in
+337,Juan,Coritiba - PR,out
+337,Geovane,Coritiba - PR,in
+337,Raphael Veiga,Coritiba - PR,out
+337,Edinho,Coritiba - PR,in
+337,Cesar Gonzales,Coritiba - PR,out
+337,Kazim-richards,Coritiba - PR,in
+337,Luan,Atlético - MG,out
+337,Robinho,Atlético - MG,in
+337,Cazares,Atlético - MG,out
+337,Maicosuel,Atlético - MG,in
+337,Otero,Atlético - MG,out
+337,Fred,Atlético - MG,in
+338,Gil,Chapecoense - SC,out
+338,Hyoran,Chapecoense - SC,in
+338,Ananias,Chapecoense - SC,out
+338,Lucas,Chapecoense - SC,in
+338,Tiago Rocha,Chapecoense - SC,out
+338,Kempes,Chapecoense - SC,in
+338,Lins,Figueirense - SC,out
+338,Rafael Silva,Figueirense - SC,in
+338,Ferrugem,Figueirense - SC,out
+338,Renato,Figueirense - SC,in
+338,Bady,Figueirense - SC,out
+338,Everton Santos,Figueirense - SC,in
+339,Joao Vitor,Ponte Preta - SP,out
+339,Abuda,Ponte Preta - SP,in
+339,Wendel,Ponte Preta - SP,out
+339,Thiago,Ponte Preta - SP,in
+339,Maycon,Ponte Preta - SP,out
+339,Elton,Ponte Preta - SP,in
+339,Sousa,Santos - SP,out
+339,Arthur,Santos - SP,in
+339,Vitor Bueno,Santos - SP,out
+339,Leo Cittadini,Santos - SP,in
+339,Noguera,Santos - SP,out
+339,Yuri,Santos - SP,in
+340,Grafite,Santa Cruz - PE,out
+340,Bruno Moraes,Santa Cruz - PE,in
+340,Vitor,Santa Cruz - PE,out
+340,Arthur,Santa Cruz - PE,in
+340,Jadson,Santa Cruz - PE,out
+340,Danilo,Santa Cruz - PE,in
+340,Eder,América - MG,out
+340,Roger,América - MG,in
+340,Matheusinho,América - MG,out
+340,Renato Bruno,América - MG,in
+340,Leandro Luchese,América - MG,out
+340,Danilo,América - MG,in

@@ -1,119 +1,119 @@
-,match_num,player_name_2,player_team,player_status
-0,211,Roger,Ponte Preta - SP,out
-1,211,William,Ponte Preta - SP,in
-2,211,Abuda,Ponte Preta - SP,out
-3,211,Matheus Sousa de Jesus,Ponte Preta - SP,in
-4,211,Rhayner,Ponte Preta - SP,out
-5,211,Leonardo,Ponte Preta - SP,in
-6,211,Guilherme,Corinthians - SP,out
-7,211,Pedro,Corinthians - SP,in
-8,211,Rodriguinho,Corinthians - SP,out
-9,211,Lucca,Corinthians - SP,in
-10,211,Marquinhos Gabriel,Corinthians - SP,out
-11,211,Angel Romero,Corinthians - SP,in
-12,212,Robinho,Cruzeiro - MG,out
-13,212,Rafinha,Cruzeiro - MG,in
-14,212,Lucas Romero,Cruzeiro - MG,out
-15,212,Denilson,Cruzeiro - MG,in
-16,212,Ábila,Cruzeiro - MG,out
-17,212,Willian,Cruzeiro - MG,in
-18,212,Uillian Correia,Santa Cruz - PE,out
-19,212,Danilo,Santa Cruz - PE,in
-20,212,Derley,Santa Cruz - PE,out
-21,212,Wallyson,Santa Cruz - PE,in
-22,212,Matias Pisano,Santa Cruz - PE,out
-23,212,Marion,Santa Cruz - PE,in
-24,213,David Braz,Santos - SP,out
-25,213,Sousa,Santos - SP,in
-26,213,Vitor Bueno,Santos - SP,out
-27,213,Vecchio,Santos - SP,in
-28,213,Copete,Santos - SP,out
-29,213,Gabriel B.,Santos - SP,in
-30,213,Ferrugem,Figueirense - SC,out
-31,213,Renato,Figueirense - SC,in
-32,213,Marquinhos Silva,Figueirense - SC,out
-33,213,Bruno Alves,Figueirense - SC,in
-34,213,Elicarlos,Figueirense - SC,out
-35,213,Jefferson,Figueirense - SC,in
-36,214,Gustavo Scarpa,Fluminense - RJ,out
-37,214,Danilinho,Fluminense - RJ,in
-38,214,Douglas,Fluminense - RJ,out
-39,214,Marquinho,Fluminense - RJ,in
-40,214,Henrique Dourado,Fluminense - RJ,out
-41,214,Aquino,Fluminense - RJ,in
-42,214,Moises,Palmeiras - SP,out
-43,214,Cleiton Xavier,Palmeiras - SP,in
-44,214,Erik,Palmeiras - SP,out
-45,214,Roger Guedes,Palmeiras - SP,in
-46,214,Gabriel,Palmeiras - SP,out
-47,214,Marcos,Palmeiras - SP,in
-48,215,Michel Bastos,São Paulo - SP,out
-49,215,Luiz,São Paulo - SP,in
-50,215,Kelvin,São Paulo - SP,out
-51,215,Pedro,São Paulo - SP,in
-52,215,João Paulo,Coritiba - PR,out
-53,215,W. Maia,Coritiba - PR,in
-54,215,Neto Berola,Coritiba - PR,out
-55,215,Ortega,Coritiba - PR,in
-56,215,Vinicius,Coritiba - PR,out
-57,215,Iago Dias,Coritiba - PR,in
-58,216,Douglas,Grêmio - RS,out
-59,216,Ramiro,Grêmio - RS,in
-60,216,Jailson,Grêmio - RS,out
-61,216,Guilherme Augusto,Grêmio - RS,in
-62,216,Miller Bolaños,Grêmio - RS,out
-63,216,H. Almeida,Grêmio - RS,in
-64,216,Lucas Candido,Atlético - MG,out
-65,216,Douglas Santos,Atlético - MG,in
-66,216,Fred,Atlético - MG,out
-67,216,Robinho,Atlético - MG,in
-68,216,Fabio Santos,Atlético - MG,out
-69,216,Otero,Atlético - MG,in
-70,217,Josimar,Chapecoense - SC,out
-71,217,Sergio Manoel,Chapecoense - SC,in
-72,217,Hyoran,Chapecoense - SC,out
-73,217,Arthur,Chapecoense - SC,in
-74,217,Martinucio,Chapecoense - SC,out
-75,217,Lucas,Chapecoense - SC,in
-76,217,Everton,Flamengo - RJ,out
-77,217,Mancuello,Flamengo - RJ,in
-78,217,Gabriel,Flamengo - RJ,out
-79,217,Leandro Damiao,Flamengo - RJ,in
-80,217,Diego,Flamengo - RJ,out
-81,217,Cuellar,Flamengo - RJ,in
-82,218,Willian,Vitória - BA,out
-83,218,Welison,Vitória - BA,in
-84,218,Vander,Vitória - BA,out
-85,218,David,Vitória - BA,in
-86,218,Cardenas,Vitória - BA,out
-87,218,Sergio,Vitória - BA,in
-88,218,Leandro Luchese,América - MG,out
-89,218,Diego,América - MG,in
-90,218,Michael,América - MG,out
-91,218,Nilson,América - MG,in
-92,218,Matheusinho,América - MG,out
-93,218,Danilo,América - MG,in
-94,219,Edmilson dos Santos Silva,Sport - PE,out
-95,219,L. Ruiz,Sport - PE,in
-96,219,Rene,Sport - PE,out
-97,219,Vinicius Araujo,Sport - PE,in
-98,219,Everton Felipe,Sport - PE,out
-99,219,Apodi,Sport - PE,in
-100,219,Fabinho,Internacional - RS,out
-101,219,Eduardo,Internacional - RS,in
-102,219,Eduardo Sasha,Internacional - RS,out
-103,219,Ariel,Internacional - RS,in
-104,219,William,Internacional - RS,out
-105,219,Fernando,Internacional - RS,in
-106,220,Andre Lima,Atlético - PR,out
-107,220,Marcos,Atlético - PR,in
-108,220,Luan,Atlético - PR,out
-109,220,Joao Pedro,Atlético - PR,in
-110,220,Lucas Fernandes,Atlético - PR,out
-111,220,Juninho,Atlético - PR,in
-112,220,Airton,Botafogo - RJ,out
-113,220,Salgueiro,Botafogo - RJ,in
-114,220,Bruno Silva,Botafogo - RJ,out
-115,220,Leandro,Botafogo - RJ,in
-116,220,Neilton,Botafogo - RJ,out
-117,220,Pimpao,Botafogo - RJ,in
+match_num,player_name_2,player_team,player_status
+211,Roger,Ponte Preta - SP,out
+211,William,Ponte Preta - SP,in
+211,Abuda,Ponte Preta - SP,out
+211,Matheus Sousa de Jesus,Ponte Preta - SP,in
+211,Rhayner,Ponte Preta - SP,out
+211,Leonardo,Ponte Preta - SP,in
+211,Guilherme,Corinthians - SP,out
+211,Pedro,Corinthians - SP,in
+211,Rodriguinho,Corinthians - SP,out
+211,Lucca,Corinthians - SP,in
+211,Marquinhos Gabriel,Corinthians - SP,out
+211,Angel Romero,Corinthians - SP,in
+212,Robinho,Cruzeiro - MG,out
+212,Rafinha,Cruzeiro - MG,in
+212,Lucas Romero,Cruzeiro - MG,out
+212,Denilson,Cruzeiro - MG,in
+212,Ábila,Cruzeiro - MG,out
+212,Willian,Cruzeiro - MG,in
+212,Uillian Correia,Santa Cruz - PE,out
+212,Danilo,Santa Cruz - PE,in
+212,Derley,Santa Cruz - PE,out
+212,Wallyson,Santa Cruz - PE,in
+212,Matias Pisano,Santa Cruz - PE,out
+212,Marion,Santa Cruz - PE,in
+213,David Braz,Santos - SP,out
+213,Sousa,Santos - SP,in
+213,Vitor Bueno,Santos - SP,out
+213,Vecchio,Santos - SP,in
+213,Copete,Santos - SP,out
+213,Gabriel B.,Santos - SP,in
+213,Ferrugem,Figueirense - SC,out
+213,Renato,Figueirense - SC,in
+213,Marquinhos Silva,Figueirense - SC,out
+213,Bruno Alves,Figueirense - SC,in
+213,Elicarlos,Figueirense - SC,out
+213,Jefferson,Figueirense - SC,in
+214,Gustavo Scarpa,Fluminense - RJ,out
+214,Danilinho,Fluminense - RJ,in
+214,Douglas,Fluminense - RJ,out
+214,Marquinho,Fluminense - RJ,in
+214,Henrique Dourado,Fluminense - RJ,out
+214,Aquino,Fluminense - RJ,in
+214,Moises,Palmeiras - SP,out
+214,Cleiton Xavier,Palmeiras - SP,in
+214,Erik,Palmeiras - SP,out
+214,Roger Guedes,Palmeiras - SP,in
+214,Gabriel,Palmeiras - SP,out
+214,Marcos,Palmeiras - SP,in
+215,Michel Bastos,São Paulo - SP,out
+215,Luiz,São Paulo - SP,in
+215,Kelvin,São Paulo - SP,out
+215,Pedro,São Paulo - SP,in
+215,João Paulo,Coritiba - PR,out
+215,W. Maia,Coritiba - PR,in
+215,Neto Berola,Coritiba - PR,out
+215,Ortega,Coritiba - PR,in
+215,Vinicius,Coritiba - PR,out
+215,Iago Dias,Coritiba - PR,in
+216,Douglas,Grêmio - RS,out
+216,Ramiro,Grêmio - RS,in
+216,Jailson,Grêmio - RS,out
+216,Guilherme Augusto,Grêmio - RS,in
+216,Miller Bolaños,Grêmio - RS,out
+216,H. Almeida,Grêmio - RS,in
+216,Lucas Candido,Atlético - MG,out
+216,Douglas Santos,Atlético - MG,in
+216,Fred,Atlético - MG,out
+216,Robinho,Atlético - MG,in
+216,Fabio Santos,Atlético - MG,out
+216,Otero,Atlético - MG,in
+217,Josimar,Chapecoense - SC,out
+217,Sergio Manoel,Chapecoense - SC,in
+217,Hyoran,Chapecoense - SC,out
+217,Arthur,Chapecoense - SC,in
+217,Martinucio,Chapecoense - SC,out
+217,Lucas,Chapecoense - SC,in
+217,Everton,Flamengo - RJ,out
+217,Mancuello,Flamengo - RJ,in
+217,Gabriel,Flamengo - RJ,out
+217,Leandro Damiao,Flamengo - RJ,in
+217,Diego,Flamengo - RJ,out
+217,Cuellar,Flamengo - RJ,in
+218,Willian,Vitória - BA,out
+218,Welison,Vitória - BA,in
+218,Vander,Vitória - BA,out
+218,David,Vitória - BA,in
+218,Cardenas,Vitória - BA,out
+218,Sergio,Vitória - BA,in
+218,Leandro Luchese,América - MG,out
+218,Diego,América - MG,in
+218,Michael,América - MG,out
+218,Nilson,América - MG,in
+218,Matheusinho,América - MG,out
+218,Danilo,América - MG,in
+219,Edmilson dos Santos Silva,Sport - PE,out
+219,L. Ruiz,Sport - PE,in
+219,Rene,Sport - PE,out
+219,Vinicius Araujo,Sport - PE,in
+219,Everton Felipe,Sport - PE,out
+219,Apodi,Sport - PE,in
+219,Fabinho,Internacional - RS,out
+219,Eduardo,Internacional - RS,in
+219,Eduardo Sasha,Internacional - RS,out
+219,Ariel,Internacional - RS,in
+219,William,Internacional - RS,out
+219,Fernando,Internacional - RS,in
+220,Andre Lima,Atlético - PR,out
+220,Marcos,Atlético - PR,in
+220,Luan,Atlético - PR,out
+220,Joao Pedro,Atlético - PR,in
+220,Lucas Fernandes,Atlético - PR,out
+220,Juninho,Atlético - PR,in
+220,Airton,Botafogo - RJ,out
+220,Salgueiro,Botafogo - RJ,in
+220,Bruno Silva,Botafogo - RJ,out
+220,Leandro,Botafogo - RJ,in
+220,Neilton,Botafogo - RJ,out
+220,Pimpao,Botafogo - RJ,in

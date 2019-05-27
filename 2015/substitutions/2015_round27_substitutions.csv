@@ -1,121 +1,121 @@
-,match_num,player_name_2,player_team,player_status
-0,261,Marcos,Palmeiras - SP,out
-1,261,Amaral,Palmeiras - SP,in
-2,261,Ze Roberto,Palmeiras - SP,out
-3,261,Egidio,Palmeiras - SP,in
-4,261,Robinho,Palmeiras - SP,out
-5,261,Allione,Palmeiras - SP,in
-6,261,Fernandinho,Grêmio - RS,out
-7,261,Everton,Grêmio - RS,in
-8,261,Lucas Ramon,Grêmio - RS,out
-9,261,Bobo,Grêmio - RS,in
-10,261,Pedro Rocha,Grêmio - RS,out
-11,261,Yuri Mamute,Grêmio - RS,in
-12,262,Borges,Ponte Preta - SP,out
-13,262,Keno,Ponte Preta - SP,in
-14,262,Cristian,Ponte Preta - SP,out
-15,262,Clayson,Ponte Preta - SP,in
-16,262,Diego,Ponte Preta - SP,out
-17,262,Alexandro,Ponte Preta - SP,in
-18,262,Douglas,Fluminense - RJ,out
-19,262,Ronaldinho Gaucho,Fluminense - RJ,in
-20,262,Gustavo Scarpa,Fluminense - RJ,out
-21,262,Wellington Paulista,Fluminense - RJ,in
-22,262,Osvaldo,Fluminense - RJ,out
-23,262,Marcos Jr,Fluminense - RJ,in
-24,263,Vitinho,Internacional - RS,out
-25,263,Valdivia,Internacional - RS,in
-26,263,Alex,Internacional - RS,out
-27,263,Anderson,Internacional - RS,in
-28,263,Lisandro Lopez,Internacional - RS,out
-29,263,Taiberson,Internacional - RS,in
-30,263,Paulo Roberto,Figueirense - SC,out
-31,263,Thiago Santana,Figueirense - SC,in
-32,263,Rafael Bastos,Figueirense - SC,out
-33,263,Yago Felipe,Figueirense - SC,in
-34,263,Joao Vitor,Figueirense - SC,out
-35,263,Dener,Figueirense - SC,in
-36,264,K. Giacomazzi,Coritiba - PR,out
-37,264,Rafhael Lucas,Coritiba - PR,in
-38,264,Alan Santos,Coritiba - PR,out
-39,264,Juan,Coritiba - PR,in
-40,264,Negueba,Coritiba - PR,out
-41,264,Paulo,Coritiba - PR,in
-42,264,Eduardo,Atlético - PR,out
-43,264,Crysan,Atlético - PR,in
-44,264,Deivid,Atlético - PR,out
-45,264,Ewandro,Atlético - PR,in
-46,264,Walter,Atlético - PR,out
-47,264,Guilherme,Atlético - PR,in
-48,265,Vagner Love,Corinthians - SP,out
-49,265,Danilo,Corinthians - SP,in
-50,265,Elias,Corinthians - SP,out
-51,265,Cristian,Corinthians - SP,in
-52,265,Malcom,Corinthians - SP,out
-53,265,Lucca,Corinthians - SP,in
-54,265,Ricardo Oliveira,Santos - SP,out
-55,265,Paulo Ricardo,Santos - SP,in
-56,265,Marquinhos Gabriel,Santos - SP,out
-57,265,Weverson,Santos - SP,in
-58,265,Gabriel B.,Santos - SP,out
-59,265,Neto Berola,Santos - SP,in
-60,266,Serginho,Vasco da Gama - RJ,out
-61,266,Jomar,Vasco da Gama - RJ,in
-62,266,Nene,Vasco da Gama - RJ,out
-63,266,Lucas Siqueira,Vasco da Gama - RJ,in
-64,266,Rafael Silva,Vasco da Gama - RJ,out
-65,266,Herrera,Vasco da Gama - RJ,in
-66,266,Maikon,Sport - PE,out
-67,266,Hernane,Sport - PE,in
-68,266,Rene,Sport - PE,out
-69,266,Danilo,Sport - PE,in
-70,266,Neto,Sport - PE,out
-71,266,Regis,Sport - PE,in
-72,267,Thiago Ribeiro,Atlético - MG,out
-73,267,Patric,Atlético - MG,in
-74,267,Datolo,Atlético - MG,out
-75,267,Josue,Atlético - MG,in
-76,267,Lucas Pratto,Atlético - MG,out
-77,267,Carlos Alberto Carvalho,Atlético - MG,in
-78,267,Marcelo Cirino,Flamengo - RJ,out
-79,267,Eder,Flamengo - RJ,in
-80,267,Alan Patrick,Flamengo - RJ,out
-81,267,Almir,Flamengo - RJ,in
-82,267,Guerrero,Flamengo - RJ,out
-83,267,Kayke,Flamengo - RJ,in
-84,268,Rudnei,Avaí - SC,out
-85,268,Tinga,Avaí - SC,in
-86,268,Marquinhos,Avaí - SC,out
-87,268,Pablo,Avaí - SC,in
-88,268,Renan,Avaí - SC,out
-89,268,Anderson,Avaí - SC,in
-90,268,João Schmidt,São Paulo - SP,out
-91,268,Thiago Mendes,São Paulo - SP,in
-92,268,Joao Paulo,São Paulo - SP,out
-93,268,Alexandre Pato,São Paulo - SP,in
-94,268,Lyanco,São Paulo - SP,out
-95,268,Bruno,São Paulo - SP,in
-96,269,Ze Eduardo,Goiás - GO,out
-97,269,Ygor,Goiás - GO,in
-98,269,Rafael,Goiás - GO,out
-99,269,Alex Alves,Goiás - GO,in
-100,269,Felipe,Goiás - GO,out
-101,269,Liniker,Goiás - GO,in
-102,269,Marcelinho Paraiba,Joinville - SC,out
-103,269,Fernando Viana,Joinville - SC,in
-104,269,Willian Popp,Joinville - SC,out
-105,269,Silvinho,Joinville - SC,in
-106,269,Kadu,Joinville - SC,out
-107,269,Marion,Joinville - SC,in
-108,270,Tiago Luis,Chapecoense - SC,out
-109,270,Camilo,Chapecoense - SC,in
-110,270,Elicarlos,Chapecoense - SC,out
-111,270,Cleber Santana,Chapecoense - SC,in
-112,270,Gil,Chapecoense - SC,out
-113,270,Wagner,Chapecoense - SC,in
-114,270,Alisson,Cruzeiro - MG,out
-115,270,Marquinhos,Cruzeiro - MG,in
-116,270,Allano,Cruzeiro - MG,out
-117,270,Marcos Vinicius,Cruzeiro - MG,in
-118,270,Ariel Cabral,Cruzeiro - MG,out
-119,270,Uillian Correia,Cruzeiro - MG,in
+match_num,player_name_2,player_team,player_status
+261,Marcos,Palmeiras - SP,out
+261,Amaral,Palmeiras - SP,in
+261,Ze Roberto,Palmeiras - SP,out
+261,Egidio,Palmeiras - SP,in
+261,Robinho,Palmeiras - SP,out
+261,Allione,Palmeiras - SP,in
+261,Fernandinho,Grêmio - RS,out
+261,Everton,Grêmio - RS,in
+261,Lucas Ramon,Grêmio - RS,out
+261,Bobo,Grêmio - RS,in
+261,Pedro Rocha,Grêmio - RS,out
+261,Yuri Mamute,Grêmio - RS,in
+262,Borges,Ponte Preta - SP,out
+262,Keno,Ponte Preta - SP,in
+262,Cristian,Ponte Preta - SP,out
+262,Clayson,Ponte Preta - SP,in
+262,Diego,Ponte Preta - SP,out
+262,Alexandro,Ponte Preta - SP,in
+262,Douglas,Fluminense - RJ,out
+262,Ronaldinho Gaucho,Fluminense - RJ,in
+262,Gustavo Scarpa,Fluminense - RJ,out
+262,Wellington Paulista,Fluminense - RJ,in
+262,Osvaldo,Fluminense - RJ,out
+262,Marcos Jr,Fluminense - RJ,in
+263,Vitinho,Internacional - RS,out
+263,Valdivia,Internacional - RS,in
+263,Alex,Internacional - RS,out
+263,Anderson,Internacional - RS,in
+263,Lisandro Lopez,Internacional - RS,out
+263,Taiberson,Internacional - RS,in
+263,Paulo Roberto,Figueirense - SC,out
+263,Thiago Santana,Figueirense - SC,in
+263,Rafael Bastos,Figueirense - SC,out
+263,Yago Felipe,Figueirense - SC,in
+263,Joao Vitor,Figueirense - SC,out
+263,Dener,Figueirense - SC,in
+264,K. Giacomazzi,Coritiba - PR,out
+264,Rafhael Lucas,Coritiba - PR,in
+264,Alan Santos,Coritiba - PR,out
+264,Juan,Coritiba - PR,in
+264,Negueba,Coritiba - PR,out
+264,Paulo,Coritiba - PR,in
+264,Eduardo,Atlético - PR,out
+264,Crysan,Atlético - PR,in
+264,Deivid,Atlético - PR,out
+264,Ewandro,Atlético - PR,in
+264,Walter,Atlético - PR,out
+264,Guilherme,Atlético - PR,in
+265,Vagner Love,Corinthians - SP,out
+265,Danilo,Corinthians - SP,in
+265,Elias,Corinthians - SP,out
+265,Cristian,Corinthians - SP,in
+265,Malcom,Corinthians - SP,out
+265,Lucca,Corinthians - SP,in
+265,Ricardo Oliveira,Santos - SP,out
+265,Paulo Ricardo,Santos - SP,in
+265,Marquinhos Gabriel,Santos - SP,out
+265,Weverson,Santos - SP,in
+265,Gabriel B.,Santos - SP,out
+265,Neto Berola,Santos - SP,in
+266,Serginho,Vasco da Gama - RJ,out
+266,Jomar,Vasco da Gama - RJ,in
+266,Nene,Vasco da Gama - RJ,out
+266,Lucas Siqueira,Vasco da Gama - RJ,in
+266,Rafael Silva,Vasco da Gama - RJ,out
+266,Herrera,Vasco da Gama - RJ,in
+266,Maikon,Sport - PE,out
+266,Hernane,Sport - PE,in
+266,Rene,Sport - PE,out
+266,Danilo,Sport - PE,in
+266,Neto,Sport - PE,out
+266,Regis,Sport - PE,in
+267,Thiago Ribeiro,Atlético - MG,out
+267,Patric,Atlético - MG,in
+267,Datolo,Atlético - MG,out
+267,Josue,Atlético - MG,in
+267,Lucas Pratto,Atlético - MG,out
+267,Carlos Alberto Carvalho,Atlético - MG,in
+267,Marcelo Cirino,Flamengo - RJ,out
+267,Eder,Flamengo - RJ,in
+267,Alan Patrick,Flamengo - RJ,out
+267,Almir,Flamengo - RJ,in
+267,Guerrero,Flamengo - RJ,out
+267,Kayke,Flamengo - RJ,in
+268,Rudnei,Avaí - SC,out
+268,Tinga,Avaí - SC,in
+268,Marquinhos,Avaí - SC,out
+268,Pablo,Avaí - SC,in
+268,Renan,Avaí - SC,out
+268,Anderson,Avaí - SC,in
+268,João Schmidt,São Paulo - SP,out
+268,Thiago Mendes,São Paulo - SP,in
+268,Joao Paulo,São Paulo - SP,out
+268,Alexandre Pato,São Paulo - SP,in
+268,Lyanco,São Paulo - SP,out
+268,Bruno,São Paulo - SP,in
+269,Ze Eduardo,Goiás - GO,out
+269,Ygor,Goiás - GO,in
+269,Rafael,Goiás - GO,out
+269,Alex Alves,Goiás - GO,in
+269,Felipe,Goiás - GO,out
+269,Liniker,Goiás - GO,in
+269,Marcelinho Paraiba,Joinville - SC,out
+269,Fernando Viana,Joinville - SC,in
+269,Willian Popp,Joinville - SC,out
+269,Silvinho,Joinville - SC,in
+269,Kadu,Joinville - SC,out
+269,Marion,Joinville - SC,in
+270,Tiago Luis,Chapecoense - SC,out
+270,Camilo,Chapecoense - SC,in
+270,Elicarlos,Chapecoense - SC,out
+270,Cleber Santana,Chapecoense - SC,in
+270,Gil,Chapecoense - SC,out
+270,Wagner,Chapecoense - SC,in
+270,Alisson,Cruzeiro - MG,out
+270,Marquinhos,Cruzeiro - MG,in
+270,Allano,Cruzeiro - MG,out
+270,Marcos Vinicius,Cruzeiro - MG,in
+270,Ariel Cabral,Cruzeiro - MG,out
+270,Uillian Correia,Cruzeiro - MG,in

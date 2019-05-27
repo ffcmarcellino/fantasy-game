@@ -1,121 +1,121 @@
-,match_num,player_name_2,player_team,player_status
-0,311,Anderson,São Paulo - SP,out
-1,311,Hélio Junio,São Paulo - SP,in
-2,311,Gonzalo Carneiro,São Paulo - SP,out
-3,311,Edimar,São Paulo - SP,in
-4,311,Luan Silva,São Paulo - SP,out
-5,311,Felipe,São Paulo - SP,in
-6,311,Pará,Flamengo - RJ,out
-7,311,Rodinei,Flamengo - RJ,in
-8,311,Everton Ribeiro,Flamengo - RJ,out
-9,311,Gigio,Flamengo - RJ,in
-10,311,Cuellar,Flamengo - RJ,out
-11,311,Diego,Flamengo - RJ,in
-12,312,Paulo Ricardo,Fluminense - RJ,out
-13,312,Everaldo,Fluminense - RJ,in
-14,312,Léo,Fluminense - RJ,out
-15,312,Igor Julião,Fluminense - RJ,in
-16,312,Matheus Alessandro,Fluminense - RJ,out
-17,312,Junior Dutra,Fluminense - RJ,in
-18,312,Marrony,Vasco da Gama - RJ,out
-19,312,Rildo,Vasco da Gama - RJ,in
-20,312,Andrey,Vasco da Gama - RJ,out
-21,312,Raul,Vasco da Gama - RJ,in
-22,312,Fabricio,Vasco da Gama - RJ,out
-23,312,Thiago,Vasco da Gama - RJ,in
-24,313,Ricardo Oliveira,Atlético - MG,out
-25,313,Leandro,Atlético - MG,in
-26,313,M. Galdezani,Atlético - MG,out
-27,313,Denilson,Atlético - MG,in
-28,313,David Terans,Atlético - MG,out
-29,313,Cazares,Atlético - MG,in
-30,313,Jael,Grêmio - RS,out
-31,313,T. Anderson,Grêmio - RS,in
-32,313,Ramiro,Grêmio - RS,out
-33,313,Alisson,Grêmio - RS,in
-34,313,Everton,Grêmio - RS,out
-35,313,Pepe,Grêmio - RS,in
-36,314,Rene,Paraná - PR,out
-37,314,Mansur,Paraná - PR,in
-38,314,Júnior,Paraná - PR,out
-39,314,Silvinho,Paraná - PR,in
-40,314,Jhonny,Paraná - PR,out
-41,314,Alesson,Paraná - PR,in
-42,314,Erick,Vitória - BA,out
-43,314,Mauricio,Vitória - BA,in
-44,314,Jose Rodrigo Andrade Ramos,Vitória - BA,out
-45,314,Neilton,Vitória - BA,in
-46,314,Ruan,Vitória - BA,out
-47,314,Yago Felipe,Vitória - BA,in
-48,315,Aderlan,América - MG,out
-49,315,Matheusinho,América - MG,in
-50,315,Carlinho,América - MG,out
-51,315,Robinho,América - MG,in
-52,315,Neto,América - MG,out
-53,315,Rafael Moura,América - MG,in
-54,315,Thiago Neves,Cruzeiro - MG,out
-55,315,Mancuello,Cruzeiro - MG,in
-56,315,Robinho,Cruzeiro - MG,out
-57,315,Lucas Silva,Cruzeiro - MG,in
-58,315,Barcos,Cruzeiro - MG,out
-59,315,Raniel Santana de Vasconcelos,Cruzeiro - MG,in
-60,316,Jean,Botafogo - RJ,out
-61,316,Matheus Fernandes,Botafogo - RJ,in
-62,316,Brenner,Botafogo - RJ,out
-63,316,Aguirre,Botafogo - RJ,in
-64,316,Renatinho,Botafogo - RJ,out
-65,316,Pimpao,Botafogo - RJ,in
-66,316,Danilo,Corinthians - SP,out
-67,316,Mateus,Corinthians - SP,in
-68,316,Gabriel,Corinthians - SP,out
-69,316,Roger,Corinthians - SP,in
-70,316,Angel Romero,Corinthians - SP,out
-71,316,Clayson,Corinthians - SP,in
-72,317,Edigar Junio,Bahia - BA,out
-73,317,Junior Brumado,Bahia - BA,in
-74,317,Elber,Bahia - BA,out
-75,317,Flavio,Bahia - BA,in
-76,317,Lucas Fonseca,Bahia - BA,out
-77,317,Douglas Groli,Bahia - BA,in
-78,317,Osman,Chapecoense - SC,out
-79,317,Agustin,Chapecoense - SC,in
-80,317,Barreto,Chapecoense - SC,out
-81,317,Bruno,Chapecoense - SC,in
-82,317,Hector,Chapecoense - SC,out
-83,317,Yann,Chapecoense - SC,in
-84,318,Jean,Palmeiras - SP,out
-85,318,Guerra,Palmeiras - SP,in
-86,318,Lucas Lima,Palmeiras - SP,out
-87,318,Felipe Melo,Palmeiras - SP,in
-88,318,Borja,Palmeiras - SP,out
-89,318,Deyverson,Palmeiras - SP,in
-90,318,Rodrygo,Santos - SP,out
-91,318,Copete,Santos - SP,in
-92,318,Derlis Gonzalez,Santos - SP,out
-93,318,Bruno,Santos - SP,in
-94,318,Alison,Santos - SP,out
-95,318,Bryan Ruiz,Santos - SP,in
-96,319,Leandro Damiao,Internacional - RS,out
-97,319,Wellington Silva,Internacional - RS,in
-98,319,Gabriel,Internacional - RS,out
-99,319,Rossi,Internacional - RS,in
-100,319,Juan Alano,Internacional - RS,out
-101,319,William,Internacional - RS,in
-102,319,Camacho,Atlético - PR,out
-103,319,Leonardo,Atlético - PR,in
-104,319,Marcinho,Atlético - PR,out
-105,319,Marcelo Cirino,Atlético - PR,in
-106,319,Matheus,Atlético - PR,out
-107,319,Raphael Veiga,Atlético - PR,in
-108,320,Raul,Sport - PE,out
-109,320,Ronaldo,Sport - PE,in
-110,320,Hernane,Sport - PE,out
-111,320,Rogerio,Sport - PE,in
-112,320,Gabriel,Sport - PE,out
-113,320,Fellipe,Sport - PE,in
-114,320,Ricardinho,Ceará - CE,out
-115,320,Eder,Ceará - CE,in
-116,320,Pedro Ken,Ceará - CE,out
-117,320,JOWN CARDONA,Ceará - CE,in
-118,320,Calyson,Ceará - CE,out
-119,320,Felipe Azevedo,Ceará - CE,in
+match_num,player_name_2,player_team,player_status
+311,Anderson,São Paulo - SP,out
+311,Hélio Junio,São Paulo - SP,in
+311,Gonzalo Carneiro,São Paulo - SP,out
+311,Edimar,São Paulo - SP,in
+311,Luan Silva,São Paulo - SP,out
+311,Felipe,São Paulo - SP,in
+311,Pará,Flamengo - RJ,out
+311,Rodinei,Flamengo - RJ,in
+311,Everton Ribeiro,Flamengo - RJ,out
+311,Gigio,Flamengo - RJ,in
+311,Cuellar,Flamengo - RJ,out
+311,Diego,Flamengo - RJ,in
+312,Paulo Ricardo,Fluminense - RJ,out
+312,Everaldo,Fluminense - RJ,in
+312,Léo,Fluminense - RJ,out
+312,Igor Julião,Fluminense - RJ,in
+312,Matheus Alessandro,Fluminense - RJ,out
+312,Junior Dutra,Fluminense - RJ,in
+312,Marrony,Vasco da Gama - RJ,out
+312,Rildo,Vasco da Gama - RJ,in
+312,Andrey,Vasco da Gama - RJ,out
+312,Raul,Vasco da Gama - RJ,in
+312,Fabricio,Vasco da Gama - RJ,out
+312,Thiago,Vasco da Gama - RJ,in
+313,Ricardo Oliveira,Atlético - MG,out
+313,Leandro,Atlético - MG,in
+313,M. Galdezani,Atlético - MG,out
+313,Denilson,Atlético - MG,in
+313,David Terans,Atlético - MG,out
+313,Cazares,Atlético - MG,in
+313,Jael,Grêmio - RS,out
+313,T. Anderson,Grêmio - RS,in
+313,Ramiro,Grêmio - RS,out
+313,Alisson,Grêmio - RS,in
+313,Everton,Grêmio - RS,out
+313,Pepe,Grêmio - RS,in
+314,Rene,Paraná - PR,out
+314,Mansur,Paraná - PR,in
+314,Júnior,Paraná - PR,out
+314,Silvinho,Paraná - PR,in
+314,Jhonny,Paraná - PR,out
+314,Alesson,Paraná - PR,in
+314,Erick,Vitória - BA,out
+314,Mauricio,Vitória - BA,in
+314,Jose Rodrigo Andrade Ramos,Vitória - BA,out
+314,Neilton,Vitória - BA,in
+314,Ruan,Vitória - BA,out
+314,Yago Felipe,Vitória - BA,in
+315,Aderlan,América - MG,out
+315,Matheusinho,América - MG,in
+315,Carlinho,América - MG,out
+315,Robinho,América - MG,in
+315,Neto,América - MG,out
+315,Rafael Moura,América - MG,in
+315,Thiago Neves,Cruzeiro - MG,out
+315,Mancuello,Cruzeiro - MG,in
+315,Robinho,Cruzeiro - MG,out
+315,Lucas Silva,Cruzeiro - MG,in
+315,Barcos,Cruzeiro - MG,out
+315,Raniel Santana de Vasconcelos,Cruzeiro - MG,in
+316,Jean,Botafogo - RJ,out
+316,Matheus Fernandes,Botafogo - RJ,in
+316,Brenner,Botafogo - RJ,out
+316,Aguirre,Botafogo - RJ,in
+316,Renatinho,Botafogo - RJ,out
+316,Pimpao,Botafogo - RJ,in
+316,Danilo,Corinthians - SP,out
+316,Mateus,Corinthians - SP,in
+316,Gabriel,Corinthians - SP,out
+316,Roger,Corinthians - SP,in
+316,Angel Romero,Corinthians - SP,out
+316,Clayson,Corinthians - SP,in
+317,Edigar Junio,Bahia - BA,out
+317,Junior Brumado,Bahia - BA,in
+317,Elber,Bahia - BA,out
+317,Flavio,Bahia - BA,in
+317,Lucas Fonseca,Bahia - BA,out
+317,Douglas Groli,Bahia - BA,in
+317,Osman,Chapecoense - SC,out
+317,Agustin,Chapecoense - SC,in
+317,Barreto,Chapecoense - SC,out
+317,Bruno,Chapecoense - SC,in
+317,Hector,Chapecoense - SC,out
+317,Yann,Chapecoense - SC,in
+318,Jean,Palmeiras - SP,out
+318,Guerra,Palmeiras - SP,in
+318,Lucas Lima,Palmeiras - SP,out
+318,Felipe Melo,Palmeiras - SP,in
+318,Borja,Palmeiras - SP,out
+318,Deyverson,Palmeiras - SP,in
+318,Rodrygo,Santos - SP,out
+318,Copete,Santos - SP,in
+318,Derlis Gonzalez,Santos - SP,out
+318,Bruno,Santos - SP,in
+318,Alison,Santos - SP,out
+318,Bryan Ruiz,Santos - SP,in
+319,Leandro Damiao,Internacional - RS,out
+319,Wellington Silva,Internacional - RS,in
+319,Gabriel,Internacional - RS,out
+319,Rossi,Internacional - RS,in
+319,Juan Alano,Internacional - RS,out
+319,William,Internacional - RS,in
+319,Camacho,Atlético - PR,out
+319,Leonardo,Atlético - PR,in
+319,Marcinho,Atlético - PR,out
+319,Marcelo Cirino,Atlético - PR,in
+319,Matheus,Atlético - PR,out
+319,Raphael Veiga,Atlético - PR,in
+320,Raul,Sport - PE,out
+320,Ronaldo,Sport - PE,in
+320,Hernane,Sport - PE,out
+320,Rogerio,Sport - PE,in
+320,Gabriel,Sport - PE,out
+320,Fellipe,Sport - PE,in
+320,Ricardinho,Ceará - CE,out
+320,Eder,Ceará - CE,in
+320,Pedro Ken,Ceará - CE,out
+320,JOWN CARDONA,Ceará - CE,in
+320,Calyson,Ceará - CE,out
+320,Felipe Azevedo,Ceará - CE,in

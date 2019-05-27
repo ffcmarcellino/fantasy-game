@@ -1,121 +1,121 @@
-,match_num,player_name_2,player_team,player_status
-0,141,Eduardo,Avaí - SC,out
-1,141,Junior Souza,Avaí - SC,in
-2,141,William,Avaí - SC,out
-3,141,Andre Lima,Avaí - SC,in
-4,141,Taua,Avaí - SC,out
-5,141,Romulo,Avaí - SC,in
-6,141,Eduardo,Atlético - PR,out
-7,141,Bruno Pereirinha,Atlético - PR,in
-8,141,Sidcley,Atlético - PR,out
-9,141,Natanael,Atlético - PR,in
-10,141,Crysan,Atlético - PR,out
-11,141,Ytalo,Atlético - PR,in
-12,142,Douglas,Grêmio - RS,out
-13,142,Maxi Rodriguez,Grêmio - RS,in
-14,142,Giuliano,Grêmio - RS,out
-15,142,Fernandinho,Grêmio - RS,in
-16,142,Pedro Rocha,Grêmio - RS,out
-17,142,Braian Rodriguez,Grêmio - RS,in
-18,142,Diego Souza,Sport - PE,out
-19,142,Samuel,Sport - PE,in
-20,142,Rodrigo Mancha,Sport - PE,out
-21,142,Elber,Sport - PE,in
-22,142,Andre,Sport - PE,out
-23,142,Regis,Sport - PE,in
-24,143,Thiago Ribeiro,Atlético - MG,out
-25,143,Carlos Alberto Carvalho,Atlético - MG,in
-26,143,Giovanni Augusto,Atlético - MG,out
-27,143,Cardenas,Atlético - MG,in
-28,143,Datolo,Atlético - MG,out
-29,143,Guilherme,Atlético - MG,in
-30,143,Marcao,Figueirense - SC,out
-31,143,Thiago Santana,Figueirense - SC,in
-32,143,Joao Vitor,Figueirense - SC,out
-33,143,Sueliton,Figueirense - SC,in
-34,143,Rafael Bastos,Figueirense - SC,out
-35,143,Yago Felipe,Figueirense - SC,in
-36,144,Cleber Santana,Chapecoense - SC,out
-37,144,Hyoran,Chapecoense - SC,in
-38,144,Tiago Luis,Chapecoense - SC,out
-39,144,Maranhão,Chapecoense - SC,in
-40,144,Ananias,Chapecoense - SC,out
-41,144,Wagner,Chapecoense - SC,in
-42,144,Fred,Fluminense - RJ,out
-43,144,Magno Alves,Fluminense - RJ,in
-44,144,Osvaldo,Fluminense - RJ,out
-45,144,Lucas,Fluminense - RJ,in
-46,144,Wellington Silva,Fluminense - RJ,out
-47,144,Renato,Fluminense - RJ,in
-48,145,Leandro,Coritiba - PR,out
-49,145,Evandro,Coritiba - PR,in
-50,145,Alan Santos,Coritiba - PR,out
-51,145,Negueba,Coritiba - PR,in
-52,145,Thiago,Coritiba - PR,out
-53,145,Rodolfo,Coritiba - PR,in
-54,145,Vagner Love,Corinthians - SP,out
-55,145,Danilo,Corinthians - SP,in
-56,145,Renato Augusto,Corinthians - SP,out
-57,145,Ralf,Corinthians - SP,in
-58,145,Malcom,Corinthians - SP,out
-59,145,Rildo,Corinthians - SP,in
-60,146,Murilo,Goiás - GO,out
-61,146,Lucas,Goiás - GO,in
-62,146,Patrick,Goiás - GO,out
-63,146,Liniker,Goiás - GO,in
-64,146,Bruno,Goiás - GO,out
-65,146,Carlos,Goiás - GO,in
-66,146,Ayrton,Flamengo - RJ,out
-67,146,Pará,Flamengo - RJ,in
-68,146,Marcelo Cirino,Flamengo - RJ,out
-69,146,Gabriel,Flamengo - RJ,in
-70,146,Hector,Flamengo - RJ,out
-71,146,Alan Patrick,Flamengo - RJ,in
-72,147,Alexandre Pato,São Paulo - SP,out
-73,147,Joao Paulo,São Paulo - SP,in
-74,147,João Schmidt,São Paulo - SP,out
-75,147,Hudson,São Paulo - SP,in
-76,147,Gabriel,São Paulo - SP,out
-77,147,Edson,São Paulo - SP,in
-78,147,Ceara,Cruzeiro - MG,out
-79,147,Mayke,Cruzeiro - MG,in
-80,147,Vinicius Araujo,Cruzeiro - MG,out
-81,147,Leandro Damiao,Cruzeiro - MG,in
-82,147,Marcos Vinicius,Cruzeiro - MG,out
-83,147,Gabriel Xavier,Cruzeiro - MG,in
-84,148,Borges,Ponte Preta - SP,out
-85,148,Leandro,Ponte Preta - SP,in
-86,148,Felipe Azevedo,Ponte Preta - SP,out
-87,148,Keno,Ponte Preta - SP,in
-88,148,Felipe,Ponte Preta - SP,out
-89,148,Bady,Ponte Preta - SP,in
-90,148,Alex,Internacional - RS,out
-91,148,Nicolas,Internacional - RS,in
-92,148,Nilmar,Internacional - RS,out
-93,148,Vitinho,Internacional - RS,in
-94,148,Anderson,Internacional - RS,out
-95,148,Valdivia,Internacional - RS,in
-96,149,Nilson,Santos - SP,out
-97,149,Sergio,Santos - SP,in
-98,149,Gigio,Santos - SP,out
-99,149,Elano,Santos - SP,in
-100,149,Gabriel B.,Santos - SP,out
-101,149,Marco,Santos - SP,in
-102,149,Fabricio,Joinville - SC,out
-103,149,Luiz Meneses,Joinville - SC,in
-104,149,Willian Popp,Joinville - SC,out
-105,149,Kempes,Joinville - SC,in
-106,149,Naldo,Joinville - SC,out
-107,149,Marcelo Costa,Joinville - SC,in
-108,150,Dagoberto,Vasco da Gama - RJ,out
-109,150,Riascos,Vasco da Gama - RJ,in
-110,150,Aislan,Vasco da Gama - RJ,out
-111,150,Serginho,Vasco da Gama - RJ,in
-112,150,Martin Andres,Vasco da Gama - RJ,out
-113,150,Jordi,Vasco da Gama - RJ,in
-114,150,Rafael Marques,Palmeiras - SP,out
-115,150,Cristaldo,Palmeiras - SP,in
-116,150,Robinho,Palmeiras - SP,out
-117,150,Cleiton Xavier,Palmeiras - SP,in
-118,150,Leandro,Palmeiras - SP,out
-119,150,Lucas Barrios,Palmeiras - SP,in
+match_num,player_name_2,player_team,player_status
+141,Eduardo,Avaí - SC,out
+141,Junior Souza,Avaí - SC,in
+141,William,Avaí - SC,out
+141,Andre Lima,Avaí - SC,in
+141,Taua,Avaí - SC,out
+141,Romulo,Avaí - SC,in
+141,Eduardo,Atlético - PR,out
+141,Bruno Pereirinha,Atlético - PR,in
+141,Sidcley,Atlético - PR,out
+141,Natanael,Atlético - PR,in
+141,Crysan,Atlético - PR,out
+141,Ytalo,Atlético - PR,in
+142,Douglas,Grêmio - RS,out
+142,Maxi Rodriguez,Grêmio - RS,in
+142,Giuliano,Grêmio - RS,out
+142,Fernandinho,Grêmio - RS,in
+142,Pedro Rocha,Grêmio - RS,out
+142,Braian Rodriguez,Grêmio - RS,in
+142,Diego Souza,Sport - PE,out
+142,Samuel,Sport - PE,in
+142,Rodrigo Mancha,Sport - PE,out
+142,Elber,Sport - PE,in
+142,Andre,Sport - PE,out
+142,Regis,Sport - PE,in
+143,Thiago Ribeiro,Atlético - MG,out
+143,Carlos Alberto Carvalho,Atlético - MG,in
+143,Giovanni Augusto,Atlético - MG,out
+143,Cardenas,Atlético - MG,in
+143,Datolo,Atlético - MG,out
+143,Guilherme,Atlético - MG,in
+143,Marcao,Figueirense - SC,out
+143,Thiago Santana,Figueirense - SC,in
+143,Joao Vitor,Figueirense - SC,out
+143,Sueliton,Figueirense - SC,in
+143,Rafael Bastos,Figueirense - SC,out
+143,Yago Felipe,Figueirense - SC,in
+144,Cleber Santana,Chapecoense - SC,out
+144,Hyoran,Chapecoense - SC,in
+144,Tiago Luis,Chapecoense - SC,out
+144,Maranhão,Chapecoense - SC,in
+144,Ananias,Chapecoense - SC,out
+144,Wagner,Chapecoense - SC,in
+144,Fred,Fluminense - RJ,out
+144,Magno Alves,Fluminense - RJ,in
+144,Osvaldo,Fluminense - RJ,out
+144,Lucas,Fluminense - RJ,in
+144,Wellington Silva,Fluminense - RJ,out
+144,Renato,Fluminense - RJ,in
+145,Leandro,Coritiba - PR,out
+145,Evandro,Coritiba - PR,in
+145,Alan Santos,Coritiba - PR,out
+145,Negueba,Coritiba - PR,in
+145,Thiago,Coritiba - PR,out
+145,Rodolfo,Coritiba - PR,in
+145,Vagner Love,Corinthians - SP,out
+145,Danilo,Corinthians - SP,in
+145,Renato Augusto,Corinthians - SP,out
+145,Ralf,Corinthians - SP,in
+145,Malcom,Corinthians - SP,out
+145,Rildo,Corinthians - SP,in
+146,Murilo,Goiás - GO,out
+146,Lucas,Goiás - GO,in
+146,Patrick,Goiás - GO,out
+146,Liniker,Goiás - GO,in
+146,Bruno,Goiás - GO,out
+146,Carlos,Goiás - GO,in
+146,Ayrton,Flamengo - RJ,out
+146,Pará,Flamengo - RJ,in
+146,Marcelo Cirino,Flamengo - RJ,out
+146,Gabriel,Flamengo - RJ,in
+146,Hector,Flamengo - RJ,out
+146,Alan Patrick,Flamengo - RJ,in
+147,Alexandre Pato,São Paulo - SP,out
+147,Joao Paulo,São Paulo - SP,in
+147,João Schmidt,São Paulo - SP,out
+147,Hudson,São Paulo - SP,in
+147,Gabriel,São Paulo - SP,out
+147,Edson,São Paulo - SP,in
+147,Ceara,Cruzeiro - MG,out
+147,Mayke,Cruzeiro - MG,in
+147,Vinicius Araujo,Cruzeiro - MG,out
+147,Leandro Damiao,Cruzeiro - MG,in
+147,Marcos Vinicius,Cruzeiro - MG,out
+147,Gabriel Xavier,Cruzeiro - MG,in
+148,Borges,Ponte Preta - SP,out
+148,Leandro,Ponte Preta - SP,in
+148,Felipe Azevedo,Ponte Preta - SP,out
+148,Keno,Ponte Preta - SP,in
+148,Felipe,Ponte Preta - SP,out
+148,Bady,Ponte Preta - SP,in
+148,Alex,Internacional - RS,out
+148,Nicolas,Internacional - RS,in
+148,Nilmar,Internacional - RS,out
+148,Vitinho,Internacional - RS,in
+148,Anderson,Internacional - RS,out
+148,Valdivia,Internacional - RS,in
+149,Nilson,Santos - SP,out
+149,Sergio,Santos - SP,in
+149,Gigio,Santos - SP,out
+149,Elano,Santos - SP,in
+149,Gabriel B.,Santos - SP,out
+149,Marco,Santos - SP,in
+149,Fabricio,Joinville - SC,out
+149,Luiz Meneses,Joinville - SC,in
+149,Willian Popp,Joinville - SC,out
+149,Kempes,Joinville - SC,in
+149,Naldo,Joinville - SC,out
+149,Marcelo Costa,Joinville - SC,in
+150,Dagoberto,Vasco da Gama - RJ,out
+150,Riascos,Vasco da Gama - RJ,in
+150,Aislan,Vasco da Gama - RJ,out
+150,Serginho,Vasco da Gama - RJ,in
+150,Martin Andres,Vasco da Gama - RJ,out
+150,Jordi,Vasco da Gama - RJ,in
+150,Rafael Marques,Palmeiras - SP,out
+150,Cristaldo,Palmeiras - SP,in
+150,Robinho,Palmeiras - SP,out
+150,Cleiton Xavier,Palmeiras - SP,in
+150,Leandro,Palmeiras - SP,out
+150,Lucas Barrios,Palmeiras - SP,in

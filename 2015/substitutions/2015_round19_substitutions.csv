@@ -1,117 +1,117 @@
-,match_num,player_name_2,player_team,player_status
-0,181,Dagoberto,Vasco da Gama - RJ,out
-1,181,Herrera,Vasco da Gama - RJ,in
-2,181,Jorge Henrique,Vasco da Gama - RJ,out
-3,181,Jhon,Vasco da Gama - RJ,in
-4,181,Riascos,Vasco da Gama - RJ,out
-5,181,Thalles,Vasco da Gama - RJ,in
-6,181,H. Almeida,Coritiba - PR,out
-7,181,Evandro,Coritiba - PR,in
-8,181,Thiago,Coritiba - PR,out
-9,181,Rafhael Lucas,Coritiba - PR,in
-10,181,Bueno,Coritiba - PR,out
-11,181,Esquerdinha,Coritiba - PR,in
-12,182,Deivid,Atlético - PR,out
-13,182,Jadson,Atlético - PR,in
-14,182,Crysan,Atlético - PR,out
-15,182,Douglas,Atlético - PR,in
-16,182,Barrientos,Atlético - PR,out
-17,182,Walter,Atlético - PR,in
-18,182,Gigio,Santos - SP,out
-19,182,Neto Berola,Santos - SP,in
-20,182,Lucas Lima,Santos - SP,out
-21,182,Weverson,Santos - SP,in
-22,182,Gabriel B.,Santos - SP,out
-23,182,Marquinhos Gabriel,Santos - SP,in
-24,183,Edson,São Paulo - SP,out
-25,183,GANSO,São Paulo - SP,in
-26,183,Hudson,São Paulo - SP,out
-27,183,Thiago Mendes,São Paulo - SP,in
-28,183,Breno,São Paulo - SP,out
-29,183,Toloi,São Paulo - SP,in
-30,183,Erik,Goiás - GO,out
-31,183,Liniker,Goiás - GO,in
-32,183,Murilo,Goiás - GO,out
-33,183,Bruno,Goiás - GO,in
-34,184,Osvaldo,Fluminense - RJ,out
-35,184,Wellington Paulista,Fluminense - RJ,in
-36,184,Ronaldinho Gaucho,Fluminense - RJ,out
-37,184,Higor Leite,Fluminense - RJ,in
-38,184,Fred,Fluminense - RJ,out
-39,184,Lucas,Fluminense - RJ,in
-40,184,Fabinho,Figueirense - SC,out
-41,184,Marcao,Figueirense - SC,in
-42,184,Alemao,Figueirense - SC,out
-43,184,Dudu,Figueirense - SC,in
-44,184,Rafael Bastos,Figueirense - SC,out
-45,184,Celsinho,Figueirense - SC,in
-46,185,Douglas,Grêmio - RS,out
-47,185,Maxi Rodriguez,Grêmio - RS,in
-48,185,Bobo,Grêmio - RS,out
-49,185,Braian Rodriguez,Grêmio - RS,in
-50,185,Pedro Rocha,Grêmio - RS,out
-51,185,Fernandinho,Grêmio - RS,in
-52,185,Marcelinho Paraiba,Joinville - SC,out
-53,185,Marcelo Costa,Joinville - SC,in
-54,185,Mario Sergio,Joinville - SC,out
-55,185,Danrlei,Joinville - SC,in
-56,185,Willian Popp,Joinville - SC,out
-57,185,Marion,Joinville - SC,in
-58,186,Alecsandro,Palmeiras - SP,out
-59,186,Kelvin,Palmeiras - SP,in
-60,186,Robinho,Palmeiras - SP,out
-61,186,Cleiton Xavier,Palmeiras - SP,in
-62,186,Lucas,Palmeiras - SP,out
-63,186,Lucas,Palmeiras - SP,in
-64,186,Samir,Flamengo - RJ,out
-65,186,Marcelo,Flamengo - RJ,in
-66,186,Jonas,Flamengo - RJ,out
-67,186,Eder,Flamengo - RJ,in
-68,187,Marquinhos,Cruzeiro - MG,out
-69,187,Marinho,Cruzeiro - MG,in
-70,187,Charles,Cruzeiro - MG,out
-71,187,Ariel Cabral,Cruzeiro - MG,in
-72,187,Vinicius Araujo,Cruzeiro - MG,out
-73,187,Leandro Damiao,Cruzeiro - MG,in
-74,187,Vitinho,Internacional - RS,out
-75,187,Taiberson,Internacional - RS,in
-76,187,Valdivia,Internacional - RS,out
-77,187,Rafael Moura,Internacional - RS,in
-78,187,Nicolas,Internacional - RS,out
-79,187,Ze Mario,Internacional - RS,in
-80,188,Adriano,Avaí - SC,out
-81,188,Eduardo,Avaí - SC,in
-82,188,Andre Lima,Avaí - SC,out
-83,188,Hugo,Avaí - SC,in
-84,188,Romulo,Avaí - SC,out
-85,188,Paulo,Avaí - SC,in
-86,188,Rodriguinho,Corinthians - SP,out
-87,188,Danilo,Corinthians - SP,in
-88,188,Jadson,Corinthians - SP,out
-89,188,Edilson,Corinthians - SP,in
-90,188,Malcom,Corinthians - SP,out
-91,188,Rildo,Corinthians - SP,in
-92,189,Andre,Sport - PE,out
-93,189,Hernane,Sport - PE,in
-94,189,Marlone,Sport - PE,out
-95,189,Neto,Sport - PE,in
-96,189,Elber,Sport - PE,out
-97,189,Regis,Sport - PE,in
-98,189,Bady,Ponte Preta - SP,out
-99,189,Felipe,Ponte Preta - SP,in
-100,189,Felipe Azevedo,Ponte Preta - SP,out
-101,189,Keno,Ponte Preta - SP,in
-102,189,Cesar,Ponte Preta - SP,out
-103,189,Leandro,Ponte Preta - SP,in
-104,190,Gil,Chapecoense - SC,out
-105,190,Maranhão,Chapecoense - SC,in
-106,190,Ananias,Chapecoense - SC,out
-107,190,Wagner,Chapecoense - SC,in
-108,190,Tiago Luis,Chapecoense - SC,out
-109,190,Camilo,Chapecoense - SC,in
-110,190,Leandro Donizete,Atlético - MG,out
-111,190,Dodo,Atlético - MG,in
-112,190,Guilherme,Atlético - MG,out
-113,190,Edcarlos,Atlético - MG,in
-114,190,Luan,Atlético - MG,out
-115,190,Josue,Atlético - MG,in
+match_num,player_name_2,player_team,player_status
+181,Dagoberto,Vasco da Gama - RJ,out
+181,Herrera,Vasco da Gama - RJ,in
+181,Jorge Henrique,Vasco da Gama - RJ,out
+181,Jhon,Vasco da Gama - RJ,in
+181,Riascos,Vasco da Gama - RJ,out
+181,Thalles,Vasco da Gama - RJ,in
+181,H. Almeida,Coritiba - PR,out
+181,Evandro,Coritiba - PR,in
+181,Thiago,Coritiba - PR,out
+181,Rafhael Lucas,Coritiba - PR,in
+181,Bueno,Coritiba - PR,out
+181,Esquerdinha,Coritiba - PR,in
+182,Deivid,Atlético - PR,out
+182,Jadson,Atlético - PR,in
+182,Crysan,Atlético - PR,out
+182,Douglas,Atlético - PR,in
+182,Barrientos,Atlético - PR,out
+182,Walter,Atlético - PR,in
+182,Gigio,Santos - SP,out
+182,Neto Berola,Santos - SP,in
+182,Lucas Lima,Santos - SP,out
+182,Weverson,Santos - SP,in
+182,Gabriel B.,Santos - SP,out
+182,Marquinhos Gabriel,Santos - SP,in
+183,Edson,São Paulo - SP,out
+183,GANSO,São Paulo - SP,in
+183,Hudson,São Paulo - SP,out
+183,Thiago Mendes,São Paulo - SP,in
+183,Breno,São Paulo - SP,out
+183,Toloi,São Paulo - SP,in
+183,Erik,Goiás - GO,out
+183,Liniker,Goiás - GO,in
+183,Murilo,Goiás - GO,out
+183,Bruno,Goiás - GO,in
+184,Osvaldo,Fluminense - RJ,out
+184,Wellington Paulista,Fluminense - RJ,in
+184,Ronaldinho Gaucho,Fluminense - RJ,out
+184,Higor Leite,Fluminense - RJ,in
+184,Fred,Fluminense - RJ,out
+184,Lucas,Fluminense - RJ,in
+184,Fabinho,Figueirense - SC,out
+184,Marcao,Figueirense - SC,in
+184,Alemao,Figueirense - SC,out
+184,Dudu,Figueirense - SC,in
+184,Rafael Bastos,Figueirense - SC,out
+184,Celsinho,Figueirense - SC,in
+185,Douglas,Grêmio - RS,out
+185,Maxi Rodriguez,Grêmio - RS,in
+185,Bobo,Grêmio - RS,out
+185,Braian Rodriguez,Grêmio - RS,in
+185,Pedro Rocha,Grêmio - RS,out
+185,Fernandinho,Grêmio - RS,in
+185,Marcelinho Paraiba,Joinville - SC,out
+185,Marcelo Costa,Joinville - SC,in
+185,Mario Sergio,Joinville - SC,out
+185,Danrlei,Joinville - SC,in
+185,Willian Popp,Joinville - SC,out
+185,Marion,Joinville - SC,in
+186,Alecsandro,Palmeiras - SP,out
+186,Kelvin,Palmeiras - SP,in
+186,Robinho,Palmeiras - SP,out
+186,Cleiton Xavier,Palmeiras - SP,in
+186,Lucas,Palmeiras - SP,out
+186,Lucas,Palmeiras - SP,in
+186,Samir,Flamengo - RJ,out
+186,Marcelo,Flamengo - RJ,in
+186,Jonas,Flamengo - RJ,out
+186,Eder,Flamengo - RJ,in
+187,Marquinhos,Cruzeiro - MG,out
+187,Marinho,Cruzeiro - MG,in
+187,Charles,Cruzeiro - MG,out
+187,Ariel Cabral,Cruzeiro - MG,in
+187,Vinicius Araujo,Cruzeiro - MG,out
+187,Leandro Damiao,Cruzeiro - MG,in
+187,Vitinho,Internacional - RS,out
+187,Taiberson,Internacional - RS,in
+187,Valdivia,Internacional - RS,out
+187,Rafael Moura,Internacional - RS,in
+187,Nicolas,Internacional - RS,out
+187,Ze Mario,Internacional - RS,in
+188,Adriano,Avaí - SC,out
+188,Eduardo,Avaí - SC,in
+188,Andre Lima,Avaí - SC,out
+188,Hugo,Avaí - SC,in
+188,Romulo,Avaí - SC,out
+188,Paulo,Avaí - SC,in
+188,Rodriguinho,Corinthians - SP,out
+188,Danilo,Corinthians - SP,in
+188,Jadson,Corinthians - SP,out
+188,Edilson,Corinthians - SP,in
+188,Malcom,Corinthians - SP,out
+188,Rildo,Corinthians - SP,in
+189,Andre,Sport - PE,out
+189,Hernane,Sport - PE,in
+189,Marlone,Sport - PE,out
+189,Neto,Sport - PE,in
+189,Elber,Sport - PE,out
+189,Regis,Sport - PE,in
+189,Bady,Ponte Preta - SP,out
+189,Felipe,Ponte Preta - SP,in
+189,Felipe Azevedo,Ponte Preta - SP,out
+189,Keno,Ponte Preta - SP,in
+189,Cesar,Ponte Preta - SP,out
+189,Leandro,Ponte Preta - SP,in
+190,Gil,Chapecoense - SC,out
+190,Maranhão,Chapecoense - SC,in
+190,Ananias,Chapecoense - SC,out
+190,Wagner,Chapecoense - SC,in
+190,Tiago Luis,Chapecoense - SC,out
+190,Camilo,Chapecoense - SC,in
+190,Leandro Donizete,Atlético - MG,out
+190,Dodo,Atlético - MG,in
+190,Guilherme,Atlético - MG,out
+190,Edcarlos,Atlético - MG,in
+190,Luan,Atlético - MG,out
+190,Josue,Atlético - MG,in

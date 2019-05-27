@@ -1,121 +1,121 @@
-,match_num,player_name_2,player_team,player_status
-0,261,Gum,Fluminense - RJ,out
-1,261,Marcos Jr,Fluminense - RJ,in
-2,261,Léo,Fluminense - RJ,out
-3,261,Mateus Norton,Fluminense - RJ,in
-4,261,Sornoza,Fluminense - RJ,out
-5,261,Kayke,Fluminense - RJ,in
-6,261,Douglas,Grêmio - RS,out
-7,261,Thaciano,Grêmio - RS,in
-8,261,Jean Pyerre,Grêmio - RS,out
-9,261,Madson,Grêmio - RS,in
-10,261,Pepe,Grêmio - RS,out
-11,261,Everton,Grêmio - RS,in
-12,262,Wesley,América - MG,out
-13,262,Matheusinho,América - MG,in
-14,262,David França,América - MG,out
-15,262,Juninho,América - MG,in
-16,262,Robinho,América - MG,out
-17,262,Ze Ricardo,América - MG,in
-18,262,Clayson,Corinthians - SP,out
-19,262,Sergio Diaz,Corinthians - SP,in
-20,262,Angel Romero,Corinthians - SP,out
-21,262,Roger,Corinthians - SP,in
-22,262,Angelo Araos,Corinthians - SP,out
-23,262,Tiaguinho,Corinthians - SP,in
-24,263,Bruno,Bahia - BA,out
-25,263,Nino Paraiba,Bahia - BA,in
-26,263,Ze Rafael,Bahia - BA,out
-27,263,Clayton,Bahia - BA,in
-28,263,Ramires,Bahia - BA,out
-29,263,Vinicius,Bahia - BA,in
-30,263,Vitinho,Flamengo - RJ,out
-31,263,Berrio,Flamengo - RJ,in
-32,263,Lincoln,Flamengo - RJ,out
-33,263,Marlos Moreno,Flamengo - RJ,in
-34,263,Trauco,Flamengo - RJ,out
-35,263,Rene,Flamengo - RJ,in
-36,264,Marcos Rocha,Palmeiras - SP,out
-37,264,Mayke,Palmeiras - SP,in
-38,264,Dudu,Palmeiras - SP,out
-39,264,Willian,Palmeiras - SP,in
-40,264,Lucas Lima,Palmeiras - SP,out
-41,264,Moises,Palmeiras - SP,in
-42,264,Bruno Silva,Cruzeiro - MG,out
-43,264,Rafael Sobis,Cruzeiro - MG,in
-44,264,David,Cruzeiro - MG,out
-45,264,De Arrascaeta,Cruzeiro - MG,in
-46,264,Raniel Santana de Vasconcelos,Cruzeiro - MG,out
-47,264,Fred,Cruzeiro - MG,in
-48,265,Luan,Atlético - MG,out
-49,265,Edinho,Atlético - MG,in
-50,265,Elias,Atlético - MG,out
-51,265,M. Galdezani,Atlético - MG,in
-52,265,Cazares,Atlético - MG,out
-53,265,Nathan,Atlético - MG,in
-54,265,Rafael Marques,Sport - PE,out
-55,265,Raul,Sport - PE,in
-56,265,Marlone,Sport - PE,out
-57,265,Andrigo,Sport - PE,in
-58,265,Mateus Gonçalves,Sport - PE,out
-59,265,Gabriel,Sport - PE,in
-60,266,Jean,Botafogo - RJ,out
-61,266,Matheus Fernandes,Botafogo - RJ,in
-62,266,Kieza,Botafogo - RJ,out
-63,266,Brenner,Botafogo - RJ,in
-64,266,Erik,Botafogo - RJ,out
-65,266,Pimpao,Botafogo - RJ,in
-66,266,Nene,São Paulo - SP,out
-67,266,Rodrigo Caio,São Paulo - SP,in
-68,266,Edimar,São Paulo - SP,out
-69,266,Gonzalo Carneiro,São Paulo - SP,in
-70,266,Bruno,São Paulo - SP,out
-71,266,Igor,São Paulo - SP,in
-72,267,Eduardo Sasha,Santos - SP,out
-73,267,Derlis Gonzalez,Santos - SP,in
-74,267,Robson,Santos - SP,out
-75,267,Luiz,Santos - SP,in
-76,267,Bruno,Santos - SP,out
-77,267,Kaio Jorge,Santos - SP,in
-78,267,Marcinho,Atlético - PR,out
-79,267,Roni,Atlético - PR,in
-80,267,Nikao,Atlético - PR,out
-81,267,Marcio Azevedo,Atlético - PR,in
-82,267,Lucho Gonzalez,Atlético - PR,out
-83,267,Bruno Guimaraes,Atlético - PR,in
-84,268,Leandro Damiao,Internacional - RS,out
-85,268,Rossi,Internacional - RS,in
-86,268,William,Internacional - RS,out
-87,268,Camilo,Internacional - RS,in
-88,268,Nico Lopez,Internacional - RS,out
-89,268,JONATAN ALVEZ,Internacional - RS,in
-90,268,Marcelo Meli,Vitória - BA,out
-91,268,Wallyson,Vitória - BA,in
-92,268,Leonardo,Vitória - BA,out
-93,268,Andre Lima,Vitória - BA,in
-94,268,Neilton,Vitória - BA,out
-95,268,Lucas Fernandes,Vitória - BA,in
-96,269,Juninho Quixadá,Ceará - CE,out
-97,269,Ricardinho,Ceará - CE,in
-98,269,Leandro,Ceará - CE,out
-99,269,Eder,Ceará - CE,in
-100,269,Arthur,Ceará - CE,out
-101,269,Ricardo Bueno,Ceará - CE,in
-102,269,Victor,Chapecoense - SC,out
-103,269,Bruno,Chapecoense - SC,in
-104,269,Marcio Araujo,Chapecoense - SC,out
-105,269,Hector,Chapecoense - SC,in
-106,269,Diego Torres,Chapecoense - SC,out
-107,269,Vinicius,Chapecoense - SC,in
-108,270,Deivid,Paraná - PR,out
-109,270,Grampola,Paraná - PR,in
-110,270,Júnior,Paraná - PR,out
-111,270,Carlos Alberto Carvalho,Paraná - PR,in
-112,270,Torito,Paraná - PR,out
-113,270,Caio Henrique,Paraná - PR,in
-114,270,Andy,Vasco da Gama - RJ,out
-115,270,Henriquez,Vasco da Gama - RJ,in
-116,270,Galhardo,Vasco da Gama - RJ,out
-117,270,Kelvin,Vasco da Gama - RJ,in
-118,270,Bruno,Vasco da Gama - RJ,out
-119,270,Thiago,Vasco da Gama - RJ,in
+match_num,player_name_2,player_team,player_status
+261,Gum,Fluminense - RJ,out
+261,Marcos Jr,Fluminense - RJ,in
+261,Léo,Fluminense - RJ,out
+261,Mateus Norton,Fluminense - RJ,in
+261,Sornoza,Fluminense - RJ,out
+261,Kayke,Fluminense - RJ,in
+261,Douglas,Grêmio - RS,out
+261,Thaciano,Grêmio - RS,in
+261,Jean Pyerre,Grêmio - RS,out
+261,Madson,Grêmio - RS,in
+261,Pepe,Grêmio - RS,out
+261,Everton,Grêmio - RS,in
+262,Wesley,América - MG,out
+262,Matheusinho,América - MG,in
+262,David França,América - MG,out
+262,Juninho,América - MG,in
+262,Robinho,América - MG,out
+262,Ze Ricardo,América - MG,in
+262,Clayson,Corinthians - SP,out
+262,Sergio Diaz,Corinthians - SP,in
+262,Angel Romero,Corinthians - SP,out
+262,Roger,Corinthians - SP,in
+262,Angelo Araos,Corinthians - SP,out
+262,Tiaguinho,Corinthians - SP,in
+263,Bruno,Bahia - BA,out
+263,Nino Paraiba,Bahia - BA,in
+263,Ze Rafael,Bahia - BA,out
+263,Clayton,Bahia - BA,in
+263,Ramires,Bahia - BA,out
+263,Vinicius,Bahia - BA,in
+263,Vitinho,Flamengo - RJ,out
+263,Berrio,Flamengo - RJ,in
+263,Lincoln,Flamengo - RJ,out
+263,Marlos Moreno,Flamengo - RJ,in
+263,Trauco,Flamengo - RJ,out
+263,Rene,Flamengo - RJ,in
+264,Marcos Rocha,Palmeiras - SP,out
+264,Mayke,Palmeiras - SP,in
+264,Dudu,Palmeiras - SP,out
+264,Willian,Palmeiras - SP,in
+264,Lucas Lima,Palmeiras - SP,out
+264,Moises,Palmeiras - SP,in
+264,Bruno Silva,Cruzeiro - MG,out
+264,Rafael Sobis,Cruzeiro - MG,in
+264,David,Cruzeiro - MG,out
+264,De Arrascaeta,Cruzeiro - MG,in
+264,Raniel Santana de Vasconcelos,Cruzeiro - MG,out
+264,Fred,Cruzeiro - MG,in
+265,Luan,Atlético - MG,out
+265,Edinho,Atlético - MG,in
+265,Elias,Atlético - MG,out
+265,M. Galdezani,Atlético - MG,in
+265,Cazares,Atlético - MG,out
+265,Nathan,Atlético - MG,in
+265,Rafael Marques,Sport - PE,out
+265,Raul,Sport - PE,in
+265,Marlone,Sport - PE,out
+265,Andrigo,Sport - PE,in
+265,Mateus Gonçalves,Sport - PE,out
+265,Gabriel,Sport - PE,in
+266,Jean,Botafogo - RJ,out
+266,Matheus Fernandes,Botafogo - RJ,in
+266,Kieza,Botafogo - RJ,out
+266,Brenner,Botafogo - RJ,in
+266,Erik,Botafogo - RJ,out
+266,Pimpao,Botafogo - RJ,in
+266,Nene,São Paulo - SP,out
+266,Rodrigo Caio,São Paulo - SP,in
+266,Edimar,São Paulo - SP,out
+266,Gonzalo Carneiro,São Paulo - SP,in
+266,Bruno,São Paulo - SP,out
+266,Igor,São Paulo - SP,in
+267,Eduardo Sasha,Santos - SP,out
+267,Derlis Gonzalez,Santos - SP,in
+267,Robson,Santos - SP,out
+267,Luiz,Santos - SP,in
+267,Bruno,Santos - SP,out
+267,Kaio Jorge,Santos - SP,in
+267,Marcinho,Atlético - PR,out
+267,Roni,Atlético - PR,in
+267,Nikao,Atlético - PR,out
+267,Marcio Azevedo,Atlético - PR,in
+267,Lucho Gonzalez,Atlético - PR,out
+267,Bruno Guimaraes,Atlético - PR,in
+268,Leandro Damiao,Internacional - RS,out
+268,Rossi,Internacional - RS,in
+268,William,Internacional - RS,out
+268,Camilo,Internacional - RS,in
+268,Nico Lopez,Internacional - RS,out
+268,JONATAN ALVEZ,Internacional - RS,in
+268,Marcelo Meli,Vitória - BA,out
+268,Wallyson,Vitória - BA,in
+268,Leonardo,Vitória - BA,out
+268,Andre Lima,Vitória - BA,in
+268,Neilton,Vitória - BA,out
+268,Lucas Fernandes,Vitória - BA,in
+269,Juninho Quixadá,Ceará - CE,out
+269,Ricardinho,Ceará - CE,in
+269,Leandro,Ceará - CE,out
+269,Eder,Ceará - CE,in
+269,Arthur,Ceará - CE,out
+269,Ricardo Bueno,Ceará - CE,in
+269,Victor,Chapecoense - SC,out
+269,Bruno,Chapecoense - SC,in
+269,Marcio Araujo,Chapecoense - SC,out
+269,Hector,Chapecoense - SC,in
+269,Diego Torres,Chapecoense - SC,out
+269,Vinicius,Chapecoense - SC,in
+270,Deivid,Paraná - PR,out
+270,Grampola,Paraná - PR,in
+270,Júnior,Paraná - PR,out
+270,Carlos Alberto Carvalho,Paraná - PR,in
+270,Torito,Paraná - PR,out
+270,Caio Henrique,Paraná - PR,in
+270,Andy,Vasco da Gama - RJ,out
+270,Henriquez,Vasco da Gama - RJ,in
+270,Galhardo,Vasco da Gama - RJ,out
+270,Kelvin,Vasco da Gama - RJ,in
+270,Bruno,Vasco da Gama - RJ,out
+270,Thiago,Vasco da Gama - RJ,in

@@ -1,0 +1,115 @@
+match_num,player_name_2,player_team,player_status
+71,Mascarenhas,Fluminense - RJ,out
+71,Léo,Fluminense - RJ,in
+71,Wendel,Fluminense - RJ,out
+71,Mateus Norton,Fluminense - RJ,in
+71,Orejuela,Fluminense - RJ,out
+71,Nogueira,Fluminense - RJ,in
+71,Marcio Araujo,Flamengo - RJ,out
+71,Willian Arão,Flamengo - RJ,in
+71,Vinicius Jr.,Flamengo - RJ,out
+71,Berrio,Flamengo - RJ,in
+71,Cuellar,Flamengo - RJ,out
+71,Conca,Flamengo - RJ,in
+72,Mateus,Vasco da Gama - RJ,out
+72,Andrezinho,Vasco da Gama - RJ,in
+72,Yago,Vasco da Gama - RJ,out
+72,Manga,Vasco da Gama - RJ,in
+72,Jean,Vasco da Gama - RJ,out
+72,Wellington,Vasco da Gama - RJ,in
+72,Diego,Avaí - SC,out
+72,Willians,Avaí - SC,in
+72,Marquinhos,Avaí - SC,out
+72,Lourenço,Avaí - SC,in
+72,Simião,Avaí - SC,out
+72,Pedro Castro,Avaí - SC,in
+73,Copete,Santos - SP,out
+73,Vladimir Hernandez,Santos - SP,in
+73,Renato Caja,Ponte Preta - SP,out
+73,Wendel,Ponte Preta - SP,in
+73,Joao Lucas,Ponte Preta - SP,out
+73,Luan Peres,Ponte Preta - SP,in
+73,Claudio,Ponte Preta - SP,out
+73,Lins,Ponte Preta - SP,in
+74,Cicero,São Paulo - SP,out
+74,Gilberto,São Paulo - SP,in
+74,Eder Militão,São Paulo - SP,out
+74,Bruno,São Paulo - SP,in
+74,Wellington Silva,São Paulo - SP,out
+74,Thiago Mendes,São Paulo - SP,in
+74,Robinho,Atlético - MG,out
+74,Luan,Atlético - MG,in
+74,Rafael Carioca,Atlético - MG,out
+74,Ralph Machado Dias,Atlético - MG,in
+74,Cazares,Atlético - MG,out
+74,Rodrigo,Atlético - MG,in
+75,Rafael Sobis,Cruzeiro - MG,out
+75,Elber,Cruzeiro - MG,in
+75,Robinho,Cruzeiro - MG,out
+75,Ábila,Cruzeiro - MG,in
+75,Ariel Cabral,Cruzeiro - MG,out
+75,Lucas Silva,Cruzeiro - MG,in
+75,Arthur,Grêmio - RS,out
+75,Maicon,Grêmio - RS,in
+75,Pedro Rocha,Grêmio - RS,out
+75,Fernandinho,Grêmio - RS,in
+75,Kannemann,Grêmio - RS,out
+75,R. Thyere,Grêmio - RS,in
+76,Alan Santos,Coritiba - PR,out
+76,Neto Berola,Coritiba - PR,in
+76,H. Almeida,Coritiba - PR,out
+76,Tiago Real,Coritiba - PR,in
+76,Rildo,Coritiba - PR,out
+76,Iago Dias,Coritiba - PR,in
+76,Gabriel,Corinthians - SP,out
+76,Camacho,Corinthians - SP,in
+76,Marquinhos Gabriel,Corinthians - SP,out
+76,Clayson,Corinthians - SP,in
+76,Angel Romero,Corinthians - SP,out
+76,Pedro,Corinthians - SP,in
+77,Andre,Sport - PE,out
+77,Leandro,Sport - PE,in
+77,Sander,Sport - PE,out
+77,Marquinhos,Sport - PE,in
+77,Fabricio,Sport - PE,out
+77,Thomas,Sport - PE,in
+77,Uillian Correia,Vitória - BA,out
+77,Rene,Vitória - BA,in
+77,Yago Felipe,Vitória - BA,out
+77,Cleiton Xavier,Vitória - BA,in
+77,Neilton,Vitória - BA,out
+77,Andre Lima,Vitória - BA,in
+78,Matheus Reis,Bahia - BA,out
+78,Pablo Armero,Bahia - BA,in
+78,Juninho,Bahia - BA,out
+78,Joao Paulo,Bahia - BA,in
+78,Vinicius,Bahia - BA,out
+78,Gustavo Ferrareis,Bahia - BA,in
+78,Mayke,Palmeiras - SP,out
+78,Tche Tche,Palmeiras - SP,in
+78,Keno,Palmeiras - SP,out
+78,Erik,Palmeiras - SP,in
+78,Thiago Santos,Palmeiras - SP,out
+78,Luan Garcia,Palmeiras - SP,in
+79,Andrigo,Atlético - GO,out
+79,Luiz Fernando,Atlético - GO,in
+79,Breno,Atlético - GO,out
+79,Walter,Atlético - GO,in
+79,Igor,Atlético - GO,out
+79,Diego Rosa,Atlético - GO,in
+79,Deivid,Atlético - PR,out
+79,Bruno Guimaraes,Atlético - PR,in
+79,Nicolas,Atlético - PR,out
+79,Matheus,Atlético - PR,in
+79,Grafite,Atlético - PR,out
+79,Pablo,Atlético - PR,in
+80,Osman,Chapecoense - SC,out
+80,Niltinho,Chapecoense - SC,in
+80,Seijas,Chapecoense - SC,out
+80,Odair,Chapecoense - SC,in
+80,Roger,Botafogo - RJ,out
+80,Montillo,Botafogo - RJ,in
+80,Rodrigo,Botafogo - RJ,out
+80,Dudu Cearense,Botafogo - RJ,in
+80,Pimpao,Botafogo - RJ,out
+80,Guilherme Augusto,Botafogo - RJ,in

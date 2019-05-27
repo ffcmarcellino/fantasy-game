@@ -1,0 +1,115 @@
+match_num,player_name_2,player_team,player_status
+1,Cleiton Xavier,Palmeiras - SP,out
+1,Moises,Palmeiras - SP,in
+1,Roger Guedes,Palmeiras - SP,out
+1,Rafael Marques,Palmeiras - SP,in
+1,Lucas Barrios,Palmeiras - SP,out
+1,Alecsandro,Palmeiras - SP,in
+1,Jadson,Atlético - PR,out
+1,Hernani,Atlético - PR,in
+1,Vinicius,Atlético - PR,out
+1,Pablo,Atlético - PR,in
+2,Emerson Sheik,Flamengo - RJ,out
+2,Marcelo Cirino,Flamengo - RJ,in
+2,Guerrero,Flamengo - RJ,out
+2,Eder,Flamengo - RJ,in
+2,Mancuello,Flamengo - RJ,out
+2,Alan Patrick,Flamengo - RJ,in
+2,Vinicius Araujo,Sport - PE,out
+2,Neto,Sport - PE,in
+2,R. Lenis,Sport - PE,out
+2,Tulio de Melo,Sport - PE,in
+2,M Gonzalez,Sport - PE,out
+2,Serginho,Sport - PE,in
+3,Carlos Eduardo,Atlético - MG,out
+3,Pablo,Atlético - MG,in
+3,Hyuri,Atlético - MG,out
+3,Yago Henrique Severino dos Santos,Atlético - MG,in
+3,Renato,Santos - SP,out
+3,Maxi Rolon,Santos - SP,in
+3,Paulinho,Santos - SP,out
+3,Sergio,Santos - SP,in
+3,Ronaldo,Santos - SP,out
+3,Matheus,Santos - SP,in
+4,Vinicius,Coritiba - PR,out
+4,Ortega,Coritiba - PR,in
+4,Ruy,Coritiba - PR,out
+4,Weverson,Coritiba - PR,in
+4,Cesar Gonzales,Coritiba - PR,out
+4,Thiago Lopes,Coritiba - PR,in
+4,Elber,Cruzeiro - MG,out
+4,Bruno Ramires,Cruzeiro - MG,in
+4,Allano,Cruzeiro - MG,out
+4,Douglas,Cruzeiro - MG,in
+4,Matias Pisano,Cruzeiro - MG,out
+4,Ariel Cabral,Cruzeiro - MG,in
+5,Leandro,Botafogo - RJ,out
+5,Anderson Aquino,Botafogo - RJ,in
+5,Bruno Silva,Botafogo - RJ,out
+5,Salgueiro,Botafogo - RJ,in
+5,Neilton,Botafogo - RJ,out
+5,Sassá,Botafogo - RJ,in
+5,Lucas,São Paulo - SP,out
+5,Rogerio,São Paulo - SP,in
+5,Banguele,São Paulo - SP,out
+5,Thiago Mendes,São Paulo - SP,in
+5,Wilder,São Paulo - SP,out
+5,Kelvin,São Paulo - SP,in
+6,Grafite,Santa Cruz - PE,out
+6,Bruno Moraes,Santa Cruz - PE,in
+6,Arthur,Santa Cruz - PE,out
+6,Wallyson,Santa Cruz - PE,in
+6,Keno,Santa Cruz - PE,out
+6,Alemao,Santa Cruz - PE,in
+6,Vander,Vitória - BA,out
+6,William Henrique,Vitória - BA,in
+6,Marcelo,Vitória - BA,out
+6,Alipio,Vitória - BA,in
+6,Leandro,Vitória - BA,out
+6,David,Vitória - BA,in
+7,Rodriguinho,Corinthians - SP,out
+7,Guilherme,Corinthians - SP,in
+7,Andre,Corinthians - SP,out
+7,Luciano,Corinthians - SP,in
+7,Angel Romero,Corinthians - SP,out
+7,Giovanni Augusto,Corinthians - SP,in
+7,Bobo,Grêmio - RS,out
+7,H. Almeida,Grêmio - RS,in
+7,Luan,Grêmio - RS,out
+7,Everton,Grêmio - RS,in
+7,Miller Bolaños,Grêmio - RS,out
+7,Edinho,Grêmio - RS,in
+8,Gustavo Ermel,Figueirense - SC,out
+8,Dudu,Figueirense - SC,in
+8,Ferrugem,Figueirense - SC,out
+8,Guilherme Queiroz,Figueirense - SC,in
+8,Jocinei,Figueirense - SC,out
+8,Ortega,Figueirense - SC,in
+8,Felipe Azevedo,Ponte Preta - SP,out
+8,Rhayner,Ponte Preta - SP,in
+8,Clayson,Ponte Preta - SP,out
+8,Roger,Ponte Preta - SP,in
+8,Ravanelli,Ponte Preta - SP,out
+8,Felipe,Ponte Preta - SP,in
+9,Tiago Luis,América - MG,out
+9,Borges,América - MG,in
+9,Victor Rangel,América - MG,out
+9,Bruno Savio,América - MG,in
+9,Jonathan,Fluminense - RJ,out
+9,Giovanni,Fluminense - RJ,in
+9,Osvaldo,Fluminense - RJ,out
+9,Marcos Jr,Fluminense - RJ,in
+9,Richarlison,Fluminense - RJ,out
+9,Gerson,Fluminense - RJ,in
+10,Aylon,Internacional - RS,out
+10,Marquinhos,Internacional - RS,in
+10,Artur,Internacional - RS,out
+10,Gustavo Ferrareis,Internacional - RS,in
+10,Andrigo,Internacional - RS,out
+10,Alisson Farias,Internacional - RS,in
+10,Ananias,Chapecoense - SC,out
+10,Lourency,Chapecoense - SC,in
+10,Lucas,Chapecoense - SC,out
+10,Silvinho,Chapecoense - SC,in
+10,Bruno Rangel,Chapecoense - SC,out
+10,Rafael Lima,Chapecoense - SC,in

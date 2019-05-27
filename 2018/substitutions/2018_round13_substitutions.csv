@@ -1,119 +1,119 @@
-,match_num,player_name_2,player_team,player_status
-0,121,Thiago Neves,Cruzeiro - MG,out
-1,121,Mancuello,Cruzeiro - MG,in
-2,121,Barcos,Cruzeiro - MG,out
-3,121,Raniel Santana de Vasconcelos,Cruzeiro - MG,in
-4,121,De Arrascaeta,Cruzeiro - MG,out
-5,121,Rafinha,Cruzeiro - MG,in
-6,121,Neto,América - MG,out
-7,121,Ademir,América - MG,in
-8,121,Leandro Donizete,América - MG,out
-9,121,Ruy,América - MG,in
-10,121,Wesley,América - MG,out
-11,121,Joao Victor,América - MG,in
-12,122,Thiago Heleno,Atlético - PR,out
-13,122,Wanderson,Atlético - PR,in
-14,122,Nikao,Atlético - PR,out
-15,122,Bruno Nazario,Atlético - PR,in
-16,122,Lucho Gonzalez,Atlético - PR,out
-17,122,Camacho,Atlético - PR,in
-18,122,Lucca,Internacional - RS,out
-19,122,Wellington Silva,Internacional - RS,in
-20,122,Fabiano,Internacional - RS,out
-21,122,Rossi,Internacional - RS,in
-22,123,Luiz Antonio,Chapecoense - SC,out
-23,123,Leandro,Chapecoense - SC,in
-24,123,Hector,Chapecoense - SC,out
-25,123,Guilherme Augusto,Chapecoense - SC,in
-26,123,Bruno,Chapecoense - SC,out
-27,123,Osman,Chapecoense - SC,in
-28,123,Bruno,Bahia - BA,out
-29,123,Flavio,Bahia - BA,in
-30,123,Gilberto,Bahia - BA,out
-31,123,Regis,Bahia - BA,in
-32,123,Edigar Junio,Bahia - BA,out
-33,123,Elber,Bahia - BA,in
-34,124,Jeferson,Vitória - BA,out
-35,124,Ilson Cedric,Vitória - BA,in
-36,124,Luan Santos,Vitória - BA,out
-37,124,Wallyson,Vitória - BA,in
-38,124,Guilherme,Vitória - BA,out
-39,124,Willian,Vitória - BA,in
-40,124,Charles,Paraná - PR,out
-41,124,Caio Henrique,Paraná - PR,in
-42,124,Léo Itaperuna,Paraná - PR,out
-43,124,Alemão,Paraná - PR,in
-44,124,Thiago,Paraná - PR,out
-45,124,Matheus,Paraná - PR,in
-46,125,Andy,Vasco da Gama - RJ,out
-47,125,Bruno,Vasco da Gama - RJ,in
-48,125,Wagner,Vasco da Gama - RJ,out
-49,125,Evander,Vasco da Gama - RJ,in
-50,125,Giovanni Augusto,Vasco da Gama - RJ,out
-51,125,Kelvin,Vasco da Gama - RJ,in
-52,125,Dodi,Fluminense - RJ,out
-53,125,Matheus Alessandro,Fluminense - RJ,in
-54,125,Ayrton Lucas,Fluminense - RJ,out
-55,125,Marlon,Fluminense - RJ,in
-56,125,Sornoza,Fluminense - RJ,out
-57,125,Pablo Dyego,Fluminense - RJ,in
-58,126,Romulo,Flamengo - RJ,out
-59,126,Trauco,Flamengo - RJ,in
-60,126,Everton Ribeiro,Flamengo - RJ,out
-61,126,Matheus Savio,Flamengo - RJ,in
-62,126,Marlos Moreno,Flamengo - RJ,out
-63,126,URIBE,Flamengo - RJ,in
-64,126,Everton,São Paulo - SP,out
-65,126,Santiago,São Paulo - SP,in
-66,126,Jucilei,São Paulo - SP,out
-67,126,Igor,São Paulo - SP,in
-68,126,Joao Rojas,São Paulo - SP,out
-69,126,Felipe,São Paulo - SP,in
-70,127,Eder,Ceará - CE,out
-71,127,Arthur,Ceará - CE,in
-72,127,Reina,Ceará - CE,out
-73,127,Brock,Ceará - CE,in
-74,127,Richardson,Ceará - CE,out
-75,127,Valdo,Ceará - CE,in
-76,127,Rafael Marques,Sport - PE,out
-77,127,Carlos,Sport - PE,in
-78,127,Ernando,Sport - PE,out
-79,127,Max,Sport - PE,in
-80,127,Marlone,Sport - PE,out
-81,127,Andrigo,Sport - PE,in
-82,128,Alison,Santos - SP,out
-83,128,Leo Cittadini,Santos - SP,in
-84,128,Eduardo Sasha,Santos - SP,out
-85,128,Copete,Santos - SP,in
-86,128,Rodrygo,Santos - SP,out
-87,128,Yuri Alberto,Santos - SP,in
-88,128,Willian,Palmeiras - SP,out
-89,128,Deyverson,Palmeiras - SP,in
-90,128,Hyoran,Palmeiras - SP,out
-91,128,Jean,Palmeiras - SP,in
-92,128,Lucas Lima,Palmeiras - SP,out
-93,128,Artur,Palmeiras - SP,in
-94,129,Roger,Corinthians - SP,out
-95,129,Jonathas,Corinthians - SP,in
-96,129,Rene Junior,Corinthians - SP,out
-97,129,Paulo Roberto,Corinthians - SP,in
-98,129,Mateus,Corinthians - SP,out
-99,129,Marquinhos Gabriel,Corinthians - SP,in
-100,129,Ezequiel,Botafogo - RJ,out
-101,129,Aguirre,Botafogo - RJ,in
-102,129,Joao Pedro,Botafogo - RJ,out
-103,129,Pimpao,Botafogo - RJ,in
-104,129,Leo Valencia,Botafogo - RJ,out
-105,129,Luiz Fernando,Botafogo - RJ,in
-106,130,Leo Moura,Grêmio - RS,out
-107,130,Marinho,Grêmio - RS,in
-108,130,Maicon,Grêmio - RS,out
-109,130,Jailson,Grêmio - RS,in
-110,130,Andre,Grêmio - RS,out
-111,130,Douglas,Grêmio - RS,in
-112,130,Luan,Atlético - MG,out
-113,130,Tomas Andrade,Atlético - MG,in
-114,130,Edinho,Atlético - MG,out
-115,130,Denilson,Atlético - MG,in
-116,130,Chará,Atlético - MG,out
-117,130,David Terans,Atlético - MG,in
+match_num,player_name_2,player_team,player_status
+121,Thiago Neves,Cruzeiro - MG,out
+121,Mancuello,Cruzeiro - MG,in
+121,Barcos,Cruzeiro - MG,out
+121,Raniel Santana de Vasconcelos,Cruzeiro - MG,in
+121,De Arrascaeta,Cruzeiro - MG,out
+121,Rafinha,Cruzeiro - MG,in
+121,Neto,América - MG,out
+121,Ademir,América - MG,in
+121,Leandro Donizete,América - MG,out
+121,Ruy,América - MG,in
+121,Wesley,América - MG,out
+121,Joao Victor,América - MG,in
+122,Thiago Heleno,Atlético - PR,out
+122,Wanderson,Atlético - PR,in
+122,Nikao,Atlético - PR,out
+122,Bruno Nazario,Atlético - PR,in
+122,Lucho Gonzalez,Atlético - PR,out
+122,Camacho,Atlético - PR,in
+122,Lucca,Internacional - RS,out
+122,Wellington Silva,Internacional - RS,in
+122,Fabiano,Internacional - RS,out
+122,Rossi,Internacional - RS,in
+123,Luiz Antonio,Chapecoense - SC,out
+123,Leandro,Chapecoense - SC,in
+123,Hector,Chapecoense - SC,out
+123,Guilherme Augusto,Chapecoense - SC,in
+123,Bruno,Chapecoense - SC,out
+123,Osman,Chapecoense - SC,in
+123,Bruno,Bahia - BA,out
+123,Flavio,Bahia - BA,in
+123,Gilberto,Bahia - BA,out
+123,Regis,Bahia - BA,in
+123,Edigar Junio,Bahia - BA,out
+123,Elber,Bahia - BA,in
+124,Jeferson,Vitória - BA,out
+124,Ilson Cedric,Vitória - BA,in
+124,Luan Santos,Vitória - BA,out
+124,Wallyson,Vitória - BA,in
+124,Guilherme,Vitória - BA,out
+124,Willian,Vitória - BA,in
+124,Charles,Paraná - PR,out
+124,Caio Henrique,Paraná - PR,in
+124,Léo Itaperuna,Paraná - PR,out
+124,Alemão,Paraná - PR,in
+124,Thiago,Paraná - PR,out
+124,Matheus,Paraná - PR,in
+125,Andy,Vasco da Gama - RJ,out
+125,Bruno,Vasco da Gama - RJ,in
+125,Wagner,Vasco da Gama - RJ,out
+125,Evander,Vasco da Gama - RJ,in
+125,Giovanni Augusto,Vasco da Gama - RJ,out
+125,Kelvin,Vasco da Gama - RJ,in
+125,Dodi,Fluminense - RJ,out
+125,Matheus Alessandro,Fluminense - RJ,in
+125,Ayrton Lucas,Fluminense - RJ,out
+125,Marlon,Fluminense - RJ,in
+125,Sornoza,Fluminense - RJ,out
+125,Pablo Dyego,Fluminense - RJ,in
+126,Romulo,Flamengo - RJ,out
+126,Trauco,Flamengo - RJ,in
+126,Everton Ribeiro,Flamengo - RJ,out
+126,Matheus Savio,Flamengo - RJ,in
+126,Marlos Moreno,Flamengo - RJ,out
+126,URIBE,Flamengo - RJ,in
+126,Everton,São Paulo - SP,out
+126,Santiago,São Paulo - SP,in
+126,Jucilei,São Paulo - SP,out
+126,Igor,São Paulo - SP,in
+126,Joao Rojas,São Paulo - SP,out
+126,Felipe,São Paulo - SP,in
+127,Eder,Ceará - CE,out
+127,Arthur,Ceará - CE,in
+127,Reina,Ceará - CE,out
+127,Brock,Ceará - CE,in
+127,Richardson,Ceará - CE,out
+127,Valdo,Ceará - CE,in
+127,Rafael Marques,Sport - PE,out
+127,Carlos,Sport - PE,in
+127,Ernando,Sport - PE,out
+127,Max,Sport - PE,in
+127,Marlone,Sport - PE,out
+127,Andrigo,Sport - PE,in
+128,Alison,Santos - SP,out
+128,Leo Cittadini,Santos - SP,in
+128,Eduardo Sasha,Santos - SP,out
+128,Copete,Santos - SP,in
+128,Rodrygo,Santos - SP,out
+128,Yuri Alberto,Santos - SP,in
+128,Willian,Palmeiras - SP,out
+128,Deyverson,Palmeiras - SP,in
+128,Hyoran,Palmeiras - SP,out
+128,Jean,Palmeiras - SP,in
+128,Lucas Lima,Palmeiras - SP,out
+128,Artur,Palmeiras - SP,in
+129,Roger,Corinthians - SP,out
+129,Jonathas,Corinthians - SP,in
+129,Rene Junior,Corinthians - SP,out
+129,Paulo Roberto,Corinthians - SP,in
+129,Mateus,Corinthians - SP,out
+129,Marquinhos Gabriel,Corinthians - SP,in
+129,Ezequiel,Botafogo - RJ,out
+129,Aguirre,Botafogo - RJ,in
+129,Joao Pedro,Botafogo - RJ,out
+129,Pimpao,Botafogo - RJ,in
+129,Leo Valencia,Botafogo - RJ,out
+129,Luiz Fernando,Botafogo - RJ,in
+130,Leo Moura,Grêmio - RS,out
+130,Marinho,Grêmio - RS,in
+130,Maicon,Grêmio - RS,out
+130,Jailson,Grêmio - RS,in
+130,Andre,Grêmio - RS,out
+130,Douglas,Grêmio - RS,in
+130,Luan,Atlético - MG,out
+130,Tomas Andrade,Atlético - MG,in
+130,Edinho,Atlético - MG,out
+130,Denilson,Atlético - MG,in
+130,Chará,Atlético - MG,out
+130,David Terans,Atlético - MG,in
