@@ -1,0 +1,115 @@
+,match_num,player_name_2,player_team,player_status
+0,251,Gabriel,Flamengo - RJ,out
+1,251,Eduardo da Silva,Flamengo - RJ,in
+2,251,Caceres,Flamengo - RJ,out
+3,251,Luiz Antonio,Flamengo - RJ,in
+4,251,Hector,Flamengo - RJ,out
+5,251,Elton,Flamengo - RJ,in
+6,251,Gigio,Santos - SP,out
+7,251,Rodriguez,Santos - SP,in
+8,251,Robinho,Santos - SP,out
+9,251,Neto,Santos - SP,in
+10,251,Gabriel B.,Santos - SP,out
+11,251,Rildo,Santos - SP,in
+12,252,Cicero,Fluminense - RJ,out
+13,252,Rafael Sobis,Fluminense - RJ,in
+14,252,Rafael,Fluminense - RJ,out
+15,252,Robert,Fluminense - RJ,in
+16,252,Conca,Fluminense - RJ,out
+17,252,Edson,Fluminense - RJ,in
+18,252,Diego Macedo,Bahia - BA,out
+19,252,Leo Gago,Bahia - BA,in
+20,252,Wiliam Barbio,Bahia - BA,out
+21,252,H. Almeida,Bahia - BA,in
+22,252,Biancucchi,Bahia - BA,out
+23,252,Marcos Aurelio,Bahia - BA,in
+24,253,Renato Augusto,Corinthians - SP,out
+25,253,Danilo,Corinthians - SP,in
+26,253,Malcom,Corinthians - SP,out
+27,253,Luciano,Corinthians - SP,in
+28,253,Guerrero,Corinthians - SP,out
+29,253,Angel Romero,Corinthians - SP,in
+30,253,Willian,Sport - PE,out
+31,253,Ze Mario,Sport - PE,in
+32,253,Felipe Azevedo,Sport - PE,out
+33,253,Ananias,Sport - PE,in
+34,254,Wesley,Palmeiras - SP,out
+35,254,Bruno,Palmeiras - SP,in
+36,254,Diogo,Palmeiras - SP,out
+37,254,Cristaldo,Palmeiras - SP,in
+38,254,Valdivia,Palmeiras - SP,out
+39,254,Bruno,Palmeiras - SP,in
+40,254,Ricardo Conceicao,Chapecoense - SC,out
+41,254,Wanderson,Chapecoense - SC,in
+42,254,Zezinho,Chapecoense - SC,out
+43,254,Odair,Chapecoense - SC,in
+44,254,Fabiano,Chapecoense - SC,out
+45,254,Ednei,Chapecoense - SC,in
+46,255,Rosinei,Coritiba - PR,out
+47,255,Robinho,Coritiba - PR,in
+48,255,Martinucio,Coritiba - PR,out
+49,255,Elber,Coritiba - PR,in
+50,255,Joel,Coritiba - PR,out
+51,255,Geraldo,Coritiba - PR,in
+52,255,Sueliton,Atletico - PR,out
+53,255,Mario Sergio,Atletico - PR,in
+54,255,Douglas,Atletico - PR,out
+55,255,Marco Damasceno,Atletico - PR,in
+56,255,Marcelo Cirino,Atletico - PR,out
+57,255,Sidcley,Atletico - PR,in
+58,256,Willian,Cruzeiro - MG,out
+59,256,Dagoberto,Cruzeiro - MG,in
+60,256,Marcelo Moreno,Cruzeiro - MG,out
+61,256,Borges,Cruzeiro - MG,in
+62,256,Everton Ribeiro,Cruzeiro - MG,out
+63,256,Nilton,Cruzeiro - MG,in
+64,256,Willians,Internacional - RS,out
+65,256,Alan Patrick,Internacional - RS,in
+66,256,Wellington,Internacional - RS,out
+67,256,Alex,Internacional - RS,in
+68,256,Valdivia,Internacional - RS,out
+69,256,Leandro,Internacional - RS,in
+70,257,Escudero,Vitória - BA,out
+71,257,Edno,Vitória - BA,in
+72,257,Mansur,Vitória - BA,out
+73,257,Luis,Vitória - BA,in
+74,257,Dinei,Vitória - BA,out
+75,257,Beltran,Vitória - BA,in
+76,257,Fabiano,Botafogo - RJ,out
+77,257,Carlos Alberto,Botafogo - RJ,in
+78,257,Gabriel,Botafogo - RJ,out
+79,257,Murilo,Botafogo - RJ,in
+80,257,Pablo Daniel,Botafogo - RJ,out
+81,257,Wallyson,Botafogo - RJ,in
+82,258,Walace,Grêmio - RS,out
+83,258,Giuliano,Grêmio - RS,in
+84,258,Luan,Grêmio - RS,out
+85,258,Alan Ruiz,Grêmio - RS,in
+86,258,Fellipe,Grêmio - RS,out
+87,258,Riveros,Grêmio - RS,in
+88,258,Alexandre Pato,São Paulo - SP,out
+89,258,Osvaldo,São Paulo - SP,in
+90,258,Maicon,São Paulo - SP,out
+91,258,Reinaldo,São Paulo - SP,in
+92,259,Eduardo,Criciuma - SC,out
+93,259,Luis Felipe,Criciuma - SC,in
+94,259,Rafael,Criciuma - SC,out
+95,259,Gualberto,Criciuma - SC,in
+96,259,Roger,Criciuma - SC,out
+97,259,Bruno,Criciuma - SC,in
+98,259,Josue,Atlético - MG,out
+99,259,Pierre,Atlético - MG,in
+100,259,Leandro Donizete,Atlético - MG,out
+101,259,Andre,Atlético - MG,in
+102,260,Ramon,Goiás - GO,out
+103,260,Liniker,Goiás - GO,in
+104,260,Moises,Goiás - GO,out
+105,260,Samuel,Goiás - GO,in
+106,260,Welinton,Goiás - GO,out
+107,260,Tiago Real,Goiás - GO,in
+108,260,Marcao,Figueirense - SC,out
+109,260,Everaldo,Figueirense - SC,in
+110,260,Leandro Silva,Figueirense - SC,out
+111,260,William,Figueirense - SC,in
+112,260,Giovanni Augusto,Figueirense - SC,out
+113,260,Mazola,Figueirense - SC,in

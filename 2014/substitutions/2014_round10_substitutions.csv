@@ -1,0 +1,117 @@
+,match_num,player_name_2,player_team,player_status
+0,91,Elano,Flamengo - RJ,out
+1,91,Luiz Antonio,Flamengo - RJ,in
+2,91,Paulinho,Flamengo - RJ,out
+3,91,Lucas,Flamengo - RJ,in
+4,91,Samir,Flamengo - RJ,out
+5,91,Nixon,Flamengo - RJ,in
+6,91,Ederson,Atletico - PR,out
+7,91,João Paulo,Atletico - PR,in
+8,91,Derley,Atletico - PR,out
+9,91,Paulinho Dias,Atletico - PR,in
+10,91,Bady,Atletico - PR,out
+11,91,Marcelo Cirino,Atletico - PR,in
+12,92,Felipe Azevedo,Sport - PE,out
+13,92,Ananias,Sport - PE,in
+14,92,Neto Baiano,Sport - PE,out
+15,92,Leonardo,Sport - PE,in
+16,92,Erico Junior,Sport - PE,out
+17,92,Danilo,Sport - PE,in
+18,92,Yuri Mamute,Botafogo - RJ,out
+19,92,Daniel,Botafogo - RJ,in
+20,92,Bolatti,Botafogo - RJ,out
+21,92,Jorge Wagner Goes Conceicao,Botafogo - RJ,in
+22,92,Pablo Daniel,Botafogo - RJ,out
+23,92,Carlos Alberto,Botafogo - RJ,in
+24,93,Elias,Corinthians - SP,out
+25,93,Bruno,Corinthians - SP,in
+26,93,Luciano,Corinthians - SP,out
+27,93,Romarinho,Corinthians - SP,in
+28,93,Guerrero,Corinthians - SP,out
+29,93,Angel Romero,Corinthians - SP,in
+30,93,Jorge Henrique,Internacional - RS,out
+31,93,Valdivia,Internacional - RS,in
+32,93,Willians,Internacional - RS,out
+33,93,Wellington Paulista,Internacional - RS,in
+34,93,Joao Afonso,Internacional - RS,out
+35,93,Claudio Winck,Internacional - RS,in
+36,94,Marcos,Santos - SP,out
+37,94,Souza,Santos - SP,in
+38,94,Bruno Uvini Bortolanca,Santos - SP,out
+39,94,Paulo Ricardo,Santos - SP,in
+40,94,Victor Ferraz,Santos - SP,out
+41,94,Zeca,Santos - SP,in
+42,94,Josimar,Palmeiras - SP,out
+43,94,Mendieta,Palmeiras - SP,in
+44,94,Bruno,Palmeiras - SP,out
+45,94,Erik,Palmeiras - SP,in
+46,94,Weverson,Palmeiras - SP,out
+47,94,Eduardo,Palmeiras - SP,in
+48,95,Keirrison,Coritiba - PR,out
+49,95,Julio Cesar,Coritiba - PR,in
+50,95,Elber,Coritiba - PR,out
+51,95,Martinucio,Coritiba - PR,in
+52,95,Dener,Coritiba - PR,out
+53,95,Carlinho,Coritiba - PR,in
+54,95,Leonardo,Figueirense - SC,out
+55,95,Everaldo,Figueirense - SC,in
+56,95,Kleber,Figueirense - SC,out
+57,95,Rivaldo,Figueirense - SC,in
+58,95,Dener,Figueirense - SC,out
+59,95,Nem,Figueirense - SC,in
+60,96,Marcelo Moreno,Cruzeiro - MG,out
+61,96,Julio Baptista,Cruzeiro - MG,in
+62,96,Marquinhos,Cruzeiro - MG,out
+63,96,Dagoberto,Cruzeiro - MG,in
+64,96,Everton Ribeiro,Cruzeiro - MG,out
+65,96,Tinga,Cruzeiro - MG,in
+66,96,Richarlyson,Vitória - BA,out
+67,96,Vander,Vitória - BA,in
+68,96,Caio,Vitória - BA,out
+69,96,Willie,Vitória - BA,in
+70,97,Max,Bahia - BA,out
+71,97,Wiliam Barbio,Bahia - BA,in
+72,97,H. Almeida,Bahia - BA,out
+73,97,Jeam,Bahia - BA,in
+74,97,Wilson,Bahia - BA,out
+75,97,Biancucchi,Bahia - BA,in
+76,97,Maicon,São Paulo - SP,out
+77,97,Denilson,São Paulo - SP,in
+78,97,Osvaldo,São Paulo - SP,out
+79,97,Gabriel,São Paulo - SP,in
+80,97,Alan Kardec,São Paulo - SP,out
+81,97,Alexandre Pato,São Paulo - SP,in
+82,98,Ramiro,Grêmio - RS,out
+83,98,Dudu,Grêmio - RS,in
+84,98,Barcos,Grêmio - RS,out
+85,98,Lucas,Grêmio - RS,in
+86,98,Alan Ruiz,Grêmio - RS,out
+87,98,Ze Roberto,Grêmio - RS,in
+88,98,Lima,Goiás - GO,out
+89,98,Alex Alves,Goiás - GO,in
+90,98,Junior,Goiás - GO,out
+91,98,Welinton,Goiás - GO,in
+92,98,Liniker,Goiás - GO,out
+93,98,Erik,Goiás - GO,in
+94,99,Paulo Baier,Criciuma - SC,out
+95,99,Luis Fernando Lojudice Martinez,Criciuma - SC,in
+96,99,Rafinha,Criciuma - SC,out
+97,99,Ricardinho,Criciuma - SC,in
+98,99,Bruno,Criciuma - SC,out
+99,99,Cristiano,Criciuma - SC,in
+100,99,Cicero,Fluminense - RJ,out
+101,99,Robert,Fluminense - RJ,in
+102,99,Walter,Fluminense - RJ,out
+103,99,Matheus Carvalho,Fluminense - RJ,in
+104,100,Fabinho Alves,Chapecoense - SC,out
+105,100,Mailson,Chapecoense - SC,in
+106,100,Odair,Chapecoense - SC,out
+107,100,Zezinho,Chapecoense - SC,in
+108,100,Neuton,Chapecoense - SC,out
+109,100,Ednei,Chapecoense - SC,in
+110,100,Maicosuel,Atlético - MG,out
+111,100,Luan,Atlético - MG,in
+112,100,Rever,Atlético - MG,out
+113,100,Jemerson,Atlético - MG,in
+114,100,Andre,Atlético - MG,out
+115,100,Datolo,Atlético - MG,in

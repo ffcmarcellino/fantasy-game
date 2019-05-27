@@ -1,0 +1,121 @@
+,match_num,player_name_2,player_team,player_status
+0,281,Walter,Atlético - GO,out
+1,281,Alison,Atlético - GO,in
+2,281,Paulinho,Atlético - GO,out
+3,281,Niltinho,Atlético - GO,in
+4,281,Andrigo,Atlético - GO,out
+5,281,Diego Rosa,Atlético - GO,in
+6,281,Mateus,Vasco da Gama - RJ,out
+7,281,Paulo Vitor,Vasco da Gama - RJ,in
+8,281,Anderson,Vasco da Gama - RJ,out
+9,281,Paulão,Vasco da Gama - RJ,in
+10,281,Bruno Paulista,Vasco da Gama - RJ,out
+11,281,Andrey,Vasco da Gama - RJ,in
+12,282,Rafael Longuine,Coritiba - PR,out
+13,282,Baumjohann,Coritiba - PR,in
+14,282,Alan Santos,Coritiba - PR,out
+15,282,Edinho,Coritiba - PR,in
+16,282,Jonas,Coritiba - PR,out
+17,282,M. Galdezani,Coritiba - PR,in
+18,282,Rafael Sobis,Cruzeiro - MG,out
+19,282,Rafael Marques,Cruzeiro - MG,in
+20,282,Hudson,Cruzeiro - MG,out
+21,282,Messidoro,Cruzeiro - MG,in
+22,282,Elber,Cruzeiro - MG,out
+23,282,De Arrascaeta,Cruzeiro - MG,in
+24,283,Roger,Atlético - MG,out
+25,283,Otero,Atlético - MG,in
+26,283,Valdivia,Atlético - MG,out
+27,283,Yago Henrique Severino dos Santos,Atlético - MG,in
+28,283,Cazares,Atlético - MG,out
+29,283,Adilson,Atlético - MG,in
+30,283,Douglas,Chapecoense - SC,out
+31,283,Douglas Groli,Chapecoense - SC,in
+32,283,Amaral,Chapecoense - SC,out
+33,283,Lucas,Chapecoense - SC,in
+34,283,Moises,Chapecoense - SC,out
+35,283,Elicarlos,Chapecoense - SC,in
+36,284,Jadson,Corinthians - SP,out
+37,284,Clayson,Corinthians - SP,in
+38,284,Gabriel,Corinthians - SP,out
+39,284,Fellipe,Corinthians - SP,in
+40,284,Angel Romero,Corinthians - SP,out
+41,284,Marquinhos Gabriel,Corinthians - SP,in
+42,284,Fernandinho,Grêmio - RS,out
+43,284,Beto da Silva,Grêmio - RS,in
+44,284,Luan,Grêmio - RS,out
+45,284,Everton,Grêmio - RS,in
+46,284,Lucas Barrios,Grêmio - RS,out
+47,284,Jael,Grêmio - RS,in
+48,285,Henrique Dourado,Fluminense - RJ,out
+49,285,Pedro,Fluminense - RJ,in
+50,285,Marcos Jr,Fluminense - RJ,out
+51,285,Robinho,Fluminense - RJ,in
+52,285,Sornoza,Fluminense - RJ,out
+53,285,Mateus Norton,Fluminense - RJ,in
+54,285,Lucas,São Paulo - SP,out
+55,285,Maicosuel,São Paulo - SP,in
+56,285,Lucas Pratto,São Paulo - SP,out
+57,285,Antonio,São Paulo - SP,in
+58,285,Cueva,São Paulo - SP,out
+59,285,Shaylon,São Paulo - SP,in
+60,286,Pedro Castro,Avaí - SC,out
+61,286,Simião,Avaí - SC,in
+62,286,Luan Pereira,Avaí - SC,out
+63,286,Edson,Avaí - SC,in
+64,286,Joel,Avaí - SC,out
+65,286,Marquinhos,Avaí - SC,in
+66,286,Brenner,Botafogo - RJ,out
+67,286,Vinicius,Botafogo - RJ,in
+68,286,Pimpao,Botafogo - RJ,out
+69,286,Guilherme Augusto,Botafogo - RJ,in
+70,286,Matheus Fernandes,Botafogo - RJ,out
+71,286,Marcos Vinicius,Botafogo - RJ,in
+72,287,Willian,Palmeiras - SP,out
+73,287,Borja,Palmeiras - SP,in
+74,287,Moises,Palmeiras - SP,out
+75,287,Felipe Melo,Palmeiras - SP,in
+76,287,Tche Tche,Palmeiras - SP,out
+77,287,Marcos,Palmeiras - SP,in
+78,287,Elton,Ponte Preta - SP,out
+79,287,Jadson,Ponte Preta - SP,in
+80,287,Claudio,Ponte Preta - SP,out
+81,287,Renato Caja,Ponte Preta - SP,in
+82,287,Jean,Ponte Preta - SP,out
+83,287,Saraiva,Ponte Preta - SP,in
+84,288,Fillipe Soutto,Vitória - BA,out
+85,288,Andre Lima,Vitória - BA,in
+86,288,Neilton,Vitória - BA,out
+87,288,Danilinho,Vitória - BA,in
+88,288,Caique Sá,Vitória - BA,out
+89,288,Patric,Vitória - BA,in
+90,288,Gedoz,Atlético - PR,out
+91,288,Fabricio,Atlético - PR,in
+92,288,Lucho Gonzalez,Atlético - PR,out
+93,288,Matheus,Atlético - PR,in
+94,288,Esteban Pavez,Atlético - PR,out
+95,288,Lucas Fernandes,Atlético - PR,in
+96,289,Diego,Flamengo - RJ,out
+97,289,Romulo,Flamengo - RJ,in
+98,289,Guerrero,Flamengo - RJ,out
+99,289,Lucas Paquetá,Flamengo - RJ,in
+100,289,Berrio,Flamengo - RJ,out
+101,289,Everton Ribeiro,Flamengo - RJ,in
+102,289,Vinicius,Bahia - BA,out
+103,289,Regis,Bahia - BA,in
+104,289,Edigar Junio,Bahia - BA,out
+105,289,Hernane,Bahia - BA,in
+106,289,Ze Rafael,Bahia - BA,out
+107,289,Allione,Bahia - BA,in
+108,290,Osvaldo,Sport - PE,out
+109,290,Rogerio,Sport - PE,in
+110,290,Wesley,Sport - PE,out
+111,290,Juninho,Sport - PE,in
+112,290,Raul,Sport - PE,out
+113,290,Samuel,Sport - PE,in
+114,290,Ricardo Oliveira,Santos - SP,out
+115,290,Kayke,Santos - SP,in
+116,290,Yuri,Santos - SP,out
+117,290,Vecchio,Santos - SP,in
+118,290,Sergio,Santos - SP,out
+119,290,Copete,Santos - SP,in

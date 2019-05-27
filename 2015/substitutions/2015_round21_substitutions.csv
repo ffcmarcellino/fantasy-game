@@ -1,0 +1,119 @@
+,match_num,player_name_2,player_team,player_status
+0,201,Riascos,Vasco da Gama - RJ,out
+1,201,Andrezinho,Vasco da Gama - RJ,in
+2,201,Julio dos Santos,Vasco da Gama - RJ,out
+3,201,Romarinho,Vasco da Gama - RJ,in
+4,201,Jean,Vasco da Gama - RJ,out
+5,201,Thalles,Vasco da Gama - RJ,in
+6,201,Paulo Roberto,Figueirense - SC,out
+7,201,Fabinho,Figueirense - SC,in
+8,201,Alemao,Figueirense - SC,out
+9,201,Marcao,Figueirense - SC,in
+10,201,Joao Vitor,Figueirense - SC,out
+11,201,Yago Felipe,Figueirense - SC,in
+12,202,Hudson,São Paulo - SP,out
+13,202,Lyanco,São Paulo - SP,in
+14,202,Wesley,São Paulo - SP,out
+15,202,Auro,São Paulo - SP,in
+16,202,Reinaldo,São Paulo - SP,out
+17,202,Matheus Reis,São Paulo - SP,in
+18,202,Tiago,Ponte Preta - SP,out
+19,202,Diego Ivo,Ponte Preta - SP,in
+20,202,Cesar,Ponte Preta - SP,out
+21,202,Keno,Ponte Preta - SP,in
+22,202,Diego,Ponte Preta - SP,out
+23,202,Leonardo,Ponte Preta - SP,in
+24,203,Romulo,Avaí - SC,out
+25,203,Tinga,Avaí - SC,in
+26,203,Nino Paraiba,Avaí - SC,out
+27,203,Pablo,Avaí - SC,in
+28,203,Marquinhos,Avaí - SC,out
+29,203,Anderson,Avaí - SC,in
+30,203,William,Internacional - RS,out
+31,203,Anderson,Internacional - RS,in
+32,203,Valdivia,Internacional - RS,out
+33,203,Rafael Moura,Internacional - RS,in
+34,203,Nilton,Internacional - RS,out
+35,203,Wellington,Internacional - RS,in
+36,204,Fernandinho,Grêmio - RS,out
+37,204,Pedro Rocha,Grêmio - RS,in
+38,204,Galhardo,Grêmio - RS,out
+39,204,Lucas Ramon,Grêmio - RS,in
+40,204,Walace,Grêmio - RS,out
+41,204,Bobo,Grêmio - RS,in
+42,204,Ruy,Coritiba - PR,out
+43,204,R. Ramos,Coritiba - PR,in
+44,204,Rafhael Lucas,Coritiba - PR,out
+45,204,Evandro,Coritiba - PR,in
+46,204,Luis,Coritiba - PR,out
+47,204,Thiago,Coritiba - PR,in
+48,205,Ronaldinho Gaucho,Fluminense - RJ,out
+49,205,Magno Alves,Fluminense - RJ,in
+50,205,Renato,Fluminense - RJ,out
+51,205,Vinicius,Fluminense - RJ,in
+52,205,Victor Oliveira,Fluminense - RJ,out
+53,205,Gerson,Fluminense - RJ,in
+54,205,Thiago Ribeiro,Atlético - MG,out
+55,205,Datolo,Atlético - MG,in
+56,205,Luan,Atlético - MG,out
+57,205,Patric,Atlético - MG,in
+58,206,Diego Souza,Sport - PE,out
+59,206,Elber,Sport - PE,in
+60,206,Hernane,Sport - PE,out
+61,206,Andre,Sport - PE,in
+62,206,Marlone,Sport - PE,out
+63,206,Ferrugem,Sport - PE,in
+64,206,Kayke,Flamengo - RJ,out
+65,206,Marcelo Cirino,Flamengo - RJ,in
+66,206,Everton,Flamengo - RJ,out
+67,206,Luiz Antonio,Flamengo - RJ,in
+68,206,Emerson Sheik,Flamengo - RJ,out
+69,206,Paulinho,Flamengo - RJ,in
+70,207,Elicarlos,Chapecoense - SC,out
+71,207,Camilo,Chapecoense - SC,in
+72,207,Tiago Luis,Chapecoense - SC,out
+73,207,Wagner,Chapecoense - SC,in
+74,207,Ananias,Chapecoense - SC,out
+75,207,Maranhão,Chapecoense - SC,in
+76,207,Vagner Love,Corinthians - SP,out
+77,207,Danilo,Corinthians - SP,in
+78,207,Uendel,Corinthians - SP,out
+79,207,Guilherme Arana,Corinthians - SP,in
+80,207,Malcom,Corinthians - SP,out
+81,207,Rildo,Corinthians - SP,in
+82,208,Egidio,Palmeiras - SP,out
+83,208,Rafael Marques,Palmeiras - SP,in
+84,208,Gabriel Jesus,Palmeiras - SP,out
+85,208,Thiago Santos,Palmeiras - SP,in
+86,208,Lucas Barrios,Palmeiras - SP,out
+87,208,Alecsandro,Palmeiras - SP,in
+88,208,Willian Popp,Joinville - SC,out
+89,208,Silvinho,Joinville - SC,in
+90,208,Anselmo,Joinville - SC,out
+91,208,Fabricio,Joinville - SC,in
+92,208,Kadu,Joinville - SC,out
+93,208,Kempes,Joinville - SC,in
+94,209,Henrique,Cruzeiro - MG,out
+95,209,De Arrascaeta,Cruzeiro - MG,in
+96,209,Vinicius Araujo,Cruzeiro - MG,out
+97,209,Allano,Cruzeiro - MG,in
+98,209,Marcos Vinicius,Cruzeiro - MG,out
+99,209,Gabriel Xavier,Cruzeiro - MG,in
+100,209,Neto Berola,Santos - SP,out
+101,209,Weverson,Santos - SP,in
+102,209,Lucas Lima,Santos - SP,out
+103,209,Leo Cittadini,Santos - SP,in
+104,209,Thiago Maia,Santos - SP,out
+105,209,Lucas,Santos - SP,in
+106,210,Eduardo,Atlético - PR,out
+107,210,Matheus,Atlético - PR,in
+108,210,Nikao,Atlético - PR,out
+109,210,Ewandro,Atlético - PR,in
+110,210,Hernandez,Atlético - PR,out
+111,210,Guilherme,Atlético - PR,in
+112,210,Alex Alves,Goiás - GO,out
+113,210,David Duarte,Goiás - GO,in
+114,210,Erik,Goiás - GO,out
+115,210,Ruan,Goiás - GO,in
+116,210,Patrick,Goiás - GO,out
+117,210,Murilo,Goiás - GO,in

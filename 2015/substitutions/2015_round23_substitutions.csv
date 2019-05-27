@@ -1,0 +1,119 @@
+,match_num,player_name_2,player_team,player_status
+0,221,Bruno,São Paulo - SP,out
+1,221,Auro,São Paulo - SP,in
+2,221,Rogerio,São Paulo - SP,out
+3,221,João Schmidt,São Paulo - SP,in
+4,221,Wilder,São Paulo - SP,out
+5,221,Matheus Reis,São Paulo - SP,in
+6,221,Eduardo Sasha,Internacional - RS,out
+7,221,Anderson,Internacional - RS,in
+8,221,Geferson,Internacional - RS,out
+9,221,Artur,Internacional - RS,in
+10,221,Lisandro Lopez,Internacional - RS,out
+11,221,Taiberson,Internacional - RS,in
+12,222,Julio dos Santos,Vasco da Gama - RJ,out
+13,222,Andrezinho,Vasco da Gama - RJ,in
+14,222,Lucas Siqueira,Vasco da Gama - RJ,out
+15,222,Seymour,Vasco da Gama - RJ,in
+16,222,Jorge Henrique,Vasco da Gama - RJ,out
+17,222,Rafael Silva,Vasco da Gama - RJ,in
+18,222,Thiago Ribeiro,Atlético - MG,out
+19,222,Cardenas,Atlético - MG,in
+20,222,Giovanni Augusto,Atlético - MG,out
+21,222,Dodo,Atlético - MG,in
+22,223,Deivid,Atlético - PR,out
+23,223,Ewandro,Atlético - PR,in
+24,223,Wellington Silva,Atlético - PR,out
+25,223,Crysan,Atlético - PR,in
+26,223,Hernandez,Atlético - PR,out
+27,223,Guilherme,Atlético - PR,in
+28,223,Marcelinho Paraiba,Joinville - SC,out
+29,223,Fernando Viana,Joinville - SC,in
+30,223,Kempes,Joinville - SC,out
+31,223,Domingues,Joinville - SC,in
+32,223,Lucas Crispim,Joinville - SC,out
+33,223,Juninho,Joinville - SC,in
+34,224,Vinicius Araujo,Cruzeiro - MG,out
+35,224,Marinho,Cruzeiro - MG,in
+36,224,Allano,Cruzeiro - MG,out
+37,224,Marquinhos,Cruzeiro - MG,in
+38,224,Para,Cruzeiro - MG,out
+39,224,Fabricio,Cruzeiro - MG,in
+40,224,Rafael Bastos,Figueirense - SC,out
+41,224,Yago Felipe,Figueirense - SC,in
+42,224,Thiago Santana,Figueirense - SC,out
+43,224,Juninho,Figueirense - SC,in
+44,224,Clayton,Figueirense - SC,out
+45,224,Elias,Figueirense - SC,in
+46,225,Camilo,Chapecoense - SC,out
+47,225,Tulio de Melo,Chapecoense - SC,in
+48,225,Tiago Luis,Chapecoense - SC,out
+49,225,Flavinho,Chapecoense - SC,in
+50,225,Bruno Silva,Chapecoense - SC,out
+51,225,Maranhão,Chapecoense - SC,in
+52,225,Felipe Azevedo,Ponte Preta - SP,out
+53,225,Bady,Ponte Preta - SP,in
+54,225,Diego,Ponte Preta - SP,out
+55,225,Fabio,Ponte Preta - SP,in
+56,225,Cesar,Ponte Preta - SP,out
+57,225,Clayson,Ponte Preta - SP,in
+58,226,Alecsandro,Palmeiras - SP,out
+59,226,Cristaldo,Palmeiras - SP,in
+60,226,Robinho,Palmeiras - SP,out
+61,226,Joao Paulo,Palmeiras - SP,in
+62,226,Dudu,Palmeiras - SP,out
+63,226,Allione,Palmeiras - SP,in
+64,226,Ralf,Corinthians - SP,out
+65,226,Danilo,Corinthians - SP,in
+66,226,Malcom,Corinthians - SP,out
+67,226,Rildo,Corinthians - SP,in
+68,226,Marciel,Corinthians - SP,out
+69,226,Cristian,Corinthians - SP,in
+70,227,Pierre,Fluminense - RJ,out
+71,227,Marcos Jr,Fluminense - RJ,in
+72,227,Osvaldo,Fluminense - RJ,out
+73,227,Gerson,Fluminense - RJ,in
+74,227,Michael,Fluminense - RJ,out
+75,227,Wellington Paulista,Fluminense - RJ,in
+76,227,Marcio Araujo,Flamengo - RJ,out
+77,227,Jonas,Flamengo - RJ,in
+78,227,Wallace Reis,Flamengo - RJ,out
+79,227,Cesar,Flamengo - RJ,in
+80,227,Pablo Armero,Flamengo - RJ,out
+81,227,Paulinho,Flamengo - RJ,in
+82,228,Maicon,Grêmio - RS,out
+83,228,Willian Schuster,Grêmio - RS,in
+84,228,Lucas Ramon,Grêmio - RS,out
+85,228,Yuri Mamute,Grêmio - RS,in
+86,228,Everton,Grêmio - RS,out
+87,228,Moises,Grêmio - RS,in
+88,228,David França,Goiás - GO,out
+89,228,Ygor,Goiás - GO,in
+90,228,Erik,Goiás - GO,out
+91,228,Alex Alves,Goiás - GO,in
+92,228,Patrick,Goiás - GO,out
+93,228,Murilo,Goiás - GO,in
+94,229,Tinga,Avaí - SC,out
+95,229,Andre Lima,Avaí - SC,in
+96,229,Marquinhos,Avaí - SC,out
+97,229,Anderson,Avaí - SC,in
+98,229,Romulo,Avaí - SC,out
+99,229,Roberto,Avaí - SC,in
+100,229,Thiago Lopes,Coritiba - PR,out
+101,229,Thiago,Coritiba - PR,in
+102,229,Jose,Coritiba - PR,out
+103,229,Luccas Claro,Coritiba - PR,in
+104,229,G. Parede,Coritiba - PR,out
+105,229,Marcos Aurelio,Coritiba - PR,in
+106,230,Maikon,Sport - PE,out
+107,230,Samuel,Sport - PE,in
+108,230,Diego Souza,Sport - PE,out
+109,230,Hernane,Sport - PE,in
+110,230,Wendel,Sport - PE,out
+111,230,Regis,Sport - PE,in
+112,230,Rafael Longuine,Santos - SP,out
+113,230,Sergio,Santos - SP,in
+114,230,Marquinhos Gabriel,Santos - SP,out
+115,230,Neto Berola,Santos - SP,in
+116,230,Gabriel B.,Santos - SP,out
+117,230,Weverson,Santos - SP,in

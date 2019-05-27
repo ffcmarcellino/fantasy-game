@@ -1,0 +1,121 @@
+,match_num,player_name_2,player_team,player_status
+0,281,Lucio Flavio,Coritiba - PR,out
+1,281,Paulo,Coritiba - PR,in
+2,281,Marcos Aurelio,Coritiba - PR,out
+3,281,Thiago,Coritiba - PR,in
+4,281,Negueba,Coritiba - PR,out
+5,281,Evandro,Coritiba - PR,in
+6,281,Thiago Ribeiro,Atlético - MG,out
+7,281,Cardenas,Atlético - MG,in
+8,281,Luan,Atlético - MG,out
+9,281,Carlos Alberto Carvalho,Atlético - MG,in
+10,281,Lucas Pratto,Atlético - MG,out
+11,281,Josue,Atlético - MG,in
+12,282,Rever,Internacional - RS,out
+13,282,Vitinho,Internacional - RS,in
+14,282,Anderson,Internacional - RS,out
+15,282,Adniellyson,Internacional - RS,in
+16,282,William,Internacional - RS,out
+17,282,Léo,Internacional - RS,in
+18,282,Wendel,Sport - PE,out
+19,282,Regis,Sport - PE,in
+20,282,Maikon,Sport - PE,out
+21,282,Elber,Sport - PE,in
+22,282,Andre,Sport - PE,out
+23,282,Hernane,Sport - PE,in
+24,283,Rogerio,São Paulo - SP,out
+25,283,Edson,São Paulo - SP,in
+26,283,GANSO,São Paulo - SP,out
+27,283,Wesley,São Paulo - SP,in
+28,283,Centurion,São Paulo - SP,out
+29,283,Auro,São Paulo - SP,in
+30,283,Hernani,Atlético - PR,out
+31,283,Ewandro,Atlético - PR,in
+32,283,Hernandez,Atlético - PR,out
+33,283,Nikao,Atlético - PR,in
+34,283,Crysan,Atlético - PR,out
+35,283,Walter,Atlético - PR,in
+36,284,Everton Silva,Avaí - SC,out
+37,284,Tinga,Avaí - SC,in
+38,284,Marquinhos,Avaí - SC,out
+39,284,Renan,Avaí - SC,in
+40,284,Renan,Avaí - SC,out
+41,284,Andre Lima,Avaí - SC,in
+42,284,Leandrao,Vasco da Gama - RJ,out
+43,284,Anderson Salles,Vasco da Gama - RJ,in
+44,284,Jorge Henrique,Vasco da Gama - RJ,out
+45,284,Rafael Silva,Vasco da Gama - RJ,in
+46,284,Gallo,Vasco da Gama - RJ,out
+47,284,Serginho,Vasco da Gama - RJ,in
+48,285,Paulinho,Flamengo - RJ,out
+49,285,Gabriel,Flamengo - RJ,in
+50,285,Guerrero,Flamengo - RJ,out
+51,285,Kayke,Flamengo - RJ,in
+52,285,Hector,Flamengo - RJ,out
+53,285,Almir,Flamengo - RJ,in
+54,285,Marcelinho Paraiba,Joinville - SC,out
+55,285,Marion,Joinville - SC,in
+56,285,Kempes,Joinville - SC,out
+57,285,Ricardo Bueno,Joinville - SC,in
+58,285,Willian Popp,Joinville - SC,out
+59,285,Edigar Junio,Joinville - SC,in
+60,286,Gustavo,Santos - SP,out
+61,286,Werley,Santos - SP,in
+62,286,Marquinhos Gabriel,Santos - SP,out
+63,286,Neto Berola,Santos - SP,in
+64,286,Gabriel B.,Santos - SP,out
+65,286,Weverson,Santos - SP,in
+66,286,Osvaldo,Fluminense - RJ,out
+67,286,Magno Alves,Fluminense - RJ,in
+68,286,Victor Oliveira,Fluminense - RJ,out
+69,286,Robert,Fluminense - RJ,in
+70,286,Marcos Jr,Fluminense - RJ,out
+71,286,Lucas,Fluminense - RJ,in
+72,287,Borges,Ponte Preta - SP,out
+73,287,Alexandro,Ponte Preta - SP,in
+74,287,Cristian,Ponte Preta - SP,out
+75,287,Diego,Ponte Preta - SP,in
+76,287,Felipe Azevedo,Ponte Preta - SP,out
+77,287,Fabio,Ponte Preta - SP,in
+78,287,Jadson,Corinthians - SP,out
+79,287,Danilo,Corinthians - SP,in
+80,287,Elias,Corinthians - SP,out
+81,287,Rodriguinho,Corinthians - SP,in
+82,287,Malcom,Corinthians - SP,out
+83,287,Lucca,Corinthians - SP,in
+84,288,Willians,Cruzeiro - MG,out
+85,288,Marcos Vinicius,Cruzeiro - MG,in
+86,288,Leandro Damiao,Cruzeiro - MG,out
+87,288,De Arrascaeta,Cruzeiro - MG,in
+88,288,Allano,Cruzeiro - MG,out
+89,288,Gabriel Xavier,Cruzeiro - MG,in
+90,288,Douglas,Grêmio - RS,out
+91,288,Maxi Rodriguez,Grêmio - RS,in
+92,288,Pedro Rocha,Grêmio - RS,out
+93,288,Fernandinho,Grêmio - RS,in
+94,288,Luan,Grêmio - RS,out
+95,288,Bobo,Grêmio - RS,in
+96,289,David França,Goiás - GO,out
+97,289,Lucas,Goiás - GO,in
+98,289,Ze Eduardo,Goiás - GO,out
+99,289,Carlos,Goiás - GO,in
+100,289,Felipe,Goiás - GO,out
+101,289,Liniker,Goiás - GO,in
+102,289,Yago Felipe,Figueirense - SC,out
+103,289,Rafael Bastos,Figueirense - SC,in
+104,289,Dudu,Figueirense - SC,out
+105,289,Bruno,Figueirense - SC,in
+106,289,Clayton,Figueirense - SC,out
+107,289,Thiago Santana,Figueirense - SC,in
+108,290,Neto,Chapecoense - SC,out
+109,290,Rafael Lima,Chapecoense - SC,in
+110,290,Wiliam Barbio,Chapecoense - SC,out
+111,290,Odair,Chapecoense - SC,in
+112,290,Maranhão,Chapecoense - SC,out
+113,290,Ananias,Chapecoense - SC,in
+114,290,Rafael Marques,Palmeiras - SP,out
+115,290,Allione,Palmeiras - SP,in
+116,290,Marcos,Palmeiras - SP,out
+117,290,Andrei,Palmeiras - SP,in
+118,290,Amaral,Palmeiras - SP,out
+119,290,Joao Pedro,Palmeiras - SP,in

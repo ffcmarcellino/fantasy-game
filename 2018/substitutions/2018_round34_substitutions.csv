@@ -1,0 +1,121 @@
+,match_num,player_name_2,player_team,player_status
+0,331,Ramon,Vasco da Gama - RJ,out
+1,331,Henrique,Vasco da Gama - RJ,in
+2,331,Kelvin,Vasco da Gama - RJ,out
+3,331,DESABATO,Vasco da Gama - RJ,in
+4,331,Rildo,Vasco da Gama - RJ,out
+5,331,Giovanni Augusto,Vasco da Gama - RJ,in
+6,331,Marcelo Cirino,Atlético - PR,out
+7,331,Roni,Atlético - PR,in
+8,331,Jonathan,Atlético - PR,out
+9,331,Marcinho,Atlético - PR,in
+10,331,Lucho Gonzalez,Atlético - PR,out
+11,331,Bruno Guimaraes,Atlético - PR,in
+12,332,Grampola,Paraná - PR,out
+13,332,Keslley,Paraná - PR,in
+14,332,Leandro,Paraná - PR,out
+15,332,Torito,Paraná - PR,in
+16,332,Rodrigo Porto Bezerra,Paraná - PR,out
+17,332,Alesson,Paraná - PR,in
+18,332,Luan,Atlético - MG,out
+19,332,Bruno,Atlético - MG,in
+20,332,Emerson,Atlético - MG,out
+21,332,Patric,Atlético - MG,in
+22,332,Alerrandro,Atlético - MG,out
+23,332,Denilson,Atlético - MG,in
+24,333,Douglas Groli,Bahia - BA,out
+25,333,Jackson,Bahia - BA,in
+26,333,Ze Rafael,Bahia - BA,out
+27,333,Vinicius,Bahia - BA,in
+28,333,Léo,Bahia - BA,out
+29,333,Paulinho,Bahia - BA,in
+30,333,Ricardinho,Ceará - CE,out
+31,333,Arnaldo,Ceará - CE,in
+32,333,Samuel,Ceará - CE,out
+33,333,Fabinho,Ceará - CE,in
+34,333,Calyson,Ceará - CE,out
+35,333,Pedro Ken,Ceará - CE,in
+36,334,Robinho,Cruzeiro - MG,out
+37,334,Ariel Cabral,Cruzeiro - MG,in
+38,334,David,Cruzeiro - MG,out
+39,334,Raniel Santana de Vasconcelos,Cruzeiro - MG,in
+40,334,Mancuello,Cruzeiro - MG,out
+41,334,Patrick Brey,Cruzeiro - MG,in
+42,334,Danilo,Corinthians - SP,out
+43,334,Tiaguinho,Corinthians - SP,in
+44,334,Jadson,Corinthians - SP,out
+45,334,Mateus,Corinthians - SP,in
+46,334,Pedro,Corinthians - SP,out
+47,334,Clayson,Corinthians - SP,in
+48,335,Hernane,Sport - PE,out
+49,335,Fellipe,Sport - PE,in
+50,335,Rogerio,Sport - PE,out
+51,335,Rafael Marques,Sport - PE,in
+52,335,Jair,Sport - PE,out
+53,335,Morato,Sport - PE,in
+54,335,Andre Lima,Vitória - BA,out
+55,335,Eronildo,Vitória - BA,in
+56,335,Lucas Fernandes,Vitória - BA,out
+57,335,Neilton,Vitória - BA,in
+58,335,Marcos,Vitória - BA,out
+59,335,Rhayner,Vitória - BA,in
+60,336,Willian,Palmeiras - SP,out
+61,336,Gustavo Scarpa,Palmeiras - SP,in
+62,336,Dudu,Palmeiras - SP,out
+63,336,Jean,Palmeiras - SP,in
+64,336,Lucas Lima,Palmeiras - SP,out
+65,336,Felipe Melo,Palmeiras - SP,in
+66,336,Junior Dutra,Fluminense - RJ,out
+67,336,Kayke,Fluminense - RJ,in
+68,336,Luciano,Fluminense - RJ,out
+69,336,Marcos Jr,Fluminense - RJ,in
+70,336,Cabezas,Fluminense - RJ,out
+71,336,Everaldo,Fluminense - RJ,in
+72,337,Bruno Pacheco,Chapecoense - SC,out
+73,337,Alan Ruschel,Chapecoense - SC,in
+74,337,Hector,Chapecoense - SC,out
+75,337,Diego Torres,Chapecoense - SC,in
+76,337,Agustin,Chapecoense - SC,out
+77,337,Bruno,Chapecoense - SC,in
+78,337,Leo Valencia,Botafogo - RJ,out
+79,337,Renatinho,Botafogo - RJ,in
+80,337,Dudu Cearense,Botafogo - RJ,out
+81,337,Marcelo,Botafogo - RJ,in
+82,337,Erik,Botafogo - RJ,out
+83,337,Pimpao,Botafogo - RJ,in
+84,338,Vitinho,Flamengo - RJ,out
+85,338,Berrio,Flamengo - RJ,in
+86,338,Romulo,Flamengo - RJ,out
+87,338,Jean,Flamengo - RJ,in
+88,338,URIBE,Flamengo - RJ,out
+89,338,Henrique Dourado,Flamengo - RJ,in
+90,338,Dodo,Santos - SP,out
+91,338,Renato,Santos - SP,in
+92,338,Alison,Santos - SP,out
+93,338,Eduardo Sasha,Santos - SP,in
+94,338,Arthur,Santos - SP,out
+95,338,Sousa,Santos - SP,in
+96,339,Nene,São Paulo - SP,out
+97,339,Shaylon,São Paulo - SP,in
+98,339,Hudson,São Paulo - SP,out
+99,339,Igor,São Paulo - SP,in
+100,339,Hélio Junio,São Paulo - SP,out
+101,339,Antony,São Paulo - SP,in
+102,339,Jean Pyerre,Grêmio - RS,out
+103,339,Alisson,Grêmio - RS,in
+104,339,Maicon,Grêmio - RS,out
+105,339,Cicero,Grêmio - RS,in
+106,339,P. Miranda,Grêmio - RS,out
+107,339,M. Henrique,Grêmio - RS,in
+108,340,Leandro Damiao,Internacional - RS,out
+109,340,JONATAN ALVEZ,Internacional - RS,in
+110,340,Wellington Silva,Internacional - RS,out
+111,340,Rossi,Internacional - RS,in
+112,340,Fabiano,Internacional - RS,out
+113,340,Zeca,Internacional - RS,in
+114,340,Leandro Donizete,América - MG,out
+115,340,Juninho,América - MG,in
+116,340,Gerson,América - MG,out
+117,340,Giovanni,América - MG,in
+118,340,Ademir,América - MG,out
+119,340,Robinho,América - MG,in

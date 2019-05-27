@@ -1,0 +1,119 @@
+,match_num,player_name_2,player_team,player_status
+0,41,Jonathan,Botafogo - RJ,out
+1,41,Neilton,Botafogo - RJ,in
+2,41,Lucas Ribamar,Botafogo - RJ,out
+3,41,Sassá,Botafogo - RJ,in
+4,41,Salgueiro,Botafogo - RJ,out
+5,41,Leandro,Botafogo - RJ,in
+6,41,Robinho,Cruzeiro - MG,out
+7,41,Marciel,Cruzeiro - MG,in
+8,41,Elber,Cruzeiro - MG,out
+9,41,Willian,Cruzeiro - MG,in
+10,41,Riascos,Cruzeiro - MG,out
+11,41,Alisson,Cruzeiro - MG,in
+12,42,Fabinho,Internacional - RS,out
+13,42,Anselmo,Internacional - RS,in
+14,42,Andrigo,Internacional - RS,out
+15,42,Alex,Internacional - RS,in
+16,42,Gustavo Ferrareis,Internacional - RS,out
+17,42,Aylon,Internacional - RS,in
+18,42,Giovanny,Atlético - PR,out
+19,42,Ewandro,Atlético - PR,in
+20,42,Pablo,Atlético - PR,out
+21,42,Vinicius,Atlético - PR,in
+22,42,Cleberson,Atlético - PR,out
+23,42,Wanderson,Atlético - PR,in
+24,43,João Paulo,Coritiba - PR,out
+25,43,Vinicius,Coritiba - PR,in
+26,43,Cesar Gonzales,Coritiba - PR,out
+27,43,Ruy,Coritiba - PR,in
+28,43,Negueba,Coritiba - PR,out
+29,43,Evandro,Coritiba - PR,in
+30,43,Josimar,Chapecoense - SC,out
+31,43,Moises,Chapecoense - SC,in
+32,43,Silvinho,Chapecoense - SC,out
+33,43,Lourency,Chapecoense - SC,in
+34,43,Hyoran,Chapecoense - SC,out
+35,43,Arthur,Chapecoense - SC,in
+36,44,Ferrugem,Figueirense - SC,out
+37,44,Renato,Figueirense - SC,in
+38,44,Gustavo Ermel,Figueirense - SC,out
+39,44,Lins,Figueirense - SC,in
+40,44,Dudu,Figueirense - SC,out
+41,44,Guilherme Queiroz,Figueirense - SC,in
+42,44,Wesley,São Paulo - SP,out
+43,44,João Schmidt,São Paulo - SP,in
+44,44,Thiago Mendes,São Paulo - SP,out
+45,44,Rogerio,São Paulo - SP,in
+46,44,Auro,São Paulo - SP,out
+47,44,Kelvin,São Paulo - SP,in
+48,45,Leo Moura,Santa Cruz - PE,out
+49,45,Bruno Moraes,Santa Cruz - PE,in
+50,45,Wallyson,Santa Cruz - PE,out
+51,45,Lele,Santa Cruz - PE,in
+52,45,Alemao,Santa Cruz - PE,out
+53,45,Fernando Gabriel,Santa Cruz - PE,in
+54,45,Edmilson dos Santos Silva,Sport - PE,out
+55,45,R. Lenis,Sport - PE,in
+56,45,Samuel,Sport - PE,out
+57,45,Ronaldo,Sport - PE,in
+58,45,Gabriel Xavier,Sport - PE,out
+59,45,Rodrigo Mancha,Sport - PE,in
+60,46,Marquinhos Gabriel,Corinthians - SP,out
+61,46,Lucca,Corinthians - SP,in
+62,46,Bruno,Corinthians - SP,out
+63,46,Rodriguinho,Corinthians - SP,in
+64,46,Luciano,Corinthians - SP,out
+65,46,Andre,Corinthians - SP,in
+66,46,Leo Cittadini,Santos - SP,out
+67,46,Paulinho,Santos - SP,in
+68,46,Sergio,Santos - SP,out
+69,46,Maxi Rolon,Santos - SP,in
+70,46,Elano,Santos - SP,out
+71,46,Joel,Santos - SP,in
+72,47,Leandro Donizete,Atlético - MG,out
+73,47,Pablo,Atlético - MG,in
+74,47,Patric,Atlético - MG,out
+75,47,Joao,Atlético - MG,in
+76,47,Robinho,Atlético - MG,out
+77,47,Hyuri,Atlético - MG,in
+78,47,Fred,Fluminense - RJ,out
+79,47,Magno Alves,Fluminense - RJ,in
+80,47,Richarlison,Fluminense - RJ,out
+81,47,Osvaldo,Fluminense - RJ,in
+82,47,Gustavo Scarpa,Fluminense - RJ,out
+83,47,Marcos Jr,Fluminense - RJ,in
+84,48,Xavier,América - MG,out
+85,48,Tiago Luis,América - MG,in
+86,48,Alan,América - MG,out
+87,48,Matheusinho,América - MG,in
+88,48,Artur,América - MG,out
+89,48,Eduardo,América - MG,in
+90,48,Felipe Azevedo,Ponte Preta - SP,out
+91,48,Nino Paraiba,Ponte Preta - SP,in
+92,48,Rene Junior,Ponte Preta - SP,out
+93,48,Matheus Sousa de Jesus,Ponte Preta - SP,in
+94,48,Cristian,Ponte Preta - SP,out
+95,48,Wellington Paulista,Ponte Preta - SP,in
+96,49,Marcelo Cirino,Flamengo - RJ,out
+97,49,Gabriel,Flamengo - RJ,in
+98,49,Alan Patrick,Flamengo - RJ,out
+99,49,Cuellar,Flamengo - RJ,in
+100,49,Mancuello,Flamengo - RJ,out
+101,49,Everton,Flamengo - RJ,in
+102,49,Dagoberto,Vitória - BA,out
+103,49,Alipio,Vitória - BA,in
+104,49,Amaral,Vitória - BA,out
+105,49,Leandro,Vitória - BA,in
+106,49,Vander,Vitória - BA,out
+107,49,David,Vitória - BA,in
+108,50,Alecsandro,Palmeiras - SP,out
+109,50,Roger Guedes,Palmeiras - SP,in
+110,50,Moises,Palmeiras - SP,out
+111,50,Thiago Martins,Palmeiras - SP,in
+112,50,Tche Tche,Palmeiras - SP,out
+113,50,Fabricio,Palmeiras - SP,in
+114,50,Giuliano,Grêmio - RS,out
+115,50,Bobo,Grêmio - RS,in
+116,50,Douglas,Grêmio - RS,out
+117,50,Lincoln,Grêmio - RS,in

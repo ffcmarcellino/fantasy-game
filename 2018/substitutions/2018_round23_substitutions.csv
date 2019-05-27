@@ -1,0 +1,117 @@
+,match_num,player_name_2,player_team,player_status
+0,221,Paulinho,Bahia - BA,out
+1,221,Everson,Bahia - BA,in
+2,221,Marco Antonio,Bahia - BA,out
+3,221,Clayton,Bahia - BA,in
+4,221,Ramires,Bahia - BA,out
+5,221,Flavio,Bahia - BA,in
+6,221,Deivid,Sport - PE,out
+7,221,Mateus Gonçalves,Sport - PE,in
+8,221,Claudio Winck,Sport - PE,out
+9,221,Rafael Marques,Sport - PE,in
+10,221,Neto,Sport - PE,out
+11,221,Fellipe,Sport - PE,in
+12,222,Jean,Botafogo - RJ,out
+13,222,Matheus Fernandes,Botafogo - RJ,in
+14,222,Luiz Fernando,Botafogo - RJ,out
+15,222,Ezequiel,Botafogo - RJ,in
+16,222,Kieza,Botafogo - RJ,out
+17,222,Aguirre,Botafogo - RJ,in
+18,222,Thiago Neves,Cruzeiro - MG,out
+19,222,Ederson,Cruzeiro - MG,in
+20,222,Bruno Silva,Cruzeiro - MG,out
+21,222,Rafael Sobis,Cruzeiro - MG,in
+22,222,Edilson,Cruzeiro - MG,out
+23,222,Ezequiel,Cruzeiro - MG,in
+24,223,Juninho Quixadá,Ceará - CE,out
+25,223,Felipe Azevedo,Ceará - CE,in
+26,223,Leandro,Ceará - CE,out
+27,223,Robinho,Ceará - CE,in
+28,223,Arthur,Ceará - CE,out
+29,223,Brock,Ceará - CE,in
+30,223,Jadson,Corinthians - SP,out
+31,223,Matheus,Corinthians - SP,in
+32,223,Ralf,Corinthians - SP,out
+33,223,Angelo Araos,Corinthians - SP,in
+34,223,Douglas,Corinthians - SP,out
+35,223,Mateus,Corinthians - SP,in
+36,224,Nadson,Paraná - PR,out
+37,224,Maicosuel,Paraná - PR,in
+38,224,Rene,Paraná - PR,out
+39,224,Jesiel,Paraná - PR,in
+40,224,Carlos Alberto Carvalho,Paraná - PR,out
+41,224,Deivid,Paraná - PR,in
+42,224,Marcio Araujo,Chapecoense - SC,out
+43,224,Diego Torres,Chapecoense - SC,in
+44,224,Victor,Chapecoense - SC,out
+45,224,Marquinhos,Chapecoense - SC,in
+46,224,Agustin,Chapecoense - SC,out
+47,224,Joao Victor,Chapecoense - SC,in
+48,225,Dudu,Palmeiras - SP,out
+49,225,Jean,Palmeiras - SP,in
+50,225,Thiago Santos,Palmeiras - SP,out
+51,225,Bruno,Palmeiras - SP,in
+52,225,Borja,Palmeiras - SP,out
+53,225,Deyverson,Palmeiras - SP,in
+54,225,Jonathan,Atlético - PR,out
+55,225,Roni,Atlético - PR,in
+56,225,Renan Augusto,Atlético - PR,out
+57,225,Marcio Azevedo,Atlético - PR,in
+58,225,Bruno Nazario,Atlético - PR,out
+59,225,Guilherme,Atlético - PR,in
+60,226,Luan,Atlético - MG,out
+61,226,David Terans,Atlético - MG,in
+62,226,M. Galdezani,Atlético - MG,out
+63,226,Welison,Atlético - MG,in
+64,226,Tomas Andrade,Atlético - MG,out
+65,226,Leandro,Atlético - MG,in
+66,226,Jucilei,São Paulo - SP,out
+67,226,Shaylon,São Paulo - SP,in
+68,226,Régis Souza,São Paulo - SP,out
+69,226,Gonzalo Carneiro,São Paulo - SP,in
+70,226,Edimar,São Paulo - SP,out
+71,226,Igor,São Paulo - SP,in
+72,227,Zeca,Internacional - RS,out
+73,227,Fabiano,Internacional - RS,in
+74,227,Nico Lopez,Internacional - RS,out
+75,227,Leandro Damiao,Internacional - RS,in
+76,227,JONATAN ALVEZ,Internacional - RS,out
+77,227,Dalessandro,Internacional - RS,in
+78,227,Lincoln,Flamengo - RJ,out
+79,227,URIBE,Flamengo - RJ,in
+80,227,Piris,Flamengo - RJ,out
+81,227,Willian Arão,Flamengo - RJ,in
+82,227,Marlos Moreno,Flamengo - RJ,out
+83,227,Matheus Savio,Flamengo - RJ,in
+84,228,Luciano,Fluminense - RJ,out
+85,228,Pablo Dyego,Fluminense - RJ,in
+86,228,Matheus Alessandro,Fluminense - RJ,out
+87,228,Marcos Jr,Fluminense - RJ,in
+88,228,Everaldo,Fluminense - RJ,out
+89,228,Junior Dutra,Fluminense - RJ,in
+90,228,Jose Rodrigo Andrade Ramos,Vitória - BA,out
+91,228,Andre Lima,Vitória - BA,in
+92,228,Bou,Vitória - BA,out
+93,228,Yago Felipe,Vitória - BA,in
+94,228,Erick,Vitória - BA,out
+95,228,Nickson,Vitória - BA,in
+96,229,Gerson,América - MG,out
+97,229,Lincoln,América - MG,in
+98,229,Wesley,América - MG,out
+99,229,Juninho,América - MG,in
+100,229,Neto,América - MG,out
+101,229,Aderlan,América - MG,in
+102,229,DESABATO,Vasco da Gama - RJ,out
+103,229,Andrey,Vasco da Gama - RJ,in
+104,229,Thiago,Vasco da Gama - RJ,out
+105,229,Andy,Vasco da Gama - RJ,in
+106,229,Yago,Vasco da Gama - RJ,out
+107,229,Marrony,Vasco da Gama - RJ,in
+108,230,Eduardo Sasha,Santos - SP,out
+109,230,Derlis Gonzalez,Santos - SP,in
+110,230,Alison,Santos - SP,out
+111,230,Bryan Ruiz,Santos - SP,in
+112,230,Sousa,Santos - SP,out
+113,230,Daniel Guedes,Santos - SP,in
+114,230,Andre,Grêmio - RS,out
+115,230,Pepe,Grêmio - RS,in

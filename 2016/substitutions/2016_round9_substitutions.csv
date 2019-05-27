@@ -1,0 +1,121 @@
+,match_num,player_name_2,player_team,player_status
+0,81,Walter,Atlético - PR,out
+1,81,Vinicius,Atlético - PR,in
+2,81,Ewandro,Atlético - PR,out
+3,81,Pablo,Atlético - PR,in
+4,81,Giovanny,Atlético - PR,out
+5,81,Anderson,Atlético - PR,in
+6,81,Leo Cittadini,Santos - SP,out
+7,81,Paulinho,Santos - SP,in
+8,81,Thiago Maia,Santos - SP,out
+9,81,Alison,Santos - SP,in
+10,81,Joel,Santos - SP,out
+11,81,Diogo,Santos - SP,in
+12,82,Cleiton Xavier,Palmeiras - SP,out
+13,82,Cristaldo,Palmeiras - SP,in
+14,82,Moises,Palmeiras - SP,out
+15,82,Thiago Santos,Palmeiras - SP,in
+16,82,Dudu,Palmeiras - SP,out
+17,82,Fabricio,Palmeiras - SP,in
+18,82,Joao Paulo,Santa Cruz - PE,out
+19,82,Wallyson,Santa Cruz - PE,in
+20,82,Vitor,Santa Cruz - PE,out
+21,82,Mario Sergio,Santa Cruz - PE,in
+22,82,Lele,Santa Cruz - PE,out
+23,82,Daniel,Santa Cruz - PE,in
+24,83,Borges,América - MG,out
+25,83,Victor Rangel,América - MG,in
+26,83,Osman,América - MG,out
+27,83,Bruno Savio,América - MG,in
+28,83,Eduardo,América - MG,out
+29,83,Alan,América - MG,in
+30,83,João Paulo,Coritiba - PR,out
+31,83,Weverson,Coritiba - PR,in
+32,83,Ruy,Coritiba - PR,out
+33,83,Ortega,Coritiba - PR,in
+34,83,Felipe Amorim,Coritiba - PR,out
+35,83,Vinicius,Coritiba - PR,in
+36,84,Cássio,Corinthians - SP,out
+37,84,Caique,Corinthians - SP,in
+38,84,Guilherme,Corinthians - SP,out
+39,84,Andre,Corinthians - SP,in
+40,84,Rodriguinho,Corinthians - SP,out
+41,84,Willians,Corinthians - SP,in
+42,84,Leandro,Botafogo - RJ,out
+43,84,Salgueiro,Botafogo - RJ,in
+44,84,Sassá,Botafogo - RJ,out
+45,84,Lucas Ribamar,Botafogo - RJ,in
+46,84,Gervasio,Botafogo - RJ,out
+47,84,Victor,Botafogo - RJ,in
+48,85,Clayton,Atlético - MG,out
+49,85,Carlos Alberto Carvalho,Atlético - MG,in
+50,85,Cazares,Atlético - MG,out
+51,85,Patric,Atlético - MG,in
+52,85,Robinho,Atlético - MG,out
+53,85,Rafael Carioca,Atlético - MG,in
+54,85,Felipe Azevedo,Ponte Preta - SP,out
+55,85,William,Ponte Preta - SP,in
+56,85,Roger,Ponte Preta - SP,out
+57,85,Wellington Paulista,Ponte Preta - SP,in
+58,85,Clayson,Ponte Preta - SP,out
+59,85,Thiago,Ponte Preta - SP,in
+60,86,Dagoberto,Vitória - BA,out
+61,86,Alipio,Vitória - BA,in
+62,86,Flavio,Vitória - BA,out
+63,86,Leandro,Vitória - BA,in
+64,86,Neto,Vitória - BA,out
+65,86,Maicon,Vitória - BA,in
+66,86,Cleber Santana,Chapecoense - SC,out
+67,86,Arthur,Chapecoense - SC,in
+68,86,Moises,Chapecoense - SC,out
+69,86,Rafael Bastos,Chapecoense - SC,in
+70,86,Lucas,Chapecoense - SC,out
+71,86,Ananias,Chapecoense - SC,in
+72,87,Everton,Flamengo - RJ,out
+73,87,Fernandinho,Flamengo - RJ,in
+74,87,Marcelo Cirino,Flamengo - RJ,out
+75,87,Gabriel,Flamengo - RJ,in
+76,87,Felipe Vizeu,Flamengo - RJ,out
+77,87,Emerson Sheik,Flamengo - RJ,in
+78,87,Bruno,São Paulo - SP,out
+79,87,Alan Kardec,São Paulo - SP,in
+80,87,GANSO,São Paulo - SP,out
+81,87,Ytalo,São Paulo - SP,in
+82,87,Kelvin,São Paulo - SP,out
+83,87,Mateus,São Paulo - SP,in
+84,88,Elicarlos,Figueirense - SC,out
+85,88,Jackson Caucaia,Figueirense - SC,in
+86,88,Gustavo Ermel,Figueirense - SC,out
+87,88,Everton Santos,Figueirense - SC,in
+88,88,Lins,Figueirense - SC,out
+89,88,Junior Oliveira,Figueirense - SC,in
+90,88,Paulão,Internacional - RS,out
+91,88,Andrigo,Internacional - RS,in
+92,88,Gustavo Ferrareis,Internacional - RS,out
+93,88,Aylon,Internacional - RS,in
+94,88,Alex,Internacional - RS,out
+95,88,Anderson,Internacional - RS,in
+96,89,Edmilson dos Santos Silva,Sport - PE,out
+97,89,Rodrigo Mancha,Sport - PE,in
+98,89,Serginho,Sport - PE,out
+99,89,Clayton,Sport - PE,in
+100,89,Everton Felipe,Sport - PE,out
+101,89,R. Lenis,Sport - PE,in
+102,89,Jonathan,Fluminense - RJ,out
+103,89,Giovanni,Fluminense - RJ,in
+104,89,Edson,Fluminense - RJ,out
+105,89,Dudu,Fluminense - RJ,in
+106,89,Richarlison,Fluminense - RJ,out
+107,89,Magno Alves,Fluminense - RJ,in
+108,90,Geromel,Grêmio - RS,out
+109,90,Marcelo Hermes,Grêmio - RS,in
+110,90,Maicon,Grêmio - RS,out
+111,90,Jailson,Grêmio - RS,in
+112,90,Wallace Reis,Grêmio - RS,out
+113,90,Bressan,Grêmio - RS,in
+114,90,Rafael Silva,Cruzeiro - MG,out
+115,90,Allano,Cruzeiro - MG,in
+116,90,Alisson,Cruzeiro - MG,out
+117,90,Bruno Ramires,Cruzeiro - MG,in
+118,90,Riascos,Cruzeiro - MG,out
+119,90,Willian,Cruzeiro - MG,in

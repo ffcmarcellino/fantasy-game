@@ -1,0 +1,121 @@
+,match_num,player_name_2,player_team,player_status
+0,41,Diguinho,Vasco da Gama - RJ,out
+1,41,Jackson Caucaia,Vasco da Gama - RJ,in
+2,41,Dagoberto,Vasco da Gama - RJ,out
+3,41,Yago,Vasco da Gama - RJ,in
+4,41,Julio dos Santos,Vasco da Gama - RJ,out
+5,41,Charles Marcelo da Silva,Vasco da Gama - RJ,in
+6,41,Renato Caja,Ponte Preta - SP,out
+7,41,Ronei,Ponte Preta - SP,in
+8,41,Felipe Azevedo,Ponte Preta - SP,out
+9,41,Cesar,Ponte Preta - SP,in
+10,41,Diego,Ponte Preta - SP,out
+11,41,Borges,Ponte Preta - SP,in
+12,42,Cleo,Atlético - PR,out
+13,42,Giovanni,Atlético - PR,in
+14,42,Douglas,Atlético - PR,out
+15,42,Ytalo,Atlético - PR,in
+16,42,Nikao,Atlético - PR,out
+17,42,Jadson,Atlético - PR,in
+18,42,Carlos Alberto,Figueirense - SC,out
+19,42,Yago Felipe,Figueirense - SC,in
+20,42,Everaldo,Figueirense - SC,out
+21,42,Elias,Figueirense - SC,in
+22,42,Clayton,Figueirense - SC,out
+23,42,Mazola,Figueirense - SC,in
+24,43,Gil,Chapecoense - SC,out
+25,43,Wanderson,Chapecoense - SC,in
+26,43,Ananias,Chapecoense - SC,out
+27,43,Maranhão,Chapecoense - SC,in
+28,43,Wagner,Chapecoense - SC,out
+29,43,Odair,Chapecoense - SC,in
+30,43,Rafael Costa,Joinville - SC,out
+31,43,Marcelinho Paraiba,Joinville - SC,in
+32,43,Welinton,Joinville - SC,out
+33,43,Tiago Luis,Joinville - SC,in
+34,43,Naldo,Joinville - SC,out
+35,43,Kempes,Joinville - SC,in
+36,44,Bruno,São Paulo - SP,out
+37,44,Hudson,São Paulo - SP,in
+38,44,Alexandre Pato,São Paulo - SP,out
+39,44,Luis Fabiano,São Paulo - SP,in
+40,44,Thiago Mendes,São Paulo - SP,out
+41,44,Centurion,São Paulo - SP,in
+42,44,Vladimir,Santos - SP,out
+43,44,Vanderlei,Santos - SP,in
+44,44,Rafael Longuine,Santos - SP,out
+45,44,Marquinhos Gabriel,Santos - SP,in
+46,44,Gigio,Santos - SP,out
+47,44,Marco,Santos - SP,in
+48,45,Maicon,Grêmio - RS,out
+49,45,Fellipe,Grêmio - RS,in
+50,45,Yuri Mamute,Grêmio - RS,out
+51,45,Lincoln,Grêmio - RS,in
+52,45,Pedro Rocha,Grêmio - RS,out
+53,45,Victor Rangel,Grêmio - RS,in
+54,45,Renato Augusto,Corinthians - SP,out
+55,45,Danilo,Corinthians - SP,in
+56,45,Bruno,Corinthians - SP,out
+57,45,Petros,Corinthians - SP,in
+58,45,Angel Romero,Corinthians - SP,out
+59,45,Vagner Love,Corinthians - SP,in
+60,46,Willian,Cruzeiro - MG,out
+61,46,Allano,Cruzeiro - MG,in
+62,46,Leandro Damiao,Cruzeiro - MG,out
+63,46,Henrique Dourado,Cruzeiro - MG,in
+64,46,Gabriel Xavier,Cruzeiro - MG,out
+65,46,Alisson,Cruzeiro - MG,in
+66,46,Marcio Araujo,Flamengo - RJ,out
+67,46,Eduardo da Silva,Flamengo - RJ,in
+68,46,Anderson Pico,Flamengo - RJ,out
+69,46,Luiz Antonio,Flamengo - RJ,in
+70,46,Marcelo Cirino,Flamengo - RJ,out
+71,46,Gabriel,Flamengo - RJ,in
+72,47,Anderson,Avaí - SC,out
+73,47,Romulo,Avaí - SC,in
+74,47,Hugo,Avaí - SC,out
+75,47,Roberto,Avaí - SC,in
+76,47,Renan,Avaí - SC,out
+77,47,Andre Lima,Avaí - SC,in
+78,47,Thiago Ribeiro,Atlético - MG,out
+79,47,Leandro Donizete,Atlético - MG,in
+80,47,Giovanni Augusto,Atlético - MG,out
+81,47,Dodo,Atlético - MG,in
+82,47,Luan,Atlético - MG,out
+83,47,Maicosuel,Atlético - MG,in
+84,48,Wagner,Fluminense - RJ,out
+85,48,Pierre,Fluminense - RJ,in
+86,48,Gerson,Fluminense - RJ,out
+87,48,Marcos Jr,Fluminense - RJ,in
+88,48,Vinicius,Fluminense - RJ,out
+89,48,Magno Alves,Fluminense - RJ,in
+90,48,Henrique,Coritiba - PR,out
+91,48,Ivan,Coritiba - PR,in
+92,48,Thiago,Coritiba - PR,out
+93,48,Rafhael Lucas,Coritiba - PR,in
+94,48,Helder,Coritiba - PR,out
+95,48,Luis,Coritiba - PR,in
+96,49,Wendel,Sport - PE,out
+97,49,Rodrigo Mancha,Sport - PE,in
+98,49,Regis,Sport - PE,out
+99,49,Mike,Sport - PE,in
+100,49,Neto,Sport - PE,out
+101,49,Maikon,Sport - PE,in
+102,49,Felipe,Goiás - GO,out
+103,49,Arthur,Goiás - GO,in
+104,49,Rodrigo,Goiás - GO,out
+105,49,Pericles,Goiás - GO,in
+106,49,Diogo,Goiás - GO,out
+107,49,Wiliam,Goiás - GO,in
+108,50,Marcos,Palmeiras - SP,out
+109,50,Amaral,Palmeiras - SP,in
+110,50,Kelvin,Palmeiras - SP,out
+111,50,Cleiton Xavier,Palmeiras - SP,in
+112,50,Ze Roberto,Palmeiras - SP,out
+113,50,Cristaldo,Palmeiras - SP,in
+114,50,Nilton,Internacional - RS,out
+115,50,Rafael Moura,Internacional - RS,in
+116,50,Alex,Internacional - RS,out
+117,50,Anderson,Internacional - RS,in
+118,50,Artur,Internacional - RS,out
+119,50,Vitinho,Internacional - RS,in

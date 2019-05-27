@@ -1,0 +1,121 @@
+,match_num,player_name_2,player_team,player_status
+0,371,Ralf,Corinthians - SP,out
+1,371,Bruno,Corinthians - SP,in
+2,371,Rodriguinho,Corinthians - SP,out
+3,371,Angel Romero,Corinthians - SP,in
+4,371,Lucca,Corinthians - SP,out
+5,371,Danilo,Corinthians - SP,in
+6,371,Everton Silva,Avaí - SC,out
+7,371,Pablo,Avaí - SC,in
+8,371,Renan,Avaí - SC,out
+9,371,Rudnei,Avaí - SC,in
+10,371,Renan,Avaí - SC,out
+11,371,Roberto,Avaí - SC,in
+12,372,Werley,Santos - SP,out
+13,372,Leonardo Moura,Santos - SP,in
+14,372,Alison,Santos - SP,out
+15,372,Fernando,Santos - SP,in
+16,372,Sergio,Santos - SP,out
+17,372,Vitor Bueno,Santos - SP,in
+18,372,Eduardo,Atlético - PR,out
+19,372,Barrientos,Atlético - PR,in
+20,372,Sidcley,Atlético - PR,out
+21,372,Bruno,Atlético - PR,in
+22,372,Bruno Pereirinha,Atlético - PR,out
+23,372,Hernani,Atlético - PR,in
+24,373,Marcos,Ponte Preta - SP,out
+25,373,Felipe,Ponte Preta - SP,in
+26,373,Leandro,Ponte Preta - SP,out
+27,373,Adriano,Ponte Preta - SP,in
+28,373,Cristian,Ponte Preta - SP,out
+29,373,Keno,Ponte Preta - SP,in
+30,373,Elber,Sport - PE,out
+31,373,Maikon,Sport - PE,in
+32,373,Danilo,Sport - PE,out
+33,373,Samuel,Sport - PE,in
+34,373,Neto,Sport - PE,out
+35,373,Ewerton,Sport - PE,in
+36,374,Hugo,Flamengo - RJ,out
+37,374,Luiz Antonio,Flamengo - RJ,in
+38,374,Emerson Sheik,Flamengo - RJ,out
+39,374,Kayke,Flamengo - RJ,in
+40,374,Gabriel,Flamengo - RJ,out
+41,374,Marcelo Cirino,Flamengo - RJ,in
+42,374,Ze Roberto,Palmeiras - SP,out
+43,374,Eduardo,Palmeiras - SP,in
+44,374,Alecsandro,Palmeiras - SP,out
+45,374,Cristaldo,Palmeiras - SP,in
+46,374,Allione,Palmeiras - SP,out
+47,374,Kelvin,Palmeiras - SP,in
+48,375,Alex,Internacional - RS,out
+49,375,Andrigo,Internacional - RS,in
+50,375,Anderson,Internacional - RS,out
+51,375,Bertotto,Internacional - RS,in
+52,375,Nicolas,Internacional - RS,out
+53,375,Adniellyson,Internacional - RS,in
+54,375,Willian,Cruzeiro - MG,out
+55,375,Allano,Cruzeiro - MG,in
+56,375,Mayke,Cruzeiro - MG,out
+57,375,Fabiano,Cruzeiro - MG,in
+58,375,De Arrascaeta,Cruzeiro - MG,out
+59,375,Joel,Cruzeiro - MG,in
+60,376,Rafael Carioca,Atlético - MG,out
+61,376,Eduardo,Atlético - MG,in
+62,376,Giovanni Augusto,Atlético - MG,out
+63,376,Cardenas,Atlético - MG,in
+64,376,Lucas Pratto,Atlético - MG,out
+65,376,Carlos Alberto Carvalho,Atlético - MG,in
+66,376,Elicarlos,Chapecoense - SC,out
+67,376,Maylson,Chapecoense - SC,in
+68,376,Ananias,Chapecoense - SC,out
+69,376,Wanderson,Chapecoense - SC,in
+70,376,Wiliam Barbio,Chapecoense - SC,out
+71,376,Hyoran,Chapecoense - SC,in
+72,377,Carlos Alberto,Figueirense - SC,out
+73,377,Dener,Figueirense - SC,in
+74,377,Joao Vitor,Figueirense - SC,out
+75,377,Marcao,Figueirense - SC,in
+76,377,Yago Felipe,Figueirense - SC,out
+77,377,Paulo Roberto,Figueirense - SC,in
+78,377,Pierre,Fluminense - RJ,out
+79,377,Robert,Fluminense - RJ,in
+80,377,Marcos Jr,Fluminense - RJ,out
+81,377,Lucas,Fluminense - RJ,in
+82,377,Léo,Fluminense - RJ,out
+83,377,Jonathan,Fluminense - RJ,in
+84,378,Juan,Coritiba - PR,out
+85,378,Thiago Lopes,Coritiba - PR,in
+86,378,Alan Santos,Coritiba - PR,out
+87,378,Rafael Marques,Coritiba - PR,in
+88,378,Luis,Coritiba - PR,out
+89,378,Icaro,Coritiba - PR,in
+90,378,Riascos,Vasco da Gama - RJ,out
+91,378,Rafael Silva,Vasco da Gama - RJ,in
+92,378,Diguinho,Vasco da Gama - RJ,out
+93,378,Mateus,Vasco da Gama - RJ,in
+94,378,Gallo,Vasco da Gama - RJ,out
+95,378,Leandrao,Vasco da Gama - RJ,in
+96,379,Wiliam,Goiás - GO,out
+97,379,Ruan,Goiás - GO,in
+98,379,Gimenez,Goiás - GO,out
+99,379,Arthur,Goiás - GO,in
+100,379,Liniker,Goiás - GO,out
+101,379,Carlos,Goiás - GO,in
+102,379,Bruno,São Paulo - SP,out
+103,379,Wesley,São Paulo - SP,in
+104,379,Michel Bastos,São Paulo - SP,out
+105,379,Rogerio,São Paulo - SP,in
+106,379,Thiago Mendes,São Paulo - SP,out
+107,379,Lyanco,São Paulo - SP,in
+108,380,Edson Ratinho,Joinville - SC,out
+109,380,Marcelo Costa,Joinville - SC,in
+110,380,Italo,Joinville - SC,out
+111,380,Fernando Viana,Joinville - SC,in
+112,380,Anselmo,Joinville - SC,out
+113,380,Mario Sergio,Joinville - SC,in
+114,380,Everton,Grêmio - RS,out
+115,380,Edinho,Grêmio - RS,in
+116,380,Walace,Grêmio - RS,out
+117,380,Victor Rangel,Grêmio - RS,in
+118,380,Luan,Grêmio - RS,out
+119,380,Pedro Rocha,Grêmio - RS,in

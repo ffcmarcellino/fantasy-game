@@ -1,0 +1,117 @@
+,match_num,player_name_2,player_team,player_status
+0,151,Luiz Antonio,Flamengo - RJ,out
+1,151,Nixon,Flamengo - RJ,in
+2,151,Arthur,Flamengo - RJ,out
+3,151,Eduardo da Silva,Flamengo - RJ,in
+4,151,Marcio Araujo,Flamengo - RJ,out
+5,151,Lucas,Flamengo - RJ,in
+6,151,Maicosuel,Atlético - MG,out
+7,151,Luan,Atlético - MG,in
+8,151,Jo,Atlético - MG,out
+9,151,Andre,Atlético - MG,in
+10,151,Rafael Carioca,Atlético - MG,out
+11,151,Claudinei,Atlético - MG,in
+12,152,Felipe Azevedo,Sport - PE,out
+13,152,Diego Souza,Sport - PE,in
+14,152,Regis,Sport - PE,out
+15,152,Ananias,Sport - PE,in
+16,152,Erico Junior,Sport - PE,out
+17,152,Ibson,Sport - PE,in
+18,152,Wesley,Palmeiras - SP,out
+19,152,Cristaldo,Palmeiras - SP,in
+20,152,Pablo Nicolas Mouche,Palmeiras - SP,out
+21,152,Diogo,Palmeiras - SP,in
+22,152,Allione,Palmeiras - SP,out
+23,152,Weverson,Palmeiras - SP,in
+24,153,Renato Augusto,Corinthians - SP,out
+25,153,Lodeiro,Corinthians - SP,in
+26,153,Jadson,Corinthians - SP,out
+27,153,Bruno,Corinthians - SP,in
+28,153,Angel Romero,Corinthians - SP,out
+29,153,Luciano,Corinthians - SP,in
+30,153,Bruno Mineiro,Goiás - GO,out
+31,153,Erik,Goiás - GO,in
+32,153,Tiago Real,Goiás - GO,out
+33,153,Danilo,Goiás - GO,in
+34,153,Murilo,Goiás - GO,out
+35,153,Joao Paulo,Goiás - GO,in
+36,154,Robinho,Santos - SP,out
+37,154,Rildo,Santos - SP,in
+38,154,Thiago Ribeiro,Santos - SP,out
+39,154,Stefano Yuri Goncalves Almeida,Santos - SP,in
+40,154,Leandro Damiao,Santos - SP,out
+41,154,Souza,Santos - SP,in
+42,154,João Paulo,Atletico - PR,out
+43,154,Otavio,Atletico - PR,in
+44,154,Bady,Atletico - PR,out
+45,154,Guilherme,Atletico - PR,in
+46,154,Marcos Guilherme,Atletico - PR,out
+47,154,Douglas,Atletico - PR,in
+48,155,Neto,Coritiba - PR,out
+49,155,Reginaldo,Coritiba - PR,in
+50,155,Dudu,Coritiba - PR,out
+51,155,Ze Rafael,Coritiba - PR,in
+52,155,Gil,Coritiba - PR,out
+53,155,Geraldo,Coritiba - PR,in
+54,155,Marcio,Vitória - BA,out
+55,155,Beltran,Vitória - BA,in
+56,155,Caio,Vitória - BA,out
+57,155,William Henrique,Vitória - BA,in
+58,155,Luis,Vitória - BA,out
+59,155,Welison,Vitória - BA,in
+60,156,Julio Baptista,Cruzeiro - MG,out
+61,156,Dagoberto,Cruzeiro - MG,in
+62,156,Willian,Cruzeiro - MG,out
+63,156,Alisson,Cruzeiro - MG,in
+64,156,Lucas Silva,Cruzeiro - MG,out
+65,156,Nilton,Cruzeiro - MG,in
+66,156,Ronan,Grêmio - RS,out
+67,156,Fernandinho,Grêmio - RS,in
+68,156,Fellipe,Grêmio - RS,out
+69,156,Alan Ruiz,Grêmio - RS,in
+70,156,Riveros,Grêmio - RS,out
+71,156,Edinho,Grêmio - RS,in
+72,157,Marcos Aurelio,Bahia - BA,out
+73,157,Wiliam Barbio,Bahia - BA,in
+74,157,Uelliton,Bahia - BA,out
+75,157,Biancucchi,Bahia - BA,in
+76,157,Rhayner,Bahia - BA,out
+77,157,Max,Bahia - BA,in
+78,157,Silvinho,Criciuma - SC,out
+79,157,Cortez,Criciuma - SC,in
+80,157,Giovanni,Criciuma - SC,out
+81,157,Mauro,Criciuma - SC,in
+82,157,Luis Fernando Lojudice Martinez,Criciuma - SC,out
+83,157,Rodrigo,Criciuma - SC,in
+84,158,Alex,Internacional - RS,out
+85,158,Jorge Henrique,Internacional - RS,in
+86,158,Ygor,Internacional - RS,out
+87,158,Valdivia,Internacional - RS,in
+88,158,Bertotto,Internacional - RS,out
+89,158,Wellington Paulista,Internacional - RS,in
+90,158,Alexandre Pato,São Paulo - SP,out
+91,158,Ademilson,São Paulo - SP,in
+92,158,GANSO,São Paulo - SP,out
+93,158,Michel Bastos,São Paulo - SP,in
+94,159,Clayton,Figueirense - SC,out
+95,159,Pablo,Figueirense - SC,in
+96,159,Luan,Figueirense - SC,out
+97,159,Dener,Figueirense - SC,in
+98,159,Marcao,Figueirense - SC,out
+99,159,Jean,Figueirense - SC,in
+100,159,Gabriel,Botafogo - RJ,out
+101,159,Rogerio,Botafogo - RJ,in
+102,159,Daniel,Botafogo - RJ,out
+103,159,Gêge,Botafogo - RJ,in
+104,159,Ramirez,Botafogo - RJ,out
+105,159,Bolatti,Botafogo - RJ,in
+106,160,Camilo,Chapecoense - SC,out
+107,160,Ricardo Conceicao,Chapecoense - SC,in
+108,160,Abuda,Chapecoense - SC,out
+109,160,Diones,Chapecoense - SC,in
+110,160,Zezinho,Chapecoense - SC,out
+111,160,Tiago Luis,Chapecoense - SC,in
+112,160,Bruno,Fluminense - RJ,out
+113,160,Edson,Fluminense - RJ,in
+114,160,Walter,Fluminense - RJ,out
+115,160,Rafael Sobis,Fluminense - RJ,in

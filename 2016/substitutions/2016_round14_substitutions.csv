@@ -1,0 +1,121 @@
+,match_num,player_name_2,player_team,player_status
+0,131,Fernandinho,Flamengo - RJ,out
+1,131,Cuellar,Flamengo - RJ,in
+2,131,Marcelo Cirino,Flamengo - RJ,out
+3,131,Gabriel,Flamengo - RJ,in
+4,131,Mancuello,Flamengo - RJ,out
+5,131,Hector,Flamengo - RJ,in
+6,131,Marcos Rocha,Atlético - MG,out
+7,131,Carlos Cesar,Atlético - MG,in
+8,131,Patric,Atlético - MG,out
+9,131,Maicosuel,Atlético - MG,in
+10,131,Clayton,Atlético - MG,out
+11,131,Hyuri,Atlético - MG,in
+12,132,Bruno Rangel,Chapecoense - SC,out
+13,132,Kempes,Chapecoense - SC,in
+14,132,Gil,Chapecoense - SC,out
+15,132,Martinucio,Chapecoense - SC,in
+16,132,Silvinho,Chapecoense - SC,out
+17,132,Arthur,Chapecoense - SC,in
+18,132,Giovanni Augusto,Corinthians - SP,out
+19,132,Guilherme,Corinthians - SP,in
+20,132,Luciano,Corinthians - SP,out
+21,132,Danilo,Corinthians - SP,in
+22,132,Pedro,Corinthians - SP,out
+23,132,Yago,Corinthians - SP,in
+24,133,Moises,Palmeiras - SP,out
+25,133,Marcos,Palmeiras - SP,in
+26,133,Lucas Barrios,Palmeiras - SP,out
+27,133,Leandro,Palmeiras - SP,in
+28,133,Yerri Mina,Palmeiras - SP,out
+29,133,Edu Dracena,Palmeiras - SP,in
+30,133,Gabriel B.,Santos - SP,out
+31,133,Yuri,Santos - SP,in
+32,133,Vitor Bueno,Santos - SP,out
+33,133,Copete,Santos - SP,in
+34,133,Rodrigao,Santos - SP,out
+35,133,Joel,Santos - SP,in
+36,134,Giva,Ponte Preta - SP,out
+37,134,Rhayner,Ponte Preta - SP,in
+38,134,William,Ponte Preta - SP,out
+39,134,Roger,Ponte Preta - SP,in
+40,134,Clayson,Ponte Preta - SP,out
+41,134,Wellington Paulista,Ponte Preta - SP,in
+42,134,Rithely,Sport - PE,out
+43,134,Ronaldo,Sport - PE,in
+44,134,Gabriel Xavier,Sport - PE,out
+45,134,R. Lenis,Sport - PE,in
+46,134,Everton Felipe,Sport - PE,out
+47,134,Edmilson dos Santos Silva,Sport - PE,in
+48,135,Ceara,Coritiba - PR,out
+49,135,Dodô,Coritiba - PR,in
+50,135,Juan,Coritiba - PR,out
+51,135,Evandro,Coritiba - PR,in
+52,135,Weverson,Coritiba - PR,out
+53,135,Vinicius,Coritiba - PR,in
+54,135,Neilton,Botafogo - RJ,out
+55,135,Leandro,Botafogo - RJ,in
+56,135,Sassá,Botafogo - RJ,out
+57,135,Vinicius,Botafogo - RJ,in
+58,135,Airton,Botafogo - RJ,out
+59,135,Jonathan,Botafogo - RJ,in
+60,136,Douglas,Grêmio - RS,out
+61,136,Bobo,Grêmio - RS,in
+62,136,Luan,Grêmio - RS,out
+63,136,Miller Bolaños,Grêmio - RS,in
+64,136,Walace,Grêmio - RS,out
+65,136,Pedro Rocha,Grêmio - RS,in
+66,136,Bady,Figueirense - SC,out
+67,136,Dodo,Figueirense - SC,in
+68,136,Rafael Silva,Figueirense - SC,out
+69,136,Jefferson,Figueirense - SC,in
+70,136,Gustavo Ermel,Figueirense - SC,out
+71,136,Everton Santos,Figueirense - SC,in
+72,137,Hudson,São Paulo - SP,out
+73,137,Jose,São Paulo - SP,in
+74,137,Maicon,São Paulo - SP,out
+75,137,Rodrigo Caio,São Paulo - SP,in
+76,137,Centurion,São Paulo - SP,out
+77,137,Ytalo,São Paulo - SP,in
+78,137,Ernandes,América - MG,out
+79,137,Victor Rangel,América - MG,in
+80,137,Tony,América - MG,out
+81,137,Danilo,América - MG,in
+82,137,Gilson,América - MG,out
+83,137,Alan,América - MG,in
+84,138,Dagoberto,Vitória - BA,out
+85,138,David,Vitória - BA,in
+86,138,Nickson,Vitória - BA,out
+87,138,Vander,Vitória - BA,in
+88,138,Amaral,Vitória - BA,out
+89,138,Marcelo,Vitória - BA,in
+90,138,Magno Alves,Fluminense - RJ,out
+91,138,Samuel,Fluminense - RJ,in
+92,138,Osvaldo,Fluminense - RJ,out
+93,138,Richarlison,Fluminense - RJ,in
+94,138,Dudu,Fluminense - RJ,out
+95,138,Marcos Jr,Fluminense - RJ,in
+96,139,Arthur,Santa Cruz - PE,out
+97,139,Derley,Santa Cruz - PE,in
+98,139,Keno,Santa Cruz - PE,out
+99,139,Wellington Silva,Santa Cruz - PE,in
+100,139,Marcilio,Santa Cruz - PE,out
+101,139,Bruno Moraes,Santa Cruz - PE,in
+102,139,Ariel,Internacional - RS,out
+103,139,Valdivia,Internacional - RS,in
+104,139,Gustavo Ferrareis,Internacional - RS,out
+105,139,Anderson,Internacional - RS,in
+106,139,Artur,Internacional - RS,out
+107,139,Raphael,Internacional - RS,in
+108,140,Rafael Sobis,Cruzeiro - MG,out
+109,140,Federico Gino,Cruzeiro - MG,in
+110,140,Robinho,Cruzeiro - MG,out
+111,140,Riascos,Cruzeiro - MG,in
+112,140,Ariel Cabral,Cruzeiro - MG,out
+113,140,Allano,Cruzeiro - MG,in
+114,140,Walter,Atlético - PR,out
+115,140,Andre Lima,Atlético - PR,in
+116,140,Vinicius,Atlético - PR,out
+117,140,Marcos Guilherme,Atlético - PR,in
+118,140,Nikao,Atlético - PR,out
+119,140,Marcos,Atlético - PR,in

@@ -1,0 +1,117 @@
+,match_num,player_name_2,player_team,player_status
+0,241,Dudu Cearense,Botafogo - RJ,out
+1,241,Leandro,Botafogo - RJ,in
+2,241,Emerson,Botafogo - RJ,out
+3,241,Pimpao,Botafogo - RJ,in
+4,241,Canales,Botafogo - RJ,out
+5,241,Vinicius,Botafogo - RJ,in
+6,241,Victor Ferraz,Santos - SP,out
+7,241,Caju,Santos - SP,in
+8,241,Vitor Bueno,Santos - SP,out
+9,241,Yuri,Santos - SP,in
+10,241,Lucas Lima,Santos - SP,out
+11,241,Lucas Verissimo,Santos - SP,in
+12,242,Jackson Caucaia,Figueirense - SC,out
+13,242,Jocinei,Figueirense - SC,in
+14,242,Lins,Figueirense - SC,out
+15,242,Rafael Silva,Figueirense - SC,in
+16,242,Ferrugem,Figueirense - SC,out
+17,242,Gustavo Ermel,Figueirense - SC,in
+18,242,Nixon,América - MG,out
+19,242,Michael,América - MG,in
+20,242,Leandro Luchese,América - MG,out
+21,242,Ernandes,América - MG,in
+22,242,Pablo,América - MG,out
+23,242,Matheusinho,América - MG,in
+24,243,Clayson,Ponte Preta - SP,out
+25,243,Felipe Azevedo,Ponte Preta - SP,in
+26,243,Rhayner,Ponte Preta - SP,out
+27,243,Roger,Ponte Preta - SP,in
+28,243,Maycon,Ponte Preta - SP,out
+29,243,Elton,Ponte Preta - SP,in
+30,243,Pedro Rocha,Grêmio - RS,out
+31,243,Negueba,Grêmio - RS,in
+32,243,Lincoln,Grêmio - RS,out
+33,243,Guilherme Augusto,Grêmio - RS,in
+34,243,Miller Bolaños,Grêmio - RS,out
+35,243,Batista,Grêmio - RS,in
+36,244,Jadson,Santa Cruz - PE,out
+37,244,Renato Lima,Santa Cruz - PE,in
+38,244,Allan,Santa Cruz - PE,out
+39,244,Wallyson,Santa Cruz - PE,in
+40,244,Matias Pisano,Santa Cruz - PE,out
+41,244,Arthur,Santa Cruz - PE,in
+42,244,Luan,Atlético - PR,out
+43,244,Andre Lima,Atlético - PR,in
+44,244,Hernani,Atlético - PR,out
+45,244,Renan,Atlético - PR,in
+46,244,Giovanny,Atlético - PR,out
+47,244,Marcos Guilherme,Atlético - PR,in
+48,245,Tche Tche,Palmeiras - SP,out
+49,245,Rafael Marques,Palmeiras - SP,in
+50,245,Gabriel,Palmeiras - SP,out
+51,245,Lucas Barrios,Palmeiras - SP,in
+52,245,Roger Guedes,Palmeiras - SP,out
+53,245,Cleiton Xavier,Palmeiras - SP,in
+54,245,Everton,Flamengo - RJ,out
+55,245,Marcelo Cirino,Flamengo - RJ,in
+56,245,Gabriel,Flamengo - RJ,out
+57,245,Alan Patrick,Flamengo - RJ,in
+58,245,Diego,Flamengo - RJ,out
+59,245,Cuellar,Flamengo - RJ,in
+60,246,Alan Santos,Coritiba - PR,out
+61,246,Yan Sasse,Coritiba - PR,in
+62,246,Evandro,Coritiba - PR,out
+63,246,Iago Dias,Coritiba - PR,in
+64,246,Raphael Veiga,Coritiba - PR,out
+65,246,Edinho,Coritiba - PR,in
+66,246,Uendel,Corinthians - SP,out
+67,246,Guilherme Arana,Corinthians - SP,in
+68,247,Magno Alves,Fluminense - RJ,out
+69,247,Maranhão,Fluminense - RJ,in
+70,247,Marquinho,Fluminense - RJ,out
+71,247,Henrique Dourado,Fluminense - RJ,in
+72,247,W. Matheus,Fluminense - RJ,out
+73,247,Ayrton Lucas,Fluminense - RJ,in
+74,247,Kempes,Chapecoense - SC,out
+75,247,Bruno Rangel,Chapecoense - SC,in
+76,247,Arthur,Chapecoense - SC,out
+77,247,Lourency,Chapecoense - SC,in
+78,247,Matheus Biteco,Chapecoense - SC,out
+79,247,Cleber Santana,Chapecoense - SC,in
+80,248,Marcos Rocha,Atlético - MG,out
+81,248,Erazo,Atlético - MG,in
+82,248,Clayton,Atlético - MG,out
+83,248,Cazares,Atlético - MG,in
+84,248,Otero,Atlético - MG,out
+85,248,Carlos Eduardo,Atlético - MG,in
+86,248,Rogerio,Sport - PE,out
+87,248,Apodi,Sport - PE,in
+88,248,L. Ruiz,Sport - PE,out
+89,248,Vinicius Araujo,Sport - PE,in
+90,248,Everton Felipe,Sport - PE,out
+91,248,Agenor,Sport - PE,in
+92,249,Fabinho,Internacional - RS,out
+93,249,Gustavo Ferrareis,Internacional - RS,in
+94,249,Valdivia,Internacional - RS,out
+95,249,Alex,Internacional - RS,in
+96,249,Seijas,Internacional - RS,out
+97,249,Eduardo Sasha,Internacional - RS,in
+98,249,Ze Eduardo,Vitória - BA,out
+99,249,Amaral,Vitória - BA,in
+100,249,Marinho,Vitória - BA,out
+101,249,Vander,Vitória - BA,in
+102,249,Cardenas,Vitória - BA,out
+103,249,Tiago Real,Vitória - BA,in
+104,250,Hudson,São Paulo - SP,out
+105,250,João Schmidt,São Paulo - SP,in
+106,250,Kelvin,São Paulo - SP,out
+107,250,Luiz,São Paulo - SP,in
+108,250,Cueva,São Paulo - SP,out
+109,250,Carlinhos,São Paulo - SP,in
+110,250,Lucas,Cruzeiro - MG,out
+111,250,Ezequiel,Cruzeiro - MG,in
+112,250,Rafael Sobis,Cruzeiro - MG,out
+113,250,Alisson,Cruzeiro - MG,in
+114,250,Rafinha,Cruzeiro - MG,out
+115,250,Marcos Vinicius,Cruzeiro - MG,in

@@ -1,0 +1,121 @@
+,match_num,player_name_2,player_team,player_status
+0,181,Robinho,Cruzeiro - MG,out
+1,181,Mancuello,Cruzeiro - MG,in
+2,181,Lucas Silva,Cruzeiro - MG,out
+3,181,Patrick Brey,Cruzeiro - MG,in
+4,181,David,Cruzeiro - MG,out
+5,181,Rafinha,Cruzeiro - MG,in
+6,181,Gilberto,Bahia - BA,out
+7,181,Edigar Junio,Bahia - BA,in
+8,181,Vinicius,Bahia - BA,out
+9,181,Regis,Bahia - BA,in
+10,181,Elber,Bahia - BA,out
+11,181,Marco Antonio,Bahia - BA,in
+12,182,Nikao,Atlético - PR,out
+13,182,Anderson Plata,Atlético - PR,in
+14,182,Raphael Veiga,Atlético - PR,out
+15,182,Bruno Nazario,Atlético - PR,in
+16,182,Lucho Gonzalez,Atlético - PR,out
+17,182,Bruno Guimaraes,Atlético - PR,in
+18,182,Willian Arão,Flamengo - RJ,out
+19,182,Marlos Moreno,Flamengo - RJ,in
+20,182,Everton Ribeiro,Flamengo - RJ,out
+21,182,Gigio,Flamengo - RJ,in
+22,182,URIBE,Flamengo - RJ,out
+23,182,Lincoln,Flamengo - RJ,in
+24,183,Luan,América - MG,out
+25,183,Ademir,América - MG,in
+26,183,Rafael Moura,América - MG,out
+27,183,Matheusinho,América - MG,in
+28,183,Leandro Donizete,América - MG,out
+29,183,Wesley,América - MG,in
+30,183,Jadson,Fluminense - RJ,out
+31,183,Dodi,Fluminense - RJ,in
+32,183,Ibañez,Fluminense - RJ,out
+33,183,Marcos Jr,Fluminense - RJ,in
+34,183,Sornoza,Fluminense - RJ,out
+35,183,Everaldo,Fluminense - RJ,in
+36,184,Yago Felipe,Vitória - BA,out
+37,184,Andre Lima,Vitória - BA,in
+38,184,Erick,Vitória - BA,out
+39,184,Lucas Fernandes,Vitória - BA,in
+40,184,Bou,Vitória - BA,out
+41,184,Wallyson,Vitória - BA,in
+42,184,Marcos Rocha,Palmeiras - SP,out
+43,184,Mayke,Palmeiras - SP,in
+44,184,Dudu,Palmeiras - SP,out
+45,184,Diogo,Palmeiras - SP,in
+46,184,Bruno,Palmeiras - SP,out
+47,184,Moises,Palmeiras - SP,in
+48,185,Wagner,Vasco da Gama - RJ,out
+49,185,Vinicius Araujo,Vasco da Gama - RJ,in
+50,185,Ramon,Vasco da Gama - RJ,out
+51,185,Henrique,Vasco da Gama - RJ,in
+52,185,Leandro,Vasco da Gama - RJ,out
+53,185,Lenon,Vasco da Gama - RJ,in
+54,185,Leandro,Ceará - CE,out
+55,185,Felipe Azevedo,Ceará - CE,in
+56,185,Arthur,Ceará - CE,out
+57,185,Fabinho,Ceará - CE,in
+58,185,Calyson,Ceará - CE,out
+59,185,Reina,Ceará - CE,in
+60,186,Rodrigo,Botafogo - RJ,out
+61,186,Marcelo,Botafogo - RJ,in
+62,186,Renatinho,Botafogo - RJ,out
+63,186,Pimpao,Botafogo - RJ,in
+64,186,Gustavo,Botafogo - RJ,out
+65,186,Brenner,Botafogo - RJ,in
+66,186,M. Galdezani,Atlético - MG,out
+67,186,Lucas Candido,Atlético - MG,in
+68,186,Nathan,Atlético - MG,out
+69,186,Luan,Atlético - MG,in
+70,186,Cazares,Atlético - MG,out
+71,186,Tomas Andrade,Atlético - MG,in
+72,187,Igor,São Paulo - SP,out
+73,187,Hudson,São Paulo - SP,in
+74,187,Everton Felipe,São Paulo - SP,out
+75,187,Joao Rojas,São Paulo - SP,in
+76,187,Shaylon,São Paulo - SP,out
+77,187,Nene,São Paulo - SP,in
+78,187,Amaral,Chapecoense - SC,out
+79,187,Osman,Chapecoense - SC,in
+80,187,Bruno,Chapecoense - SC,out
+81,187,Leandro,Chapecoense - SC,in
+82,187,Diego Torres,Chapecoense - SC,out
+83,187,Yann,Chapecoense - SC,in
+84,188,Eduardo Sasha,Santos - SP,out
+85,188,Bruno,Santos - SP,in
+86,188,Bryan Ruiz,Santos - SP,out
+87,188,Diego,Santos - SP,in
+88,188,Carlos Sanchez,Santos - SP,out
+89,188,Rodrygo,Santos - SP,in
+90,188,Deivid,Sport - PE,out
+91,188,Fellipe,Sport - PE,in
+92,188,Hernane,Sport - PE,out
+93,188,Carlos,Sport - PE,in
+94,188,Matheus,Sport - PE,out
+95,188,Morato,Sport - PE,in
+96,189,Jadson,Corinthians - SP,out
+97,189,Jonathas,Corinthians - SP,in
+98,189,Ralf,Corinthians - SP,out
+99,189,Mateus,Corinthians - SP,in
+100,189,Pedro,Corinthians - SP,out
+101,189,Emerson Sheik,Corinthians - SP,in
+102,189,Ramiro,Grêmio - RS,out
+103,189,Alisson,Grêmio - RS,in
+104,189,Everton,Grêmio - RS,out
+105,189,Pepe,Grêmio - RS,in
+106,189,Jael,Grêmio - RS,out
+107,189,Thaciano,Grêmio - RS,in
+108,190,William,Internacional - RS,out
+109,190,Lucca,Internacional - RS,in
+110,190,Fabiano,Internacional - RS,out
+111,190,Rossi,Internacional - RS,in
+112,190,JONATAN ALVEZ,Internacional - RS,out
+113,190,Camilo,Internacional - RS,in
+114,190,Grampola,Paraná - PR,out
+115,190,Rodolfo,Paraná - PR,in
+116,190,Leandro,Paraná - PR,out
+117,190,Jhony Douglas,Paraná - PR,in
+118,190,Jhonny,Paraná - PR,out
+119,190,Wesley,Paraná - PR,in

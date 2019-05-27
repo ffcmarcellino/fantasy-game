@@ -1,0 +1,121 @@
+,match_num,player_name_2,player_team,player_status
+0,191,Diego Rosa,Atlético - GO,out
+1,191,Breno,Atlético - GO,in
+2,191,Niltinho,Atlético - GO,out
+3,191,Marcos,Atlético - GO,in
+4,191,Jonathan,Atlético - GO,out
+5,191,Andre,Atlético - GO,in
+6,191,Alecsandro,Coritiba - PR,out
+7,191,Tomas Bastos,Coritiba - PR,in
+8,191,Carleto,Coritiba - PR,out
+9,191,Neto Berola,Coritiba - PR,in
+10,191,Alan Santos,Coritiba - PR,out
+11,191,H. Almeida,Coritiba - PR,in
+12,192,Uillian Correia,Vitória - BA,out
+13,192,Jhemerson,Vitória - BA,in
+14,192,Patric,Vitória - BA,out
+15,192,Danilinho,Vitória - BA,in
+16,192,David,Vitória - BA,out
+17,192,Todinho,Vitória - BA,in
+18,192,Junior Dutra,Avaí - SC,out
+19,192,Diego,Avaí - SC,in
+20,192,Willians,Avaí - SC,out
+21,192,Mauro,Avaí - SC,in
+22,192,Pedro Castro,Avaí - SC,out
+23,192,Luan Pereira,Avaí - SC,in
+24,193,Petros,São Paulo - SP,out
+25,193,Denilson,São Paulo - SP,in
+26,193,Eder Militão,São Paulo - SP,out
+27,193,Jucilei,São Paulo - SP,in
+28,193,Buffarini,São Paulo - SP,out
+29,193,Gilberto,São Paulo - SP,in
+30,193,Hudson,Cruzeiro - MG,out
+31,193,Henrique,Cruzeiro - MG,in
+32,193,Ezequiel,Cruzeiro - MG,out
+33,193,Rafinha,Cruzeiro - MG,in
+34,193,Nonoca,Cruzeiro - MG,out
+35,193,Thiago Neves,Cruzeiro - MG,in
+36,194,Wagner,Vasco da Gama - RJ,out
+37,194,Nene,Vasco da Gama - RJ,in
+38,194,Wellington,Vasco da Gama - RJ,out
+39,194,Manga,Vasco da Gama - RJ,in
+40,194,Paulinho,Vasco da Gama - RJ,out
+41,194,Paulo Vitor,Vasco da Gama - RJ,in
+42,194,Bruno,Palmeiras - SP,out
+43,194,Keno,Palmeiras - SP,in
+44,194,Tche Tche,Palmeiras - SP,out
+45,194,Borja,Palmeiras - SP,in
+46,194,Guerra,Palmeiras - SP,out
+47,194,Ze Roberto,Palmeiras - SP,in
+48,195,Ricardo Oliveira,Santos - SP,out
+49,195,Kayke,Santos - SP,in
+50,195,Thiago Ribeiro,Santos - SP,out
+51,195,Lucas Crispim,Santos - SP,in
+52,195,Vladimir Hernandez,Santos - SP,out
+53,195,Sousa,Santos - SP,in
+54,195,Henrique Dourado,Fluminense - RJ,out
+55,195,Pedro,Fluminense - RJ,in
+56,195,Wellington Silva,Fluminense - RJ,out
+57,195,Marcos Jr,Fluminense - RJ,in
+58,195,Gustavo Scarpa,Fluminense - RJ,out
+59,195,Robert,Fluminense - RJ,in
+60,196,Adilson,Atlético - MG,out
+61,196,Otero,Atlético - MG,in
+62,196,Luan,Atlético - MG,out
+63,196,Yago Henrique Severino dos Santos,Atlético - MG,in
+64,196,Gabriel Costa Franca,Atlético - MG,out
+65,196,Felipe,Atlético - MG,in
+66,196,Felipe Vizeu,Flamengo - RJ,out
+67,196,Vinicius Jr.,Flamengo - RJ,in
+68,196,Gigio,Flamengo - RJ,out
+69,196,Rene,Flamengo - RJ,in
+70,196,Berrio,Flamengo - RJ,out
+71,196,Cuellar,Flamengo - RJ,in
+72,197,Jonathan,Atlético - PR,out
+73,197,Gustavo Cascardo,Atlético - PR,in
+74,197,Thiago Heleno,Atlético - PR,out
+75,197,Ivaldo,Atlético - PR,in
+76,197,Lucas Fernandes,Atlético - PR,out
+77,197,Sidcley,Atlético - PR,in
+78,197,Edson,Bahia - BA,out
+79,197,Juninho,Bahia - BA,in
+80,197,Regis,Bahia - BA,out
+81,197,Joao Paulo,Bahia - BA,in
+82,197,Ze Rafael,Bahia - BA,out
+83,197,Gustavo Ferrareis,Bahia - BA,in
+84,198,Leandro,Botafogo - RJ,out
+85,198,Victor,Botafogo - RJ,in
+86,198,Arnaldo,Botafogo - RJ,out
+87,198,Emerson,Botafogo - RJ,in
+88,198,Brenner,Botafogo - RJ,out
+89,198,Jonathan,Botafogo - RJ,in
+90,198,Lincoln,Grêmio - RS,out
+91,198,Jean Pyerre,Grêmio - RS,in
+92,198,Jailson,Grêmio - RS,out
+93,198,Patrick,Grêmio - RS,in
+94,198,Batista,Grêmio - RS,out
+95,198,Dionatha,Grêmio - RS,in
+96,199,Rithely,Sport - PE,out
+97,199,Thallyson,Sport - PE,in
+98,199,Patrick,Sport - PE,out
+99,199,Anselmo,Sport - PE,in
+100,199,R. Lenis,Sport - PE,out
+101,199,Juninho,Sport - PE,in
+102,199,Maranhão,Ponte Preta - SP,out
+103,199,Nino Paraiba,Ponte Preta - SP,in
+104,199,Jadson,Ponte Preta - SP,out
+105,199,Wendel,Ponte Preta - SP,in
+106,199,Jean,Ponte Preta - SP,out
+107,199,Saraiva,Ponte Preta - SP,in
+108,200,Apodi,Chapecoense - SC,out
+109,200,Diego Renan,Chapecoense - SC,in
+110,200,Luiz Antonio,Chapecoense - SC,out
+111,200,Odair,Chapecoense - SC,in
+112,200,Penilla,Chapecoense - SC,out
+113,200,Julio,Chapecoense - SC,in
+114,200,Rodriguinho,Corinthians - SP,out
+115,200,Paulo Roberto,Corinthians - SP,in
+116,200,Marquinhos Gabriel,Corinthians - SP,out
+117,200,Clayson,Corinthians - SP,in
+118,200,Gabriel,Corinthians - SP,out
+119,200,Camacho,Corinthians - SP,in

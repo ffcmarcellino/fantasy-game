@@ -1,0 +1,117 @@
+,match_num,player_name_2,player_team,player_status
+0,321,Paulo Roberto,Sport - PE,out
+1,321,L. Ruiz,Sport - PE,in
+2,321,Rogerio,Sport - PE,out
+3,321,Apodi,Sport - PE,in
+4,321,Everton Felipe,Sport - PE,out
+5,321,Neto,Sport - PE,in
+6,321,Wendel,Ponte Preta - SP,out
+7,321,Ravanelli,Ponte Preta - SP,in
+8,321,Rhayner,Ponte Preta - SP,out
+9,321,Felipe Azevedo,Ponte Preta - SP,in
+10,322,Giovanni,Fluminense - RJ,out
+11,322,Marquinho,Fluminense - RJ,in
+12,322,Wellington Silva,Fluminense - RJ,out
+13,322,Marcos Jr,Fluminense - RJ,in
+14,322,Richarlison,Fluminense - RJ,out
+15,322,Magno Alves,Fluminense - RJ,in
+16,322,Amaral,Vitória - BA,out
+17,322,David,Vitória - BA,in
+18,322,Marcelo,Vitória - BA,out
+19,322,Tiago Real,Vitória - BA,in
+20,322,Cardenas,Vitória - BA,out
+21,322,Sergio,Vitória - BA,in
+22,323,Sousa,Santos - SP,out
+23,323,Yuri,Santos - SP,in
+24,323,Luiz,Santos - SP,out
+25,323,Noguera,Santos - SP,in
+26,323,Copete,Santos - SP,out
+27,323,Caju,Santos - SP,in
+28,323,Fabiano,Palmeiras - SP,out
+29,323,Leandro,Palmeiras - SP,in
+30,323,Dudu,Palmeiras - SP,out
+31,323,Cleiton Xavier,Palmeiras - SP,in
+32,323,Allione,Palmeiras - SP,out
+33,323,Rafael Marques,Palmeiras - SP,in
+34,324,Leandro Donizete,Atlético - MG,out
+35,324,Lucas Pratto,Atlético - MG,in
+36,324,Cazares,Atlético - MG,out
+37,324,Luan,Atlético - MG,in
+38,324,Otero,Atlético - MG,out
+39,324,Clayton,Atlético - MG,in
+40,324,Gabriel,Flamengo - RJ,out
+41,324,Emerson Sheik,Flamengo - RJ,in
+42,324,Willian Arão,Flamengo - RJ,out
+43,324,Leandro Damiao,Flamengo - RJ,in
+44,324,Fernandinho,Flamengo - RJ,out
+45,324,Alan Patrick,Flamengo - RJ,in
+46,325,Andre Lima,Atlético - PR,out
+47,325,Matheus,Atlético - PR,in
+48,325,Lucas Fernandes,Atlético - PR,out
+49,325,Nikao,Atlético - PR,in
+50,325,Lucho Gonzalez,Atlético - PR,out
+51,325,Joao Pedro,Atlético - PR,in
+52,325,Willian,Cruzeiro - MG,out
+53,325,Ábila,Cruzeiro - MG,in
+54,325,Bruno Ramires,Cruzeiro - MG,out
+55,325,Rafael Sobis,Cruzeiro - MG,in
+56,325,De Arrascaeta,Cruzeiro - MG,out
+57,325,Alex Sandro,Cruzeiro - MG,in
+58,326,Rodrigo,Botafogo - RJ,out
+59,326,Leandro,Botafogo - RJ,in
+60,326,Pimpao,Botafogo - RJ,out
+61,326,Gervasio,Botafogo - RJ,in
+62,326,Sassá,Botafogo - RJ,out
+63,326,Vinicius,Botafogo - RJ,in
+64,326,Weverson,Coritiba - PR,out
+65,326,Vinicius,Coritiba - PR,in
+66,326,Iago Dias,Coritiba - PR,out
+67,326,Thiago Lopes,Coritiba - PR,in
+68,326,Cesar Benitez,Coritiba - PR,out
+69,326,Geovane,Coritiba - PR,in
+70,327,Alex,Internacional - RS,out
+71,327,Anderson,Internacional - RS,in
+72,327,Eduardo Sasha,Internacional - RS,out
+73,327,Aylon,Internacional - RS,in
+74,327,Vitinho,Internacional - RS,out
+75,327,Valdivia,Internacional - RS,in
+76,327,Derley,Santa Cruz - PE,out
+77,327,Wellington Silva,Santa Cruz - PE,in
+78,327,Vitor,Santa Cruz - PE,out
+79,327,Arthur,Santa Cruz - PE,in
+80,327,Joao Paulo,Santa Cruz - PE,out
+81,327,Mazinho,Santa Cruz - PE,in
+82,328,Walter,Corinthians - SP,out
+83,328,Cássio,Corinthians - SP,in
+84,328,Marquinhos Gabriel,Corinthians - SP,out
+85,328,Lucca,Corinthians - SP,in
+86,328,Marlone,Corinthians - SP,out
+87,328,Rildo,Corinthians - SP,in
+88,328,Cleber Santana,Chapecoense - SC,out
+89,328,Josimar,Chapecoense - SC,in
+90,328,Ananias,Chapecoense - SC,out
+91,328,Lucas,Chapecoense - SC,in
+92,328,Gil,Chapecoense - SC,out
+93,328,Hyoran,Chapecoense - SC,in
+94,329,Ferrugem,Figueirense - SC,out
+95,329,Elvis,Figueirense - SC,in
+96,329,Rafael Silva,Figueirense - SC,out
+97,329,Dodo,Figueirense - SC,in
+98,329,Bady,Figueirense - SC,out
+99,329,Matheuzinho,Figueirense - SC,in
+100,329,Negueba,Grêmio - RS,out
+101,329,Guilherme Amorim,Grêmio - RS,in
+102,329,Guilherme Augusto,Grêmio - RS,out
+103,329,Batista,Grêmio - RS,in
+104,329,Miller Bolaños,Grêmio - RS,out
+105,329,Lincoln,Grêmio - RS,in
+106,330,Messias,América - MG,out
+107,330,Maktom,América - MG,in
+108,330,Matheusinho,América - MG,out
+109,330,Renato Bruno,América - MG,in
+110,330,Michael,América - MG,out
+111,330,Claudinei,América - MG,in
+112,330,Kelvin,São Paulo - SP,out
+113,330,Pedro,São Paulo - SP,in
+114,330,Chavez,São Paulo - SP,out
+115,330,Luiz,São Paulo - SP,in

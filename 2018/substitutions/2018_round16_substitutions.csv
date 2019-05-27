@@ -1,0 +1,119 @@
+,match_num,player_name_2,player_team,player_status
+0,151,Rafinha,Cruzeiro - MG,out
+1,151,David,Cruzeiro - MG,in
+2,151,Mancuello,Cruzeiro - MG,out
+3,151,Raniel Santana de Vasconcelos,Cruzeiro - MG,in
+4,151,Nene,São Paulo - SP,out
+5,151,Bruno,São Paulo - SP,in
+6,151,Felipe,São Paulo - SP,out
+7,151,Shaylon,São Paulo - SP,in
+8,151,Luan Silva,São Paulo - SP,out
+9,151,Lucas,São Paulo - SP,in
+10,152,Marcelo Cirino,Atlético - PR,out
+11,152,Crysan,Atlético - PR,in
+12,152,Marcinho,Atlético - PR,out
+13,152,Nikao,Atlético - PR,in
+14,152,Wellington,Atlético - PR,out
+15,152,Matheus,Atlético - PR,in
+16,152,Andre Lima,Vitória - BA,out
+17,152,Marcelo Meli,Vitória - BA,in
+18,152,Marcos,Vitória - BA,out
+19,152,Erick,Vitória - BA,in
+20,152,Lucas Fernandes,Vitória - BA,out
+21,152,Wallyson,Vitória - BA,in
+22,153,Wellington Paulista,Chapecoense - SC,out
+23,153,Vinicius,Chapecoense - SC,in
+24,153,Yann,Chapecoense - SC,out
+25,153,Alan Ruschel,Chapecoense - SC,in
+26,153,Osman,Chapecoense - SC,out
+27,153,Leandro,Chapecoense - SC,in
+28,153,Hernane,Grêmio - RS,out
+29,153,T. Anderson,Grêmio - RS,in
+30,153,Bressan,Grêmio - RS,out
+31,153,Derlan,Grêmio - RS,in
+32,153,Thaciano,Grêmio - RS,out
+33,153,M. Henrique,Grêmio - RS,in
+34,154,Vinicius,Bahia - BA,out
+35,154,Regis,Bahia - BA,in
+36,154,Edigar Junio,Bahia - BA,out
+37,154,Elber,Bahia - BA,in
+38,154,Marco Antonio,Bahia - BA,out
+39,154,Mena,Bahia - BA,in
+40,154,Elias,Atlético - MG,out
+41,154,Bruno,Atlético - MG,in
+42,154,Luan,Atlético - MG,out
+43,154,David Terans,Atlético - MG,in
+44,154,M. Galdezani,Atlético - MG,out
+45,154,Cazares,Atlético - MG,in
+46,155,DESABATO,Vasco da Gama - RJ,out
+47,155,Paulo Vitor,Vasco da Gama - RJ,in
+48,155,Kelvin,Vasco da Gama - RJ,out
+49,155,Lucas Santos,Vasco da Gama - RJ,in
+50,155,Evander,Vasco da Gama - RJ,out
+51,155,Wagner,Vasco da Gama - RJ,in
+52,155,Jadson,Corinthians - SP,out
+53,155,Léo Santos,Corinthians - SP,in
+54,155,Clayson,Corinthians - SP,out
+55,155,Mateus,Corinthians - SP,in
+56,155,Pedro,Corinthians - SP,out
+57,155,Emerson Sheik,Corinthians - SP,in
+58,156,Diego,Flamengo - RJ,out
+59,156,Guerrero,Flamengo - RJ,in
+60,156,Everton Ribeiro,Flamengo - RJ,out
+61,156,Gigio,Flamengo - RJ,in
+62,156,Marlos Moreno,Flamengo - RJ,out
+63,156,Jean,Flamengo - RJ,in
+64,156,Michel Bastos,Sport - PE,out
+65,156,Carlos,Sport - PE,in
+66,156,Raul,Sport - PE,out
+67,156,Claudio Winck,Sport - PE,in
+68,156,Deivid,Sport - PE,out
+69,156,Matheus,Sport - PE,in
+70,157,Luiz,Ceará - CE,out
+71,157,Brock,Ceará - CE,in
+72,157,Juninho Quixadá,Ceará - CE,out
+73,157,Felipe Azevedo,Ceará - CE,in
+74,157,Leandro,Ceará - CE,out
+75,157,Calyson,Ceará - CE,in
+76,157,Junior Dutra,Fluminense - RJ,out
+77,157,Matheus Alessandro,Fluminense - RJ,in
+78,157,Jadson,Fluminense - RJ,out
+79,157,Luciano,Fluminense - RJ,in
+80,157,Sornoza,Fluminense - RJ,out
+81,157,Everaldo,Fluminense - RJ,in
+82,158,Eduardo Sasha,Santos - SP,out
+83,158,Yuri Alberto,Santos - SP,in
+84,158,Diego,Santos - SP,out
+85,158,Sousa,Santos - SP,in
+86,158,Gabriel B.,Santos - SP,out
+87,158,Arthur,Santos - SP,in
+88,158,Marquinhos,América - MG,out
+89,158,Ademir,América - MG,in
+90,158,Ruy,América - MG,out
+91,158,Judivan,América - MG,in
+92,158,Gerson,América - MG,out
+93,158,Ze Ricardo,América - MG,in
+94,159,Bruno,Palmeiras - SP,out
+95,159,Thiago Santos,Palmeiras - SP,in
+96,159,Gustavo Scarpa,Palmeiras - SP,out
+97,159,Hyoran,Palmeiras - SP,in
+98,159,Artur,Palmeiras - SP,out
+99,159,Lucas Lima,Palmeiras - SP,in
+100,159,Cleber,Paraná - PR,out
+101,159,Rene,Paraná - PR,in
+102,159,Carlos Alberto Carvalho,Paraná - PR,out
+103,159,Matheus,Paraná - PR,in
+104,159,Alex,Paraná - PR,out
+105,159,Torito,Paraná - PR,in
+106,160,Leandro Damiao,Internacional - RS,out
+107,160,JONATAN ALVEZ,Internacional - RS,in
+108,160,Zeca,Internacional - RS,out
+109,160,Fabiano,Internacional - RS,in
+110,160,William,Internacional - RS,out
+111,160,Lucca,Internacional - RS,in
+112,160,Marcio,Botafogo - RJ,out
+113,160,Brenner,Botafogo - RJ,in
+114,160,Moises,Botafogo - RJ,out
+115,160,Gilson,Botafogo - RJ,in
+116,160,Luiz Fernando,Botafogo - RJ,out
+117,160,Leo Valencia,Botafogo - RJ,in

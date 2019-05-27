@@ -1,0 +1,119 @@
+,match_num,player_name_2,player_team,player_status
+0,341,Alisson,Cruzeiro - MG,out
+1,341,Leandro Damiao,Cruzeiro - MG,in
+2,341,Ceara,Cruzeiro - MG,out
+3,341,Fabiano,Cruzeiro - MG,in
+4,341,Marcos Vinicius,Cruzeiro - MG,out
+5,341,Marquinhos,Cruzeiro - MG,in
+6,341,Wendel,Sport - PE,out
+7,341,Ronaldo,Sport - PE,in
+8,341,Marlone,Sport - PE,out
+9,341,Maikon,Sport - PE,in
+10,341,Neto,Sport - PE,out
+11,341,Regis,Sport - PE,in
+12,342,Kadu,Atlético - PR,out
+13,342,Ricardo Silva,Atlético - PR,in
+14,342,Roberto,Atlético - PR,out
+15,342,Hernandez,Atlético - PR,in
+16,342,Barrientos,Atlético - PR,out
+17,342,Ewandro,Atlético - PR,in
+18,342,Rafael Marques,Palmeiras - SP,out
+19,342,Gabriel Jesus,Palmeiras - SP,in
+20,342,Amaral,Palmeiras - SP,out
+21,342,Marcos,Palmeiras - SP,in
+22,342,Cristaldo,Palmeiras - SP,out
+23,342,Alecsandro,Palmeiras - SP,in
+24,343,Ze Eduardo,Goiás - GO,out
+25,343,Carlos,Goiás - GO,in
+26,343,Felipe,Goiás - GO,out
+27,343,Wiliam,Goiás - GO,in
+28,343,Arthur,Goiás - GO,out
+29,343,Erik,Goiás - GO,in
+30,343,Juan,Coritiba - PR,out
+31,343,Esquerdinha,Coritiba - PR,in
+32,343,Negueba,Coritiba - PR,out
+33,343,Ruy,Coritiba - PR,in
+34,343,Thiago Lopes,Coritiba - PR,out
+35,343,Luis,Coritiba - PR,in
+36,344,Cristian,Ponte Preta - SP,out
+37,344,Diego,Ponte Preta - SP,in
+38,344,Alexandro,Ponte Preta - SP,out
+39,344,Borges,Ponte Preta - SP,in
+40,344,Elton,Ponte Preta - SP,out
+41,344,Leandro,Ponte Preta - SP,in
+42,344,Carlos Alberto,Figueirense - SC,out
+43,344,Rafael Bastos,Figueirense - SC,in
+44,344,Yago Felipe,Figueirense - SC,out
+45,344,Dener,Figueirense - SC,in
+46,344,Juninho,Figueirense - SC,out
+47,344,Marquinhos Pedroso,Figueirense - SC,in
+48,345,Claudinei,Avaí - SC,out
+49,345,Everton Silva,Avaí - SC,in
+50,345,Andre Lima,Avaí - SC,out
+51,345,Romulo,Avaí - SC,in
+52,345,Rudnei,Avaí - SC,out
+53,345,Pablo,Avaí - SC,in
+54,345,Marcelinho Paraiba,Joinville - SC,out
+55,345,Fernando Viana,Joinville - SC,in
+56,345,Lucas Crispim,Joinville - SC,out
+57,345,Edigar Junio,Joinville - SC,in
+58,345,Kadu,Joinville - SC,out
+59,345,Danrlei,Joinville - SC,in
+60,346,Bruno,São Paulo - SP,out
+61,346,Alan Kardec,São Paulo - SP,in
+62,346,Carlinhos,São Paulo - SP,out
+63,346,Reinaldo,São Paulo - SP,in
+64,346,Alexandre Pato,São Paulo - SP,out
+65,346,Rogerio,São Paulo - SP,in
+66,346,Luan,Atlético - MG,out
+67,346,Carlos Alberto Carvalho,Atlético - MG,in
+68,346,Lucas Pratto,Atlético - MG,out
+69,346,Thiago Ribeiro,Atlético - MG,in
+70,347,Marquinhos Gabriel,Santos - SP,out
+71,347,Sergio,Santos - SP,in
+72,347,Gigio,Santos - SP,out
+73,347,Neto Berola,Santos - SP,in
+74,347,Gabriel B.,Santos - SP,out
+75,347,Weverson,Santos - SP,in
+76,347,Pará,Flamengo - RJ,out
+77,347,Ayrton,Flamengo - RJ,in
+78,347,Kayke,Flamengo - RJ,out
+79,347,Guerrero,Flamengo - RJ,in
+80,347,Jonas,Flamengo - RJ,out
+81,347,Hector,Flamengo - RJ,in
+82,348,Riascos,Vasco da Gama - RJ,out
+83,348,Eder,Vasco da Gama - RJ,in
+84,348,Diguinho,Vasco da Gama - RJ,out
+85,348,Rafael Vaz,Vasco da Gama - RJ,in
+86,348,Rafael Silva,Vasco da Gama - RJ,out
+87,348,Jorge Henrique,Vasco da Gama - RJ,in
+88,348,Ralf,Corinthians - SP,out
+89,348,Bruno,Corinthians - SP,in
+90,348,Renato Augusto,Corinthians - SP,out
+91,348,Rodriguinho,Corinthians - SP,in
+92,348,Elias,Corinthians - SP,out
+93,348,Lucca,Corinthians - SP,in
+94,349,Camilo,Chapecoense - SC,out
+95,349,Wiliam Barbio,Chapecoense - SC,in
+96,349,Tulio de Melo,Chapecoense - SC,out
+97,349,Tiago Luis,Chapecoense - SC,in
+98,349,Ananias,Chapecoense - SC,out
+99,349,Odair,Chapecoense - SC,in
+100,349,Rodrigo Dourado,Internacional - RS,out
+101,349,Alisson Farias,Internacional - RS,in
+102,349,Ernando,Internacional - RS,out
+103,349,Artur,Internacional - RS,in
+104,349,Lisandro Lopez,Internacional - RS,out
+105,349,Alan Costa,Internacional - RS,in
+106,350,Douglas,Grêmio - RS,out
+107,350,Edinho,Grêmio - RS,in
+108,350,Ramiro,Grêmio - RS,out
+109,350,Maxi Rodriguez,Grêmio - RS,in
+110,350,Everton,Grêmio - RS,out
+111,350,Bobo,Grêmio - RS,in
+112,350,Fred,Fluminense - RJ,out
+113,350,Magno Alves,Fluminense - RJ,in
+114,350,Osvaldo,Fluminense - RJ,out
+115,350,Gerson,Fluminense - RJ,in
+116,350,Wellington Silva,Fluminense - RJ,out
+117,350,Wellington Paulista,Fluminense - RJ,in

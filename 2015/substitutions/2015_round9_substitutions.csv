@@ -1,0 +1,119 @@
+,match_num,player_name_2,player_team,player_status
+0,81,Denner,Avaí - SC,out
+1,81,Junior Souza,Avaí - SC,in
+2,81,Jeci,Avaí - SC,out
+3,81,Pablo,Avaí - SC,in
+4,81,Adriano,Avaí - SC,out
+5,81,Romulo,Avaí - SC,in
+6,81,Pedro Rocha,Grêmio - RS,out
+7,81,Yuri Mamute,Grêmio - RS,in
+8,81,Douglas,Grêmio - RS,out
+9,81,Braian Rodriguez,Grêmio - RS,in
+10,81,Maicon,Grêmio - RS,out
+11,81,Fellipe,Grêmio - RS,in
+12,82,Edmilson dos Santos Silva,Chapecoense - SC,out
+13,82,Bruno Rangel,Chapecoense - SC,in
+14,82,Bruno Silva,Chapecoense - SC,out
+15,82,Wagner,Chapecoense - SC,in
+16,82,Ananias,Chapecoense - SC,out
+17,82,Maranhão,Chapecoense - SC,in
+18,82,Maikon,Sport - PE,out
+19,82,Mike,Sport - PE,in
+20,82,Andre,Sport - PE,out
+21,82,Samuel,Sport - PE,in
+22,82,Marlone,Sport - PE,out
+23,82,Neto,Sport - PE,in
+24,83,Vagner Love,Corinthians - SP,out
+25,83,Yago,Corinthians - SP,in
+26,83,Bruno,Corinthians - SP,out
+27,83,Marciel,Corinthians - SP,in
+28,83,Luciano,Corinthians - SP,out
+29,83,Danilo,Corinthians - SP,in
+30,83,Marcao,Figueirense - SC,out
+31,83,Elias,Figueirense - SC,in
+32,83,Ricardinho,Figueirense - SC,out
+33,83,Everaldo,Figueirense - SC,in
+34,83,Rafael Bastos,Figueirense - SC,out
+35,83,Thiago Santana,Figueirense - SC,in
+36,84,Dudu,Palmeiras - SP,out
+37,84,Gabriel Jesus,Palmeiras - SP,in
+38,84,Robinho,Palmeiras - SP,out
+39,84,Cleiton Xavier,Palmeiras - SP,in
+40,84,Leandro,Palmeiras - SP,out
+41,84,Cristaldo,Palmeiras - SP,in
+42,84,Hudson,São Paulo - SP,out
+43,84,Centurion,São Paulo - SP,in
+44,84,Alexandre Pato,São Paulo - SP,out
+45,84,Thiago Mendes,São Paulo - SP,in
+46,85,Felipe Azevedo,Ponte Preta - SP,out
+47,85,Ronei,Ponte Preta - SP,in
+48,85,Tiago,Ponte Preta - SP,out
+49,85,Renato Chaves,Ponte Preta - SP,in
+50,85,Diego,Ponte Preta - SP,out
+51,85,Paulinho,Ponte Preta - SP,in
+52,85,Ytalo,Atlético - PR,out
+53,85,Edigar Junio,Atlético - PR,in
+54,85,Eduardo,Atlético - PR,out
+55,85,Felipe,Atlético - PR,in
+56,85,Hernani,Atlético - PR,out
+57,85,Cleo,Atlético - PR,in
+58,86,K. Giacomazzi,Coritiba - PR,out
+59,86,Rafhael Lucas,Coritiba - PR,in
+60,86,Marcos Aurelio,Coritiba - PR,out
+61,86,Paulo,Coritiba - PR,in
+62,86,Thiago,Coritiba - PR,out
+63,86,Rodolfo,Coritiba - PR,in
+64,86,Willian,Cruzeiro - MG,out
+65,86,Joel,Cruzeiro - MG,in
+66,86,Leandro Damiao,Cruzeiro - MG,out
+67,86,Henrique Dourado,Cruzeiro - MG,in
+68,86,Allano,Cruzeiro - MG,out
+69,86,Marcos Vinicius,Cruzeiro - MG,in
+70,87,Patrick,Goiás - GO,out
+71,87,Arthur,Goiás - GO,in
+72,87,Liniker,Goiás - GO,out
+73,87,Wesley,Goiás - GO,in
+74,87,Felipe,Goiás - GO,out
+75,87,Wiliam,Goiás - GO,in
+76,87,Gerson,Fluminense - RJ,out
+77,87,Lucas,Fluminense - RJ,in
+78,87,Wagner,Fluminense - RJ,out
+79,87,Pierre,Fluminense - RJ,in
+80,87,Magno Alves,Fluminense - RJ,out
+81,87,Carlos Henrique,Fluminense - RJ,in
+82,88,Riascos,Vasco da Gama - RJ,out
+83,88,Thalles,Vasco da Gama - RJ,in
+84,88,Gilberto,Vasco da Gama - RJ,out
+85,88,Lucas Siqueira,Vasco da Gama - RJ,in
+86,88,Jhon,Vasco da Gama - RJ,out
+87,88,Rafael Silva,Vasco da Gama - RJ,in
+88,88,Anderson Pico,Flamengo - RJ,out
+89,88,Alan Patrick,Flamengo - RJ,in
+90,88,Everton,Flamengo - RJ,out
+91,88,Paulinho,Flamengo - RJ,in
+92,88,Eduardo da Silva,Flamengo - RJ,out
+93,88,Marcelo Cirino,Flamengo - RJ,in
+94,89,Alan Ruschel,Internacional - RS,out
+95,89,Valdivia,Internacional - RS,in
+96,89,Alisson,Internacional - RS,out
+97,89,Muriel,Internacional - RS,in
+98,89,Nilmar,Internacional - RS,out
+99,89,Rafael Moura,Internacional - RS,in
+100,89,Gigio,Santos - SP,out
+101,89,Marquinhos Gabriel,Santos - SP,in
+102,89,Daniel Guedes,Santos - SP,out
+103,89,Caju,Santos - SP,in
+104,89,Gabriel B.,Santos - SP,out
+105,89,Neto Berola,Santos - SP,in
+106,90,Maicosuel,Atlético - MG,out
+107,90,Carlos Alberto Carvalho,Atlético - MG,in
+108,90,Thiago Ribeiro,Atlético - MG,out
+109,90,Guilherme,Atlético - MG,in
+110,90,Giovanni Augusto,Atlético - MG,out
+111,90,Leandro Donizete,Atlético - MG,in
+112,90,Lucas Crispim,Joinville - SC,out
+113,90,Sueliton,Joinville - SC,in
+114,90,Marcelinho Paraiba,Joinville - SC,out
+115,90,Mateus Silva,Joinville - SC,in
+116,90,Kempes,Joinville - SC,out
+117,90,Tiago Luis,Joinville - SC,in

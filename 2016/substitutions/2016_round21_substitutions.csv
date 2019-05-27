@@ -1,0 +1,121 @@
+,match_num,player_name_2,player_team,player_status
+0,201,Marquinhos Gabriel,Corinthians - SP,out
+1,201,Giovanni Augusto,Corinthians - SP,in
+2,201,Bruno,Corinthians - SP,out
+3,201,Cristian,Corinthians - SP,in
+4,201,Angel Romero,Corinthians - SP,out
+5,201,Marlone,Corinthians - SP,in
+6,201,Marcelo,Vitória - BA,out
+7,201,Tiago Real,Vitória - BA,in
+8,201,Cardenas,Vitória - BA,out
+9,201,Sergio,Vitória - BA,in
+10,201,Diogo,Vitória - BA,out
+11,201,Euller,Vitória - BA,in
+12,202,Helder,América - MG,out
+13,202,Christian,América - MG,in
+14,202,Pablo,América - MG,out
+15,202,Diego,América - MG,in
+16,202,Matheusinho,América - MG,out
+17,202,Loboa,América - MG,in
+18,202,Gil,Chapecoense - SC,out
+19,202,Martinucio,Chapecoense - SC,in
+20,202,Hyoran,Chapecoense - SC,out
+21,202,Tiago Rocha,Chapecoense - SC,in
+22,202,Gimenez,Chapecoense - SC,out
+23,202,Sergio Manoel,Chapecoense - SC,in
+24,203,Airton,Botafogo - RJ,out
+25,203,Dierson Junior Kuhn,Botafogo - RJ,in
+26,203,Jonathan,Botafogo - RJ,out
+27,203,Leandro,Botafogo - RJ,in
+28,203,Sassá,Botafogo - RJ,out
+29,203,Pimpao,Botafogo - RJ,in
+30,203,Everton Felipe,Sport - PE,out
+31,203,R. Lenis,Sport - PE,in
+32,203,Rene,Sport - PE,out
+33,203,Tulio de Melo,Sport - PE,in
+34,203,Edmilson dos Santos Silva,Sport - PE,out
+35,203,L. Ruiz,Sport - PE,in
+36,204,Gabriel,Flamengo - RJ,out
+37,204,Alan Patrick,Flamengo - RJ,in
+38,204,Leandro Damiao,Flamengo - RJ,out
+39,204,Felipe Vizeu,Flamengo - RJ,in
+40,204,Diego,Flamengo - RJ,out
+41,204,Mancuello,Flamengo - RJ,in
+42,204,W. Oliveira,Grêmio - RS,out
+43,204,Lincoln,Grêmio - RS,in
+44,204,Everton,Grêmio - RS,out
+45,204,Guilherme Augusto,Grêmio - RS,in
+46,204,Miller Bolaños,Grêmio - RS,out
+47,204,H. Almeida,Grêmio - RS,in
+48,205,Maicosuel,Atlético - MG,out
+49,205,Yago Henrique Severino dos Santos,Atlético - MG,in
+50,205,Robinho,Atlético - MG,out
+51,205,Clayton,Atlético - MG,in
+52,205,Carlos Alberto Carvalho,Atlético - MG,out
+53,205,Otero,Atlético - MG,in
+54,205,Marcos Guilherme,Atlético - PR,out
+55,205,Yago,Atlético - PR,in
+56,205,Galhardo,Atlético - PR,out
+57,205,Juninho,Atlético - PR,in
+58,205,Matheus,Atlético - PR,out
+59,205,Luciano Cabral,Atlético - PR,in
+60,206,Cleiton Xavier,Palmeiras - SP,out
+61,206,Allione,Palmeiras - SP,in
+62,206,Ze Roberto,Palmeiras - SP,out
+63,206,Egidio,Palmeiras - SP,in
+64,206,Roger Guedes,Palmeiras - SP,out
+65,206,Thiago Santos,Palmeiras - SP,in
+66,206,Wendel,Ponte Preta - SP,out
+67,206,Abuda,Ponte Preta - SP,in
+68,206,William,Ponte Preta - SP,out
+69,206,Rhayner,Ponte Preta - SP,in
+70,206,Maycon,Ponte Preta - SP,out
+71,206,Thiago,Ponte Preta - SP,in
+72,207,Eduardo Sasha,Internacional - RS,out
+73,207,William,Internacional - RS,in
+74,207,Ceara,Internacional - RS,out
+75,207,Andrigo,Internacional - RS,in
+76,207,Nico Lopez,Internacional - RS,out
+77,207,Ariel,Internacional - RS,in
+78,207,Michel Bastos,São Paulo - SP,out
+79,207,Carlinhos,São Paulo - SP,in
+80,207,Hudson,São Paulo - SP,out
+81,207,Gilberto,São Paulo - SP,in
+82,207,Kelvin,São Paulo - SP,out
+83,207,Wesley,São Paulo - SP,in
+84,208,Grafite,Santa Cruz - PE,out
+85,208,Arthur,Santa Cruz - PE,in
+86,208,Derley,Santa Cruz - PE,out
+87,208,Lele,Santa Cruz - PE,in
+88,208,Tiago Costa,Santa Cruz - PE,out
+89,208,Allan,Santa Cruz - PE,in
+90,208,Wellington Silva,Fluminense - RJ,out
+91,208,Igor Julião,Fluminense - RJ,in
+92,208,Edson,Fluminense - RJ,out
+93,208,Pierre,Fluminense - RJ,in
+94,208,Henrique Dourado,Fluminense - RJ,out
+95,208,Samuel,Fluminense - RJ,in
+96,209,Ayrton,Figueirense - SC,out
+97,209,Lins,Figueirense - SC,in
+98,209,Dodo,Figueirense - SC,out
+99,209,Elvis,Figueirense - SC,in
+100,209,Yago Felipe,Figueirense - SC,out
+101,209,Jefferson,Figueirense - SC,in
+102,209,Robinho,Cruzeiro - MG,out
+103,209,Marcos Vinicius,Cruzeiro - MG,in
+104,209,De Arrascaeta,Cruzeiro - MG,out
+105,209,Rafinha,Cruzeiro - MG,in
+106,209,Ábila,Cruzeiro - MG,out
+107,209,Willian,Cruzeiro - MG,in
+108,210,Raphael Veiga,Coritiba - PR,out
+109,210,Thiago Lopes,Coritiba - PR,in
+110,210,Neto Berola,Coritiba - PR,out
+111,210,Iago Dias,Coritiba - PR,in
+112,210,Cesar Benitez,Coritiba - PR,out
+113,210,Evandro,Coritiba - PR,in
+114,210,Vitor Bueno,Santos - SP,out
+115,210,Joel,Santos - SP,in
+116,210,Lucas Lima,Santos - SP,out
+117,210,Sousa,Santos - SP,in
+118,210,Copete,Santos - SP,out
+119,210,Rodrigao,Santos - SP,in

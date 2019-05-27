@@ -1,0 +1,121 @@
+,match_num,player_name_2,player_team,player_status
+0,101,Lucas,Fluminense - RJ,out
+1,101,Lucas Fernandes,Fluminense - RJ,in
+2,101,Léo,Fluminense - RJ,out
+3,101,Wellington Silva,Fluminense - RJ,in
+4,101,Orejuela,Fluminense - RJ,out
+5,101,Marcos Jr,Fluminense - RJ,in
+6,101,Wellington Paulista,Chapecoense - SC,out
+7,101,Lourency,Chapecoense - SC,in
+8,101,Arthur,Chapecoense - SC,out
+9,101,Luiz,Chapecoense - SC,in
+10,101,Diego Renan,Chapecoense - SC,out
+11,101,Nathan,Chapecoense - SC,in
+12,102,Everton,Flamengo - RJ,out
+13,102,Matheus Savio,Flamengo - RJ,in
+14,102,Everton Ribeiro,Flamengo - RJ,out
+15,102,Berrio,Flamengo - RJ,in
+16,102,Trauco,Flamengo - RJ,out
+17,102,Rene,Flamengo - RJ,in
+18,102,Wesley,São Paulo - SP,out
+19,102,Denilson,São Paulo - SP,in
+20,102,Marcinho,São Paulo - SP,out
+21,102,Wellington Silva,São Paulo - SP,in
+22,102,Cueva,São Paulo - SP,out
+23,102,Shaylon,São Paulo - SP,in
+24,103,Michel Bastos,Palmeiras - SP,out
+25,103,Raphael Veiga,Palmeiras - SP,in
+26,103,Erik,Palmeiras - SP,out
+27,103,Willian,Palmeiras - SP,in
+28,103,Keno,Palmeiras - SP,out
+29,103,Roger Guedes,Palmeiras - SP,in
+30,103,Jailson,Grêmio - RS,out
+31,103,Lima,Grêmio - RS,in
+32,103,Lincoln,Grêmio - RS,out
+33,103,Machado,Grêmio - RS,in
+34,103,Miller Bolaños,Grêmio - RS,out
+35,103,Nicolas Careca,Grêmio - RS,in
+36,104,Rodriguinho,Corinthians - SP,out
+37,104,Camacho,Corinthians - SP,in
+38,104,Gabriel,Corinthians - SP,out
+39,104,Marquinhos Gabriel,Corinthians - SP,in
+40,104,Clayson,Corinthians - SP,out
+41,104,Pedro,Corinthians - SP,in
+42,104,Guilherme Augusto,Botafogo - RJ,out
+43,104,Pimpao,Botafogo - RJ,in
+44,104,Camilo,Botafogo - RJ,out
+45,104,Marcos Vinicius,Botafogo - RJ,in
+46,104,Gilson,Botafogo - RJ,out
+47,104,Roger,Botafogo - RJ,in
+48,105,Leo Silva,Atlético - MG,out
+49,105,Gleison Bremer Silva Nascimento,Atlético - MG,in
+50,105,Fred,Atlético - MG,out
+51,105,Rafael Moura,Atlético - MG,in
+52,105,Yago Henrique Severino dos Santos,Atlético - MG,out
+53,105,Adilson,Atlético - MG,in
+54,105,Rafael Sobis,Cruzeiro - MG,out
+55,105,Ábila,Cruzeiro - MG,in
+56,105,Robinho,Cruzeiro - MG,out
+57,105,Elber,Cruzeiro - MG,in
+58,105,Alisson,Cruzeiro - MG,out
+59,105,Sassá,Cruzeiro - MG,in
+60,106,Léo,Coritiba - PR,out
+61,106,Anderson,Coritiba - PR,in
+62,106,Rildo,Coritiba - PR,out
+63,106,Neto Berola,Coritiba - PR,in
+64,106,Jonas,Coritiba - PR,out
+65,106,Tomas Bastos,Coritiba - PR,in
+66,106,Mateus,Vasco da Gama - RJ,out
+67,106,Eder,Vasco da Gama - RJ,in
+68,106,Nene,Vasco da Gama - RJ,out
+69,106,Wagner,Vasco da Gama - RJ,in
+70,106,Thalles,Vasco da Gama - RJ,out
+71,106,Rafael Marques,Vasco da Gama - RJ,in
+72,107,Osvaldo,Sport - PE,out
+73,107,R. Lenis,Sport - PE,in
+74,107,Andre,Sport - PE,out
+75,107,Rodrigo,Sport - PE,in
+76,107,Everton Felipe,Sport - PE,out
+77,107,Rogerio,Sport - PE,in
+78,107,Matheus,Atlético - PR,out
+79,107,Bruno Guimaraes,Atlético - PR,in
+80,107,Lucho Gonzalez,Atlético - PR,out
+81,107,Carlos Alberto,Atlético - PR,in
+82,107,Matheus,Atlético - PR,out
+83,107,Yago,Atlético - PR,in
+84,108,Carlos Eduardo,Vitória - BA,out
+85,108,Gabriel Xavier,Vitória - BA,in
+86,108,Cleiton Xavier,Vitória - BA,out
+87,108,Neilton,Vitória - BA,in
+88,108,Kieza,Vitória - BA,out
+89,108,David,Vitória - BA,in
+90,108,Allione,Bahia - BA,out
+91,108,Douglas,Bahia - BA,in
+92,108,Regis,Bahia - BA,out
+93,108,Vinicius,Bahia - BA,in
+94,108,Ze Rafael,Bahia - BA,out
+95,108,Juninho,Bahia - BA,in
+96,109,Eduardo Diniz,Atlético - GO,out
+97,109,Jonathan,Atlético - GO,in
+98,109,Breno,Atlético - GO,out
+99,109,Diego Rosa,Atlético - GO,in
+100,109,Marcos,Atlético - GO,out
+101,109,Abuda,Atlético - GO,in
+102,109,Alison,Santos - SP,out
+103,109,Thiago Maia,Santos - SP,in
+104,109,Vitor Bueno,Santos - SP,out
+105,109,Lucas Lima,Santos - SP,in
+106,109,Noguera,Santos - SP,out
+107,109,Thiago Ribeiro,Santos - SP,in
+108,110,Romulo,Avaí - SC,out
+109,110,Junior Dutra,Avaí - SC,in
+110,110,Judson,Avaí - SC,out
+111,110,Simião,Avaí - SC,in
+112,110,Leandro Silva,Avaí - SC,out
+113,110,Diego,Avaí - SC,in
+114,110,Lins,Ponte Preta - SP,out
+115,110,Negueba,Ponte Preta - SP,in
+116,110,Claudio,Ponte Preta - SP,out
+117,110,Saraiva,Ponte Preta - SP,in
+118,110,Léo Artur,Ponte Preta - SP,out
+119,110,Jadson,Ponte Preta - SP,in

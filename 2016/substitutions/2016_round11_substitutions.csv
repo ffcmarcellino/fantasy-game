@@ -1,0 +1,119 @@
+,match_num,player_name_2,player_team,player_status
+0,101,Rodriguinho,Corinthians - SP,out
+1,101,Willians,Corinthians - SP,in
+2,101,Giovanni Augusto,Corinthians - SP,out
+3,101,Lucca,Corinthians - SP,in
+4,101,Angel Romero,Corinthians - SP,out
+5,101,Guilherme,Corinthians - SP,in
+6,101,Vitor,Santa Cruz - PE,out
+7,101,Mario Sergio,Santa Cruz - PE,in
+8,101,Joao Paulo,Santa Cruz - PE,out
+9,101,Lele,Santa Cruz - PE,in
+10,101,Daniel,Santa Cruz - PE,out
+11,101,Wallyson,Santa Cruz - PE,in
+12,102,Willian,Cruzeiro - MG,out
+13,102,Riascos,Cruzeiro - MG,in
+14,102,Alisson,Cruzeiro - MG,out
+15,102,Allano,Cruzeiro - MG,in
+16,102,Bruno Ramires,Cruzeiro - MG,out
+17,102,Fabricio Bruno,Cruzeiro - MG,in
+18,102,Cleiton Xavier,Palmeiras - SP,out
+19,102,Luan,Palmeiras - SP,in
+20,102,Egidio,Palmeiras - SP,out
+21,102,Thiago Santos,Palmeiras - SP,in
+22,102,Roger Guedes,Palmeiras - SP,out
+23,102,Cristaldo,Palmeiras - SP,in
+24,103,Fernando Miguel,Vitória - BA,out
+25,103,Caique,Vitória - BA,in
+26,103,Amaral,Vitória - BA,out
+27,103,Marcelo,Vitória - BA,in
+28,103,Gabriel,Vitória - BA,out
+29,103,Leandro,Vitória - BA,in
+30,103,Felipe Azevedo,Ponte Preta - SP,out
+31,103,Thiago,Ponte Preta - SP,in
+32,103,Rene Junior,Ponte Preta - SP,out
+33,103,Felipe,Ponte Preta - SP,in
+34,103,Clayson,Ponte Preta - SP,out
+35,103,Nino Paraiba,Ponte Preta - SP,in
+36,104,Eder,Flamengo - RJ,out
+37,104,Emerson Sheik,Flamengo - RJ,in
+38,104,Marcio Araujo,Flamengo - RJ,out
+39,104,Mancuello,Flamengo - RJ,in
+40,104,Marcelo Cirino,Flamengo - RJ,out
+41,104,Fernandinho,Flamengo - RJ,in
+42,104,Magno Alves,Fluminense - RJ,out
+43,104,Richarlison,Fluminense - RJ,in
+44,104,Maranhão,Fluminense - RJ,out
+45,104,Osvaldo,Fluminense - RJ,in
+46,105,Vitor Bueno,Santos - SP,out
+47,105,Yuri,Santos - SP,in
+48,105,Thiago Maia,Santos - SP,out
+49,105,Caju,Santos - SP,in
+50,105,Lucas Lima,Santos - SP,out
+51,105,Sousa,Santos - SP,in
+52,105,Ytalo,São Paulo - SP,out
+53,105,Daniel,São Paulo - SP,in
+54,105,Jose,São Paulo - SP,out
+55,105,Hudson,São Paulo - SP,in
+56,105,Luiz,São Paulo - SP,out
+57,105,Carlinhos,São Paulo - SP,in
+58,106,Geferson,Internacional - RS,out
+59,106,Alex,Internacional - RS,in
+60,106,Gustavo Ferrareis,Internacional - RS,out
+61,106,Bruno,Internacional - RS,in
+62,106,Andrigo,Internacional - RS,out
+63,106,Marquinhos,Internacional - RS,in
+64,106,Camilo,Botafogo - RJ,out
+65,106,Gervasio,Botafogo - RJ,in
+66,106,Airton,Botafogo - RJ,out
+67,106,Rodrigo,Botafogo - RJ,in
+68,106,Jonathan,Botafogo - RJ,out
+69,106,Gêge,Botafogo - RJ,in
+70,107,Andre Lima,Atlético - PR,out
+71,107,Walter,Atlético - PR,in
+72,107,Nikao,Atlético - PR,out
+73,107,Marcos,Atlético - PR,in
+74,107,Pablo,Atlético - PR,out
+75,107,Marcos Guilherme,Atlético - PR,in
+76,107,Bobo,Grêmio - RS,out
+77,107,Lincoln,Grêmio - RS,in
+78,107,Everton,Grêmio - RS,out
+79,107,Jailson,Grêmio - RS,in
+80,107,Walace,Grêmio - RS,out
+81,107,Tilica,Grêmio - RS,in
+82,108,Danilo,América - MG,out
+83,108,Tiago Luis,América - MG,in
+84,108,Leandro Luchese,América - MG,out
+85,108,Juninho,América - MG,in
+86,108,Alan,América - MG,out
+87,108,Borges,América - MG,in
+88,108,Fred,Atlético - MG,out
+89,108,Eduardo,Atlético - MG,in
+90,108,Robinho,Atlético - MG,out
+91,108,Datolo,Atlético - MG,in
+92,108,Clayton,Atlético - MG,out
+93,108,Patric,Atlético - MG,in
+94,109,Lins,Figueirense - SC,out
+95,109,Gustavo Ermel,Figueirense - SC,in
+96,109,Jackson Caucaia,Figueirense - SC,out
+97,109,Dodo,Figueirense - SC,in
+98,109,Dudu,Figueirense - SC,out
+99,109,Everton Santos,Figueirense - SC,in
+100,109,Juan,Coritiba - PR,out
+101,109,Weverson,Coritiba - PR,in
+102,109,Ruy,Coritiba - PR,out
+103,109,Evandro,Coritiba - PR,in
+104,109,Felipe Amorim,Coritiba - PR,out
+105,109,Iago Dias,Coritiba - PR,in
+106,110,Edmilson dos Santos Silva,Sport - PE,out
+107,110,Rogerio,Sport - PE,in
+108,110,Diego Souza,Sport - PE,out
+109,110,Clayton,Sport - PE,in
+110,110,Rodrigo Mancha,Sport - PE,out
+111,110,Ronaldo,Sport - PE,in
+112,110,Rafael Bastos,Chapecoense - SC,out
+113,110,Arthur,Chapecoense - SC,in
+114,110,Silvinho,Chapecoense - SC,out
+115,110,Odair,Chapecoense - SC,in
+116,110,Lucas,Chapecoense - SC,out
+117,110,Ananias,Chapecoense - SC,in

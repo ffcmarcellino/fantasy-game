@@ -1,0 +1,121 @@
+,match_num,player_name_2,player_team,player_status
+0,141,Bruno Silva,Botafogo - RJ,out
+1,141,Salgueiro,Botafogo - RJ,in
+2,141,Pimpao,Botafogo - RJ,out
+3,141,Neilton,Botafogo - RJ,in
+4,141,Sassá,Botafogo - RJ,out
+5,141,Canales,Botafogo - RJ,in
+6,141,Everton,Flamengo - RJ,out
+7,141,Cuellar,Flamengo - RJ,in
+8,141,Marcelo Cirino,Flamengo - RJ,out
+9,141,Hector,Flamengo - RJ,in
+10,141,Mancuello,Flamengo - RJ,out
+11,141,Fernandinho,Flamengo - RJ,in
+12,142,Ricardo Oliveira,Santos - SP,out
+13,142,Rodrigao,Santos - SP,in
+14,142,Lucas Lima,Santos - SP,out
+15,142,Elano,Santos - SP,in
+16,142,Gabriel B.,Santos - SP,out
+17,142,Vecchio,Santos - SP,in
+18,142,William,Ponte Preta - SP,out
+19,142,Roger,Ponte Preta - SP,in
+20,142,Matheus Sousa de Jesus,Ponte Preta - SP,out
+21,142,Felipe,Ponte Preta - SP,in
+22,142,Clayson,Ponte Preta - SP,out
+23,142,Giva,Ponte Preta - SP,in
+24,143,Leandro Luchese,América - MG,out
+25,143,Claudinei,América - MG,in
+26,143,Bruno Teles,América - MG,out
+27,143,Bruno Savio,América - MG,in
+28,143,Alan,América - MG,out
+29,143,Danilo,América - MG,in
+30,143,Grafite,Santa Cruz - PE,out
+31,143,Marion,Santa Cruz - PE,in
+32,143,Uillian Correia,Santa Cruz - PE,out
+33,143,Derley,Santa Cruz - PE,in
+34,143,Marcilio,Santa Cruz - PE,out
+35,143,Jadson,Santa Cruz - PE,in
+36,144,Ayrton,Figueirense - SC,out
+37,144,Jefferson,Figueirense - SC,in
+38,144,Bady,Figueirense - SC,out
+39,144,Dodo,Figueirense - SC,in
+40,144,Jocinei,Figueirense - SC,out
+41,144,Gustavo Ermel,Figueirense - SC,in
+42,144,Cleber Santana,Chapecoense - SC,out
+43,144,Gimenez,Chapecoense - SC,in
+44,144,Gil,Chapecoense - SC,out
+45,144,Martinucio,Chapecoense - SC,in
+46,144,Arthur,Chapecoense - SC,out
+47,144,Lucas,Chapecoense - SC,in
+48,145,Walter,Atlético - PR,out
+49,145,Marcos Guilherme,Atlético - PR,in
+50,145,Nikao,Atlético - PR,out
+51,145,Yago,Atlético - PR,in
+52,145,Pablo,Atlético - PR,out
+53,145,Giovanny,Atlético - PR,in
+54,145,Dagoberto,Vitória - BA,out
+55,145,Vander,Vitória - BA,in
+56,145,Marcelo,Vitória - BA,out
+57,145,Tiago Real,Vitória - BA,in
+58,145,Nickson,Vitória - BA,out
+59,145,Sergio,Vitória - BA,in
+60,146,Rodriguinho,Corinthians - SP,out
+61,146,Elias,Corinthians - SP,in
+62,146,Marquinhos Gabriel,Corinthians - SP,out
+63,146,Rildo,Corinthians - SP,in
+64,146,Giovanni Augusto,Corinthians - SP,out
+65,146,Guilherme,Corinthians - SP,in
+66,146,Michel Bastos,São Paulo - SP,out
+67,146,Luiz,São Paulo - SP,in
+68,146,Ytalo,São Paulo - SP,out
+69,146,Wesley,São Paulo - SP,in
+70,146,Centurion,São Paulo - SP,out
+71,146,Gilberto,São Paulo - SP,in
+72,147,Fernando,Internacional - RS,out
+73,147,Ariel,Internacional - RS,in
+74,147,Gustavo Ferrareis,Internacional - RS,out
+75,147,Anderson,Internacional - RS,in
+76,147,Andrigo,Internacional - RS,out
+77,147,Valdivia,Internacional - RS,in
+78,147,Cleiton Xavier,Palmeiras - SP,out
+79,147,Dudu,Palmeiras - SP,in
+80,147,Erik,Palmeiras - SP,out
+81,147,Rafael Marques,Palmeiras - SP,in
+82,147,Roger Guedes,Palmeiras - SP,out
+83,147,Leandro,Palmeiras - SP,in
+84,148,Jonathan,Fluminense - RJ,out
+85,148,Igor Julião,Fluminense - RJ,in
+86,148,Maranhão,Fluminense - RJ,out
+87,148,Edson,Fluminense - RJ,in
+88,148,Marcos Jr,Fluminense - RJ,out
+89,148,Dudu,Fluminense - RJ,in
+90,148,Lucas,Cruzeiro - MG,out
+91,148,Ezequiel,Cruzeiro - MG,in
+92,148,Ábila,Cruzeiro - MG,out
+93,148,Riascos,Cruzeiro - MG,in
+94,148,Allano,Cruzeiro - MG,out
+95,148,Rafinha,Cruzeiro - MG,in
+96,149,Edmilson dos Santos Silva,Sport - PE,out
+97,149,Mansur,Sport - PE,in
+98,149,Ronaldo,Sport - PE,out
+99,149,Oswaldo,Sport - PE,in
+100,149,Rogerio,Sport - PE,out
+101,149,Rodrigo Mancha,Sport - PE,in
+102,149,Giuliano,Grêmio - RS,out
+103,149,Ramiro,Grêmio - RS,in
+104,149,Jailson,Grêmio - RS,out
+105,149,Pedro Rocha,Grêmio - RS,in
+106,149,Luan,Grêmio - RS,out
+107,149,H. Almeida,Grêmio - RS,in
+108,150,Maicosuel,Atlético - MG,out
+109,150,Clayton,Atlético - MG,in
+110,150,Fred,Atlético - MG,out
+111,150,Lucas Candido,Atlético - MG,in
+112,150,Carlos Alberto Carvalho,Atlético - MG,out
+113,150,Lucas Pratto,Atlético - MG,in
+114,150,Edinho,Coritiba - PR,out
+115,150,Weverson,Coritiba - PR,in
+116,150,Juan,Coritiba - PR,out
+117,150,Bernardo,Coritiba - PR,in
+118,150,Alan Santos,Coritiba - PR,out
+119,150,Felipe Amorim,Coritiba - PR,in

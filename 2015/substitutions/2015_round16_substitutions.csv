@@ -1,0 +1,117 @@
+,match_num,player_name_2,player_team,player_status
+0,151,Fagner,Corinthians - SP,out
+1,151,Edilson,Corinthians - SP,in
+2,151,Vagner Love,Corinthians - SP,out
+3,151,Luciano,Corinthians - SP,in
+4,151,Bruno,Corinthians - SP,out
+5,151,Ralf,Corinthians - SP,in
+6,151,Herrera,Vasco da Gama - RJ,out
+7,151,Biancucchi,Vasco da Gama - RJ,in
+8,151,Serginho,Vasco da Gama - RJ,out
+9,151,Andrezinho,Vasco da Gama - RJ,in
+10,151,Riascos,Vasco da Gama - RJ,out
+11,151,Thalles,Vasco da Gama - RJ,in
+12,152,Thiago Ribeiro,Atlético - MG,out
+13,152,Danilo,Atlético - MG,in
+14,152,Giovanni Augusto,Atlético - MG,out
+15,152,Josue,Atlético - MG,in
+16,152,Cardenas,Atlético - MG,out
+17,152,Carlos Alberto Carvalho,Atlético - MG,in
+18,152,Hudson,São Paulo - SP,out
+19,152,Centurion,São Paulo - SP,in
+20,152,Luis Fabiano,São Paulo - SP,out
+21,152,Gabriel,São Paulo - SP,in
+22,152,Reinaldo,São Paulo - SP,out
+23,152,Auro,São Paulo - SP,in
+24,153,Osvaldo,Fluminense - RJ,out
+25,153,Gustavo Scarpa,Fluminense - RJ,in
+26,153,Breno,Fluminense - RJ,out
+27,153,Wellington Paulista,Fluminense - RJ,in
+28,153,Gerson,Fluminense - RJ,out
+29,153,Magno Alves,Fluminense - RJ,in
+30,153,Luan,Grêmio - RS,out
+31,153,Braian Rodriguez,Grêmio - RS,in
+32,153,Douglas,Grêmio - RS,out
+33,153,Fernandinho,Grêmio - RS,in
+34,153,Willian Schuster,Grêmio - RS,out
+35,153,Edinho,Grêmio - RS,in
+36,154,Rafael Marques,Palmeiras - SP,out
+37,154,Kelvin,Palmeiras - SP,in
+38,154,Leandro,Palmeiras - SP,out
+39,154,Lucas Barrios,Palmeiras - SP,in
+40,154,Gabriel,Palmeiras - SP,out
+41,154,Andrei,Palmeiras - SP,in
+42,154,Nikao,Atlético - PR,out
+43,154,Hernandez,Atlético - PR,in
+44,154,Hernani,Atlético - PR,out
+45,154,Deivid,Atlético - PR,in
+46,154,Crysan,Atlético - PR,out
+47,154,Walter,Atlético - PR,in
+48,155,João Paulo,Coritiba - PR,out
+49,155,Negueba,Coritiba - PR,in
+50,155,Ruy,Coritiba - PR,out
+51,155,Juan,Coritiba - PR,in
+52,155,Henrique,Coritiba - PR,out
+53,155,Helder,Coritiba - PR,in
+54,155,Erik,Goiás - GO,out
+55,155,Wesley,Goiás - GO,in
+56,155,Murilo,Goiás - GO,out
+57,155,Rafael,Goiás - GO,in
+58,155,Patrick,Goiás - GO,out
+59,155,Liniker,Goiás - GO,in
+60,156,Everton,Flamengo - RJ,out
+61,156,Almir,Flamengo - RJ,in
+62,156,Alan Patrick,Flamengo - RJ,out
+63,156,Gabriel,Flamengo - RJ,in
+64,156,Paulo Ricardo,Santos - SP,out
+65,156,Marquinhos Gabriel,Santos - SP,in
+66,156,Gigio,Santos - SP,out
+67,156,Thiago Maia,Santos - SP,in
+68,156,Gabriel B.,Santos - SP,out
+69,156,Neto Berola,Santos - SP,in
+70,157,Anderson,Internacional - RS,out
+71,157,Wellington,Internacional - RS,in
+72,157,Valdivia,Internacional - RS,out
+73,157,Rafael Moura,Internacional - RS,in
+74,157,Tiago Luis,Chapecoense - SC,out
+75,157,Maranhão,Chapecoense - SC,in
+76,157,Ananias,Chapecoense - SC,out
+77,157,Hyoran,Chapecoense - SC,in
+78,157,Wagner,Chapecoense - SC,out
+79,157,Odair,Chapecoense - SC,in
+80,158,Marcao,Figueirense - SC,out
+81,158,Dudu,Figueirense - SC,in
+82,158,Rafael Bastos,Figueirense - SC,out
+83,158,Thiago Santana,Figueirense - SC,in
+84,158,Joao Vitor,Figueirense - SC,out
+85,158,Carlos Alberto,Figueirense - SC,in
+86,158,Borges,Ponte Preta - SP,out
+87,158,Keno,Ponte Preta - SP,in
+88,158,Josimar,Ponte Preta - SP,out
+89,158,Jerfferson,Ponte Preta - SP,in
+90,158,Cesar,Ponte Preta - SP,out
+91,158,Diego,Ponte Preta - SP,in
+92,159,Marcelo Costa,Joinville - SC,out
+93,159,Marcelinho Paraiba,Joinville - SC,in
+94,159,Marion,Joinville - SC,out
+95,159,Lucas Crispim,Joinville - SC,in
+96,159,Willian Popp,Joinville - SC,out
+97,159,Silvinho,Joinville - SC,in
+98,159,Taua,Avaí - SC,out
+99,159,Romulo,Avaí - SC,in
+100,159,Emerson Silva,Avaí - SC,out
+101,159,Tinga,Avaí - SC,in
+102,159,Eduardo,Avaí - SC,out
+103,159,Roberto,Avaí - SC,in
+104,160,Wendel,Sport - PE,out
+105,160,Samuel,Sport - PE,in
+106,160,Diego Souza,Sport - PE,out
+107,160,Neto,Sport - PE,in
+108,160,Regis,Sport - PE,out
+109,160,Hernane,Sport - PE,in
+110,160,Marinho,Cruzeiro - MG,out
+111,160,De Arrascaeta,Cruzeiro - MG,in
+112,160,Alisson,Cruzeiro - MG,out
+113,160,Marquinhos,Cruzeiro - MG,in
+114,160,Vinicius Araujo,Cruzeiro - MG,out
+115,160,Leandro Damiao,Cruzeiro - MG,in

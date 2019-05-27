@@ -1,0 +1,119 @@
+,match_num,player_name_2,player_team,player_status
+0,191,Elias,Atlético - MG,out
+1,191,Tomas Andrade,Atlético - MG,in
+2,191,M. Galdezani,Atlético - MG,out
+3,191,Denilson,Atlético - MG,in
+4,191,Nathan,Atlético - MG,out
+5,191,Luan,Atlético - MG,in
+6,191,Yago,Vasco da Gama - RJ,out
+7,191,Ricardo,Vasco da Gama - RJ,in
+8,191,Wagner,Vasco da Gama - RJ,out
+9,191,Vinicius Araujo,Vasco da Gama - RJ,in
+10,191,Maxi Lopez,Vasco da Gama - RJ,out
+11,191,Andy,Vasco da Gama - RJ,in
+12,192,Grampola,Paraná - PR,out
+13,192,Alemão,Paraná - PR,in
+14,192,Guilherme Biteco,Paraná - PR,out
+15,192,Rodolfo,Paraná - PR,in
+16,192,Hudson,São Paulo - SP,out
+17,192,Igor,São Paulo - SP,in
+18,192,Nene,São Paulo - SP,out
+19,192,Santiago,São Paulo - SP,in
+20,192,Joao Rojas,São Paulo - SP,out
+21,192,Shaylon,São Paulo - SP,in
+22,193,Marcio Araujo,Chapecoense - SC,out
+23,193,Hector,Chapecoense - SC,in
+24,193,Agustin,Chapecoense - SC,out
+25,193,Bruno,Chapecoense - SC,in
+26,193,Diego Torres,Chapecoense - SC,out
+27,193,Yann,Chapecoense - SC,in
+28,193,Raphael Veiga,Atlético - PR,out
+29,193,Bergson,Atlético - PR,in
+30,193,Bruno Guimaraes,Atlético - PR,out
+31,193,Anderson Plata,Atlético - PR,in
+32,193,Roni,Atlético - PR,out
+33,193,Matheus,Atlético - PR,in
+34,194,Bruno,Bahia - BA,out
+35,194,Clayton,Bahia - BA,in
+36,194,Vinicius,Bahia - BA,out
+37,194,Marco Antonio,Bahia - BA,in
+38,194,Edigar Junio,Bahia - BA,out
+39,194,Regis,Bahia - BA,in
+40,194,Camilo,Internacional - RS,out
+41,194,Brenner,Internacional - RS,in
+42,194,Rossi,Internacional - RS,out
+43,194,Juan Alano,Internacional - RS,in
+44,194,Luis,Internacional - RS,out
+45,194,Zeca,Internacional - RS,in
+46,195,Jadson,Fluminense - RJ,out
+47,195,Mateus Norton,Fluminense - RJ,in
+48,195,Dodi,Fluminense - RJ,out
+49,195,Marcos Jr,Fluminense - RJ,in
+50,195,Everaldo,Fluminense - RJ,out
+51,195,Matheus Alessandro,Fluminense - RJ,in
+52,195,Ralf,Corinthians - SP,out
+53,195,Jonathas,Corinthians - SP,in
+54,195,Jadson,Corinthians - SP,out
+55,195,Angelo Araos,Corinthians - SP,in
+56,195,Pedro,Corinthians - SP,out
+57,195,Mateus,Corinthians - SP,in
+58,196,Henrique Dourado,Flamengo - RJ,out
+59,196,Lincoln,Flamengo - RJ,in
+60,196,Vitinho,Flamengo - RJ,out
+61,196,Marlos Moreno,Flamengo - RJ,in
+62,196,Lucas Paquetá,Flamengo - RJ,out
+63,196,Piris,Flamengo - RJ,in
+64,196,Marcos,Vitória - BA,out
+65,196,Willian,Vitória - BA,in
+66,196,Aderllan,Vitória - BA,out
+67,196,Ruan,Vitória - BA,in
+68,196,Jose Rodrigo Andrade Ramos,Vitória - BA,out
+69,196,Lucas Fernandes,Vitória - BA,in
+70,197,Juninho Quixadá,Ceará - CE,out
+71,197,Ricardinho,Ceará - CE,in
+72,197,Felipe Azevedo,Ceará - CE,out
+73,197,Leandro,Ceará - CE,in
+74,197,Calyson,Ceará - CE,out
+75,197,Luidy,Ceará - CE,in
+76,197,Diego,Santos - SP,out
+77,197,Bryan Ruiz,Santos - SP,in
+78,197,Yuri Alberto,Santos - SP,out
+79,197,Gabriel B.,Santos - SP,in
+80,197,Carlos Sanchez,Santos - SP,out
+81,197,Gabriel,Santos - SP,in
+82,198,Marlone,Sport - PE,out
+83,198,Rafael Marques,Sport - PE,in
+84,198,Morato,Sport - PE,out
+85,198,Michel Bastos,Sport - PE,in
+86,198,Matheus,Sport - PE,out
+87,198,Fellipe,Sport - PE,in
+88,198,Luan,América - MG,out
+89,198,David França,América - MG,in
+90,198,Wesley,América - MG,out
+91,198,Ze Ricardo,América - MG,in
+92,198,Ruy,América - MG,out
+93,198,Rafael Moura,América - MG,in
+94,199,Dudu,Palmeiras - SP,out
+95,199,Artur,Palmeiras - SP,in
+96,199,Bruno,Palmeiras - SP,out
+97,199,Lucas Lima,Palmeiras - SP,in
+98,199,Borja,Palmeiras - SP,out
+99,199,Deyverson,Palmeiras - SP,in
+100,199,Brenner,Botafogo - RJ,out
+101,199,Aguirre,Botafogo - RJ,in
+102,199,Gustavo,Botafogo - RJ,out
+103,199,Gilson,Botafogo - RJ,in
+104,199,Luiz Fernando,Botafogo - RJ,out
+105,199,Ezequiel,Botafogo - RJ,in
+106,200,Leo Moura,Grêmio - RS,out
+107,200,Alisson,Grêmio - RS,in
+108,200,Andre,Grêmio - RS,out
+109,200,Jael,Grêmio - RS,in
+110,200,Jailson,Grêmio - RS,out
+111,200,Douglas,Grêmio - RS,in
+112,200,Ezequiel,Cruzeiro - MG,out
+113,200,Robinho,Cruzeiro - MG,in
+114,200,De Arrascaeta,Cruzeiro - MG,out
+115,200,Thiago Neves,Cruzeiro - MG,in
+116,200,Ariel Cabral,Cruzeiro - MG,out
+117,200,Lucas Silva,Cruzeiro - MG,in

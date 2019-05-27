@@ -1,0 +1,121 @@
+,match_num,player_name_2,player_team,player_status
+0,31,Renato,Fluminense - RJ,out
+1,31,Matheus Alessandro,Fluminense - RJ,in
+2,31,Wendel,Fluminense - RJ,out
+3,31,Luiz Fernando,Fluminense - RJ,in
+4,31,Richarlison,Fluminense - RJ,out
+5,31,Marcos Jr,Fluminense - RJ,in
+6,31,Paulinho,Vitória - BA,out
+7,31,Neilton,Vitória - BA,in
+8,31,Cleiton Xavier,Vitória - BA,out
+9,31,David,Vitória - BA,in
+10,31,Leandro Salino,Vitória - BA,out
+11,31,Gabriel Xavier,Vitória - BA,in
+12,32,Eder,Flamengo - RJ,out
+13,32,Vinicius Jr.,Flamengo - RJ,in
+14,32,Willian Arão,Flamengo - RJ,out
+15,32,Leandro Damiao,Flamengo - RJ,in
+16,32,Cuellar,Flamengo - RJ,out
+17,32,Diego,Flamengo - RJ,in
+18,32,Victor,Botafogo - RJ,out
+19,32,Gilson,Botafogo - RJ,in
+20,32,Airton,Botafogo - RJ,out
+21,32,Dudu Cearense,Botafogo - RJ,in
+22,32,Pimpao,Botafogo - RJ,out
+23,32,Joel,Botafogo - RJ,in
+24,33,Willian,Palmeiras - SP,out
+25,33,Erik,Palmeiras - SP,in
+26,33,Keno,Palmeiras - SP,out
+27,33,Michel Bastos,Palmeiras - SP,in
+28,33,Roger Guedes,Palmeiras - SP,out
+29,33,Borja,Palmeiras - SP,in
+30,33,Fred,Atlético - MG,out
+31,33,Rafael Moura,Atlético - MG,in
+32,33,Otero,Atlético - MG,out
+33,33,Maicosuel,Atlético - MG,in
+34,33,Robinho,Atlético - MG,out
+35,33,Valdivia,Atlético - MG,in
+36,34,Jadson,Corinthians - SP,out
+37,34,Clayson,Corinthians - SP,in
+38,34,Rodriguinho,Corinthians - SP,out
+39,34,Fellipe,Corinthians - SP,in
+40,34,Maycon,Corinthians - SP,out
+41,34,Camacho,Corinthians - SP,in
+42,34,Ricardo Oliveira,Santos - SP,out
+43,34,Rodrigao,Santos - SP,in
+44,34,David Braz,Santos - SP,out
+45,34,Yuri,Santos - SP,in
+46,34,Vladimir Hernandez,Santos - SP,out
+47,34,Rafael Longuine,Santos - SP,in
+48,35,Rafinha,Cruzeiro - MG,out
+49,35,Ábila,Cruzeiro - MG,in
+50,35,Hudson,Cruzeiro - MG,out
+51,35,Jonh Lennon,Cruzeiro - MG,in
+52,35,Ariel Cabral,Cruzeiro - MG,out
+53,35,Robinho,Cruzeiro - MG,in
+54,35,Wellington Paulista,Chapecoense - SC,out
+55,35,Tulio de Melo,Chapecoense - SC,in
+56,35,Arthur,Chapecoense - SC,out
+57,35,Osman,Chapecoense - SC,in
+58,35,Seijas,Chapecoense - SC,out
+59,35,Nadson,Chapecoense - SC,in
+60,36,H. Almeida,Coritiba - PR,out
+61,36,Jonas,Coritiba - PR,in
+62,36,Neto Berola,Coritiba - PR,out
+63,36,Rildo,Coritiba - PR,in
+64,36,Tomas Bastos,Coritiba - PR,out
+65,36,Tiago Real,Coritiba - PR,in
+66,36,Nikao,Atlético - PR,out
+67,36,Douglas,Atlético - PR,in
+68,36,Grafite,Atlético - PR,out
+69,36,Ederson,Atlético - PR,in
+70,36,Matheus,Atlético - PR,out
+71,36,Gedoz,Atlético - PR,in
+72,37,Ramiro,Grêmio - RS,out
+73,37,Edilson,Grêmio - RS,in
+74,37,Arthur,Grêmio - RS,out
+75,37,G. Fernandez,Grêmio - RS,in
+76,37,Lucas Barrios,Grêmio - RS,out
+77,37,Maicon,Grêmio - RS,in
+78,37,Manga,Vasco da Gama - RJ,out
+79,37,Thalles,Vasco da Gama - RJ,in
+80,37,Jean,Vasco da Gama - RJ,out
+81,37,Nene,Vasco da Gama - RJ,in
+82,37,Mateus,Vasco da Gama - RJ,out
+83,37,Guilherme,Vasco da Gama - RJ,in
+84,38,Edson,Bahia - BA,out
+85,38,Juninho,Bahia - BA,in
+86,38,Vinicius,Bahia - BA,out
+87,38,Gustavo Ferrareis,Bahia - BA,in
+88,38,Edigar Junio,Bahia - BA,out
+89,38,Gustavo,Bahia - BA,in
+90,38,Eduardo Diniz,Atlético - GO,out
+91,38,Luiz Fernando,Atlético - GO,in
+92,38,Andrigo,Atlético - GO,out
+93,38,Junior Vicosa,Atlético - GO,in
+94,38,Everaldo,Atlético - GO,out
+95,38,Walterson,Atlético - GO,in
+96,39,Wendel,Ponte Preta - SP,out
+97,39,Fabio,Ponte Preta - SP,in
+98,39,Lins,Ponte Preta - SP,out
+99,39,Jadson,Ponte Preta - SP,in
+100,39,Jeferson,Ponte Preta - SP,out
+101,39,Emerson Sheik,Ponte Preta - SP,in
+102,39,Antonio,São Paulo - SP,out
+103,39,Gilberto,São Paulo - SP,in
+104,39,Marcinho,São Paulo - SP,out
+105,39,Leo,São Paulo - SP,in
+106,39,Lucas,São Paulo - SP,out
+107,39,Bruno,São Paulo - SP,in
+108,40,Marquinhos,Avaí - SC,out
+109,40,Lourenço,Avaí - SC,in
+110,40,Junior Dutra,Avaí - SC,out
+111,40,Willians,Avaí - SC,in
+112,40,Judson,Avaí - SC,out
+113,40,Simião,Avaí - SC,in
+114,40,Osvaldo,Sport - PE,out
+115,40,Thallyson,Sport - PE,in
+116,40,Rogerio,Sport - PE,out
+117,40,Thomas,Sport - PE,in
+118,40,Fabricio,Sport - PE,out
+119,40,Marquinhos,Sport - PE,in

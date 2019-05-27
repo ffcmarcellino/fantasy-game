@@ -1,0 +1,119 @@
+,match_num,player_name_2,player_team,player_status
+0,51,Daniel Guedes,Santos - SP,out
+1,51,Chiquinho,Santos - SP,in
+2,51,Elano,Santos - SP,out
+3,51,Thiago Maia,Santos - SP,in
+4,51,Gabriel B.,Santos - SP,out
+5,51,Neto Berola,Santos - SP,in
+6,51,Renato Caja,Ponte Preta - SP,out
+7,51,Juninho,Ponte Preta - SP,in
+8,51,Felipe Azevedo,Ponte Preta - SP,out
+9,51,Cesar,Ponte Preta - SP,in
+10,51,Diego,Ponte Preta - SP,out
+11,51,Borges,Ponte Preta - SP,in
+12,52,Samir,Flamengo - RJ,out
+13,52,Bressan,Flamengo - RJ,in
+14,52,Jonas,Flamengo - RJ,out
+15,52,Rodrigo,Flamengo - RJ,in
+16,52,Gabriel,Flamengo - RJ,out
+17,52,Paulinho,Flamengo - RJ,in
+18,52,Bruno Silva,Chapecoense - SC,out
+19,52,Abuda,Chapecoense - SC,in
+20,52,Ananias,Chapecoense - SC,out
+21,52,Neto,Chapecoense - SC,in
+22,52,Wagner,Chapecoense - SC,out
+23,52,Maranhão,Chapecoense - SC,in
+24,53,Carlos Alberto Carvalho,Atlético - MG,out
+25,53,Thiago Ribeiro,Atlético - MG,in
+26,53,Datolo,Atlético - MG,out
+27,53,Guilherme,Atlético - MG,in
+28,53,Giovanni Augusto,Atlético - MG,out
+29,53,Maicosuel,Atlético - MG,in
+30,53,Leandro Damiao,Cruzeiro - MG,out
+31,53,Joel,Cruzeiro - MG,in
+32,53,Alisson,Cruzeiro - MG,out
+33,53,Gabriel Xavier,Cruzeiro - MG,in
+34,54,Michel Bastos,São Paulo - SP,out
+35,54,Reinaldo,São Paulo - SP,in
+36,54,Denilson,São Paulo - SP,out
+37,54,Hudson,São Paulo - SP,in
+38,54,Souza,São Paulo - SP,out
+39,54,Thiago Mendes,São Paulo - SP,in
+40,54,Araujo,Grêmio - RS,out
+41,54,Junior,Grêmio - RS,in
+42,54,Pedro Rocha,Grêmio - RS,out
+43,54,Victor Rangel,Grêmio - RS,in
+44,54,Yuri Mamute,Grêmio - RS,out
+45,54,Braian Rodriguez,Grêmio - RS,in
+46,55,Natanael,Atlético - PR,out
+47,55,Guilherme Arana,Atlético - PR,in
+48,55,Nikao,Atlético - PR,out
+49,55,Jadson,Atlético - PR,in
+50,55,Giovanni,Atlético - PR,out
+51,55,Ytalo,Atlético - PR,in
+52,55,Julio Cesar,Vasco da Gama - RJ,out
+53,55,Jhon,Vasco da Gama - RJ,in
+54,55,Serginho,Vasco da Gama - RJ,out
+55,55,Jackson Caucaia,Vasco da Gama - RJ,in
+56,55,Julio dos Santos,Vasco da Gama - RJ,out
+57,55,Riascos,Vasco da Gama - RJ,in
+58,56,Rafael Costa,Joinville - SC,out
+59,56,Marcelinho Paraiba,Joinville - SC,in
+60,56,Niltinho,Joinville - SC,out
+61,56,Kempes,Joinville - SC,in
+62,56,Renato,Joinville - SC,out
+63,56,Welinton,Joinville - SC,in
+64,56,Renato Augusto,Corinthians - SP,out
+65,56,Ralf,Corinthians - SP,in
+66,56,Bruno,Corinthians - SP,out
+67,56,Petros,Corinthians - SP,in
+68,56,Angel Romero,Corinthians - SP,out
+69,56,Vagner Love,Corinthians - SP,in
+70,57,Fred,Fluminense - RJ,out
+71,57,Magno Alves,Fluminense - RJ,in
+72,57,Vinicius,Fluminense - RJ,out
+73,57,Marcos Jr,Fluminense - RJ,in
+74,57,Renato,Fluminense - RJ,out
+75,57,Wellington Silva,Fluminense - RJ,in
+76,57,Maikon,Sport - PE,out
+77,57,Rodrigo Mancha,Sport - PE,in
+78,57,Mike,Sport - PE,out
+79,57,Danilo,Sport - PE,in
+80,57,Neto,Sport - PE,out
+81,57,Regis,Sport - PE,in
+82,58,Vitinho,Internacional - RS,out
+83,58,Alex,Internacional - RS,in
+84,58,Valdivia,Internacional - RS,out
+85,58,Nicolas,Internacional - RS,in
+86,58,Anderson,Internacional - RS,out
+87,58,Rafael Moura,Internacional - RS,in
+88,58,Rafhael Lucas,Coritiba - PR,out
+89,58,Wallyson,Coritiba - PR,in
+90,58,Fabricio,Coritiba - PR,out
+91,58,Luis,Coritiba - PR,in
+92,58,Thiago,Coritiba - PR,out
+93,58,Icaro,Coritiba - PR,in
+94,59,Carlos Alberto,Figueirense - SC,out
+95,59,Yago Felipe,Figueirense - SC,in
+96,59,Fabinho,Figueirense - SC,out
+97,59,Thiago Santana,Figueirense - SC,in
+98,59,Clayton,Figueirense - SC,out
+99,59,Dener,Figueirense - SC,in
+100,59,Marcos,Palmeiras - SP,out
+101,59,Cleiton Xavier,Palmeiras - SP,in
+102,59,Dudu,Palmeiras - SP,out
+103,59,Cristaldo,Palmeiras - SP,in
+104,59,Jackson,Palmeiras - SP,out
+105,59,Omar Fernando Tobio,Palmeiras - SP,in
+106,60,Felipe,Goiás - GO,out
+107,60,Arthur,Goiás - GO,in
+108,60,Wesley,Goiás - GO,out
+109,60,Jarlan,Goiás - GO,in
+110,60,Carlos,Goiás - GO,out
+111,60,Lucas,Goiás - GO,in
+112,60,Renan,Avaí - SC,out
+113,60,Denner,Avaí - SC,in
+114,60,Pablo,Avaí - SC,out
+115,60,Romulo,Avaí - SC,in
+116,60,Eduardo,Avaí - SC,out
+117,60,Adriano,Avaí - SC,in

@@ -1,0 +1,121 @@
+,match_num,player_name_2,player_team,player_status
+0,11,Rosinei,Coritiba - PR,out
+1,11,Fabricio,Coritiba - PR,in
+2,11,Thiago,Coritiba - PR,out
+3,11,Wallyson,Coritiba - PR,in
+4,11,Rafhael Lucas,Coritiba - PR,out
+5,11,Negueba,Coritiba - PR,in
+6,11,Pedro Rocha,Grêmio - RS,out
+7,11,Everton,Grêmio - RS,in
+8,11,Junior,Grêmio - RS,out
+9,11,Yuri Mamute,Grêmio - RS,in
+10,11,Walace,Grêmio - RS,out
+11,11,Fellipe,Grêmio - RS,in
+12,12,Rafael,Goiás - GO,out
+13,12,Fred,Goiás - GO,in
+14,12,Pericles,Goiás - GO,out
+15,12,Wiliam,Goiás - GO,in
+16,12,Patrick,Goiás - GO,out
+17,12,Juliano,Goiás - GO,in
+18,12,Felipe,Atlético - PR,out
+19,12,Nikao,Atlético - PR,in
+20,12,Douglas,Atlético - PR,out
+21,12,Edigar Junio,Atlético - PR,in
+22,12,Hernani,Atlético - PR,out
+23,12,Bady,Atlético - PR,in
+24,13,Elias,Corinthians - SP,out
+25,13,Bruno,Corinthians - SP,in
+26,13,Malcom,Corinthians - SP,out
+27,13,Petros,Corinthians - SP,in
+28,13,Mendoza,Corinthians - SP,out
+29,13,Emerson Sheik,Corinthians - SP,in
+30,13,Roger,Chapecoense - SC,out
+31,13,Bruno Rangel,Chapecoense - SC,in
+32,13,Bruno Silva,Chapecoense - SC,out
+33,13,Hyoran,Chapecoense - SC,in
+34,13,Gil,Chapecoense - SC,out
+35,13,Odair,Chapecoense - SC,in
+36,14,Almir,Flamengo - RJ,out
+37,14,Paulinho,Flamengo - RJ,in
+38,14,Anderson Pico,Flamengo - RJ,out
+39,14,Eduardo da Silva,Flamengo - RJ,in
+40,14,Jonas,Flamengo - RJ,out
+41,14,Marcio Araujo,Flamengo - RJ,in
+42,14,Samuel,Sport - PE,out
+43,14,Joelinton,Sport - PE,in
+44,14,Samuel,Sport - PE,out
+45,14,Vitor,Sport - PE,in
+46,14,Mike,Sport - PE,out
+47,14,Rodrigo Mancha,Sport - PE,in
+48,15,Robinho,Santos - SP,out
+49,15,Elano,Santos - SP,in
+50,15,Gigio,Santos - SP,out
+51,15,Gabriel B.,Santos - SP,in
+52,15,Lucas,Santos - SP,out
+53,15,Thiago Maia,Santos - SP,in
+54,15,Willian,Cruzeiro - MG,out
+55,15,Eurico,Cruzeiro - MG,in
+56,15,Henrique Dourado,Cruzeiro - MG,out
+57,15,Joel,Cruzeiro - MG,in
+58,15,De Arrascaeta,Cruzeiro - MG,out
+59,15,Gabriel Xavier,Cruzeiro - MG,in
+60,16,Thiago Ribeiro,Atlético - MG,out
+61,16,Giovanni Augusto,Atlético - MG,in
+62,16,Carlos Alberto Carvalho,Atlético - MG,out
+63,16,Maicosuel,Atlético - MG,in
+64,16,Datolo,Atlético - MG,out
+65,16,Josue,Atlético - MG,in
+66,16,Pierre,Fluminense - RJ,out
+67,16,Wagner,Fluminense - RJ,in
+68,16,Vinicius,Fluminense - RJ,out
+69,16,Lucas,Fluminense - RJ,in
+70,16,Gerson,Fluminense - RJ,out
+71,16,Magno Alves,Fluminense - RJ,in
+72,17,Augusto Cesar,Joinville - SC,out
+73,17,Willian Popp,Joinville - SC,in
+74,17,William Henrique,Joinville - SC,out
+75,17,Wellington Saci,Joinville - SC,in
+76,17,Mario Sergio,Joinville - SC,out
+77,17,Sueliton,Joinville - SC,in
+78,17,Egidio,Palmeiras - SP,out
+79,17,Valdivia,Palmeiras - SP,in
+80,17,Rafael Marques,Palmeiras - SP,out
+81,17,Kelvin,Palmeiras - SP,in
+82,17,Lucas,Palmeiras - SP,out
+83,17,Ayrton,Palmeiras - SP,in
+84,18,Renato Caja,Ponte Preta - SP,out
+85,18,Ronei,Ponte Preta - SP,in
+86,18,Felipe Azevedo,Ponte Preta - SP,out
+87,18,Juninho,Ponte Preta - SP,in
+88,18,Diego,Ponte Preta - SP,out
+89,18,Borges,Ponte Preta - SP,in
+90,18,Wesley,São Paulo - SP,out
+91,18,Luis Fabiano,São Paulo - SP,in
+92,18,Toloi,São Paulo - SP,out
+93,18,P. Miranda,São Paulo - SP,in
+94,18,Centurion,São Paulo - SP,out
+95,18,Cafu,São Paulo - SP,in
+96,19,Léo,Internacional - RS,out
+97,19,Eduardo,Internacional - RS,in
+98,19,Luque,Internacional - RS,out
+99,19,Alisson Farias,Internacional - RS,in
+100,19,Rafael Moura,Internacional - RS,out
+101,19,Vitinho,Internacional - RS,in
+102,19,Nino Paraiba,Avaí - SC,out
+103,19,Denner,Avaí - SC,in
+104,19,Hugo,Avaí - SC,out
+105,19,Andre Lima,Avaí - SC,in
+106,19,Eltinho,Avaí - SC,out
+107,19,Romario,Avaí - SC,in
+108,20,Yago Felipe,Figueirense - SC,out
+109,20,Mazola,Figueirense - SC,in
+110,20,Everaldo,Figueirense - SC,out
+111,20,Marcao,Figueirense - SC,in
+112,20,Clayton,Figueirense - SC,out
+113,20,Dudu,Figueirense - SC,in
+114,20,Rafael Silva,Vasco da Gama - RJ,out
+115,20,Bernardo,Vasco da Gama - RJ,in
+116,20,Serginho,Vasco da Gama - RJ,out
+117,20,Lucas Siqueira,Vasco da Gama - RJ,in
+118,20,Julio dos Santos,Vasco da Gama - RJ,out
+119,20,Jhon,Vasco da Gama - RJ,in

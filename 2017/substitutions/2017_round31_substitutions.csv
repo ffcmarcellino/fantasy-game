@@ -1,0 +1,115 @@
+,match_num,player_name_2,player_team,player_status
+0,301,Marcos Guilherme,São Paulo - SP,out
+1,301,Denilson,São Paulo - SP,in
+2,301,Cueva,São Paulo - SP,out
+3,301,Jonatan Gomez,São Paulo - SP,in
+4,301,Alison,Santos - SP,out
+5,301,Sergio,Santos - SP,in
+6,301,Lucas Lima,Santos - SP,out
+7,301,Copete,Santos - SP,in
+8,301,Matheus Sousa de Jesus,Santos - SP,out
+9,301,Kayke,Santos - SP,in
+10,302,Everton,Flamengo - RJ,out
+11,302,Vinicius Jr.,Flamengo - RJ,in
+12,302,Lucas Paquetá,Flamengo - RJ,out
+13,302,Felipe Vizeu,Flamengo - RJ,in
+14,302,Andy,Vasco da Gama - RJ,out
+15,302,Caio Monteiro,Vasco da Gama - RJ,in
+16,302,Nene,Vasco da Gama - RJ,out
+17,302,Manga,Vasco da Gama - RJ,in
+18,302,Yago,Vasco da Gama - RJ,out
+19,302,Gilberto,Vasco da Gama - RJ,in
+20,303,Sidcley,Atlético - PR,out
+21,303,Gedoz,Atlético - PR,in
+22,303,Lucas Ribamar,Atlético - PR,out
+23,303,Douglas,Atlético - PR,in
+24,303,Lucho Gonzalez,Atlético - PR,out
+25,303,Matheus,Atlético - PR,in
+26,303,Luiz Antonio,Chapecoense - SC,out
+27,303,Nadson,Chapecoense - SC,in
+28,303,Arthur,Chapecoense - SC,out
+29,303,Joao Pedro,Chapecoense - SC,in
+30,303,Amaral,Chapecoense - SC,out
+31,303,Elicarlos,Chapecoense - SC,in
+32,304,Douglas,Fluminense - RJ,out
+33,304,Matheus Alessandro,Fluminense - RJ,in
+34,304,Marcos Jr,Fluminense - RJ,out
+35,304,Wellington Silva,Fluminense - RJ,in
+36,304,Hernane,Bahia - BA,out
+37,304,Allione,Bahia - BA,in
+38,304,Regis,Bahia - BA,out
+39,304,Matheus Sales,Bahia - BA,in
+40,304,Lucas Fonseca,Bahia - BA,out
+41,304,Thiago Martins,Bahia - BA,in
+42,305,Robinho,Atlético - MG,out
+43,305,Clayton,Atlético - MG,in
+44,305,Valdivia,Atlético - MG,out
+45,305,Cazares,Atlético - MG,in
+46,305,Otero,Atlético - MG,out
+47,305,Rafael Moura,Atlético - MG,in
+48,305,Pimpao,Botafogo - RJ,out
+49,305,Dudu Cearense,Botafogo - RJ,in
+50,305,Brenner,Botafogo - RJ,out
+51,305,Vinicius,Botafogo - RJ,in
+52,305,Victor,Botafogo - RJ,out
+53,305,Guilherme Augusto,Botafogo - RJ,in
+54,306,Wendel,Ponte Preta - SP,out
+55,306,Naldo,Ponte Preta - SP,in
+56,306,Lucca,Ponte Preta - SP,out
+57,306,Saraiva,Ponte Preta - SP,in
+58,306,Jeferson,Ponte Preta - SP,out
+59,306,Luan Peres,Ponte Preta - SP,in
+60,306,Gabriel,Corinthians - SP,out
+61,306,Clayson,Corinthians - SP,in
+62,306,Maycon,Corinthians - SP,out
+63,306,Kazim-richards,Corinthians - SP,in
+64,306,Angel Romero,Corinthians - SP,out
+65,306,Pedro,Corinthians - SP,in
+66,307,Osvaldo,Sport - PE,out
+67,307,R. Lenis,Sport - PE,in
+68,307,Rogerio,Sport - PE,out
+69,307,Anselmo,Sport - PE,in
+70,307,Patrick,Sport - PE,out
+71,307,Thomas,Sport - PE,in
+72,307,Alan Santos,Coritiba - PR,out
+73,307,Yan Sasse,Coritiba - PR,in
+74,307,H. Almeida,Coritiba - PR,out
+75,307,Keirrison,Coritiba - PR,in
+76,307,Iago Dias,Coritiba - PR,out
+77,307,Getterson,Coritiba - PR,in
+78,308,Caique Sá,Vitória - BA,out
+79,308,Patric,Vitória - BA,in
+80,308,Fred,Vitória - BA,out
+81,308,Welison,Vitória - BA,in
+82,308,Neilton,Vitória - BA,out
+83,308,Kieza,Vitória - BA,in
+84,308,Bruno Pacheco,Atlético - GO,out
+85,308,Breno,Atlético - GO,in
+86,308,Jorginho,Atlético - GO,out
+87,308,Igor,Atlético - GO,in
+88,308,Walter,Atlético - GO,out
+89,308,Diego Rosa,Atlético - GO,in
+90,309,Joao,Avaí - SC,out
+91,309,Edson,Avaí - SC,in
+92,309,Marquinhos,Avaí - SC,out
+93,309,Joel,Avaí - SC,in
+94,309,Romulo,Avaí - SC,out
+95,309,Mauro,Avaí - SC,in
+96,309,Jael,Grêmio - RS,out
+97,309,Beto da Silva,Grêmio - RS,in
+98,309,Kaio,Grêmio - RS,out
+99,309,Dionatha,Grêmio - RS,in
+100,309,Patrick,Grêmio - RS,out
+101,309,Jean Pyerre,Grêmio - RS,in
+102,310,Edu Dracena,Palmeiras - SP,out
+103,310,Luan Garcia,Palmeiras - SP,in
+104,310,Jean,Palmeiras - SP,out
+105,310,Roger Guedes,Palmeiras - SP,in
+106,310,Keno,Palmeiras - SP,out
+107,310,Deyverson,Palmeiras - SP,in
+108,310,Rafael Marques,Cruzeiro - MG,out
+109,310,Robinho,Cruzeiro - MG,in
+110,310,Murilo,Cruzeiro - MG,out
+111,310,Digão,Cruzeiro - MG,in
+112,310,De Arrascaeta,Cruzeiro - MG,out
+113,310,Lucas Silva,Cruzeiro - MG,in

@@ -1,0 +1,117 @@
+,match_num,player_name_2,player_team,player_status
+0,111,Amaral,Vitória - BA,out
+1,111,Nickson,Vitória - BA,in
+2,111,Dagoberto,Vitória - BA,out
+3,111,Yan,Vitória - BA,in
+4,111,Tiago Real,Vitória - BA,out
+5,111,Fael,Vitória - BA,in
+6,111,Edmilson dos Santos Silva,Sport - PE,out
+7,111,Rogerio,Sport - PE,in
+8,111,Diego Souza,Sport - PE,out
+9,111,Vinicius Araujo,Sport - PE,in
+10,111,Gabriel Xavier,Sport - PE,out
+11,111,R. Lenis,Sport - PE,in
+12,112,R. Thyere,Grêmio - RS,out
+13,112,Marcelo Hermes,Grêmio - RS,in
+14,112,Everton,Grêmio - RS,out
+15,112,Guilherme Augusto,Grêmio - RS,in
+16,112,Luan,Grêmio - RS,out
+17,112,Bobo,Grêmio - RS,in
+18,112,Gustavo,Santos - SP,out
+19,112,Yuri,Santos - SP,in
+20,112,Renato,Santos - SP,out
+21,112,Sousa,Santos - SP,in
+22,112,Vitor Bueno,Santos - SP,out
+23,112,Copete,Santos - SP,in
+24,113,Ananias,Chapecoense - SC,out
+25,113,Kempes,Chapecoense - SC,in
+26,113,Gil,Chapecoense - SC,out
+27,113,Arthur,Chapecoense - SC,in
+28,113,Marcelo,Chapecoense - SC,out
+29,113,Rafael Lima,Chapecoense - SC,in
+30,113,Mayke,Cruzeiro - MG,out
+31,113,Lucas,Cruzeiro - MG,in
+32,113,Matias Pisano,Cruzeiro - MG,out
+33,113,Elber,Cruzeiro - MG,in
+34,114,Marcelo Cirino,Flamengo - RJ,out
+35,114,Thiago,Flamengo - RJ,in
+36,114,Eder,Flamengo - RJ,out
+37,114,Everton,Flamengo - RJ,in
+38,114,Rodinei,Flamengo - RJ,out
+39,114,Pará,Flamengo - RJ,in
+40,114,Anderson,Internacional - RS,out
+41,114,Mike,Internacional - RS,in
+42,114,Eduardo Sasha,Internacional - RS,out
+43,114,Valdivia,Internacional - RS,in
+44,114,Seijas,Internacional - RS,out
+45,114,Alex,Internacional - RS,in
+46,115,Juan,Coritiba - PR,out
+47,115,Amaral,Coritiba - PR,in
+48,115,Ruy,Coritiba - PR,out
+49,115,Kazim-richards,Coritiba - PR,in
+50,115,Weverson,Coritiba - PR,out
+51,115,Iago Dias,Coritiba - PR,in
+52,115,Andre Lima,Atlético - PR,out
+53,115,Walter,Atlético - PR,in
+54,115,Pablo,Atlético - PR,out
+55,115,Marcos Guilherme,Atlético - PR,in
+56,115,Otavio,Atlético - PR,out
+57,115,Joao Pedro,Atlético - PR,in
+58,116,Carlinhos,São Paulo - SP,out
+59,116,Matheus Reis,São Paulo - SP,in
+60,116,Michel Bastos,São Paulo - SP,out
+61,116,GANSO,São Paulo - SP,in
+62,116,Centurion,São Paulo - SP,out
+63,116,Ytalo,São Paulo - SP,in
+64,116,Magno Alves,Fluminense - RJ,out
+65,116,Richarlison,Fluminense - RJ,in
+66,116,Edson,Fluminense - RJ,out
+67,116,Dudu,Fluminense - RJ,in
+68,116,Maranhão,Fluminense - RJ,out
+69,116,Osvaldo,Fluminense - RJ,in
+70,117,Alan,América - MG,out
+71,117,Matheusinho,América - MG,in
+72,117,Danilo,América - MG,out
+73,117,Gilson,América - MG,in
+74,117,Victor Rangel,América - MG,out
+75,117,Borges,América - MG,in
+76,117,Rodriguinho,Corinthians - SP,out
+77,117,Camacho,Corinthians - SP,in
+78,117,Giovanni Augusto,Corinthians - SP,out
+79,117,Guilherme,Corinthians - SP,in
+80,118,Danny Morais,Santa Cruz - PE,out
+81,118,Bruno Moraes,Santa Cruz - PE,in
+82,118,Leo Moura,Santa Cruz - PE,out
+83,118,Mario Sergio,Santa Cruz - PE,in
+84,118,Lele,Santa Cruz - PE,out
+85,118,Wallyson,Santa Cruz - PE,in
+86,118,Felipe Azevedo,Ponte Preta - SP,out
+87,118,Nino Paraiba,Ponte Preta - SP,in
+88,118,Joao Vitor,Ponte Preta - SP,out
+89,118,Ravanelli,Ponte Preta - SP,in
+90,118,Kadu,Ponte Preta - SP,out
+91,118,Douglas Groli,Ponte Preta - SP,in
+92,119,Cleiton Xavier,Palmeiras - SP,out
+93,119,Lucas Barrios,Palmeiras - SP,in
+94,119,Moises,Palmeiras - SP,out
+95,119,Matheus Sales,Palmeiras - SP,in
+96,119,Dudu,Palmeiras - SP,out
+97,119,Vitinho,Palmeiras - SP,in
+98,119,Ferrugem,Figueirense - SC,out
+99,119,Jocinei,Figueirense - SC,in
+100,119,Dudu,Figueirense - SC,out
+101,119,Everton Santos,Figueirense - SC,in
+102,119,Gustavo Ermel,Figueirense - SC,out
+103,119,Yago Felipe,Figueirense - SC,in
+104,120,Robinho,Atlético - MG,out
+105,120,Datolo,Atlético - MG,in
+106,120,Clayton,Atlético - MG,out
+107,120,Carlos Alberto Carvalho,Atlético - MG,in
+108,120,Erazo,Atlético - MG,out
+109,120,Ronaldo,Atlético - MG,in
+110,120,Neilton,Botafogo - RJ,out
+111,120,Pimpao,Botafogo - RJ,in
+112,120,Jonathan,Botafogo - RJ,out
+113,120,Gervasio,Botafogo - RJ,in
+114,120,Lucas Ribamar,Botafogo - RJ,out
+115,120,Sassá,Botafogo - RJ,in

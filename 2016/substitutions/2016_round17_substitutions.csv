@@ -1,0 +1,119 @@
+,match_num,player_name_2,player_team,player_status
+0,161,Carlos Alberto,Figueirense - SC,out
+1,161,Ayrton,Figueirense - SC,in
+2,161,Dodo,Figueirense - SC,out
+3,161,Maurides,Figueirense - SC,in
+4,161,Rafael Silva,Figueirense - SC,out
+5,161,Yago Felipe,Figueirense - SC,in
+6,161,Sergio,Vitória - BA,out
+7,161,Tiago Real,Vitória - BA,in
+8,161,Euller,Vitória - BA,out
+9,161,Neto,Vitória - BA,in
+10,161,Ramon,Vitória - BA,out
+11,161,Rodrigo Ramallo,Vitória - BA,in
+12,162,Edmilson dos Santos Silva,Sport - PE,out
+13,162,M Gonzalez,Sport - PE,in
+14,162,Serginho,Sport - PE,out
+15,162,Rodrigo Mancha,Sport - PE,in
+16,162,Rogerio,Sport - PE,out
+17,162,Paulo Roberto,Sport - PE,in
+18,162,Marcos Guilherme,Atlético - PR,out
+19,162,Giovanny,Atlético - PR,in
+20,162,Juninho,Atlético - PR,out
+21,162,Matheus,Atlético - PR,in
+22,162,Yago,Atlético - PR,out
+23,162,Lucas Fernandes,Atlético - PR,in
+24,163,Maicosuel,Atlético - MG,out
+25,163,Junior Urso,Atlético - MG,in
+26,163,Carlos Cesar,Atlético - MG,out
+27,163,Patric,Atlético - MG,in
+28,163,Lucas Pratto,Atlético - MG,out
+29,163,Luan,Atlético - MG,in
+30,163,Jadson,Santa Cruz - PE,out
+31,163,Lele,Santa Cruz - PE,in
+32,163,Danilo,Santa Cruz - PE,out
+33,163,Arthur,Santa Cruz - PE,in
+34,163,Grafite,Santa Cruz - PE,out
+35,163,Fernando Gabriel,Santa Cruz - PE,in
+36,164,Henrique Dourado,Fluminense - RJ,out
+37,164,Danilinho,Fluminense - RJ,in
+38,164,Samuel,Fluminense - RJ,out
+39,164,Wellington Silva,Fluminense - RJ,in
+40,164,Douglas,Fluminense - RJ,out
+41,164,Edson,Fluminense - RJ,in
+42,164,Roger,Ponte Preta - SP,out
+43,164,William,Ponte Preta - SP,in
+44,164,Wendel,Ponte Preta - SP,out
+45,164,Thiago,Ponte Preta - SP,in
+46,164,Rhayner,Ponte Preta - SP,out
+47,164,Giva,Ponte Preta - SP,in
+48,165,Carlinhos,São Paulo - SP,out
+49,165,Luiz,São Paulo - SP,in
+50,165,Kelvin,São Paulo - SP,out
+51,165,Pedro,São Paulo - SP,in
+52,165,Thiago Mendes,São Paulo - SP,out
+53,165,Chavez,São Paulo - SP,in
+54,165,Kempes,Chapecoense - SC,out
+55,165,Bruno Rangel,Chapecoense - SC,in
+56,165,Martinucio,Chapecoense - SC,out
+57,165,Tiago Rocha,Chapecoense - SC,in
+58,165,Gimenez,Chapecoense - SC,out
+59,165,Matheus Biteco,Chapecoense - SC,in
+60,166,Yuri,Santos - SP,out
+61,166,Rafael Longuine,Santos - SP,in
+62,166,Vecchio,Santos - SP,out
+63,166,Sousa,Santos - SP,in
+64,166,Copete,Santos - SP,out
+65,166,Joel,Santos - SP,in
+66,166,Rafael Sobis,Cruzeiro - MG,out
+67,166,Rafinha,Cruzeiro - MG,in
+68,166,De Arrascaeta,Cruzeiro - MG,out
+69,166,Ábila,Cruzeiro - MG,in
+70,167,Anselmo,Internacional - RS,out
+71,167,Jair,Internacional - RS,in
+72,167,Valdivia,Internacional - RS,out
+73,167,Nico Lopez,Internacional - RS,in
+74,167,Vitinho,Internacional - RS,out
+75,167,Eduardo Sasha,Internacional - RS,in
+76,167,Giovanni Augusto,Corinthians - SP,out
+77,167,Danilo,Corinthians - SP,in
+78,167,Andre,Corinthians - SP,out
+79,167,Luciano,Corinthians - SP,in
+80,167,Elias,Corinthians - SP,out
+81,167,Rodriguinho,Corinthians - SP,in
+82,168,Alan Santos,Coritiba - PR,out
+83,168,Iago Dias,Coritiba - PR,in
+84,168,Ceara,Coritiba - PR,out
+85,168,Bernardo,Coritiba - PR,in
+86,168,Raphael Veiga,Coritiba - PR,out
+87,168,Felipe Amorim,Coritiba - PR,in
+88,168,Juan,Flamengo - RJ,out
+89,168,Donatti,Flamengo - RJ,in
+90,168,Alan Patrick,Flamengo - RJ,out
+91,168,Cuellar,Flamengo - RJ,in
+92,168,Mancuello,Flamengo - RJ,out
+93,168,Marcelo Cirino,Flamengo - RJ,in
+94,169,Matheusinho,América - MG,out
+95,169,Loboa,América - MG,in
+96,169,Michael,América - MG,out
+97,169,Victor Rangel,América - MG,in
+98,169,Leandro Luchese,América - MG,out
+99,169,Claudinei,América - MG,in
+100,169,Douglas,Grêmio - RS,out
+101,169,Ramiro,Grêmio - RS,in
+102,169,Pedro Rocha,Grêmio - RS,out
+103,169,Guilherme Augusto,Grêmio - RS,in
+104,169,Miller Bolaños,Grêmio - RS,out
+105,169,H. Almeida,Grêmio - RS,in
+106,170,Camilo,Botafogo - RJ,out
+107,170,Salgueiro,Botafogo - RJ,in
+108,170,Rodrigo,Botafogo - RJ,out
+109,170,Dudu Cearense,Botafogo - RJ,in
+110,170,Canales,Botafogo - RJ,out
+111,170,Vinicius,Botafogo - RJ,in
+112,170,Edu Dracena,Palmeiras - SP,out
+113,170,Thiago Martins,Palmeiras - SP,in
+114,170,Cleiton Xavier,Palmeiras - SP,out
+115,170,Dudu,Palmeiras - SP,in
+116,170,Roger Guedes,Palmeiras - SP,out
+117,170,Rafael Marques,Palmeiras - SP,in

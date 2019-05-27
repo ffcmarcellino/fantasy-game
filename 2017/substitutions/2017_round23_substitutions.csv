@@ -1,0 +1,121 @@
+,match_num,player_name_2,player_team,player_status
+0,221,Adilson,Atlético - MG,out
+1,221,Robinho,Atlético - MG,in
+2,221,Luan,Atlético - MG,out
+3,221,Otero,Atlético - MG,in
+4,221,Cazares,Atlético - MG,out
+5,221,Yago Henrique Severino dos Santos,Atlético - MG,in
+6,221,Jean,Palmeiras - SP,out
+7,221,Thiago Santos,Palmeiras - SP,in
+8,221,Deyverson,Palmeiras - SP,out
+9,221,Dudu,Palmeiras - SP,in
+10,221,Guerra,Palmeiras - SP,out
+11,221,Jose,Palmeiras - SP,in
+12,222,Marcos Guilherme,São Paulo - SP,out
+13,222,Cueva,São Paulo - SP,in
+14,222,Lucas,São Paulo - SP,out
+15,222,Marcinho,São Paulo - SP,in
+16,222,Eder Militão,São Paulo - SP,out
+17,222,Buffarini,São Paulo - SP,in
+18,222,Lucca,Ponte Preta - SP,out
+19,222,Maranhão,Ponte Preta - SP,in
+20,222,Elton,Ponte Preta - SP,out
+21,222,Leonardo,Ponte Preta - SP,in
+22,222,Naldo,Ponte Preta - SP,out
+23,222,Renato Caja,Ponte Preta - SP,in
+24,223,Ederson,Atlético - PR,out
+25,223,Lucas Ribamar,Atlético - PR,in
+26,223,Lucho Gonzalez,Atlético - PR,out
+27,223,Matheus,Atlético - PR,in
+28,223,Lucas Fernandes,Atlético - PR,out
+29,223,Gedoz,Atlético - PR,in
+30,223,Werley,Coritiba - PR,out
+31,223,Cleber,Coritiba - PR,in
+32,223,Rafael Longuine,Coritiba - PR,out
+33,223,Tiago Real,Coritiba - PR,in
+34,223,Getterson,Coritiba - PR,out
+35,223,Iago Dias,Coritiba - PR,in
+36,224,Wagner,Vasco da Gama - RJ,out
+37,224,Paulinho,Vasco da Gama - RJ,in
+38,224,Madson,Vasco da Gama - RJ,out
+39,224,Yago,Vasco da Gama - RJ,in
+40,224,Escudero,Vasco da Gama - RJ,out
+41,224,Bruno Paulista,Vasco da Gama - RJ,in
+42,224,Leo Moura,Grêmio - RS,out
+43,224,Everton,Grêmio - RS,in
+44,224,Ramiro,Grêmio - RS,out
+45,224,Patrick,Grêmio - RS,in
+46,224,Lucas Barrios,Grêmio - RS,out
+47,224,Miky,Grêmio - RS,in
+48,225,Alison,Santos - SP,out
+49,225,Leandro Donizete,Santos - SP,in
+50,225,Gustavo,Santos - SP,out
+51,225,Luiz,Santos - SP,in
+52,225,Copete,Santos - SP,out
+53,225,Thiago Ribeiro,Santos - SP,in
+54,225,Gabriel,Corinthians - SP,out
+55,225,Camacho,Corinthians - SP,in
+56,225,Marciel,Corinthians - SP,out
+57,225,Giovanni Augusto,Corinthians - SP,in
+58,225,Angel Romero,Corinthians - SP,out
+59,225,Clayson,Corinthians - SP,in
+60,226,Rithely,Sport - PE,out
+61,226,Osvaldo,Sport - PE,in
+62,226,Samuel,Sport - PE,out
+63,226,Bruno,Sport - PE,in
+64,226,Everton Felipe,Sport - PE,out
+65,226,Rogerio,Sport - PE,in
+66,226,Juan,Avaí - SC,out
+67,226,Joao,Avaí - SC,in
+68,226,Edson,Avaí - SC,out
+69,226,Romulo,Avaí - SC,in
+70,226,Joel,Avaí - SC,out
+71,226,Willians,Avaí - SC,in
+72,227,David,Vitória - BA,out
+73,227,Kieza,Vitória - BA,in
+74,227,Santiago,Vitória - BA,out
+75,227,Todinho,Vitória - BA,in
+76,227,Juninho,Vitória - BA,out
+77,227,Thallyson,Vitória - BA,in
+78,227,Douglas,Fluminense - RJ,out
+79,227,Robinho,Fluminense - RJ,in
+80,227,Henrique,Fluminense - RJ,out
+81,227,Nogueira,Fluminense - RJ,in
+82,227,Gustavo Scarpa,Fluminense - RJ,out
+83,227,Sornoza,Fluminense - RJ,in
+84,228,Leo Valencia,Botafogo - RJ,out
+85,228,Jonathan,Botafogo - RJ,in
+86,228,Pimpao,Botafogo - RJ,out
+87,228,Guilherme Augusto,Botafogo - RJ,in
+88,228,Leandro,Botafogo - RJ,out
+89,228,Dudu Cearense,Botafogo - RJ,in
+90,228,Romulo,Flamengo - RJ,out
+91,228,Willian Arão,Flamengo - RJ,in
+92,228,Gigio,Flamengo - RJ,out
+93,228,Berrio,Flamengo - RJ,in
+94,228,Matheus Savio,Flamengo - RJ,out
+95,228,Everton,Flamengo - RJ,in
+96,229,Roberto,Chapecoense - SC,out
+97,229,Diego Renan,Chapecoense - SC,in
+98,229,Seijas,Chapecoense - SC,out
+99,229,Julio,Chapecoense - SC,in
+100,229,Arthur,Chapecoense - SC,out
+101,229,Penilla,Chapecoense - SC,in
+102,229,Robinho,Cruzeiro - MG,out
+103,229,Alisson,Cruzeiro - MG,in
+104,229,Raniel Santana de Vasconcelos,Cruzeiro - MG,out
+105,229,Sassá,Cruzeiro - MG,in
+106,229,De Arrascaeta,Cruzeiro - MG,out
+107,229,Thiago Neves,Cruzeiro - MG,in
+108,230,Luiz Fernando,Atlético - GO,out
+109,230,Alison,Atlético - GO,in
+110,230,Igor,Atlético - GO,out
+111,230,Ronaldo,Atlético - GO,in
+112,230,Andrigo,Atlético - GO,out
+113,230,Niltinho,Atlético - GO,in
+114,230,Rodrigao,Bahia - BA,out
+115,230,Allione,Bahia - BA,in
+116,230,Regis,Bahia - BA,out
+117,230,Vinicius,Bahia - BA,in
+118,230,Mendoza,Bahia - BA,out
+119,230,Edigar Junio,Bahia - BA,in

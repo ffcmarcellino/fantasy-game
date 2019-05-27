@@ -1,0 +1,115 @@
+,match_num,player_name_2,player_team,player_status
+0,91,Sergio Manoel,Chapecoense - SC,out
+1,91,Claudio Winck,Chapecoense - SC,in
+2,91,Silvinho,Chapecoense - SC,out
+3,91,Hyoran,Chapecoense - SC,in
+4,91,Arthur,Chapecoense - SC,out
+5,91,Rafael Bastos,Chapecoense - SC,in
+6,91,Nicolas,Atlético - PR,out
+7,91,Sidcley,Atlético - PR,in
+8,92,Rene Junior,Ponte Preta - SP,out
+9,92,Ravanelli,Ponte Preta - SP,in
+10,92,Cristian,Ponte Preta - SP,out
+11,92,William,Ponte Preta - SP,in
+12,92,Roger,Ponte Preta - SP,out
+13,92,Wellington Paulista,Ponte Preta - SP,in
+14,92,Alisson,Cruzeiro - MG,out
+15,92,Fabricio Bruno,Cruzeiro - MG,in
+16,92,Riascos,Cruzeiro - MG,out
+17,92,Willian,Cruzeiro - MG,in
+18,92,De Arrascaeta,Cruzeiro - MG,out
+19,92,Bruno Nazario,Cruzeiro - MG,in
+20,93,Anderson Aquino,Botafogo - RJ,out
+21,93,Luis Henrique,Botafogo - RJ,in
+22,93,Airton,Botafogo - RJ,out
+23,93,OCTAVIO,Botafogo - RJ,in
+24,93,Gervasio,Botafogo - RJ,out
+25,93,Lucas Ribamar,Botafogo - RJ,in
+26,93,Gustavo Ermel,Figueirense - SC,out
+27,93,Everton Santos,Figueirense - SC,in
+28,93,Lins,Figueirense - SC,out
+29,93,Guilherme Queiroz,Figueirense - SC,in
+30,93,Ferrugem,Figueirense - SC,out
+31,93,Jocinei,Figueirense - SC,in
+32,94,Cleiton Xavier,Palmeiras - SP,out
+33,94,Vitinho,Palmeiras - SP,in
+34,94,Egidio,Palmeiras - SP,out
+35,94,Ze Roberto,Palmeiras - SP,in
+36,94,Jean,Palmeiras - SP,out
+37,94,Fabiano,Palmeiras - SP,in
+38,94,Eduardo,América - MG,out
+39,94,Victor Rangel,América - MG,in
+40,94,Danilo,América - MG,out
+41,94,Bruno Savio,América - MG,in
+42,94,Borges,América - MG,out
+43,94,Alan,América - MG,in
+44,95,Daniel,Santa Cruz - PE,out
+45,95,Lele,Santa Cruz - PE,in
+46,95,Tiago Costa,Santa Cruz - PE,out
+47,95,Roberto,Santa Cruz - PE,in
+48,95,Leandro Lima,Santa Cruz - PE,out
+49,95,Wallyson,Santa Cruz - PE,in
+50,95,Everton,Flamengo - RJ,out
+51,95,Fernandinho,Flamengo - RJ,in
+52,95,Alan Patrick,Flamengo - RJ,out
+53,95,Mancuello,Flamengo - RJ,in
+54,95,Felipe Vizeu,Flamengo - RJ,out
+55,95,Cuellar,Flamengo - RJ,in
+56,96,Pierre,Fluminense - RJ,out
+57,96,Maranhão,Fluminense - RJ,in
+58,96,Jonathan,Fluminense - RJ,out
+59,96,Giovanni,Fluminense - RJ,in
+60,96,Marcos Jr,Fluminense - RJ,out
+61,96,Osvaldo,Fluminense - RJ,in
+62,96,Leo Cittadini,Santos - SP,out
+63,96,Lucas Lima,Santos - SP,in
+64,96,Vitor Bueno,Santos - SP,out
+65,96,Yuri,Santos - SP,in
+66,96,Rodrigao,Santos - SP,out
+67,96,Joel,Santos - SP,in
+68,97,Fred,Atlético - MG,out
+69,97,Carlos Alberto Carvalho,Atlético - MG,in
+70,97,Robinho,Atlético - MG,out
+71,97,Datolo,Atlético - MG,in
+72,97,Clayton,Atlético - MG,out
+73,97,Patric,Atlético - MG,in
+74,97,Guilherme,Corinthians - SP,out
+75,97,Lucca,Corinthians - SP,in
+76,97,Giovanni Augusto,Corinthians - SP,out
+77,97,Luciano,Corinthians - SP,in
+78,98,Douglas,Grêmio - RS,out
+79,98,Negueba,Grêmio - RS,in
+80,98,Ramiro,Grêmio - RS,out
+81,98,Jailson,Grêmio - RS,in
+82,98,Everton,Grêmio - RS,out
+83,98,Marcelo Hermes,Grêmio - RS,in
+84,98,Dagoberto,Vitória - BA,out
+85,98,Marcelo,Vitória - BA,in
+86,98,Amaral,Vitória - BA,out
+87,98,Leandro,Vitória - BA,in
+88,98,Euller,Vitória - BA,out
+89,98,Welison,Vitória - BA,in
+90,99,Ytalo,São Paulo - SP,out
+91,99,Alan Kardec,São Paulo - SP,in
+92,99,Kelvin,São Paulo - SP,out
+93,99,Centurion,São Paulo - SP,in
+94,99,João Schmidt,São Paulo - SP,out
+95,99,Luiz,São Paulo - SP,in
+96,99,Edmilson dos Santos Silva,Sport - PE,out
+97,99,R. Lenis,Sport - PE,in
+98,99,Serginho,Sport - PE,out
+99,99,Rodrigo Mancha,Sport - PE,in
+100,99,Everton Felipe,Sport - PE,out
+101,99,Luiz Antonio,Sport - PE,in
+102,100,W. Maia,Coritiba - PR,out
+103,100,Iago Dias,Coritiba - PR,in
+104,100,Felipe Amorim,Coritiba - PR,out
+105,100,Weverson,Coritiba - PR,in
+106,100,Ruy,Coritiba - PR,out
+107,100,Vinicius,Coritiba - PR,in
+108,100,Anderson,Internacional - RS,out
+109,100,Alex,Internacional - RS,in
+110,100,Gustavo Ferrareis,Internacional - RS,out
+111,100,Aylon,Internacional - RS,in
+112,100,Geferson,Internacional - RS,out
+113,100,Artur,Internacional - RS,in

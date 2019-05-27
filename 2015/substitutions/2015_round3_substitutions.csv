@@ -1,0 +1,119 @@
+,match_num,player_name_2,player_team,player_status
+0,21,Luis Fabiano,São Paulo - SP,out
+1,21,Alexandre Pato,São Paulo - SP,in
+2,21,Michel Bastos,São Paulo - SP,out
+3,21,Joao Paulo,São Paulo - SP,in
+4,21,Bruno,São Paulo - SP,out
+5,21,Hudson,São Paulo - SP,in
+6,21,Kempes,Joinville - SC,out
+7,21,Jael,Joinville - SC,in
+8,21,William Henrique,Joinville - SC,out
+9,21,Willian Popp,Joinville - SC,in
+10,21,Marcelinho Paraiba,Joinville - SC,out
+11,21,Augusto Cesar,Joinville - SC,in
+12,22,Dagoberto,Vasco da Gama - RJ,out
+13,22,Thalles,Vasco da Gama - RJ,in
+14,22,Marcio,Vasco da Gama - RJ,out
+15,22,Yago,Vasco da Gama - RJ,in
+16,22,Serginho,Vasco da Gama - RJ,out
+17,22,Lucas Siqueira,Vasco da Gama - RJ,in
+18,22,Nilmar,Internacional - RS,out
+19,22,Vitinho,Internacional - RS,in
+20,22,Lucas Marques,Internacional - RS,out
+21,22,Eduardo,Internacional - RS,in
+22,22,Geferson,Internacional - RS,out
+23,22,Taiberson,Internacional - RS,in
+24,23,Galhardo,Grêmio - RS,out
+25,23,Fellipe,Grêmio - RS,in
+26,23,Douglas,Grêmio - RS,out
+27,23,Yuri Mamute,Grêmio - RS,in
+28,23,Pedro Rocha,Grêmio - RS,out
+29,23,Braian Rodriguez,Grêmio - RS,in
+30,23,Yago Felipe,Figueirense - SC,out
+31,23,Mazola,Figueirense - SC,in
+32,23,Everaldo,Figueirense - SC,out
+33,23,Marcao,Figueirense - SC,in
+34,23,Roberto Cereceda,Figueirense - SC,out
+35,23,Jefferson,Figueirense - SC,in
+36,24,Gerson,Fluminense - RJ,out
+37,24,Magno Alves,Fluminense - RJ,in
+38,24,Vinicius,Fluminense - RJ,out
+39,24,Lucas,Fluminense - RJ,in
+40,24,Renato,Fluminense - RJ,out
+41,24,Wellington Silva,Fluminense - RJ,in
+42,24,Jadson,Corinthians - SP,out
+43,24,Danilo,Corinthians - SP,in
+44,24,Bruno,Corinthians - SP,out
+45,24,Elias,Corinthians - SP,in
+46,24,Mendoza,Corinthians - SP,out
+47,24,Emerson Sheik,Corinthians - SP,in
+48,25,Romario,Avaí - SC,out
+49,25,Glekson,Avaí - SC,in
+50,25,Marquinhos,Avaí - SC,out
+51,25,Renan,Avaí - SC,in
+52,25,Hugo,Avaí - SC,out
+53,25,Roberto,Avaí - SC,in
+54,25,Everton,Flamengo - RJ,out
+55,25,Paulinho,Flamengo - RJ,in
+56,25,Pará,Flamengo - RJ,out
+57,25,Luiz Antonio,Flamengo - RJ,in
+58,25,Hector,Flamengo - RJ,out
+59,25,Arthur,Flamengo - RJ,in
+60,26,Natanael,Atlético - PR,out
+61,26,Paulinho Dias,Atlético - PR,in
+62,26,Douglas,Atlético - PR,out
+63,26,Guilherme,Atlético - PR,in
+64,26,Nikao,Atlético - PR,out
+65,26,Guilherme Arana,Atlético - PR,in
+66,26,Thiago Ribeiro,Atlético - MG,out
+67,26,Jo,Atlético - MG,in
+68,26,Carlos Alberto Carvalho,Atlético - MG,out
+69,26,Giovanni Augusto,Atlético - MG,in
+70,26,Luan,Atlético - MG,out
+71,26,Maicosuel,Atlético - MG,in
+72,27,Camilo,Chapecoense - SC,out
+73,27,Hyoran,Chapecoense - SC,in
+74,27,Ananias,Chapecoense - SC,out
+75,27,Wagner,Chapecoense - SC,in
+76,27,Roger,Chapecoense - SC,out
+77,27,Edmilson dos Santos Silva,Chapecoense - SC,in
+78,27,Leandro,Santos - SP,out
+79,27,Rafael Longuine,Santos - SP,in
+80,27,Valencia,Santos - SP,out
+81,27,Lucas,Santos - SP,in
+82,28,Leandro,Palmeiras - SP,out
+83,28,Cristaldo,Palmeiras - SP,in
+84,28,Gabriel,Palmeiras - SP,out
+85,28,Alan Patrick,Palmeiras - SP,in
+86,28,Ze Roberto,Palmeiras - SP,out
+87,28,Weverson,Palmeiras - SP,in
+88,28,Erik,Goiás - GO,out
+89,28,Wesley,Goiás - GO,in
+90,28,Pericles,Goiás - GO,out
+91,28,Wiliam,Goiás - GO,in
+92,28,Arthur,Goiás - GO,out
+93,28,Robert,Goiás - GO,in
+94,29,Henrique Dourado,Cruzeiro - MG,out
+95,29,Riascos,Cruzeiro - MG,in
+96,29,Gabriel Xavier,Cruzeiro - MG,out
+97,29,Alisson,Cruzeiro - MG,in
+98,29,Bruno Ramires,Cruzeiro - MG,out
+99,29,Neilton,Cruzeiro - MG,in
+100,29,Renato Caja,Ponte Preta - SP,out
+101,29,Ronei,Ponte Preta - SP,in
+102,29,Diego,Ponte Preta - SP,out
+103,29,Borges,Ponte Preta - SP,in
+104,29,Felipe Azevedo,Ponte Preta - SP,out
+105,29,Cesar,Ponte Preta - SP,in
+106,30,Regis,Sport - PE,out
+107,30,Diego Souza,Sport - PE,in
+108,30,Mike,Sport - PE,out
+109,30,Danilo,Sport - PE,in
+110,30,Neto,Sport - PE,out
+111,30,Elber,Sport - PE,in
+112,30,Rosinei,Coritiba - PR,out
+113,30,Wellington Paulista,Coritiba - PR,in
+114,30,Thiago,Coritiba - PR,out
+115,30,Paulo,Coritiba - PR,in
+116,30,Rafhael Lucas,Coritiba - PR,out
+117,30,Negueba,Coritiba - PR,in

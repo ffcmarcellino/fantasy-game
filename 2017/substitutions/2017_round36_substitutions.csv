@@ -1,0 +1,119 @@
+,match_num,player_name_2,player_team,player_status
+0,351,Henrique Dourado,Fluminense - RJ,out
+1,351,Pedro,Fluminense - RJ,in
+2,351,Marcos Jr,Fluminense - RJ,out
+3,351,Wendel,Fluminense - RJ,in
+4,351,Marlon Freitas,Fluminense - RJ,out
+5,351,Matheus Alessandro,Fluminense - RJ,in
+6,351,Leonardo,Ponte Preta - SP,out
+7,351,Fernando,Ponte Preta - SP,in
+8,351,Wendel,Ponte Preta - SP,out
+9,351,Jadson,Ponte Preta - SP,in
+10,351,Léo Artur,Ponte Preta - SP,out
+11,351,Renato Caja,Ponte Preta - SP,in
+12,352,Gigio,Flamengo - RJ,out
+13,352,Everton Ribeiro,Flamengo - RJ,in
+14,352,Felipe Vizeu,Flamengo - RJ,out
+15,352,Lincoln,Flamengo - RJ,in
+16,352,Mancuello,Flamengo - RJ,out
+17,352,Rodinei,Flamengo - RJ,in
+18,352,Marquinhos Gabriel,Corinthians - SP,out
+19,352,Pedro,Corinthians - SP,in
+20,352,Fellipe,Corinthians - SP,out
+21,352,Giovanni Augusto,Corinthians - SP,in
+22,352,Angel Romero,Corinthians - SP,out
+23,352,Rodrigo,Corinthians - SP,in
+24,353,Lucas,São Paulo - SP,out
+25,353,Cueva,São Paulo - SP,in
+26,353,Shaylon,São Paulo - SP,out
+27,353,Junior,São Paulo - SP,in
+28,353,Lucas Pratto,São Paulo - SP,out
+29,353,Gilberto,São Paulo - SP,in
+30,353,Leo Valencia,Botafogo - RJ,out
+31,353,Marcos Vinicius,Botafogo - RJ,in
+32,353,Bruno Silva,Botafogo - RJ,out
+33,353,Gilson,Botafogo - RJ,in
+34,353,Guilherme Augusto,Botafogo - RJ,out
+35,353,Brenner,Botafogo - RJ,in
+36,354,Uillian Correia,Vitória - BA,out
+37,354,Neilton,Vitória - BA,in
+38,354,Fillipe Soutto,Vitória - BA,out
+39,354,Ramon,Vitória - BA,in
+40,354,Yago Felipe,Vitória - BA,out
+41,354,Andre Lima,Vitória - BA,in
+42,354,Rafinha,Cruzeiro - MG,out
+43,354,Messidoro,Cruzeiro - MG,in
+44,354,Galhardo,Cruzeiro - MG,out
+45,354,Judivan,Cruzeiro - MG,in
+46,354,Jonata,Cruzeiro - MG,out
+47,354,Elber,Cruzeiro - MG,in
+48,355,Diego Rosa,Atlético - GO,out
+49,355,Alison,Atlético - GO,in
+50,355,Igor,Atlético - GO,out
+51,355,Jefferson Nem,Atlético - GO,in
+52,355,Jonathan,Atlético - GO,out
+53,355,Marcos,Atlético - GO,in
+54,355,Luiz Antonio,Chapecoense - SC,out
+55,355,Lucas Marques,Chapecoense - SC,in
+56,355,Tulio de Melo,Chapecoense - SC,out
+57,355,Rodrigo,Chapecoense - SC,in
+58,355,Joao Pedro,Chapecoense - SC,out
+59,355,Lucas,Chapecoense - SC,in
+60,356,Marquinhos,Sport - PE,out
+61,356,Rogerio,Sport - PE,in
+62,356,Eugenio,Sport - PE,out
+63,356,Rithely,Sport - PE,in
+64,356,Allione,Bahia - BA,out
+65,356,Regis,Bahia - BA,in
+66,356,Juninho,Bahia - BA,out
+67,356,Vinicius,Bahia - BA,in
+68,356,Ze Rafael,Bahia - BA,out
+69,356,Hernane,Bahia - BA,in
+70,357,Elias,Atlético - MG,out
+71,357,Gustavo,Atlético - MG,in
+72,357,Robinho,Atlético - MG,out
+73,357,Luan,Atlético - MG,in
+74,357,Valdivia,Atlético - MG,out
+75,357,Cazares,Atlético - MG,in
+76,357,K. Giacomazzi,Coritiba - PR,out
+77,357,H. Almeida,Coritiba - PR,in
+78,357,Léo,Coritiba - PR,out
+79,357,Daniel,Coritiba - PR,in
+80,357,Getterson,Coritiba - PR,out
+81,357,Iago Dias,Coritiba - PR,in
+82,358,Vecchio,Santos - SP,out
+83,358,Daniel Guedes,Santos - SP,in
+84,358,Ricardo Oliveira,Santos - SP,out
+85,358,Orinho,Santos - SP,in
+86,358,Copete,Santos - SP,out
+87,358,Arthur,Santos - SP,in
+88,358,Kaio,Grêmio - RS,out
+89,358,Pepe,Grêmio - RS,in
+90,358,Dionatha,Grêmio - RS,out
+91,358,Lucas Poletto,Grêmio - RS,in
+92,358,Patrick,Grêmio - RS,out
+93,358,Batista,Grêmio - RS,in
+94,359,Ederson,Atlético - PR,out
+95,359,Gedoz,Atlético - PR,in
+96,359,Lucho Gonzalez,Atlético - PR,out
+97,359,Eduardo,Atlético - PR,in
+98,359,Lucas Fernandes,Atlético - PR,out
+99,359,Sidcley,Atlético - PR,in
+100,359,Wagner,Vasco da Gama - RJ,out
+101,359,Yago,Vasco da Gama - RJ,in
+102,359,Breno,Vasco da Gama - RJ,out
+103,359,Rafael Marques,Vasco da Gama - RJ,in
+104,359,Jean,Vasco da Gama - RJ,out
+105,359,Evander,Vasco da Gama - RJ,in
+106,360,Romulo,Avaí - SC,out
+107,360,Lourenço,Avaí - SC,in
+108,360,Junior Dutra,Avaí - SC,out
+109,360,Luan Pereira,Avaí - SC,in
+110,360,Mauro,Avaí - SC,out
+111,360,Simião,Avaí - SC,in
+112,360,Moises,Palmeiras - SP,out
+113,360,Guerra,Palmeiras - SP,in
+114,360,Thiago Santos,Palmeiras - SP,out
+115,360,Willian,Palmeiras - SP,in
+116,360,Tche Tche,Palmeiras - SP,out
+117,360,Deyverson,Palmeiras - SP,in

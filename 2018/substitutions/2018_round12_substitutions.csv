@@ -1,0 +1,121 @@
+,match_num,player_name_2,player_team,player_status
+0,111,Adilson,Atlético - MG,out
+1,111,Yago Henrique Severino dos Santos,Atlético - MG,in
+2,111,Gustavo,Atlético - MG,out
+3,111,Elias,Atlético - MG,in
+4,111,Cazares,Atlético - MG,out
+5,111,Luan,Atlético - MG,in
+6,111,Samuel,Ceará - CE,out
+7,111,Douglas,Ceará - CE,in
+8,111,Felipe Azevedo,Ceará - CE,out
+9,111,Romario,Ceará - CE,in
+10,111,Pio,Ceará - CE,out
+11,111,Arnaldo,Ceará - CE,in
+12,112,Caio Henrique,Paraná - PR,out
+13,112,Guilherme Biteco,Paraná - PR,in
+14,112,Carlos Alberto Carvalho,Paraná - PR,out
+15,112,Alex,Paraná - PR,in
+16,112,Torito,Paraná - PR,out
+17,112,Jhonny,Paraná - PR,in
+18,112,Marcelo Hermes,Cruzeiro - MG,out
+19,112,Rafinha,Cruzeiro - MG,in
+20,112,Mancuello,Cruzeiro - MG,out
+21,112,Patrick Brey,Cruzeiro - MG,in
+22,112,Raniel Santana de Vasconcelos,Cruzeiro - MG,out
+23,112,Sassá,Cruzeiro - MG,in
+24,113,Ademir,América - MG,out
+25,113,Marquinhos,América - MG,in
+26,113,Judivan,América - MG,out
+27,113,Rafael Moura,América - MG,in
+28,113,Aylon,América - MG,out
+29,113,Ruy,América - MG,in
+30,113,Leandro,Chapecoense - SC,out
+31,113,Vinicius,Chapecoense - SC,in
+32,113,Luiz Antonio,Chapecoense - SC,out
+33,113,Amaral,Chapecoense - SC,in
+34,113,Hector,Chapecoense - SC,out
+35,113,Bruno,Chapecoense - SC,in
+36,114,Douglas,Bahia - BA,out
+37,114,Anderson,Bahia - BA,in
+38,114,Elber,Bahia - BA,out
+39,114,Mena,Bahia - BA,in
+40,114,Kayke,Bahia - BA,out
+41,114,Allione,Bahia - BA,in
+42,114,Roger,Corinthians - SP,out
+43,114,Emerson Sheik,Corinthians - SP,in
+44,114,Marquinhos Gabriel,Corinthians - SP,out
+45,114,Junior Dutra,Corinthians - SP,in
+46,114,Sidcley,Corinthians - SP,out
+47,114,J. Capixaba,Corinthians - SP,in
+48,115,Pablo Dyego,Fluminense - RJ,out
+49,115,Dudu,Fluminense - RJ,in
+50,115,Jadson,Fluminense - RJ,out
+51,115,Dodi,Fluminense - RJ,in
+52,115,Ibañez,Fluminense - RJ,out
+53,115,Sornoza,Fluminense - RJ,in
+54,115,Alison,Santos - SP,out
+55,115,Copete,Santos - SP,in
+56,115,Sousa,Santos - SP,out
+57,115,Renato,Santos - SP,in
+58,115,Gabriel B.,Santos - SP,out
+59,115,Vitor Bueno,Santos - SP,in
+60,116,Pimpao,Botafogo - RJ,out
+61,116,Ezequiel,Botafogo - RJ,in
+62,116,Luiz Fernando,Botafogo - RJ,out
+63,116,Renatinho,Botafogo - RJ,in
+64,116,Leo Valencia,Botafogo - RJ,out
+65,116,Dudu Cearense,Botafogo - RJ,in
+66,116,Bergson,Atlético - PR,out
+67,116,Ederson,Atlético - PR,in
+68,116,Guilherme,Atlético - PR,out
+69,116,Pablo,Atlético - PR,in
+70,116,Bruno Guimaraes,Atlético - PR,out
+71,116,Renan Augusto,Atlético - PR,in
+72,117,Diego Souza,São Paulo - SP,out
+73,117,Brenner,São Paulo - SP,in
+74,117,Everton,São Paulo - SP,out
+75,117,Caique,São Paulo - SP,in
+76,117,Nene,São Paulo - SP,out
+77,117,Igor,São Paulo - SP,in
+78,117,Wallyson,Vitória - BA,out
+79,117,Jose Rodrigo Andrade Ramos,Vitória - BA,in
+80,117,Andre Lima,Vitória - BA,out
+81,117,Lucas Fernandes,Vitória - BA,in
+82,117,Rhayner,Vitória - BA,out
+83,117,Guilherme,Vitória - BA,in
+84,118,Rogerio,Sport - PE,out
+85,118,Carlos,Sport - PE,in
+86,118,Marlone,Sport - PE,out
+87,118,Michel Bastos,Sport - PE,in
+88,118,Gabriel,Sport - PE,out
+89,118,Everton Felipe,Sport - PE,in
+90,118,Andre,Grêmio - RS,out
+91,118,Jael,Grêmio - RS,in
+92,118,Thaciano,Grêmio - RS,out
+93,118,Kaio,Grêmio - RS,in
+94,118,Lima,Grêmio - RS,out
+95,118,Pepe,Grêmio - RS,in
+96,119,Felipe Melo,Palmeiras - SP,out
+97,119,Artur,Palmeiras - SP,in
+98,119,Willian,Palmeiras - SP,out
+99,119,Rafael Papagaio,Palmeiras - SP,in
+100,119,Hyoran,Palmeiras - SP,out
+101,119,Lucas Lima,Palmeiras - SP,in
+102,119,Everton Ribeiro,Flamengo - RJ,out
+103,119,Jonas,Flamengo - RJ,in
+104,119,Jean,Flamengo - RJ,out
+105,119,Willian Arão,Flamengo - RJ,in
+106,119,Felipe Vizeu,Flamengo - RJ,out
+107,119,Marlos Moreno,Flamengo - RJ,in
+108,120,Leandro Damiao,Internacional - RS,out
+109,120,Brenner,Internacional - RS,in
+110,120,Lucca,Internacional - RS,out
+111,120,Gabriel,Internacional - RS,in
+112,120,William,Internacional - RS,out
+113,120,Camilo,Internacional - RS,in
+114,120,Giovanni Augusto,Vasco da Gama - RJ,out
+115,120,Evander,Vasco da Gama - RJ,in
+116,120,Bruno,Vasco da Gama - RJ,out
+117,120,Ramon,Vasco da Gama - RJ,in
+118,120,Andy,Vasco da Gama - RJ,out
+119,120,Caio Monteiro,Vasco da Gama - RJ,in

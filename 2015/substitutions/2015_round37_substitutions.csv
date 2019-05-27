@@ -1,0 +1,117 @@
+,match_num,player_name_2,player_team,player_status
+0,361,Bruno,São Paulo - SP,out
+1,361,Alan Kardec,São Paulo - SP,in
+2,361,Michel Bastos,São Paulo - SP,out
+3,361,Auro,São Paulo - SP,in
+4,361,Alexandre Pato,São Paulo - SP,out
+5,361,Centurion,São Paulo - SP,in
+6,361,Joao Vitor,Figueirense - SC,out
+7,361,Paulo Roberto,Figueirense - SC,in
+8,361,Yago Felipe,Figueirense - SC,out
+9,361,Rafael Bastos,Figueirense - SC,in
+10,361,Clayton,Figueirense - SC,out
+11,361,Thiago Santana,Figueirense - SC,in
+12,362,Wellington Paulista,Fluminense - RJ,out
+13,362,Magno Alves,Fluminense - RJ,in
+14,362,Marcos Jr,Fluminense - RJ,out
+15,362,Lucas,Fluminense - RJ,in
+16,362,Ayrton Lucas,Fluminense - RJ,out
+17,362,Léo,Fluminense - RJ,in
+18,362,Anderson,Internacional - RS,out
+19,362,Bruno,Internacional - RS,in
+20,362,Nicolas,Internacional - RS,out
+21,362,Bertotto,Internacional - RS,in
+22,362,Lisandro Lopez,Internacional - RS,out
+23,362,Taiberson,Internacional - RS,in
+24,363,Everton Silva,Avaí - SC,out
+25,363,Roberto,Avaí - SC,in
+26,363,Eduardo,Avaí - SC,out
+27,363,Tinga,Avaí - SC,in
+28,363,Claudinei,Avaí - SC,out
+29,363,Adriano,Avaí - SC,in
+30,363,Cristian,Ponte Preta - SP,out
+31,363,Keno,Ponte Preta - SP,in
+32,363,Diego,Ponte Preta - SP,out
+33,363,Juninho,Ponte Preta - SP,in
+34,363,Clayson,Ponte Preta - SP,out
+35,363,Jeferson,Ponte Preta - SP,in
+36,364,Wendel,Sport - PE,out
+37,364,Neto,Sport - PE,in
+38,364,Rithely,Sport - PE,out
+39,364,Ronaldo,Sport - PE,in
+40,364,Elber,Sport - PE,out
+41,364,Maikon,Sport - PE,in
+42,364,Rodriguinho,Corinthians - SP,out
+43,364,Malcom,Corinthians - SP,in
+44,364,Vagner Love,Corinthians - SP,out
+45,364,Danilo,Corinthians - SP,in
+46,364,Cristian,Corinthians - SP,out
+47,364,Lincon,Corinthians - SP,in
+48,365,Douglas,Grêmio - RS,out
+49,365,Edinho,Grêmio - RS,in
+50,365,M. Grohe,Grêmio - RS,out
+51,365,Bruno Grassi,Grêmio - RS,in
+52,365,Pedro Rocha,Grêmio - RS,out
+53,365,Bobo,Grêmio - RS,in
+54,365,Leandro Donizete,Atlético - MG,out
+55,365,Dodo,Atlético - MG,in
+56,365,Patric,Atlético - MG,out
+57,365,Carlos Alberto Carvalho,Atlético - MG,in
+58,366,Henrique,Cruzeiro - MG,out
+59,366,Charles,Cruzeiro - MG,in
+60,366,Marcos Vinicius,Cruzeiro - MG,out
+61,366,Gabriel Xavier,Cruzeiro - MG,in
+62,366,Ariel Cabral,Cruzeiro - MG,out
+63,366,Mayke,Cruzeiro - MG,in
+64,366,Marcelinho Paraiba,Joinville - SC,out
+65,366,Edigar Junio,Joinville - SC,in
+66,366,Italo,Joinville - SC,out
+67,366,Fernando Viana,Joinville - SC,in
+68,366,Kadu,Joinville - SC,out
+69,366,Yuri,Joinville - SC,in
+70,367,Riascos,Vasco da Gama - RJ,out
+71,367,Rafael Silva,Vasco da Gama - RJ,in
+72,367,Andrezinho,Vasco da Gama - RJ,out
+73,367,Gallo,Vasco da Gama - RJ,in
+74,367,Diguinho,Vasco da Gama - RJ,out
+75,367,Guinazu,Vasco da Gama - RJ,in
+76,367,Marco,Santos - SP,out
+77,367,Weverson,Santos - SP,in
+78,367,Leo Cittadini,Santos - SP,out
+79,367,Lucas,Santos - SP,in
+80,367,Ledesma,Santos - SP,out
+81,367,Vitor Bueno,Santos - SP,in
+82,368,Andrei,Palmeiras - SP,out
+83,368,Cristaldo,Palmeiras - SP,in
+84,368,Pablo Nicolas Mouche,Palmeiras - SP,out
+85,368,Eduardo,Palmeiras - SP,in
+86,368,Allione,Palmeiras - SP,out
+87,368,Jobson Souza,Palmeiras - SP,in
+88,368,Juan,Coritiba - PR,out
+89,368,Thiago Lopes,Coritiba - PR,in
+90,368,K. Giacomazzi,Coritiba - PR,out
+91,368,Lucio Flavio,Coritiba - PR,in
+92,368,Alan Santos,Coritiba - PR,out
+93,368,Luis,Coritiba - PR,in
+94,369,Gil,Chapecoense - SC,out
+95,369,Odair,Chapecoense - SC,in
+96,369,Maranhão,Chapecoense - SC,out
+97,369,Wiliam Barbio,Chapecoense - SC,in
+98,369,Wiliam,Goiás - GO,out
+99,369,David Duarte,Goiás - GO,in
+100,369,Gimenez,Goiás - GO,out
+101,369,Gelson,Goiás - GO,in
+102,369,Liniker,Goiás - GO,out
+103,369,Juliano,Goiás - GO,in
+104,370,Alessandro,Atlético - PR,out
+105,370,Eduardo,Atlético - PR,in
+106,370,Marcos Guilherme,Atlético - PR,out
+107,370,Hernandez,Atlético - PR,in
+108,370,Nikao,Atlético - PR,out
+109,370,Marco Damasceno,Atlético - PR,in
+110,370,Paulinho,Flamengo - RJ,out
+111,370,Hugo,Flamengo - RJ,in
+112,370,Gabriel,Flamengo - RJ,out
+113,370,Marcelo Cirino,Flamengo - RJ,in
+114,370,Hector,Flamengo - RJ,out
+115,370,Luiz Antonio,Flamengo - RJ,in

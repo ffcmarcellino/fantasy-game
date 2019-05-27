@@ -1,0 +1,119 @@
+,match_num,player_name_2,player_team,player_status
+0,241,Gabriel,Flamengo - RJ,out
+1,241,Vinicius Jr.,Flamengo - RJ,in
+2,241,Matheus Savio,Flamengo - RJ,out
+3,241,Gigio,Flamengo - RJ,in
+4,241,Mancuello,Flamengo - RJ,out
+5,241,Felipe Vizeu,Flamengo - RJ,in
+6,241,Simião,Avaí - SC,out
+7,241,Luan Pereira,Avaí - SC,in
+8,241,Juan,Avaí - SC,out
+9,241,Willians,Avaí - SC,in
+10,241,Joel,Avaí - SC,out
+11,241,Lucas,Avaí - SC,in
+12,242,Vecchio,Santos - SP,out
+13,242,Sergio,Santos - SP,in
+14,242,Alison,Santos - SP,out
+15,242,Matheus Sousa de Jesus,Santos - SP,in
+16,242,Gedoz,Atlético - PR,out
+17,242,Lucas Fernandes,Atlético - PR,in
+18,242,Sidcley,Atlético - PR,out
+19,242,Lucas Ribamar,Atlético - PR,in
+20,242,Lucho Gonzalez,Atlético - PR,out
+21,242,Matheus,Atlético - PR,in
+22,243,Marcos Guilherme,São Paulo - SP,out
+23,243,Maicosuel,São Paulo - SP,in
+24,243,Lucas,São Paulo - SP,out
+25,243,Denilson,São Paulo - SP,in
+26,243,Cueva,São Paulo - SP,out
+27,243,Jucilei,São Paulo - SP,in
+28,243,Jadson,Corinthians - SP,out
+29,243,Marquinhos Gabriel,Corinthians - SP,in
+30,243,Gabriel,Corinthians - SP,out
+31,243,Clayson,Corinthians - SP,in
+32,243,Angel Romero,Corinthians - SP,out
+33,243,Camacho,Corinthians - SP,in
+34,244,Douglas,Fluminense - RJ,out
+35,244,Sornoza,Fluminense - RJ,in
+36,244,Robinho,Fluminense - RJ,out
+37,244,Wellington Silva,Fluminense - RJ,in
+38,244,Orejuela,Fluminense - RJ,out
+39,244,Marlon Freitas,Fluminense - RJ,in
+40,244,Jean,Palmeiras - SP,out
+41,244,Thiago Santos,Palmeiras - SP,in
+42,244,Willian,Palmeiras - SP,out
+43,244,Borja,Palmeiras - SP,in
+44,244,Deyverson,Palmeiras - SP,out
+45,244,Roger Guedes,Palmeiras - SP,in
+46,245,Anderson,Coritiba - PR,out
+47,245,Rafael Longuine,Coritiba - PR,in
+48,245,Tiago Real,Coritiba - PR,out
+49,245,Iago Dias,Coritiba - PR,in
+50,245,H. Almeida,Coritiba - PR,out
+51,245,Keirrison,Coritiba - PR,in
+52,245,Gilson,Botafogo - RJ,out
+53,245,Guilherme Augusto,Botafogo - RJ,in
+54,245,Bruno Silva,Botafogo - RJ,out
+55,245,Dudu Cearense,Botafogo - RJ,in
+56,245,Matheus Fernandes,Botafogo - RJ,out
+57,245,Marcos Vinicius,Botafogo - RJ,in
+58,246,Jonathan,Atlético - GO,out
+59,246,Andre,Atlético - GO,in
+60,246,Igor,Atlético - GO,out
+61,246,Jorginho,Atlético - GO,in
+62,246,Andrigo,Atlético - GO,out
+63,246,Niltinho,Atlético - GO,in
+64,246,Jonh Lennon,Cruzeiro - MG,out
+65,246,Ezequiel,Cruzeiro - MG,in
+66,246,Rafael Marques,Cruzeiro - MG,out
+67,246,Raniel Santana de Vasconcelos,Cruzeiro - MG,in
+68,246,Lucas Romero,Cruzeiro - MG,out
+69,246,Hudson,Cruzeiro - MG,in
+70,247,Arthur,Chapecoense - SC,out
+71,247,Tulio de Melo,Chapecoense - SC,in
+72,247,Alan Ruschel,Chapecoense - SC,out
+73,247,Penilla,Chapecoense - SC,in
+74,247,Lucas Marques,Chapecoense - SC,out
+75,247,Elicarlos,Chapecoense - SC,in
+76,247,Wendel,Ponte Preta - SP,out
+77,247,Claudio,Ponte Preta - SP,in
+78,247,Jadson,Ponte Preta - SP,out
+79,247,Léo Artur,Ponte Preta - SP,in
+80,247,Saraiva,Ponte Preta - SP,out
+81,247,Jeferson,Ponte Preta - SP,in
+82,248,Fred,Atlético - MG,out
+83,248,Rafael Moura,Atlético - MG,in
+84,248,Adilson,Atlético - MG,out
+85,248,Otero,Atlético - MG,in
+86,248,Luan,Atlético - MG,out
+87,248,Marlone,Atlético - MG,in
+88,248,David,Vitória - BA,out
+89,248,Kieza,Vitória - BA,in
+90,248,Neilton,Vitória - BA,out
+91,248,Todinho,Vitória - BA,in
+92,248,Yago Felipe,Vitória - BA,out
+93,248,Rene,Vitória - BA,in
+94,249,Mendoza,Bahia - BA,out
+95,249,Regis,Bahia - BA,in
+96,249,Vinicius,Bahia - BA,out
+97,249,Allione,Bahia - BA,in
+98,249,Ze Rafael,Bahia - BA,out
+99,249,Edigar Junio,Bahia - BA,in
+100,249,Fernandinho,Grêmio - RS,out
+101,249,Leo Moura,Grêmio - RS,in
+102,249,Ramiro,Grêmio - RS,out
+103,249,Patrick,Grêmio - RS,in
+104,249,Miky,Grêmio - RS,out
+105,249,Everton,Grêmio - RS,in
+106,250,Wesley,Sport - PE,out
+107,250,Osvaldo,Sport - PE,in
+108,250,Rogerio,Sport - PE,out
+109,250,R. Lenis,Sport - PE,in
+110,250,Anselmo,Sport - PE,out
+111,250,Thallyson,Sport - PE,in
+112,250,Jean,Vasco da Gama - RJ,out
+113,250,Andrey,Vasco da Gama - RJ,in
+114,250,Yago,Vasco da Gama - RJ,out
+115,250,Guilherme,Vasco da Gama - RJ,in
+116,250,Madson,Vasco da Gama - RJ,out
+117,250,Bruno Paulista,Vasco da Gama - RJ,in

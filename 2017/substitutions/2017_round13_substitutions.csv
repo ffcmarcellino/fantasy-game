@@ -1,0 +1,116 @@
+,match_num,player_name_2,player_team,player_status
+0,121,Pedro,Fluminense - RJ,out
+1,121,Marcos Calazans,Fluminense - RJ,in
+2,121,Wellington Silva,Fluminense - RJ,out
+3,121,Lucas Fernandes,Fluminense - RJ,in
+4,121,Mascarenhas,Fluminense - RJ,out
+5,121,Matheus Alessandro,Fluminense - RJ,in
+6,121,Roger,Botafogo - RJ,out
+7,121,Guilherme Augusto,Botafogo - RJ,in
+8,121,Matheus Fernandes,Botafogo - RJ,out
+9,121,Jonathan,Botafogo - RJ,in
+10,121,Marcos Vinicius,Botafogo - RJ,out
+11,121,Camilo,Botafogo - RJ,in
+12,122,Marcio Araujo,Flamengo - RJ,out
+13,122,Gigio,Flamengo - RJ,in
+14,122,Trauco,Flamengo - RJ,out
+15,122,Mancuello,Flamengo - RJ,in
+16,122,Cuellar,Flamengo - RJ,out
+17,122,Felipe Vizeu,Flamengo - RJ,in
+18,122,Luan,Grêmio - RS,out
+19,122,R. Thyere,Grêmio - RS,in
+20,122,Arthur,Grêmio - RS,out
+21,122,Jailson,Grêmio - RS,in
+22,122,Lucas Barrios,Grêmio - RS,out
+23,122,Everton,Grêmio - RS,in
+24,123,Egidio,Palmeiras - SP,out
+25,123,Ze Roberto,Palmeiras - SP,in
+26,123,Bruno,Palmeiras - SP,out
+27,123,Borja,Palmeiras - SP,in
+28,123,Thiago Santos,Palmeiras - SP,out
+29,123,Keno,Palmeiras - SP,in
+30,123,Rodriguinho,Corinthians - SP,out
+31,123,Camacho,Corinthians - SP,in
+32,123,Jadson,Corinthians - SP,out
+33,123,Marquinhos Gabriel,Corinthians - SP,in
+34,123,Pablo,Corinthians - SP,out
+35,123,Pedro,Corinthians - SP,in
+36,124,Wellington Silva,São Paulo - SP,out
+37,124,Marcinho,São Paulo - SP,in
+38,124,Cueva,São Paulo - SP,out
+39,124,Gilberto,São Paulo - SP,in
+40,124,Jonatan Gomez,São Paulo - SP,out
+41,124,Lucas,São Paulo - SP,in
+42,124,Igor,Atlético - GO,out
+43,124,Paulinho,Atlético - GO,in
+44,124,Andrigo,Atlético - GO,out
+45,124,Everaldo,Atlético - GO,in
+46,124,Niltinho,Atlético - GO,out
+47,124,Luiz Fernando,Atlético - GO,in
+48,125,Fred,Atlético - MG,out
+49,125,Rafael Moura,Atlético - MG,in
+50,125,Marlone,Atlético - MG,out
+51,125,Robinho,Atlético - MG,in
+52,125,Yago Henrique Severino dos Santos,Atlético - MG,out
+53,125,Valdivia,Atlético - MG,in
+54,125,Kayke,Santos - SP,out
+55,125,Sergio,Santos - SP,in
+56,125,Leandro Donizete,Santos - SP,out
+57,125,Alison,Santos - SP,in
+58,125,Thiago Ribeiro,Santos - SP,out
+59,125,Vladimir Hernandez,Santos - SP,in
+60,126,Jonathan,Atlético - PR,out
+61,126,Yago,Atlético - PR,in
+62,126,Ederson,Atlético - PR,out
+63,126,Matheus,Atlético - PR,in
+64,126,Nicolas,Atlético - PR,out
+65,126,Gustavo Cascardo,Atlético - PR,in
+66,126,Rafael Sobis,Cruzeiro - MG,out
+67,126,Sassá,Cruzeiro - MG,in
+68,126,Elber,Cruzeiro - MG,out
+69,126,Rafael Marques,Cruzeiro - MG,in
+70,126,Lucas Silva,Cruzeiro - MG,out
+71,126,Nonoca,Cruzeiro - MG,in
+72,127,Osvaldo,Sport - PE,out
+73,127,Rogerio,Sport - PE,in
+74,127,Sander,Sport - PE,out
+75,127,Andrei,Chapecoense - SC,out
+76,127,Luiz Antonio,Chapecoense - SC,in
+77,127,Lucas Marques,Chapecoense - SC,out
+78,127,Lourency,Chapecoense - SC,in
+79,127,Seijas,Chapecoense - SC,out
+80,127,Dodo,Chapecoense - SC,in
+81,128,Yago Felipe,Vitória - BA,out
+82,128,Neilton,Vitória - BA,in
+83,128,Rene,Vitória - BA,out
+84,128,Paulinho,Vitória - BA,in
+85,128,Ramon,Vitória - BA,out
+86,128,Fred,Vitória - BA,in
+87,128,Thalles,Vasco da Gama - RJ,out
+88,128,Paulo Vitor,Vasco da Gama - RJ,in
+89,128,Yago,Vasco da Gama - RJ,out
+90,128,Paulinho,Vasco da Gama - RJ,in
+91,128,Escudero,Vasco da Gama - RJ,out
+92,128,Guilherme,Vasco da Gama - RJ,in
+93,129,Jadson,Ponte Preta - SP,out
+94,129,Xuxa,Ponte Preta - SP,in
+95,129,Wendel,Ponte Preta - SP,out
+96,129,Saraiva,Ponte Preta - SP,in
+97,129,Claudio,Ponte Preta - SP,out
+98,129,Yuri,Ponte Preta - SP,in
+99,129,Regis,Bahia - BA,out
+100,129,Vinicius,Bahia - BA,in
+101,129,Ze Rafael,Bahia - BA,out
+102,129,Juninho,Bahia - BA,in
+103,129,Rodrigao,Bahia - BA,out
+104,129,Gustavo Ferrareis,Bahia - BA,in
+105,130,Marquinhos,Avaí - SC,out
+106,130,Pedro Castro,Avaí - SC,in
+107,130,Romulo,Avaí - SC,out
+108,130,Willians,Avaí - SC,in
+109,130,Judson,Avaí - SC,out
+110,130,Lucas,Avaí - SC,in
+111,130,K. Giacomazzi,Coritiba - PR,out
+112,130,H. Almeida,Coritiba - PR,in
+113,130,Iago Dias,Coritiba - PR,out
+114,130,Neto Berola,Coritiba - PR,in

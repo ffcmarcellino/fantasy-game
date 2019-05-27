@@ -1,0 +1,115 @@
+,match_num,player_name_2,player_team,player_status
+0,101,Helder,Coritiba - PR,out
+1,101,João Paulo,Coritiba - PR,in
+2,101,Thiago,Coritiba - PR,out
+3,101,Paulo,Coritiba - PR,in
+4,101,Henrique,Coritiba - PR,out
+5,101,Negueba,Coritiba - PR,in
+6,101,Marion,Joinville - SC,out
+7,101,Kempes,Joinville - SC,in
+8,101,Niltinho,Joinville - SC,out
+9,101,Naldo,Joinville - SC,in
+10,101,Mario Sergio,Joinville - SC,out
+11,101,Dankler,Joinville - SC,in
+12,102,Elicarlos,Chapecoense - SC,out
+13,102,Wagner,Chapecoense - SC,in
+14,102,Bruno Silva,Chapecoense - SC,out
+15,102,Roger,Chapecoense - SC,in
+16,102,Hyoran,Chapecoense - SC,out
+17,102,Maranhão,Chapecoense - SC,in
+18,102,Biancucchi,Vasco da Gama - RJ,out
+19,102,Jhon,Vasco da Gama - RJ,in
+20,102,Riascos,Vasco da Gama - RJ,out
+21,102,Thalles,Vasco da Gama - RJ,in
+22,102,Gilberto,Vasco da Gama - RJ,out
+23,102,Lucas Siqueira,Vasco da Gama - RJ,in
+24,103,Bruno Rodrigo,Cruzeiro - MG,out
+25,103,Paulo Andre,Cruzeiro - MG,in
+26,103,Marquinhos,Cruzeiro - MG,out
+27,103,Marinho,Cruzeiro - MG,in
+28,103,Marcos Vinicius,Cruzeiro - MG,out
+29,103,Charles,Cruzeiro - MG,in
+30,103,Eduardo,Atlético - PR,out
+31,103,Matheus,Atlético - PR,in
+32,103,Nikao,Atlético - PR,out
+33,103,Guilherme,Atlético - PR,in
+34,103,Hernani,Atlético - PR,out
+35,103,Giovanni,Atlético - PR,in
+36,104,Anderson,Avaí - SC,out
+37,104,Pablo,Avaí - SC,in
+38,104,Tinga,Avaí - SC,out
+39,104,Roberto,Avaí - SC,in
+40,104,Romulo,Avaí - SC,out
+41,104,Everton Silva,Avaí - SC,in
+42,104,Wendel,Sport - PE,out
+43,104,Samuel,Sport - PE,in
+44,104,Diego Souza,Sport - PE,out
+45,104,Rodrigo Mancha,Sport - PE,in
+46,104,Maikon,Sport - PE,out
+47,104,Regis,Sport - PE,in
+48,105,Michel Bastos,São Paulo - SP,out
+49,105,Centurion,São Paulo - SP,in
+50,105,Edson,São Paulo - SP,out
+51,105,Rodrigo Caio,São Paulo - SP,in
+52,105,Hudson,São Paulo - SP,out
+53,105,Wesley,São Paulo - SP,in
+54,105,Giovanni,Fluminense - RJ,out
+55,105,Gustavo Scarpa,Fluminense - RJ,in
+56,105,Gerson,Fluminense - RJ,out
+57,105,Lucas,Fluminense - RJ,in
+58,105,Marcos Jr,Fluminense - RJ,out
+59,105,Higor Leite,Fluminense - RJ,in
+60,106,Lucas,Santos - SP,out
+61,106,Rafael Longuine,Santos - SP,in
+62,106,Gabriel B.,Santos - SP,out
+63,106,Nilson,Santos - SP,in
+64,106,Thiago Maia,Santos - SP,out
+65,106,Neto Berola,Santos - SP,in
+66,106,Rhodolfo,Grêmio - RS,out
+67,106,Erazo,Grêmio - RS,in
+68,106,Douglas,Grêmio - RS,out
+69,106,Moises,Grêmio - RS,in
+70,106,Pedro Rocha,Grêmio - RS,out
+71,106,Yuri Mamute,Grêmio - RS,in
+72,107,David França,Goiás - GO,out
+73,107,Juliano,Goiás - GO,in
+74,107,Felipe,Goiás - GO,out
+75,107,Arthur,Goiás - GO,in
+76,107,Wesley,Goiás - GO,out
+77,107,Carlos,Goiás - GO,in
+78,107,Jadson,Corinthians - SP,out
+79,107,Rodriguinho,Corinthians - SP,in
+80,107,Vagner Love,Corinthians - SP,out
+81,107,Angel Romero,Corinthians - SP,in
+82,107,Renato Augusto,Corinthians - SP,out
+83,107,Danilo,Corinthians - SP,in
+84,108,Paulinho,Ponte Preta - SP,out
+85,108,Leandro,Ponte Preta - SP,in
+86,108,Cesar,Ponte Preta - SP,out
+87,108,Diego,Ponte Preta - SP,in
+88,108,Ronei,Ponte Preta - SP,out
+89,108,Diego,Ponte Preta - SP,in
+90,108,Rafael Marques,Palmeiras - SP,out
+91,108,Cleiton Xavier,Palmeiras - SP,in
+92,108,Robinho,Palmeiras - SP,out
+93,108,Ze Roberto,Palmeiras - SP,in
+94,108,Leandro,Palmeiras - SP,out
+95,108,Cristaldo,Palmeiras - SP,in
+96,109,Alan Patrick,Flamengo - RJ,out
+97,109,Paulinho,Flamengo - RJ,in
+98,109,Marcelo Cirino,Flamengo - RJ,out
+99,109,Eduardo da Silva,Flamengo - RJ,in
+100,109,Rafael Bastos,Figueirense - SC,out
+101,109,Yago Felipe,Figueirense - SC,in
+102,109,Elias,Figueirense - SC,out
+103,109,Everaldo,Figueirense - SC,in
+104,109,Thiago Santana,Figueirense - SC,out
+105,109,Dudu,Figueirense - SC,in
+106,110,Jorge Henrique,Internacional - RS,out
+107,110,Alisson Farias,Internacional - RS,in
+108,110,Leandro Donizete,Atlético - MG,out
+109,110,Josue,Atlético - MG,in
+110,110,Carlos Cesar,Atlético - MG,out
+111,110,Danilo,Atlético - MG,in
+112,110,Douglas Santos,Atlético - MG,out
+113,110,Pedro Botelho,Atlético - MG,in

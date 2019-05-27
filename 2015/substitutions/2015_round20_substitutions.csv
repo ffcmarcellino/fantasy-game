@@ -1,0 +1,119 @@
+,match_num,player_name_2,player_team,player_status
+0,191,Ze Eduardo,Goiás - GO,out
+1,191,Murilo,Goiás - GO,in
+2,191,Fred,Goiás - GO,out
+3,191,Valmir,Goiás - GO,in
+4,191,Rodrigo,Goiás - GO,out
+5,191,Ygor,Goiás - GO,in
+6,191,Riascos,Vasco da Gama - RJ,out
+7,191,Herrera,Vasco da Gama - RJ,in
+8,191,Guinazu,Vasco da Gama - RJ,out
+9,191,Jhon,Vasco da Gama - RJ,in
+10,191,Julio dos Santos,Vasco da Gama - RJ,out
+11,191,Lucas Siqueira,Vasco da Gama - RJ,in
+12,192,Ricardo Oliveira,Santos - SP,out
+13,192,Nilson,Santos - SP,in
+14,192,Gigio,Santos - SP,out
+15,192,Marquinhos Gabriel,Santos - SP,in
+16,192,Gabriel B.,Santos - SP,out
+17,192,Weverson,Santos - SP,in
+18,192,Romulo,Avaí - SC,out
+19,192,Paulo,Avaí - SC,in
+20,192,Glekson,Avaí - SC,out
+21,192,Romario,Avaí - SC,in
+22,192,Tinga,Avaí - SC,out
+23,192,Roberto,Avaí - SC,in
+24,193,Borges,Ponte Preta - SP,out
+25,193,Diego,Ponte Preta - SP,in
+26,193,Bady,Ponte Preta - SP,out
+27,193,Leandro,Ponte Preta - SP,in
+28,193,Diego,Ponte Preta - SP,out
+29,193,Keno,Ponte Preta - SP,in
+30,193,Fernandinho,Grêmio - RS,out
+31,193,Pedro Rocha,Grêmio - RS,in
+32,193,Maicon,Grêmio - RS,out
+33,193,Edinho,Grêmio - RS,in
+34,193,Luan,Grêmio - RS,out
+35,193,Braian Rodriguez,Grêmio - RS,in
+36,194,Rafael Marques,Coritiba - PR,out
+37,194,Luccas Claro,Coritiba - PR,in
+38,194,Ruy,Coritiba - PR,out
+39,194,Bueno,Coritiba - PR,in
+40,194,Luis,Coritiba - PR,out
+41,194,Marcos Aurelio,Coritiba - PR,in
+42,194,Gil,Chapecoense - SC,out
+43,194,Maranhão,Chapecoense - SC,in
+44,194,Tiago Luis,Chapecoense - SC,out
+45,194,Camilo,Chapecoense - SC,in
+46,194,Ananias,Chapecoense - SC,out
+47,194,Wagner,Chapecoense - SC,in
+48,195,Jadson,Corinthians - SP,out
+49,195,Matheus,Corinthians - SP,in
+50,195,Vagner Love,Corinthians - SP,out
+51,195,Danilo,Corinthians - SP,in
+52,195,Bruno,Corinthians - SP,out
+53,195,Ralf,Corinthians - SP,in
+54,195,Mayke,Cruzeiro - MG,out
+55,195,De Arrascaeta,Cruzeiro - MG,in
+56,195,Marquinhos,Cruzeiro - MG,out
+57,195,Fabiano,Cruzeiro - MG,in
+58,195,Charles,Cruzeiro - MG,out
+59,195,Willian,Cruzeiro - MG,in
+60,196,Marcelinho Paraiba,Joinville - SC,out
+61,196,Marion,Joinville - SC,in
+62,196,Kadu,Joinville - SC,out
+63,196,Ricardo Bueno,Joinville - SC,in
+64,196,Willian Popp,Joinville - SC,out
+65,196,Silvinho,Joinville - SC,in
+66,196,Fred,Fluminense - RJ,out
+67,196,Lucas,Fluminense - RJ,in
+68,196,Renato,Fluminense - RJ,out
+69,196,Rafael,Fluminense - RJ,in
+70,196,Marcos Jr,Fluminense - RJ,out
+71,196,Vinicius,Fluminense - RJ,in
+72,197,Alan Patrick,Flamengo - RJ,out
+73,197,Luiz Antonio,Flamengo - RJ,in
+74,197,Eder,Flamengo - RJ,out
+75,197,Paulinho,Flamengo - RJ,in
+76,197,Bruno,São Paulo - SP,out
+77,197,Auro,São Paulo - SP,in
+78,197,Lucas,São Paulo - SP,out
+79,197,Wesley,São Paulo - SP,in
+80,197,Centurion,São Paulo - SP,out
+81,197,Wilder,São Paulo - SP,in
+82,198,Eduardo Sasha,Internacional - RS,out
+83,198,Wellington,Internacional - RS,in
+84,198,Dalessandro,Internacional - RS,out
+85,198,Rafael Moura,Internacional - RS,in
+86,198,Vitinho,Internacional - RS,out
+87,198,Alex,Internacional - RS,in
+88,198,Bruno,Atlético - PR,out
+89,198,Marcos Guilherme,Atlético - PR,in
+90,198,Bruno Pereirinha,Atlético - PR,out
+91,198,Walter,Atlético - PR,in
+92,198,Douglas,Atlético - PR,out
+93,198,Ewandro,Atlético - PR,in
+94,199,Thiago Ribeiro,Atlético - MG,out
+95,199,Patric,Atlético - MG,in
+96,199,Giovanni Augusto,Atlético - MG,out
+97,199,Guilherme,Atlético - MG,in
+98,199,Luan,Atlético - MG,out
+99,199,Datolo,Atlético - MG,in
+100,199,Egidio,Palmeiras - SP,out
+101,199,Robinho,Palmeiras - SP,in
+102,199,Alecsandro,Palmeiras - SP,out
+103,199,Lucas Barrios,Palmeiras - SP,in
+104,199,Andrei,Palmeiras - SP,out
+105,199,Gabriel Jesus,Palmeiras - SP,in
+106,200,Celsinho,Figueirense - SC,out
+107,200,Thiago Santana,Figueirense - SC,in
+108,200,Leandro Silva,Figueirense - SC,out
+109,200,Sueliton,Figueirense - SC,in
+110,200,Yago Felipe,Figueirense - SC,out
+111,200,Jefferson,Figueirense - SC,in
+112,200,Rodrigo Mancha,Sport - PE,out
+113,200,Hernane,Sport - PE,in
+114,200,Maikon,Sport - PE,out
+115,200,Samuel,Sport - PE,in
+116,200,Marlone,Sport - PE,out
+117,200,Elber,Sport - PE,in

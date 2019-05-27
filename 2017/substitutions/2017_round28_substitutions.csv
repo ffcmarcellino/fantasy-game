@@ -1,0 +1,121 @@
+,match_num,player_name_2,player_team,player_status
+0,271,Willian,Palmeiras - SP,out
+1,271,Roger Guedes,Palmeiras - SP,in
+2,271,Bruno,Palmeiras - SP,out
+3,271,Felipe Melo,Palmeiras - SP,in
+4,271,Deyverson,Palmeiras - SP,out
+5,271,Borja,Palmeiras - SP,in
+6,271,Vinicius,Bahia - BA,out
+7,271,Rodrigao,Bahia - BA,in
+8,271,Rene Junior,Bahia - BA,out
+9,271,Feijao,Bahia - BA,in
+10,271,Ze Rafael,Bahia - BA,out
+11,271,Regis,Bahia - BA,in
+12,272,Wagner,Vasco da Gama - RJ,out
+13,272,Yago,Vasco da Gama - RJ,in
+14,272,Thalles,Vasco da Gama - RJ,out
+15,272,Caio Monteiro,Vasco da Gama - RJ,in
+16,272,Mateus,Vasco da Gama - RJ,out
+17,272,Paulo Vitor,Vasco da Gama - RJ,in
+18,272,Pimpao,Botafogo - RJ,out
+19,272,Guilherme Augusto,Botafogo - RJ,in
+20,272,Brenner,Botafogo - RJ,out
+21,272,Vinicius,Botafogo - RJ,in
+22,272,Marcos Vinicius,Botafogo - RJ,out
+23,272,Gilson,Botafogo - RJ,in
+24,273,Lucas,São Paulo - SP,out
+25,273,Maicosuel,São Paulo - SP,in
+26,273,Eder Militão,São Paulo - SP,out
+27,273,Felipe,São Paulo - SP,in
+28,273,Cueva,São Paulo - SP,out
+29,273,Jucilei,São Paulo - SP,in
+30,273,Pablo,Atlético - PR,out
+31,273,Gedoz,Atlético - PR,in
+32,273,Matheus,Atlético - PR,out
+33,273,Lucas Ribamar,Atlético - PR,in
+34,273,Nicolas,Atlético - PR,out
+35,273,Nikao,Atlético - PR,in
+36,274,Gum,Fluminense - RJ,out
+37,274,Nogueira,Fluminense - RJ,in
+38,274,Renato,Fluminense - RJ,out
+39,274,Mateus Norton,Fluminense - RJ,in
+40,274,Marcos Jr,Fluminense - RJ,out
+41,274,Matheus Alessandro,Fluminense - RJ,in
+42,274,Simião,Avaí - SC,out
+43,274,Marquinhos,Avaí - SC,in
+44,274,Juan,Avaí - SC,out
+45,274,Romulo,Avaí - SC,in
+46,274,Lucas,Avaí - SC,out
+47,274,Mauro,Avaí - SC,in
+48,275,Rithely,Sport - PE,out
+49,275,R. Lenis,Sport - PE,in
+50,275,Osvaldo,Sport - PE,out
+51,275,Rogerio,Sport - PE,in
+52,275,Juninho,Sport - PE,out
+53,275,Thomas,Sport - PE,in
+54,275,Adilson,Atlético - MG,out
+55,275,Roger,Atlético - MG,in
+56,275,Valdivia,Atlético - MG,out
+57,275,Clayton,Atlético - MG,in
+58,275,Cazares,Atlético - MG,out
+59,275,Yago Henrique Severino dos Santos,Atlético - MG,in
+60,276,Jorginho,Atlético - GO,out
+61,276,Eduardo,Atlético - GO,in
+62,276,Ronaldo,Atlético - GO,out
+63,276,Andre,Atlético - GO,in
+64,276,Luiz Fernando,Atlético - GO,out
+65,276,Niltinho,Atlético - GO,in
+66,276,Willian,Palmeiras - SP,out
+67,276,Borja,Palmeiras - SP,in
+68,276,Moises,Palmeiras - SP,out
+69,276,Thiago Santos,Palmeiras - SP,in
+70,276,Keno,Palmeiras - SP,out
+71,276,Erik,Palmeiras - SP,in
+72,277,Arthur,Chapecoense - SC,out
+73,277,Rodrigo,Chapecoense - SC,in
+74,277,Tulio de Melo,Chapecoense - SC,out
+75,277,Penilla,Chapecoense - SC,in
+76,277,Elicarlos,Chapecoense - SC,out
+77,277,Lucas Marques,Chapecoense - SC,in
+78,277,Everton Ribeiro,Flamengo - RJ,out
+79,277,Romulo,Flamengo - RJ,in
+80,277,Everton,Flamengo - RJ,out
+81,277,Berrio,Flamengo - RJ,in
+82,277,Diego,Flamengo - RJ,out
+83,277,Gabriel,Flamengo - RJ,in
+84,278,Tiago Real,Coritiba - PR,out
+85,278,Neto Berola,Coritiba - PR,in
+86,278,Rildo,Coritiba - PR,out
+87,278,Anderson,Coritiba - PR,in
+88,278,M. Galdezani,Coritiba - PR,out
+89,278,Iago Dias,Coritiba - PR,in
+90,278,Fernandinho,Grêmio - RS,out
+91,278,Jael,Grêmio - RS,in
+92,278,Lucas Barrios,Grêmio - RS,out
+93,278,Beto da Silva,Grêmio - RS,in
+94,278,Miky,Grêmio - RS,out
+95,278,Everton,Grêmio - RS,in
+96,279,Ze Rafael,Bahia - BA,out
+97,279,Allione,Bahia - BA,in
+98,279,Rodrigao,Bahia - BA,out
+99,279,Regis,Bahia - BA,in
+100,279,Vinicius,Bahia - BA,out
+101,279,Matheus Sales,Bahia - BA,in
+102,279,Jadson,Corinthians - SP,out
+103,279,Marquinhos Gabriel,Corinthians - SP,in
+104,279,Maycon,Corinthians - SP,out
+105,279,Giovanni Augusto,Corinthians - SP,in
+106,279,Angel Romero,Corinthians - SP,out
+107,279,Clayson,Corinthians - SP,in
+108,280,Sousa,Santos - SP,out
+109,280,Lucas Crispim,Santos - SP,in
+110,280,Matheus Sousa de Jesus,Santos - SP,out
+111,280,Vecchio,Santos - SP,in
+112,280,Copete,Santos - SP,out
+113,280,Sergio,Santos - SP,in
+114,280,Neilton,Vitória - BA,out
+115,280,Carlos Eduardo,Vitória - BA,in
+116,280,Yago Felipe,Vitória - BA,out
+117,280,Patric,Vitória - BA,in
+118,280,David,Vitória - BA,out
+119,280,Danilinho,Vitória - BA,in

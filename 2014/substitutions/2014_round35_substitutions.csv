@@ -1,0 +1,119 @@
+,match_num,player_name_2,player_team,player_status
+0,341,Jobson,Botafogo - RJ,out
+1,341,Pablo Daniel,Botafogo - RJ,in
+2,341,Murilo,Botafogo - RJ,out
+3,341,Yuri Mamute,Botafogo - RJ,in
+4,341,Bolatti,Botafogo - RJ,out
+5,341,Gêge,Botafogo - RJ,in
+6,341,França,Figueirense - SC,out
+7,341,Yago Felipe,Figueirense - SC,in
+8,341,Marquinhos Silva,Figueirense - SC,out
+9,341,Nirley,Figueirense - SC,in
+10,341,Roberto Cereceda,Figueirense - SC,out
+11,341,Marquinhos Pedroso,Figueirense - SC,in
+12,342,Rafael Sobis,Fluminense - RJ,out
+13,342,Robert,Fluminense - RJ,in
+14,342,Cicero,Fluminense - RJ,out
+15,342,Walter,Fluminense - RJ,in
+16,342,Chiquinho,Fluminense - RJ,out
+17,342,Carlinhos,Fluminense - RJ,in
+18,342,Camilo,Chapecoense - SC,out
+19,342,Abuda,Chapecoense - SC,in
+20,342,Tiago Luis,Chapecoense - SC,out
+21,342,Odair,Chapecoense - SC,in
+22,342,Biro,Chapecoense - SC,out
+23,342,Ednei,Chapecoense - SC,in
+24,343,Hudson,São Paulo - SP,out
+25,343,Auro,São Paulo - SP,in
+26,343,GANSO,São Paulo - SP,out
+27,343,Osvaldo,São Paulo - SP,in
+28,343,Lucas,São Paulo - SP,out
+29,343,P. Miranda,São Paulo - SP,in
+30,343,Nilmar,Internacional - RS,out
+31,343,Wellington Paulista,Internacional - RS,in
+32,343,Alex,Internacional - RS,out
+33,343,Taiberson,Internacional - RS,in
+34,343,Wellington Silva,Internacional - RS,out
+35,343,Gilberto,Internacional - RS,in
+36,344,Wesley,Palmeiras - SP,out
+37,344,Mazinho,Palmeiras - SP,in
+38,344,Felipe,Palmeiras - SP,out
+39,344,Allione,Palmeiras - SP,in
+40,344,Juninho,Palmeiras - SP,out
+41,344,Pablo Nicolas Mouche,Palmeiras - SP,in
+42,344,Mike,Sport - PE,out
+43,344,Felipe Azevedo,Sport - PE,in
+44,344,Danilo,Sport - PE,out
+45,344,Wendel,Sport - PE,in
+46,344,Joelinton,Sport - PE,out
+47,344,Ananias,Sport - PE,in
+48,345,Deivid,Atletico - PR,out
+49,345,Hernani,Atletico - PR,in
+50,345,Sueliton,Atletico - PR,out
+51,345,Mario Sergio,Atletico - PR,in
+52,345,Guilherme,Atletico - PR,out
+53,345,Douglas,Atletico - PR,in
+54,345,Souza,Santos - SP,out
+55,345,Alan Santos,Santos - SP,in
+56,345,Leandro Damiao,Santos - SP,out
+57,345,Rildo,Santos - SP,in
+58,346,Luan,Atlético - MG,out
+59,346,Dodo,Atlético - MG,in
+60,346,Datolo,Atlético - MG,out
+61,346,Eduardo,Atlético - MG,in
+62,346,Carlos Alberto Carvalho,Atlético - MG,out
+63,346,Marion,Atlético - MG,in
+64,346,Marcio Araujo,Flamengo - RJ,out
+65,346,Luiz Antonio,Flamengo - RJ,in
+66,346,Anderson Pico,Flamengo - RJ,out
+67,346,Joao Paulo,Flamengo - RJ,in
+68,346,Lucas,Flamengo - RJ,out
+69,346,Amaral,Flamengo - RJ,in
+70,347,Marcio,Vitória - BA,out
+71,347,Edno,Vitória - BA,in
+72,347,Adriano,Vitória - BA,out
+73,347,Juan,Vitória - BA,in
+74,347,Mansur,Vitória - BA,out
+75,347,Escudero,Vitória - BA,in
+76,347,Alex,Coritiba - PR,out
+77,347,Sergio Manoel,Coritiba - PR,in
+78,347,Ze Eduardo,Coritiba - PR,out
+79,347,Elber,Coritiba - PR,in
+80,347,Dudu,Coritiba - PR,out
+81,347,Martinucio,Coritiba - PR,in
+82,348,Barcos,Grêmio - RS,out
+83,348,Lucas,Grêmio - RS,in
+84,348,Luan,Grêmio - RS,out
+85,348,Giuliano,Grêmio - RS,in
+86,348,Riveros,Grêmio - RS,out
+87,348,Alan Ruiz,Grêmio - RS,in
+88,348,Ceara,Cruzeiro - MG,out
+89,348,Mayke,Cruzeiro - MG,in
+90,348,Marquinhos,Cruzeiro - MG,out
+91,348,Willian,Cruzeiro - MG,in
+92,348,Miguel Angel Ramon Samudio,Cruzeiro - MG,out
+93,348,Egidio,Cruzeiro - MG,in
+94,349,Maicon,Criciuma - SC,out
+95,349,Rafinha,Criciuma - SC,in
+96,349,Bruno,Criciuma - SC,out
+97,349,Leonardo,Criciuma - SC,in
+98,349,Ricardinho,Criciuma - SC,out
+99,349,Andrew,Criciuma - SC,in
+100,349,Kieza,Bahia - BA,out
+101,349,H. Almeida,Bahia - BA,in
+102,349,Galhardo,Bahia - BA,out
+103,349,Wiliam Barbio,Bahia - BA,in
+104,349,Bruno Paulista,Bahia - BA,out
+105,349,Feijao,Bahia - BA,in
+106,350,Esquerdinha,Goiás - GO,out
+107,350,Bruno Mineiro,Goiás - GO,in
+108,350,Jackson,Goiás - GO,out
+109,350,Alex Alves,Goiás - GO,in
+110,350,Felipe,Goiás - GO,out
+111,350,Samuel,Goiás - GO,in
+112,350,Renato Augusto,Corinthians - SP,out
+113,350,Gustavo,Corinthians - SP,in
+114,350,Bruno,Corinthians - SP,out
+115,350,Danilo,Corinthians - SP,in
+116,350,Malcom,Corinthians - SP,out
+117,350,Jadson,Corinthians - SP,in

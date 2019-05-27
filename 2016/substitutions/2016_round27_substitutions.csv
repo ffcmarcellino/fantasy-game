@@ -1,0 +1,119 @@
+,match_num,player_name_2,player_team,player_status
+0,261,Dudu,Palmeiras - SP,out
+1,261,Rafael Marques,Palmeiras - SP,in
+2,261,Erik,Palmeiras - SP,out
+3,261,Leandro,Palmeiras - SP,in
+4,261,Roger Guedes,Palmeiras - SP,out
+5,261,Thiago Santos,Palmeiras - SP,in
+6,261,Edinho,Coritiba - PR,out
+7,261,Alan Santos,Coritiba - PR,in
+8,261,Yan Sasse,Coritiba - PR,out
+9,261,Felipe Amorim,Coritiba - PR,in
+10,261,Cesar Gonzales,Coritiba - PR,out
+11,261,Evandro,Coritiba - PR,in
+12,262,Gabriel Xavier,Sport - PE,out
+13,262,Vinicius Araujo,Sport - PE,in
+14,262,Rogerio,Sport - PE,out
+15,262,Apodi,Sport - PE,in
+16,262,Neto,Sport - PE,out
+17,262,Paulo Roberto,Sport - PE,in
+18,262,Gustavo,Santos - SP,out
+19,262,David Braz,Santos - SP,in
+20,262,Vitor Bueno,Santos - SP,out
+21,262,Elano,Santos - SP,in
+22,262,Rodrigao,Santos - SP,out
+23,262,Sousa,Santos - SP,in
+24,263,Danilo,América - MG,out
+25,263,Tony,América - MG,in
+26,263,Nixon,América - MG,out
+27,263,Michael,América - MG,in
+28,263,Matheusinho,América - MG,out
+29,263,Pablo,América - MG,in
+30,263,Dudu Cearense,Botafogo - RJ,out
+31,263,Pimpao,Botafogo - RJ,in
+32,263,Camilo,Botafogo - RJ,out
+33,263,Leandro,Botafogo - RJ,in
+34,263,Neilton,Botafogo - RJ,out
+35,263,Gervasio,Botafogo - RJ,in
+36,264,Lins,Figueirense - SC,out
+37,264,Ferrugem,Figueirense - SC,in
+38,264,Elvis,Figueirense - SC,out
+39,264,Everton Santos,Figueirense - SC,in
+40,264,Dodo,Figueirense - SC,out
+41,264,Gustavo Ermel,Figueirense - SC,in
+42,264,Derley,Santa Cruz - PE,out
+43,264,Mazinho,Santa Cruz - PE,in
+44,264,Bruno Moraes,Santa Cruz - PE,out
+45,264,Arthur,Santa Cruz - PE,in
+46,264,Matias Pisano,Santa Cruz - PE,out
+47,264,Grafite,Santa Cruz - PE,in
+48,265,Luan,Atlético - PR,out
+49,265,Marcos,Atlético - PR,in
+50,265,Lucas Fernandes,Atlético - PR,out
+51,265,Giovanny,Atlético - PR,in
+52,265,Lucho Gonzalez,Atlético - PR,out
+53,265,Joao Pedro,Atlético - PR,in
+54,265,Fabio,Ponte Preta - SP,out
+55,265,Douglas Groli,Ponte Preta - SP,in
+56,265,Felipe Azevedo,Ponte Preta - SP,out
+57,265,William,Ponte Preta - SP,in
+58,265,Clayson,Ponte Preta - SP,out
+59,265,Wellington Paulista,Ponte Preta - SP,in
+60,266,Diego Renan,Vitória - BA,out
+61,266,Euller,Vitória - BA,in
+62,266,Marinho,Vitória - BA,out
+63,266,Vander,Vitória - BA,in
+64,266,Cardenas,Vitória - BA,out
+65,266,Tiago Real,Vitória - BA,in
+66,266,Luiz,São Paulo - SP,out
+67,266,Daniel,São Paulo - SP,in
+68,266,Mena,São Paulo - SP,out
+69,266,Robson,São Paulo - SP,in
+70,266,Cueva,São Paulo - SP,out
+71,266,Gilberto,São Paulo - SP,in
+72,267,Giovanni Augusto,Corinthians - SP,out
+73,267,Gustavo,Corinthians - SP,in
+74,267,Marlone,Corinthians - SP,out
+75,267,Lucca,Corinthians - SP,in
+76,267,Douglas,Fluminense - RJ,out
+77,267,Marquinho,Fluminense - RJ,in
+78,267,Wellington Silva,Fluminense - RJ,out
+79,267,Magno Alves,Fluminense - RJ,in
+80,267,Marcos Jr,Fluminense - RJ,out
+81,267,Richarlison,Fluminense - RJ,in
+82,268,Everton,Flamengo - RJ,out
+83,268,Alan Patrick,Flamengo - RJ,in
+84,268,Gabriel,Flamengo - RJ,out
+85,268,Fernandinho,Flamengo - RJ,in
+86,268,Marcio Araujo,Flamengo - RJ,out
+87,268,Mancuello,Flamengo - RJ,in
+88,268,Rafael Sobis,Cruzeiro - MG,out
+89,268,Elber,Cruzeiro - MG,in
+90,268,De Arrascaeta,Cruzeiro - MG,out
+91,268,Rafinha,Cruzeiro - MG,in
+92,268,Lucas Romero,Cruzeiro - MG,out
+93,268,Ariel Cabral,Cruzeiro - MG,in
+94,269,H. Almeida,Grêmio - RS,out
+95,269,Guilherme Augusto,Grêmio - RS,in
+96,269,Douglas,Grêmio - RS,out
+97,269,Sandows,Grêmio - RS,in
+98,269,Pedro Rocha,Grêmio - RS,out
+99,269,R. Thyere,Grêmio - RS,in
+100,269,Kempes,Chapecoense - SC,out
+101,269,Alan Ruschel,Chapecoense - SC,in
+102,269,Arthur,Chapecoense - SC,out
+103,269,Ailton,Chapecoense - SC,in
+104,269,Lourency,Chapecoense - SC,out
+105,269,Bruno Rangel,Chapecoense - SC,in
+106,270,Fred,Atlético - MG,out
+107,270,Lucas Pratto,Atlético - MG,in
+108,270,Carlos Cesar,Atlético - MG,out
+109,270,Patric,Atlético - MG,in
+110,270,Cazares,Atlético - MG,out
+111,270,Datolo,Atlético - MG,in
+112,270,Alex,Internacional - RS,out
+113,270,Anderson,Internacional - RS,in
+114,270,Eduardo Sasha,Internacional - RS,out
+115,270,Valdivia,Internacional - RS,in
+116,270,Aylon,Internacional - RS,out
+117,270,Brenner,Internacional - RS,in

@@ -1,0 +1,121 @@
+,match_num,player_name_2,player_team,player_status
+0,201,Gustavo,Santos - SP,out
+1,201,Robson,Santos - SP,in
+2,201,Bruno,Santos - SP,out
+3,201,Bryan Ruiz,Santos - SP,in
+4,201,Gabriel B.,Santos - SP,out
+5,201,Eduardo Sasha,Santos - SP,in
+6,201,Tiago,Bahia - BA,out
+7,201,Everson,Bahia - BA,in
+8,201,Vinicius,Bahia - BA,out
+9,201,Regis,Bahia - BA,in
+10,201,Douglas Groli,Bahia - BA,out
+11,201,Edson,Bahia - BA,in
+12,202,Jadson,Corinthians - SP,out
+13,202,Angelo Araos,Corinthians - SP,in
+14,202,Cássio,Corinthians - SP,out
+15,202,Walter,Corinthians - SP,in
+16,202,Clayson,Corinthians - SP,out
+17,202,Mateus,Corinthians - SP,in
+18,202,Grampola,Paraná - PR,out
+19,202,Jhonny,Paraná - PR,in
+20,202,Alemão,Paraná - PR,out
+21,202,Nadson,Paraná - PR,in
+22,202,Alex,Paraná - PR,out
+23,202,Rodolfo,Paraná - PR,in
+24,203,Wellington,Atlético - PR,out
+25,203,Bruno Guimaraes,Atlético - PR,in
+26,203,Nikao,Atlético - PR,out
+27,203,Bruno Nazario,Atlético - PR,in
+28,203,Raphael Veiga,Atlético - PR,out
+29,203,Marcio Azevedo,Atlético - PR,in
+30,203,Douglas,Grêmio - RS,out
+31,203,Jean Pyerre,Grêmio - RS,in
+32,203,Marinho,Grêmio - RS,out
+33,203,T. Anderson,Grêmio - RS,in
+34,203,Thaciano,Grêmio - RS,out
+35,203,Lincoln,Grêmio - RS,in
+36,204,Robinho,Cruzeiro - MG,out
+37,204,Rafinha,Cruzeiro - MG,in
+38,204,Marcelo Hermes,Cruzeiro - MG,out
+39,204,Egidio,Cruzeiro - MG,in
+40,204,Raniel Santana de Vasconcelos,Cruzeiro - MG,out
+41,204,Barcos,Cruzeiro - MG,in
+42,204,Pedro,Fluminense - RJ,out
+43,204,Kayke,Fluminense - RJ,in
+44,204,Jadson,Fluminense - RJ,out
+45,204,Junior Dutra,Fluminense - RJ,in
+46,204,Sornoza,Fluminense - RJ,out
+47,204,Daniel,Fluminense - RJ,in
+48,205,Luiz Fernando,Botafogo - RJ,out
+49,205,Pimpao,Botafogo - RJ,in
+50,205,Brenner,Botafogo - RJ,out
+51,205,Aguirre,Botafogo - RJ,in
+52,205,Leo Valencia,Botafogo - RJ,out
+53,205,Joao Pedro,Botafogo - RJ,in
+54,205,Deivid,Sport - PE,out
+55,205,Rafael Marques,Sport - PE,in
+56,205,Marlone,Sport - PE,out
+57,205,Michel Bastos,Sport - PE,in
+58,205,Morato,Sport - PE,out
+59,205,Andrigo,Sport - PE,in
+60,206,Diego Souza,São Paulo - SP,out
+61,206,Gonzalo Carneiro,São Paulo - SP,in
+62,206,Everton,São Paulo - SP,out
+63,206,Régis Souza,São Paulo - SP,in
+64,206,Luan Silva,São Paulo - SP,out
+65,206,Shaylon,São Paulo - SP,in
+66,206,Ricardinho,Ceará - CE,out
+67,206,Reina,Ceará - CE,in
+68,206,Edinho,Ceará - CE,out
+69,206,Pedro Ken,Ceará - CE,in
+70,206,Calyson,Ceará - CE,out
+71,206,Felipe Azevedo,Ceará - CE,in
+72,207,Wesley,América - MG,out
+73,207,Marquinhos,América - MG,in
+74,207,Giovanni,América - MG,out
+75,207,Robinho,América - MG,in
+76,207,Juninho,América - MG,out
+77,207,Matheusinho,América - MG,in
+78,207,Henrique Dourado,Flamengo - RJ,out
+79,207,Piris,Flamengo - RJ,in
+80,207,Diego,Flamengo - RJ,out
+81,207,Rhodolfo,Flamengo - RJ,in
+82,207,Vitinho,Flamengo - RJ,out
+83,207,Willian Arão,Flamengo - RJ,in
+84,208,Jose Rodrigo Andrade Ramos,Vitória - BA,out
+85,208,Willian,Vitória - BA,in
+86,208,Rhayner,Vitória - BA,out
+87,208,Lucas Fernandes,Vitória - BA,in
+88,208,Yago Felipe,Vitória - BA,out
+89,208,Bryan,Vitória - BA,in
+90,208,Ricardo Oliveira,Atlético - MG,out
+91,208,Denilson,Atlético - MG,in
+92,208,Welison,Atlético - MG,out
+93,208,Lucas Candido,Atlético - MG,in
+94,208,Nathan,Atlético - MG,out
+95,208,Luan,Atlético - MG,in
+96,209,Zeca,Internacional - RS,out
+97,209,Dalessandro,Internacional - RS,in
+98,209,Rossi,Internacional - RS,out
+99,209,Camilo,Internacional - RS,in
+100,209,JONATAN ALVEZ,Internacional - RS,out
+101,209,Brenner,Internacional - RS,in
+102,209,Hyoran,Palmeiras - SP,out
+103,209,Willian,Palmeiras - SP,in
+104,209,Victor,Palmeiras - SP,out
+105,209,Diogo,Palmeiras - SP,in
+106,209,Lucas Lima,Palmeiras - SP,out
+107,209,Bruno,Palmeiras - SP,in
+108,210,DESABATO,Vasco da Gama - RJ,out
+109,210,Vinicius Araujo,Vasco da Gama - RJ,in
+110,210,Wagner,Vasco da Gama - RJ,out
+111,210,Bruno,Vasco da Gama - RJ,in
+112,210,Yago,Vasco da Gama - RJ,out
+113,210,Thiago,Vasco da Gama - RJ,in
+114,210,Yann,Chapecoense - SC,out
+115,210,Vinicius,Chapecoense - SC,in
+116,210,Amaral,Chapecoense - SC,out
+117,210,Diego Torres,Chapecoense - SC,in
+118,210,Bruno,Chapecoense - SC,out
+119,210,Osman,Chapecoense - SC,in

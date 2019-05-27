@@ -1,0 +1,121 @@
+,match_num,player_name_2,player_team,player_status
+0,21,Joel,Botafogo - RJ,out
+1,21,Guilherme Augusto,Botafogo - RJ,in
+2,21,Camilo,Botafogo - RJ,out
+3,21,Matheus Fernandes,Botafogo - RJ,in
+4,21,Joao Paulo,Botafogo - RJ,out
+5,21,Gilson,Botafogo - RJ,in
+6,21,Ze Rafael,Bahia - BA,out
+7,21,Gustavo,Bahia - BA,in
+8,21,Edson,Bahia - BA,out
+9,21,Joao Paulo,Bahia - BA,in
+10,21,Regis,Bahia - BA,out
+11,21,Juninho,Bahia - BA,in
+12,22,Kelvin,Vasco da Gama - RJ,out
+13,22,Manga,Vasco da Gama - RJ,in
+14,22,Yago,Vasco da Gama - RJ,out
+15,22,Nene,Vasco da Gama - RJ,in
+16,22,Mateus,Vasco da Gama - RJ,out
+17,22,LUIZ,Vasco da Gama - RJ,in
+18,22,Douglas,Fluminense - RJ,out
+19,22,Marcos Jr,Fluminense - RJ,in
+20,22,Gustavo Scarpa,Fluminense - RJ,out
+21,22,Marquinho,Fluminense - RJ,in
+22,22,Richarlison,Fluminense - RJ,out
+23,22,Maranhão,Fluminense - RJ,in
+24,23,Renato,Santos - SP,out
+25,23,Kayke,Santos - SP,in
+26,23,Zeca,Santos - SP,out
+27,23,Copete,Santos - SP,in
+28,23,Vladimir Hernandez,Santos - SP,out
+29,23,Sousa,Santos - SP,in
+30,23,Hudson,Cruzeiro - MG,out
+31,23,Ábila,Cruzeiro - MG,in
+32,23,Dedé,Cruzeiro - MG,out
+33,23,K.caicedo,Cruzeiro - MG,in
+34,23,De Arrascaeta,Cruzeiro - MG,out
+35,23,Thiago Neves,Cruzeiro - MG,in
+36,24,Luiz,São Paulo - SP,out
+37,24,Chavez,São Paulo - SP,in
+38,24,Lucas Pratto,São Paulo - SP,out
+39,24,Eder Militão,São Paulo - SP,in
+40,24,Cueva,São Paulo - SP,out
+41,24,Antonio,São Paulo - SP,in
+42,24,Felipe Melo,Palmeiras - SP,out
+43,24,Borja,Palmeiras - SP,in
+44,24,Willian,Palmeiras - SP,out
+45,24,Roger Guedes,Palmeiras - SP,in
+46,24,Guerra,Palmeiras - SP,out
+47,24,Keno,Palmeiras - SP,in
+48,25,Adilson,Atlético - MG,out
+49,25,Maicosuel,Atlético - MG,in
+50,25,Cazares,Atlético - MG,out
+51,25,Rafael Moura,Atlético - MG,in
+52,25,Robinho,Atlético - MG,out
+53,25,Otero,Atlético - MG,in
+54,25,Wendel,Ponte Preta - SP,out
+55,25,Rodrigo,Ponte Preta - SP,in
+56,25,Lins,Ponte Preta - SP,out
+57,25,Claudio,Ponte Preta - SP,in
+58,25,Ravanelli,Ponte Preta - SP,out
+59,25,Léo Artur,Ponte Preta - SP,in
+60,26,Grafite,Atlético - PR,out
+61,26,Ederson,Atlético - PR,in
+62,26,Nikao,Atlético - PR,out
+63,26,Douglas,Atlético - PR,in
+64,26,Lucho Gonzalez,Atlético - PR,out
+65,26,Guilherme,Atlético - PR,in
+66,26,Matheus Savio,Flamengo - RJ,out
+67,26,Vinicius Jr.,Flamengo - RJ,in
+68,26,Mancuello,Flamengo - RJ,out
+69,26,Lucas Paquetá,Flamengo - RJ,in
+70,26,Cuellar,Flamengo - RJ,out
+71,26,Rodinei,Flamengo - RJ,in
+72,27,Osvaldo,Sport - PE,out
+73,27,Thallyson,Sport - PE,in
+74,27,Rogerio,Sport - PE,out
+75,27,R. Lenis,Sport - PE,in
+76,27,Everton Felipe,Sport - PE,out
+77,27,Marquinhos,Sport - PE,in
+78,27,Everton,Grêmio - RS,out
+79,27,Pepe,Grêmio - RS,in
+80,27,Nicolas Careca,Grêmio - RS,out
+81,27,Lima,Grêmio - RS,in
+82,27,Bruno Rodrigo,Grêmio - RS,out
+83,27,Beto da Silva,Grêmio - RS,in
+84,28,Willian,Vitória - BA,out
+85,28,Fael,Vitória - BA,in
+86,28,Paulinho,Vitória - BA,out
+87,28,Pineda,Vitória - BA,in
+88,28,Cleiton Xavier,Vitória - BA,out
+89,28,Pisculichi,Vitória - BA,in
+90,28,Alan Santos,Coritiba - PR,out
+91,28,Tiago Real,Coritiba - PR,in
+92,28,Neto Berola,Coritiba - PR,out
+93,28,Rildo,Coritiba - PR,in
+94,28,Tomas Bastos,Coritiba - PR,out
+95,28,Jonas,Coritiba - PR,in
+96,29,Eduardo Diniz,Atlético - GO,out
+97,29,Andre,Atlético - GO,in
+98,29,Everaldo,Atlético - GO,out
+99,29,Junior Vicosa,Atlético - GO,in
+100,29,Luiz Fernando,Atlético - GO,out
+101,29,Andrigo,Atlético - GO,in
+102,29,Jadson,Corinthians - SP,out
+103,29,Clayson,Corinthians - SP,in
+104,29,Jo,Corinthians - SP,out
+105,29,Kazim-richards,Corinthians - SP,in
+106,29,Angel Romero,Corinthians - SP,out
+107,29,Clayton,Corinthians - SP,in
+108,30,Wellington Paulista,Chapecoense - SC,out
+109,30,Tulio de Melo,Chapecoense - SC,in
+110,30,Arthur,Chapecoense - SC,out
+111,30,Niltinho,Chapecoense - SC,in
+112,30,Seijas,Chapecoense - SC,out
+113,30,Odair,Chapecoense - SC,in
+114,30,Marquinhos,Avaí - SC,out
+115,30,Diego,Avaí - SC,in
+116,30,Judson,Avaí - SC,out
+117,30,Lucas,Avaí - SC,in
+118,30,Denilson,Avaí - SC,out
+119,30,Lourenço,Avaí - SC,in

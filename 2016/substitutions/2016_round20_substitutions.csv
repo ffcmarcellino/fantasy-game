@@ -1,0 +1,119 @@
+,match_num,player_name_2,player_team,player_status
+0,191,Vander,Vitória - BA,out
+1,191,Dagoberto,Vitória - BA,in
+2,191,Diogo,Vitória - BA,out
+3,191,Welison,Vitória - BA,in
+4,191,Flavio,Vitória - BA,out
+5,191,Marcelo,Vitória - BA,in
+6,191,Derley,Santa Cruz - PE,out
+7,191,Danilo,Santa Cruz - PE,in
+8,191,Joao Paulo,Santa Cruz - PE,out
+9,191,Wallyson,Santa Cruz - PE,in
+10,191,Arthur,Santa Cruz - PE,out
+11,191,Matias Pisano,Santa Cruz - PE,in
+12,192,Wendel,Ponte Preta - SP,out
+13,192,Abuda,Ponte Preta - SP,in
+14,192,William,Ponte Preta - SP,out
+15,192,Wellington Paulista,Ponte Preta - SP,in
+16,192,Clayson,Ponte Preta - SP,out
+17,192,Jeferson,Ponte Preta - SP,in
+18,192,Gustavo Ermel,Figueirense - SC,out
+19,192,Bady,Figueirense - SC,in
+20,192,Ferrugem,Figueirense - SC,out
+21,192,Yago Felipe,Figueirense - SC,in
+22,192,Rafael Moura,Figueirense - SC,out
+23,192,Maurides,Figueirense - SC,in
+24,193,Diego Souza,Sport - PE,out
+25,193,Edmilson dos Santos Silva,Sport - PE,in
+26,193,Gabriel Xavier,Sport - PE,out
+27,193,Rodrigo Mancha,Sport - PE,in
+28,193,Everton Felipe,Sport - PE,out
+29,193,Apodi,Sport - PE,in
+30,193,Chiquinho,Flamengo - RJ,out
+31,193,Adryan,Flamengo - RJ,in
+32,193,Marcio Araujo,Flamengo - RJ,out
+33,193,Alan Patrick,Flamengo - RJ,in
+34,193,Marcelo Cirino,Flamengo - RJ,out
+35,193,Leandro Damiao,Flamengo - RJ,in
+36,194,Henrique Dourado,Fluminense - RJ,out
+37,194,Samuel,Fluminense - RJ,in
+38,194,Gustavo Scarpa,Fluminense - RJ,out
+39,194,Danilinho,Fluminense - RJ,in
+40,194,Marcos Jr,Fluminense - RJ,out
+41,194,Marquinho,Fluminense - RJ,in
+42,194,Claudinei,América - MG,out
+43,194,Danilo,América - MG,in
+44,194,Michael,América - MG,out
+45,194,Diego,América - MG,in
+46,194,Matheusinho,América - MG,out
+47,194,Bruno Savio,América - MG,in
+48,195,Maicon,Grêmio - RS,out
+49,195,Ramiro,Grêmio - RS,in
+50,195,Everton,Grêmio - RS,out
+51,195,Guilherme Augusto,Grêmio - RS,in
+52,195,Jailson,Grêmio - RS,out
+53,195,Kaio,Grêmio - RS,in
+54,195,Marquinhos Gabriel,Corinthians - SP,out
+55,195,Guilherme,Corinthians - SP,in
+56,195,Giovanni Augusto,Corinthians - SP,out
+57,195,Marlone,Corinthians - SP,in
+58,195,Andre,Corinthians - SP,out
+59,195,Lucca,Corinthians - SP,in
+60,196,Renato,Santos - SP,out
+61,196,David Braz,Santos - SP,in
+62,196,Sousa,Santos - SP,out
+63,196,Yuri,Santos - SP,in
+64,196,Leo Cittadini,Santos - SP,out
+65,196,Rafael Longuine,Santos - SP,in
+66,196,Maicosuel,Atlético - MG,out
+67,196,Carlos Alberto Carvalho,Atlético - MG,in
+68,196,Fred,Atlético - MG,out
+69,196,Otero,Atlético - MG,in
+70,196,Robinho,Atlético - MG,out
+71,196,Clayton,Atlético - MG,in
+72,197,Fabio,Cruzeiro - MG,out
+73,197,Lucas França,Cruzeiro - MG,in
+74,197,Rafinha,Cruzeiro - MG,out
+75,197,Marcos Vinicius,Cruzeiro - MG,in
+76,197,De Arrascaeta,Cruzeiro - MG,out
+77,197,Willian,Cruzeiro - MG,in
+78,197,Neto Berola,Coritiba - PR,out
+79,197,G. Parede,Coritiba - PR,in
+80,197,Raphael Veiga,Coritiba - PR,out
+81,197,Fabio,Coritiba - PR,in
+82,197,Kazim-richards,Coritiba - PR,out
+83,197,Vinicius,Coritiba - PR,in
+84,198,Kelvin,São Paulo - SP,out
+85,198,Pedro,São Paulo - SP,in
+86,198,Hudson,São Paulo - SP,out
+87,198,Luiz,São Paulo - SP,in
+88,198,Mena,São Paulo - SP,out
+89,198,Carlinhos,São Paulo - SP,in
+90,198,Bruno Silva,Botafogo - RJ,out
+91,198,Pimpao,Botafogo - RJ,in
+92,198,Neilton,Botafogo - RJ,out
+93,198,Jonathan,Botafogo - RJ,in
+94,198,Canales,Botafogo - RJ,out
+95,198,Sassá,Botafogo - RJ,in
+96,199,Léo,Atlético - PR,out
+97,199,Matheus,Atlético - PR,in
+98,199,Luciano Cabral,Atlético - PR,out
+99,199,Andre Lima,Atlético - PR,in
+100,199,Yago,Atlético - PR,out
+101,199,Marcos Guilherme,Atlético - PR,in
+102,199,Dudu,Palmeiras - SP,out
+103,199,Rafael Marques,Palmeiras - SP,in
+104,199,Erik,Palmeiras - SP,out
+105,199,Fabricio,Palmeiras - SP,in
+106,199,Roger Guedes,Palmeiras - SP,out
+107,199,Cleiton Xavier,Palmeiras - SP,in
+108,200,Hyoran,Chapecoense - SC,out
+109,200,Bruno Rangel,Chapecoense - SC,in
+110,200,Tiago Rocha,Chapecoense - SC,out
+111,200,Martinucio,Chapecoense - SC,in
+112,200,Gil,Chapecoense - SC,out
+113,200,Matheus Biteco,Chapecoense - SC,in
+114,200,Valdivia,Internacional - RS,out
+115,200,Gustavo Ferrareis,Internacional - RS,in
+116,200,Seijas,Internacional - RS,out
+117,200,Alex,Internacional - RS,in

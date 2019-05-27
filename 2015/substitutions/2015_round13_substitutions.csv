@@ -1,0 +1,115 @@
+,match_num,player_name_2,player_team,player_status
+0,121,Paulo Ricardo,Santos - SP,out
+1,121,Leonardo Moura,Santos - SP,in
+2,121,Gabriel B.,Santos - SP,out
+3,121,Marquinhos Gabriel,Santos - SP,in
+4,121,Thiago Maia,Santos - SP,out
+5,121,Lucas,Santos - SP,in
+6,121,Yago Felipe,Figueirense - SC,out
+7,121,Ricardinho,Figueirense - SC,in
+8,121,Everaldo,Figueirense - SC,out
+9,121,Marcao,Figueirense - SC,in
+10,121,Roberto Cereceda,Figueirense - SC,out
+11,121,Marquinhos Pedroso,Figueirense - SC,in
+12,122,M. Oliveira,Grêmio - RS,out
+13,122,Marcelo Hermes,Grêmio - RS,in
+14,122,Douglas,Grêmio - RS,out
+15,122,Edinho,Grêmio - RS,in
+16,122,Galhardo,Grêmio - RS,out
+17,122,Lucas Ramon,Grêmio - RS,in
+18,122,Christiano,Vasco da Gama - RJ,out
+19,122,Gilberto,Vasco da Gama - RJ,in
+20,122,Dagoberto,Vasco da Gama - RJ,out
+21,122,Herrera,Vasco da Gama - RJ,in
+22,122,Riascos,Vasco da Gama - RJ,out
+23,122,Eder,Vasco da Gama - RJ,in
+24,123,Renato Caja,Ponte Preta - SP,out
+25,123,Cesar,Ponte Preta - SP,in
+26,123,Felipe Azevedo,Ponte Preta - SP,out
+27,123,Keno,Ponte Preta - SP,in
+28,123,Diego,Ponte Preta - SP,out
+29,123,Borges,Ponte Preta - SP,in
+30,123,Maicosuel,Atlético - MG,out
+31,123,Carlos Alberto Carvalho,Atlético - MG,in
+32,123,Thiago Ribeiro,Atlético - MG,out
+33,123,Luan,Atlético - MG,in
+34,123,Giovanni Augusto,Atlético - MG,out
+35,123,Josue,Atlético - MG,in
+36,124,GANSO,São Paulo - SP,out
+37,124,Gabriel,São Paulo - SP,in
+38,124,Hudson,São Paulo - SP,out
+39,124,João Schmidt,São Paulo - SP,in
+40,124,Centurion,São Paulo - SP,out
+41,124,Matheus Reis,São Paulo - SP,in
+42,124,Alan Santos,Coritiba - PR,out
+43,124,Esquerdinha,Coritiba - PR,in
+44,124,R. Ramos,Coritiba - PR,out
+45,124,Negueba,Coritiba - PR,in
+46,124,Fabricio,Coritiba - PR,out
+47,124,Ivan,Coritiba - PR,in
+48,125,Caceres,Flamengo - RJ,out
+49,125,Paulinho,Flamengo - RJ,in
+50,125,Gabriel,Flamengo - RJ,out
+51,125,Alan Patrick,Flamengo - RJ,in
+52,125,Jadson,Corinthians - SP,out
+53,125,Ralf,Corinthians - SP,in
+54,125,Renato Augusto,Corinthians - SP,out
+55,125,Rildo,Corinthians - SP,in
+56,125,Cássio,Corinthians - SP,out
+57,125,Walter,Corinthians - SP,in
+58,126,Ceara,Cruzeiro - MG,out
+59,126,Mayke,Cruzeiro - MG,in
+60,126,Joel,Cruzeiro - MG,out
+61,126,Vinicius Araujo,Cruzeiro - MG,in
+62,126,De Arrascaeta,Cruzeiro - MG,out
+63,126,Gabriel Xavier,Cruzeiro - MG,in
+64,126,David França,Goiás - GO,out
+65,126,Patrick,Goiás - GO,in
+66,126,Valmir,Goiás - GO,out
+67,126,Ygor,Goiás - GO,in
+68,126,Liniker,Goiás - GO,out
+69,126,Wesley,Goiás - GO,in
+70,127,Walter,Atlético - PR,out
+71,127,Cleo,Atlético - PR,in
+72,127,Marcos Guilherme,Atlético - PR,out
+73,127,Edigar Junio,Atlético - PR,in
+74,127,Wellington Silva,Fluminense - RJ,out
+75,127,Renato,Fluminense - RJ,in
+76,127,Rafael,Fluminense - RJ,out
+77,127,Marlon,Fluminense - RJ,in
+78,127,Gerson,Fluminense - RJ,out
+79,127,Lucas,Fluminense - RJ,in
+80,128,Marcelo Costa,Joinville - SC,out
+81,128,Willian Popp,Joinville - SC,in
+82,128,Rafael Donato,Joinville - SC,out
+83,128,Guti,Joinville - SC,in
+84,128,Rafael Moura,Internacional - RS,out
+85,128,Eduardo Sasha,Internacional - RS,in
+86,128,Vitinho,Internacional - RS,out
+87,128,Bertotto,Internacional - RS,in
+88,128,Artur,Internacional - RS,out
+89,128,Ze Mario,Internacional - RS,in
+90,129,Romulo,Avaí - SC,out
+91,129,Taua,Avaí - SC,in
+92,129,Roberto,Avaí - SC,out
+93,129,Tinga,Avaí - SC,in
+94,129,Renan,Avaí - SC,out
+95,129,Pablo,Avaí - SC,in
+96,129,Camilo,Chapecoense - SC,out
+97,129,Maranhão,Chapecoense - SC,in
+98,129,Bruno Silva,Chapecoense - SC,out
+99,129,Wanderson,Chapecoense - SC,in
+100,129,Hyoran,Chapecoense - SC,out
+101,129,Tiago Luis,Chapecoense - SC,in
+102,130,Wendel,Sport - PE,out
+103,130,Regis,Sport - PE,in
+104,130,Neto,Sport - PE,out
+105,130,Samuel,Sport - PE,in
+106,130,Rene,Sport - PE,out
+107,130,Danilo,Sport - PE,in
+108,130,Joao Paulo,Palmeiras - SP,out
+109,130,Joao Pedro,Palmeiras - SP,in
+110,130,Ze Roberto,Palmeiras - SP,out
+111,130,Andrei,Palmeiras - SP,in
+112,130,Dudu,Palmeiras - SP,out
+113,130,Kelvin,Palmeiras - SP,in

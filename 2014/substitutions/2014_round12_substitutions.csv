@@ -1,0 +1,117 @@
+,match_num,player_name_2,player_team,player_status
+0,111,Everton,Flamengo - RJ,out
+1,111,Gabriel,Flamengo - RJ,in
+2,111,Paulinho,Flamengo - RJ,out
+3,111,Negueba,Flamengo - RJ,in
+4,111,Lucas,Flamengo - RJ,out
+5,111,Hector,Flamengo - RJ,in
+6,111,Carlos Alberto,Botafogo - RJ,out
+7,111,Wallyson,Botafogo - RJ,in
+8,111,Yuri Mamute,Botafogo - RJ,out
+9,111,Daniel,Botafogo - RJ,in
+10,111,Bolatti,Botafogo - RJ,out
+11,111,Pablo Daniel,Botafogo - RJ,in
+12,112,Ronaldo,Sport - PE,out
+13,112,Willian,Sport - PE,in
+14,112,Ze Mario,Sport - PE,out
+15,112,Ailton,Sport - PE,in
+16,112,Ewerton,Sport - PE,out
+17,112,Oswaldo,Sport - PE,in
+18,112,Maicosuel,Atlético - MG,out
+19,112,Datolo,Atlético - MG,in
+20,112,Jo,Atlético - MG,out
+21,112,Luan,Atlético - MG,in
+22,112,Pierre,Atlético - MG,out
+23,112,Andre,Atlético - MG,in
+24,113,Renato Augusto,Corinthians - SP,out
+25,113,Danilo,Corinthians - SP,in
+26,113,Guerrero,Corinthians - SP,out
+27,113,Luciano,Corinthians - SP,in
+28,113,Angel Romero,Corinthians - SP,out
+29,113,Romarinho,Corinthians - SP,in
+30,113,Henrique Dourado,Palmeiras - SP,out
+31,113,Erik,Palmeiras - SP,in
+32,113,Mendieta,Palmeiras - SP,out
+33,113,Weverson,Palmeiras - SP,in
+34,114,Thiago Ribeiro,Santos - SP,out
+35,114,Gigio,Santos - SP,in
+36,114,Alison,Santos - SP,out
+37,114,Souza,Santos - SP,in
+38,114,Rildo,Santos - SP,out
+39,114,Diego,Santos - SP,in
+40,114,Camilo,Chapecoense - SC,out
+41,114,Leandro,Chapecoense - SC,in
+42,114,Odair,Chapecoense - SC,out
+43,114,Zezinho,Chapecoense - SC,in
+44,114,Ricardo Conceicao,Chapecoense - SC,out
+45,114,Abuda,Chapecoense - SC,in
+46,115,Ederson,Atletico - PR,out
+47,115,Guilherme,Atletico - PR,in
+48,115,Otavio,Atletico - PR,out
+49,115,Bady,Atletico - PR,in
+50,115,Douglas,Atletico - PR,out
+51,115,Mosquito,Atletico - PR,in
+52,115,Carlos Henrique,Fluminense - RJ,out
+53,115,Elivelton,Fluminense - RJ,in
+54,115,Rafael Sobis,Fluminense - RJ,out
+55,115,Walter,Fluminense - RJ,in
+56,115,Wagner,Fluminense - RJ,out
+57,115,Chiquinho,Fluminense - RJ,in
+58,116,Ceara,Cruzeiro - MG,out
+59,116,Mayke,Cruzeiro - MG,in
+60,116,Marcelo Moreno,Cruzeiro - MG,out
+61,116,Marlone,Cruzeiro - MG,in
+62,116,Marquinhos,Cruzeiro - MG,out
+63,116,Dagoberto,Cruzeiro - MG,in
+64,116,Pablo,Figueirense - SC,out
+65,116,Everaldo,Figueirense - SC,in
+66,116,Luan,Figueirense - SC,out
+67,116,Leandro Silva,Figueirense - SC,in
+68,116,Roberto Cereceda,Figueirense - SC,out
+69,116,Felipe,Figueirense - SC,in
+70,117,H. Almeida,Bahia - BA,out
+71,117,Biancucchi,Bahia - BA,in
+72,117,Branquinho,Bahia - BA,out
+73,117,Wiliam Barbio,Bahia - BA,in
+74,117,Rhayner,Bahia - BA,out
+75,117,Lima,Bahia - BA,in
+76,117,Alex,Internacional - RS,out
+77,117,Ygor,Internacional - RS,in
+78,117,Dalessandro,Internacional - RS,out
+79,117,Eduardo Sasha,Internacional - RS,in
+80,117,Alan Patrick,Internacional - RS,out
+81,117,Claudio Winck,Internacional - RS,in
+82,118,Fernandinho,Grêmio - RS,out
+83,118,Jean Deretti,Grêmio - RS,in
+84,118,Saimon,Grêmio - RS,out
+85,118,Matias,Grêmio - RS,in
+86,118,Ramiro,Grêmio - RS,out
+87,118,Rodriguinho,Grêmio - RS,in
+88,118,Robinho,Coritiba - PR,out
+89,118,Elber,Coritiba - PR,in
+90,118,Ze Eduardo,Coritiba - PR,out
+91,118,Helder,Coritiba - PR,in
+92,118,Dudu,Coritiba - PR,out
+93,118,Keirrison,Coritiba - PR,in
+94,119,Michael,Criciuma - SC,out
+95,119,Danilo,Criciuma - SC,in
+96,119,Paulo Baier,Criciuma - SC,out
+97,119,Lucca,Criciuma - SC,in
+98,119,Richarlyson,Vitória - BA,out
+99,119,William Henrique,Vitória - BA,in
+100,119,Caio,Vitória - BA,out
+101,119,Willie,Vitória - BA,in
+102,119,Marcelo,Vitória - BA,out
+103,119,Luiz,Vitória - BA,in
+104,120,Bruno Mineiro,Goiás - GO,out
+105,120,Welinton,Goiás - GO,in
+106,120,Ramon,Goiás - GO,out
+107,120,Tiago Real,Goiás - GO,in
+108,120,Erik,Goiás - GO,out
+109,120,Valmir,Goiás - GO,in
+110,120,Souza,São Paulo - SP,out
+111,120,Osvaldo,São Paulo - SP,in
+112,120,Ademilson,São Paulo - SP,out
+113,120,Alexandre Pato,São Paulo - SP,in
+114,120,Lucas,São Paulo - SP,out
+115,120,Maicon,São Paulo - SP,in

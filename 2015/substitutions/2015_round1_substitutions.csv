@@ -1,0 +1,119 @@
+,match_num,player_name_2,player_team,player_status
+0,1,Valdivia,Palmeiras - SP,out
+1,1,Egidio,Palmeiras - SP,in
+2,1,Dudu,Palmeiras - SP,out
+3,1,Kelvin,Palmeiras - SP,in
+4,1,Gabriel,Palmeiras - SP,out
+5,1,Alan Patrick,Palmeiras - SP,in
+6,1,Cardenas,Atlético - MG,out
+7,1,Carlos Alberto Carvalho,Atlético - MG,in
+8,1,Eduardo,Atlético - MG,out
+9,1,Danilo,Atlético - MG,in
+10,1,Giovanni Augusto,Atlético - MG,out
+11,1,Dodo,Atlético - MG,in
+12,2,Camilo,Chapecoense - SC,out
+13,2,Maylson,Chapecoense - SC,in
+14,2,Ananias,Chapecoense - SC,out
+15,2,Maranhão,Chapecoense - SC,in
+16,2,Hyoran,Chapecoense - SC,out
+17,2,Bruno Silva,Chapecoense - SC,in
+18,2,Negueba,Coritiba - PR,out
+19,2,Rodolfo,Coritiba - PR,in
+20,2,Luccas Claro,Coritiba - PR,out
+21,2,Thiago,Coritiba - PR,in
+22,2,Pedro Ken,Coritiba - PR,out
+23,2,Mateus,Coritiba - PR,in
+24,3,Pierre,Fluminense - RJ,out
+25,3,Robert,Fluminense - RJ,in
+26,3,Giovanni,Fluminense - RJ,out
+27,3,Vinicius,Fluminense - RJ,in
+28,3,Gerson,Fluminense - RJ,out
+29,3,Wagner,Fluminense - RJ,in
+30,3,Wellington Saci,Joinville - SC,out
+31,3,Dankler,Joinville - SC,in
+32,3,Augusto Cesar,Joinville - SC,out
+33,3,Willian Popp,Joinville - SC,in
+34,3,Welinton,Joinville - SC,out
+35,3,Anselmo,Joinville - SC,in
+36,4,Luis Fabiano,São Paulo - SP,out
+37,4,Thiago Mendes,São Paulo - SP,in
+38,4,Hudson,São Paulo - SP,out
+39,4,GANSO,São Paulo - SP,in
+40,4,Gabriel,São Paulo - SP,out
+41,4,Alexandre Pato,São Paulo - SP,in
+42,4,Hector,Flamengo - RJ,out
+43,4,Eduardo da Silva,Flamengo - RJ,in
+44,4,Gabriel,Flamengo - RJ,out
+45,4,Arthur,Flamengo - RJ,in
+46,4,Almir,Flamengo - RJ,out
+47,4,Lucas,Flamengo - RJ,in
+48,5,Gabriel Xavier,Cruzeiro - MG,out
+49,5,Judivan,Cruzeiro - MG,in
+50,5,Charles,Cruzeiro - MG,out
+51,5,Willian,Cruzeiro - MG,in
+52,5,Fabiano,Cruzeiro - MG,out
+53,5,Mayke,Cruzeiro - MG,in
+54,5,Danilo,Corinthians - SP,out
+55,5,Emerson Sheik,Corinthians - SP,in
+56,5,Vagner Love,Corinthians - SP,out
+57,5,Angel Romero,Corinthians - SP,in
+58,5,Malcom,Corinthians - SP,out
+59,5,Mendoza,Corinthians - SP,in
+60,6,Felipe,Atlético - PR,out
+61,6,Hernani,Atlético - PR,in
+62,6,Marcos Guilherme,Atlético - PR,out
+63,6,Nikao,Atlético - PR,in
+64,6,Marco Damasceno,Atlético - PR,out
+65,6,Douglas,Atlético - PR,in
+66,6,Léo,Internacional - RS,out
+67,6,Alex,Internacional - RS,in
+68,6,Vitinho,Internacional - RS,out
+69,6,Valdivia,Internacional - RS,in
+70,6,Claudio Winck,Internacional - RS,out
+71,6,Alisson Farias,Internacional - RS,in
+72,7,Wendel,Sport - PE,out
+73,7,Rodrigo Mancha,Sport - PE,in
+74,7,Elber,Sport - PE,out
+75,7,Mike,Sport - PE,in
+76,7,Joelinton,Sport - PE,out
+77,7,Regis,Sport - PE,in
+78,7,Nirley,Figueirense - SC,out
+79,7,Henrique,Figueirense - SC,in
+80,7,Jean Deretti,Figueirense - SC,out
+81,7,Leonardo,Figueirense - SC,in
+82,7,Dudu,Figueirense - SC,out
+83,7,Mazola,Figueirense - SC,in
+84,8,Rafael Silva,Vasco da Gama - RJ,out
+85,8,Yago,Vasco da Gama - RJ,in
+86,8,Dagoberto,Vasco da Gama - RJ,out
+87,8,Marcio,Vasco da Gama - RJ,in
+88,8,Serginho,Vasco da Gama - RJ,out
+89,8,Bernardo,Vasco da Gama - RJ,in
+90,8,Rafael,Goiás - GO,out
+91,8,Paulo,Goiás - GO,in
+92,8,Felipe,Goiás - GO,out
+93,8,Esquerdinha,Goiás - GO,in
+94,8,Wesley,Goiás - GO,out
+95,8,Lucas,Goiás - GO,in
+96,9,Giuliano,Grêmio - RS,out
+97,9,Douglas,Grêmio - RS,in
+98,9,Galhardo,Grêmio - RS,out
+99,9,Matias,Grêmio - RS,in
+100,9,Lincoln,Grêmio - RS,out
+101,9,Everton,Grêmio - RS,in
+102,9,Josimar,Ponte Preta - SP,out
+103,9,Juninho,Ponte Preta - SP,in
+104,9,Paulinho,Ponte Preta - SP,out
+105,9,Diego,Ponte Preta - SP,in
+106,9,Rildo,Ponte Preta - SP,out
+107,9,Felipe Azevedo,Ponte Preta - SP,in
+108,10,Anderson,Avaí - SC,out
+109,10,Everton Silva,Avaí - SC,in
+110,10,Renan,Avaí - SC,out
+111,10,Roberto,Avaí - SC,in
+112,10,Werley,Santos - SP,out
+113,10,Gustavo,Santos - SP,in
+114,10,Chiquinho,Santos - SP,out
+115,10,Cicinho,Santos - SP,in
+116,10,Gigio,Santos - SP,out
+117,10,Gabriel B.,Santos - SP,in

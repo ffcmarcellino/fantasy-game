@@ -1,0 +1,121 @@
+,match_num,player_name_2,player_team,player_status
+0,21,Rodrigo,Botafogo - RJ,out
+1,21,Marquinhos,Botafogo - RJ,in
+2,21,Gêge,Botafogo - RJ,out
+3,21,Neilton,Botafogo - RJ,in
+4,21,Salgueiro,Botafogo - RJ,out
+5,21,Gervasio,Botafogo - RJ,in
+6,21,Nikao,Atlético - PR,out
+7,21,Anderson,Atlético - PR,in
+8,21,Pablo,Atlético - PR,out
+9,21,Vinicius,Atlético - PR,in
+10,21,Andre Lima,Atlético - PR,out
+11,21,Walter,Atlético - PR,in
+12,22,Felipe Vizeu,Flamengo - RJ,out
+13,22,Eder,Flamengo - RJ,in
+14,22,Juan,Flamengo - RJ,out
+15,22,Rafael Dumas,Flamengo - RJ,in
+16,22,Marcelo Cirino,Flamengo - RJ,out
+17,22,Emerson Sheik,Flamengo - RJ,in
+18,22,Silvinho,Chapecoense - SC,out
+19,22,Rodrigo,Chapecoense - SC,in
+20,22,Lucas,Chapecoense - SC,out
+21,22,Hyoran,Chapecoense - SC,in
+22,22,Bruno Rangel,Chapecoense - SC,out
+23,22,Kempes,Chapecoense - SC,in
+24,23,Guilherme Queiroz,Figueirense - SC,out
+25,23,Dudu,Figueirense - SC,in
+26,23,Bady,Figueirense - SC,out
+27,23,Ortega,Figueirense - SC,in
+28,23,Elicarlos,Figueirense - SC,out
+29,23,Gustavo Ermel,Figueirense - SC,in
+30,23,Vitor Bueno,Santos - SP,out
+31,23,Sergio,Santos - SP,in
+32,23,Joel,Santos - SP,out
+33,23,Luiz,Santos - SP,in
+34,23,Rafael Longuine,Santos - SP,out
+35,23,Matheus,Santos - SP,in
+36,24,Alison,América - MG,out
+37,24,Artur,América - MG,in
+38,24,Rafael Bastos,América - MG,out
+39,24,Wiliam Barbio,América - MG,in
+40,24,Tiago Luis,América - MG,out
+41,24,Ernandes,América - MG,in
+42,24,Leandro,Vitória - BA,out
+43,24,Euller,Vitória - BA,in
+44,24,Tiago Real,Vitória - BA,out
+45,24,Dagoberto,Vitória - BA,in
+46,24,Marinho,Vitória - BA,out
+47,24,Alipio,Vitória - BA,in
+48,25,Leo Moura,Santa Cruz - PE,out
+49,25,Leandro Lima,Santa Cruz - PE,in
+50,25,Fernando Gabriel,Santa Cruz - PE,out
+51,25,Joao Paulo,Santa Cruz - PE,in
+52,25,Bolano,Santa Cruz - PE,out
+53,25,Wallyson,Santa Cruz - PE,in
+54,25,Lucas,Cruzeiro - MG,out
+55,25,Fabricio Bruno,Cruzeiro - MG,in
+56,25,De Arrascaeta,Cruzeiro - MG,out
+57,25,Douglas,Cruzeiro - MG,in
+58,25,Ariel Cabral,Cruzeiro - MG,out
+59,25,Alex Sandro,Cruzeiro - MG,in
+60,26,Cleiton Xavier,Palmeiras - SP,out
+61,26,Alecsandro,Palmeiras - SP,in
+62,26,Egidio,Palmeiras - SP,out
+63,26,Moises,Palmeiras - SP,in
+64,26,Gabriel Jesus,Palmeiras - SP,out
+65,26,Ze Roberto,Palmeiras - SP,in
+66,26,Osvaldo,Fluminense - RJ,out
+67,26,Richarlison,Fluminense - RJ,in
+68,26,Gustavo Scarpa,Fluminense - RJ,out
+69,26,Magno Alves,Fluminense - RJ,in
+70,26,Edson,Fluminense - RJ,out
+71,26,Marcos Jr,Fluminense - RJ,in
+72,27,Vitinho,Internacional - RS,out
+73,27,Aylon,Internacional - RS,in
+74,27,Anselmo,Internacional - RS,out
+75,27,Gustavo Ferrareis,Internacional - RS,in
+76,27,Andrigo,Internacional - RS,out
+77,27,Nilton,Internacional - RS,in
+78,27,Serginho,Sport - PE,out
+79,27,Luiz Antonio,Sport - PE,in
+80,27,Vinicius Araujo,Sport - PE,out
+81,27,Tulio de Melo,Sport - PE,in
+82,27,Everton Felipe,Sport - PE,out
+83,27,R. Lenis,Sport - PE,in
+84,28,João Paulo,Coritiba - PR,out
+85,28,Thiago Lopes,Coritiba - PR,in
+86,28,Vinicius,Coritiba - PR,out
+87,28,Negueba,Coritiba - PR,in
+88,28,Cesar Gonzales,Coritiba - PR,out
+89,28,Weverson,Coritiba - PR,in
+90,28,Kelvin,São Paulo - SP,out
+91,28,Bruno,São Paulo - SP,in
+92,28,Auro,São Paulo - SP,out
+93,28,Rogerio,São Paulo - SP,in
+94,28,Lucas,São Paulo - SP,out
+95,28,Ytalo,São Paulo - SP,in
+96,29,Uendel,Corinthians - SP,out
+97,29,Guilherme Arana,Corinthians - SP,in
+98,29,Giovanni Augusto,Corinthians - SP,out
+99,29,Marlone,Corinthians - SP,in
+100,29,Luciano,Corinthians - SP,out
+101,29,Andre,Corinthians - SP,in
+102,29,Clayson,Ponte Preta - SP,out
+103,29,Thiago,Ponte Preta - SP,in
+104,29,Ravanelli,Ponte Preta - SP,out
+105,29,Cristian,Ponte Preta - SP,in
+106,29,Matheus Sousa de Jesus,Ponte Preta - SP,out
+107,29,Rene Junior,Ponte Preta - SP,in
+108,30,Carlos Cesar,Atlético - MG,out
+109,30,Patric,Atlético - MG,in
+110,30,Junior Urso,Atlético - MG,out
+111,30,Joao Victor,Atlético - MG,in
+112,30,Hyuri,Atlético - MG,out
+113,30,Pablo,Atlético - MG,in
+114,30,M. Oliveira,Grêmio - RS,out
+115,30,Marcelo Hermes,Grêmio - RS,in
+116,30,Fred,Grêmio - RS,out
+117,30,Bressan,Grêmio - RS,in
+118,30,H. Almeida,Grêmio - RS,out
+119,30,Everton,Grêmio - RS,in

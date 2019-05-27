@@ -1,0 +1,119 @@
+,match_num,player_name_2,player_team,player_status
+0,111,Rodrigo,Botafogo - RJ,out
+1,111,Marcos Vinicius,Botafogo - RJ,in
+2,111,Pimpao,Botafogo - RJ,out
+3,111,Guilherme Augusto,Botafogo - RJ,in
+4,111,Matheus Fernandes,Botafogo - RJ,out
+5,111,Camilo,Botafogo - RJ,in
+6,111,Rafael Moura,Atlético - MG,out
+7,111,Fred,Atlético - MG,in
+8,111,Marlone,Atlético - MG,out
+9,111,Cazares,Atlético - MG,in
+10,111,Yago Henrique Severino dos Santos,Atlético - MG,out
+11,111,Adilson,Atlético - MG,in
+12,112,Mateus,Vasco da Gama - RJ,out
+13,112,Wagner,Vasco da Gama - RJ,in
+14,112,Bruno Paulista,Vasco da Gama - RJ,out
+15,112,Andrey,Vasco da Gama - RJ,in
+16,112,Yago,Vasco da Gama - RJ,out
+17,112,Manga,Vasco da Gama - RJ,in
+18,112,Rhodolfo,Flamengo - RJ,out
+19,112,Leonardo,Flamengo - RJ,in
+20,112,Guerrero,Flamengo - RJ,out
+21,112,Leandro Damiao,Flamengo - RJ,in
+22,113,Renato,Santos - SP,out
+23,113,Leandro Donizete,Santos - SP,in
+24,113,Thiago Ribeiro,Santos - SP,out
+25,113,Arthur,Santos - SP,in
+26,113,Copete,Santos - SP,out
+27,113,Vladimir Hernandez,Santos - SP,in
+28,113,Marcinho,São Paulo - SP,out
+29,113,Shaylon,São Paulo - SP,in
+30,113,Denilson,São Paulo - SP,out
+31,113,Lucas,São Paulo - SP,in
+32,113,Buffarini,São Paulo - SP,out
+33,113,Wesley,São Paulo - SP,in
+34,114,Jo,Corinthians - SP,out
+35,114,Kazim-richards,Corinthians - SP,in
+36,114,Jadson,Corinthians - SP,out
+37,114,Pedro,Corinthians - SP,in
+38,114,Maycon,Corinthians - SP,out
+39,114,Camacho,Corinthians - SP,in
+40,114,Elton,Ponte Preta - SP,out
+41,114,Wendel,Ponte Preta - SP,in
+42,114,Renato Caja,Ponte Preta - SP,out
+43,114,Claudio,Ponte Preta - SP,in
+44,114,Jadson,Ponte Preta - SP,out
+45,114,Lins,Ponte Preta - SP,in
+46,115,Rafael Sobis,Cruzeiro - MG,out
+47,115,Sassá,Cruzeiro - MG,in
+48,115,Thiago Neves,Cruzeiro - MG,out
+49,115,Elber,Cruzeiro - MG,in
+50,115,Hudson,Cruzeiro - MG,out
+51,115,Lucas Silva,Cruzeiro - MG,in
+52,115,Ze Roberto,Palmeiras - SP,out
+53,115,Raphael Veiga,Palmeiras - SP,in
+54,115,Egidio,Palmeiras - SP,out
+55,115,Michel Bastos,Palmeiras - SP,in
+56,115,Mayke,Palmeiras - SP,out
+57,115,Keno,Palmeiras - SP,in
+58,116,Anderson,Coritiba - PR,out
+59,116,Alecsandro,Coritiba - PR,in
+60,116,Tiago Real,Coritiba - PR,out
+61,116,Tomas Bastos,Coritiba - PR,in
+62,116,M. Galdezani,Coritiba - PR,out
+63,116,Edinho,Coritiba - PR,in
+64,116,Osvaldo,Sport - PE,out
+65,116,Rogerio,Sport - PE,in
+66,116,Patrick,Sport - PE,out
+67,116,Rodrigo,Sport - PE,in
+68,116,Everton Felipe,Sport - PE,out
+69,116,Thallyson,Sport - PE,in
+70,117,Arthur,Grêmio - RS,out
+71,117,Miller Bolaños,Grêmio - RS,in
+72,117,Edilson,Grêmio - RS,out
+73,117,Everton,Grêmio - RS,in
+74,117,Lucas Barrios,Grêmio - RS,out
+75,117,Lincoln,Grêmio - RS,in
+76,117,Luan,Avaí - SC,out
+77,117,Simião,Avaí - SC,in
+78,117,Juan,Avaí - SC,out
+79,117,Willians,Avaí - SC,in
+80,117,Romulo,Avaí - SC,out
+81,117,Junior Dutra,Avaí - SC,in
+82,118,Vinicius,Bahia - BA,out
+83,118,Rodrigao,Bahia - BA,in
+84,118,Pablo Armero,Bahia - BA,out
+85,118,Gustavo Ferrareis,Bahia - BA,in
+86,118,Ze Rafael,Bahia - BA,out
+87,118,Joao Paulo,Bahia - BA,in
+88,118,Henrique Dourado,Fluminense - RJ,out
+89,118,Pedro,Fluminense - RJ,in
+90,118,Wellington Silva,Fluminense - RJ,out
+91,118,Marcos Jr,Fluminense - RJ,in
+92,118,Marcos Calazans,Fluminense - RJ,out
+93,118,Maranhão,Fluminense - RJ,in
+94,119,Eduardo Diniz,Atlético - GO,out
+95,119,Jonathan,Atlético - GO,in
+96,119,Breno,Atlético - GO,out
+97,119,Walter,Atlético - GO,in
+98,119,Adniellyson,Atlético - GO,out
+99,119,Niltinho,Atlético - GO,in
+100,119,Andre Lima,Vitória - BA,out
+101,119,Fael,Vitória - BA,in
+102,119,Willian,Vitória - BA,out
+103,119,Fred,Vitória - BA,in
+104,119,Yago Felipe,Vitória - BA,out
+105,119,Uillian Correia,Vitória - BA,in
+106,120,Apodi,Chapecoense - SC,out
+107,120,Moises,Chapecoense - SC,in
+108,120,Lucas,Chapecoense - SC,out
+109,120,Lourency,Chapecoense - SC,in
+110,120,Seijas,Chapecoense - SC,out
+111,120,Luiz Antonio,Chapecoense - SC,in
+112,120,Douglas,Atlético - PR,out
+113,120,Nicolas,Atlético - PR,in
+114,120,Matheus,Atlético - PR,out
+115,120,Eduardo,Atlético - PR,in
+116,120,Lucho Gonzalez,Atlético - PR,out
+117,120,Bruno Guimaraes,Atlético - PR,in
