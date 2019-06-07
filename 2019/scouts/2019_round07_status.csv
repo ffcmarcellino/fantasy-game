@@ -1,0 +1,770 @@
+,apelido,atleta_id,clube_id,foto,jogos_num,media_num,nome,pontos_num,posicao_id,preco_num,rodada_id,scout,slug,status_id,variacao_num
+0,Leo,71043,293,https://s.glbimg.com/es/sde/f/2018/03/01/5f4bc547ea7572a6909432c0c03d529b_FORMATO.png,0,0.0,Leonardo da Silva Vieira,0,1,3.0,7,,leo,6,0.0
+1,Diego Alves,38509,262,https://s.glbimg.com/es/sde/f/2019/04/26/7bdeffe6895011f6895be4a6de311fbe_FORMATO.png,4,2.5,Diego Alves Carreira,0,1,5.26,7,,diego-alves,7,1.06
+2,Lucho González,71479,293,https://s.glbimg.com/es/sde/f/2019/03/30/53d81b4d0fe0473120e74c998cbcd3bc_FORMATO.png,3,3.5,Luis Oscar González,0,4,6.41,7,,lucho-gonzalez,6,0.36
+3,Rogério,73540,265,https://s.glbimg.com/es/sde/f/2019/02/27/92700f5dfefdb214d227ca999caedfb3_FORMATO.png,5,3.1,José Rogério de Oliveira,0,5,9.47,7,,rogerio,6,0.0
+4,Jackson,70934,265,https://s.glbimg.com/es/sde/f/2019/03/29/8e6d89c654da352b89c77cb432a0df14_FORMATO.png,0,0.0,Jackson de Souza,0,3,6.0,7,,jackson,6,0.0
+5,Renê,78445,262,https://s.glbimg.com/es/sde/f/2019/04/26/f7f5e18054dd2e487e3f2851ce8e28b7_FORMATO.png,4,3.27,Renê Rodrigues Martins,0,2,7.72,7,,rene,7,0.0
+6,Bruno Henrique,90285,262,https://s.glbimg.com/es/sde/f/2019/04/26/195ab3662b5fad11e635fd74d6a2f401_FORMATO.png,6,6.8,Bruno Henrique Pinto,0,5,20.56,7,,bruno-henrique,7,0.0
+7,Marco Ruben,73741,293,https://s.glbimg.com/es/sde/f/2019/03/31/f20966ed6b70c83b4d440ca5028a8ee4_FORMATO.png,4,6.35,Marco Gastón Rubén Rodríguez,0,5,16.1,7,,marco-ruben,6,-0.74
+8,Pedro Geromel,80853,284,https://s.glbimg.com/es/sde/f/2018/05/21/afc76ea4e9c31e2977ea5e9a90c802b3_FORMATO.png,6,5.48,Pedro Tonon Geromel,0,3,12.07,7,,pedro-geromel,7,-1.99
+9,Douglas Friedrich,78584,265,https://s.glbimg.com/es/sde/f/2019/03/29/ef148b9e6c0fb1706902616959184e5b_FORMATO.png,6,6.42,Douglas Alan Schuck Friedrich,0,1,11.13,7,,douglas-friedrich,7,1.71
+10,Kannemann,87342,284,https://s.glbimg.com/es/sde/f/2018/05/21/7a4b8f949ed4d8b668d8c40a33e50edb_FORMATO.png,3,3.7,Walter Kannemann,0,3,14.7,7,,kannemann,5,0.0
+11,Elton,71719,265,https://s.glbimg.com/es/sde/f/2019/03/29/ba5687c390564e23e74776f29ea757f3_FORMATO.png,6,1.32,Elton Junior Melo Ataíde,0,4,4.67,7,,elton,7,0.11
+12,Renato,39572,315,https://s.glbimg.com/es/sde/f/2019/03/28/74aa8332c0e0807706717ee6b2595fa9_FORMATO.png,4,2.55,José Renato da Silva Júnior,0,5,5.74,7,,renato,6,0.0
+13,Élber,74140,265,https://s.glbimg.com/es/sde/f/2019/03/29/67d058ae9f531a675de3f44a9bb2735b_FORMATO.png,4,4.25,José Élber Pimentel da Silva,0,4,6.41,7,,elber,7,-0.09
+14,Lucas Fonseca,80189,265,https://s.glbimg.com/es/sde/f/2019/03/29/c40c54d7fdca6784ef754a182f9f81d0_FORMATO.png,7,2.6,Lucas Fonseca da Silva,0,3,5.71,7,,lucas-fonseca,7,1.16
+15,Moisés,90444,265,https://s.glbimg.com/es/sde/f/2019/02/27/931ddb4d808eb623c3d496fb36bea54e_FORMATO.png,5,4.88,Moisés Roberto Barbosa,0,2,12.37,7,,moises,7,0.88
+16,Arthur Caíke,80337,265,https://s.glbimg.com/es/sde/f/2019/02/27/3388dd10ab1c840b939f315bb52195b8_FORMATO.png,5,3.44,Arthur Caíke do Nascimento Cruz,0,5,10.24,7,,arthur-caike,6,-0.15
+17,Paulinho,91626,265,https://s.glbimg.com/es/sde/f/2019/03/29/54f523632cff7c65b72a884c01685b2e_FORMATO.png,2,4.35,Paulo Victor da Silva,0,2,4.86,7,,paulinho,6,0.0
+18,Clayton,81770,265,https://s.glbimg.com/es/sde/f/2019/03/29/517eea2fd0045d94a6d18118ffe21008_FORMATO.png,0,0.0,Clayton Silveira da Silva,0,5,5.0,7,,clayton,6,0.0
+19,Iago,90894,265,https://s.glbimg.com/es/sde/f/2019/02/27/dcc88b58ec19a30c867de346a51af9ba_FORMATO.png,0,0.0,Iago Antônio Silva Santos,0,5,2.0,7,,iago,6,0.0
+20,Flávio,91102,265,https://s.glbimg.com/es/sde/f/2019/03/29/b6aab56d50cf29e0e2a267d04614f4a1_FORMATO.png,1,0.0,Flávio Medeiros da Silva,0,4,2.25,7,,flavio,6,-0.75
+21,Fernandinho,91130,265,https://s.glbimg.com/es/sde/f/2019/03/29/062ea204ed60f2b4c3bdbcb2c506b6c1_FORMATO.png,0,0.0,Fernando José Marques Maciel,0,5,2.0,7,,fernandinho,6,0.0
+22,Luís Fernando,94971,265,https://s.glbimg.com/es/sde/f/2019/03/29/b8658c291123b2f260eb6762a0311864_FORMATO.png,0,0.0,Luís Fernando Santos da Conceição,0,4,1.0,7,,luis-fernando,6,0.0
+23,Douglas,92497,265,https://s.glbimg.com/es/sde/f/2019/02/27/f152fa1e4b0fdb632f4f9262c3072d92_FORMATO.png,5,3.2,Douglas Augusto Soares Gomes,0,4,6.02,7,,douglas,7,-0.45
+24,Marco Antônio,94975,265,https://s.glbimg.com/es/sde/f/2019/03/29/bb54c58fde4944da79ee5a0a033c3477_FORMATO.png,0,0.0,Marco Antônio Rosa Furtado Júnior,0,4,3.0,7,,marco-antonio,6,0.0
+25,Everson,91929,265,https://s.glbimg.com/es/sde/f/2019/03/29/405ace106e46aa9c9dd2059c2ec130e3_FORMATO.png,0,0.0,Everson Bispo Pereira,0,3,3.0,7,,everson,6,0.0
+26,Fernando Medeiros,92841,265,https://s.glbimg.com/es/sde/f/2019/02/27/d7d62e276bd5101031417c8ab4f7e691_FORMATO.png,0,0.0,Fernando Medeiros da Silva,0,4,2.0,7,,fernando-medeiros,6,0.0
+27,Felipinho,94981,265,https://s.glbimg.com/es/sde/f/2019/03/29/b815b1cd06738228903c58b06df8651f_FORMATO.png,0,0.0,Felipe Matheus Filgueira de Araújo,0,4,2.0,7,,felipinho,6,0.0
+28,Max,94982,265,https://s.glbimg.com/es/sde/f/2019/02/27/1742dc16d6ca6bb28a57dbd1123a9069_FORMATO.png,0,0.0,Max Alexandre dos Santos Silva,0,4,1.0,7,,max,6,0.0
+29,Yuri,83263,265,https://s.glbimg.com/es/sde/f/2019/03/29/c48336f0e13db7ffdf11a89b7fc63ee9_FORMATO.png,0,0.0,Yuri Lima Lara,0,4,1.0,7,,yuri,6,0.0
+30,Artur,95799,265,https://s.glbimg.com/es/sde/f/2019/02/27/2eea5f20d7ca9c06beaf3b3e9c4f133c_FORMATO.png,7,4.47,Artur Victor Guimarães,0,5,10.21,7,,artur,7,-1.7
+31,Gregore,95464,265,https://s.glbimg.com/es/sde/f/2019/03/29/6ad2ae60d8a847b0dcfc712888763ff8_FORMATO.png,7,3.9,Gregore de Magalhães da Silva,0,4,11.69,7,,gregore,7,0.13
+32,Geovane Itinga,94980,265,https://s.glbimg.com/es/sde/f/2019/03/29/88378f9e43f39383c268b83aebcdfa20_FORMATO.png,0,0.0,Geovane Santana Souza,0,5,2.0,7,,geovane-itinga,6,0.0
+33,Bruno Nazário,81776,293,https://s.glbimg.com/es/sde/f/2019/03/30/23a1a1c9b0e58f10ebf65e3a02139cd9_FORMATO.png,1,0.0,Bruno dos Santos Nazário,0,4,2.21,7,,bruno-nazario,6,0.0
+34,Lepu,97522,265,https://s.glbimg.com/es/sde/f/2019/03/29/6db0e64df45a59f76114bfbac69d8b0f_FORMATO.png,0,0.0,Willean Bernardo Willemen,0,4,2.0,7,,lepu,6,0.0
+35,Jaques,104128,265,https://s.glbimg.com/es/sde/f/2019/03/29/0aa6fcfbdf775616d09fa583d45fecee_FORMATO.png,0,0.0,Jaques Bonfim Nazaré Neto,0,3,1.0,7,,jaques,6,0.0
+36,Rodrigo Alves,98184,265,https://s.glbimg.com/es/sde/f/2019/03/29/2fd96b3f1bb2dbf182a6dc5e85183537_FORMATO.png,0,0.0,Rodrigo Alves da Cruz,0,5,2.0,7,,rodrigo-alves,6,0.0
+37,Léo Pereira,83528,293,https://s.glbimg.com/es/sde/f/2019/03/30/201871306b5a466590adf1665d431285_FORMATO.png,6,4.4,Leonardo Pereira,0,3,10.22,7,,leo-pereira,6,1.57
+38,Tomás Andrade,97619,293,https://s.glbimg.com/es/sde/f/2019/03/30/a39638dfbd68303f98264fc322855b6c_FORMATO.png,5,1.48,Tomás Gustavo Andrade,0,4,5.04,7,,tomas-andrade,6,0.42
+39,Matheus Rossetto,86766,293,https://s.glbimg.com/es/sde/f/2019/03/30/05eb59cd87f511f9e069941d777aa540_FORMATO.png,2,2.7,Matheus Rossetto,0,4,3.6,7,,matheus-rossetto,6,0.0
+40,Renan Lodi,96591,293,https://s.glbimg.com/es/sde/f/2019/03/30/a69ce7a8dc1b05284bf5a5c9e7341f26_FORMATO.png,3,2.07,Renan Augusto Lodi dos Santos,0,2,7.57,7,,renan-lodi,6,0.0
+41,Tiago Nunes,98057,293,https://s.glbimg.com/es/sde/f/2019/03/30/f24c484018a5a11e2b67e34f6aa5f99f_FORMATO.png,7,3.85,Tiago Retzlaff Nunes,0,6,10.0,7,,tiago-nunes,7,0.94
+42,Erick,98022,293,https://s.glbimg.com/es/sde/f/2019/04/01/9717a07ef27fdd10d8ac6c25914a376e_FORMATO.png,3,0.83,Erick Luis Conrado de Carvalho,0,4,1.22,7,,erick,6,0.0
+43,Bill,95131,293,https://s.glbimg.com/es/sde/f/2018/05/15/0617ee23d3f6f13fb4bfcdcb786601b9_FORMATO.png,0,0.0,Gabriel Pereira Taliari,0,5,2.0,7,,bill,6,0.0
+44,Jaderson,98224,293,https://s.glbimg.com/es/sde/f/2019/03/30/832c92b15aa34fdde7be9738ca86c863_FORMATO.png,0,0.0,Jaderson Flores dos Reis,0,4,1.0,7,,jaderson,6,0.0
+45,Alex Nagib,98933,293,https://s.glbimg.com/es/sde/f/2019/04/01/2addc090f42dd1d5f895c46251867bce_FORMATO.png,0,0.0,Alex Teixeira dos Santos,0,4,1.0,7,,alex-nagib,6,0.0
+46,Bruno Guimarães,98352,293,https://s.glbimg.com/es/sde/f/2019/03/30/eb38985677869fa7ca820f8ae7cfcfa1_FORMATO.png,5,5.38,Bruno Guimarães Rodriguez Moura,0,4,13.04,7,,bruno-guimaraes,7,0.51
+47,Luiz Fernando,105176,293,https://s.glbimg.com/es/sde/f/2019/03/29/e24fbad9c5a59102582fe73677a63e71_FORMATO.png,0,0.0,Luiz Fernando Ferreira de Souza,0,5,2.0,7,,luiz-fernando,6,0.0
+48,Khellven ,105175,293,https://s.glbimg.com/es/sde/f/2019/03/08/91110929301e4f2e073c9610b9d9b036_FORMATO.jpeg,1,3.4,Khellven Douglas Silva Oliveira,0,2,1.64,7,,khellven,6,0.0
+49,Weverton Almeida,100459,293,https://s.glbimg.com/es/sde/f/2018/05/08/4c72622d78b8cfdc737c1eb48ea75370_FORMATO.png,0,0.0,Weverton Almeida Silva,0,3,2.0,7,,weverton-almeida,5,0.0
+50,Caio,99460,293,https://s.glbimg.com/es/sde/f/2018/03/01/87be2dd051653cd0a7a8ee5d52f910c8_FORMATO.png,1,-4.0,Caio Alan Tem Catem Gonçalves,0,1,0.74,7,,caio,6,0.0
+51,Bento,105208,293,https://s.glbimg.com/es/sde/f/2019/03/29/a096644c26f754ef9d0aef6a0e3d62c0_FORMATO.png,0,0.0,Bento Matheus Krepski,0,1,1.0,7,,bento,6,0.0
+52,Rony,91607,293,https://s.glbimg.com/es/sde/f/2019/03/30/e3a2125216bf497937a96f974e95aacd_FORMATO.png,5,9.1,Ronielson da Silva Barbosa,0,5,15.51,7,,rony,7,1.46
+53,Igor Campos,101421,315,https://s.glbimg.com/es/sde/f/2018/05/24/97ef928b4d8da38916e72a5166792dc8_FORMATO.png,0,0.0,Igor Henrique Pereira de Campos,0,1,1.0,7,,igor-campos,6,0.0
+54,Amaral,42232,315,https://s.glbimg.com/es/sde/f/2018/05/24/1c24cfcea8b33cf62a5b111551e4c34f_FORMATO.png,1,0.0,William José de Souza,0,4,3.47,7,,amaral,6,0.0
+55,Márcio Araújo,38311,315,https://s.glbimg.com/es/sde/f/2018/05/24/ad0bb7dfe5663137f7dcd53d1cddc61e_FORMATO.png,7,4.99,Márcio Rodrigues Araújo,0,4,9.73,7,,marcio-araujo,7,0.52
+56,Elicarlos,50313,315,https://s.glbimg.com/es/sde/f/2018/05/24/3e401f24a4a1c1988cafbd700ba6e5c5_FORMATO.png,4,2.12,Elicarlos Souza Santos,0,4,4.94,7,,elicarlos,7,-0.71
+57,Rodinei,73992,262,https://s.glbimg.com/es/sde/f/2019/04/26/cfed24bcffd157785687c5223fdb1106_FORMATO.png,3,-0.23,Rodinei Marcelo de Almeida,0,2,2.98,7,,rodinei,6,0.0
+58,Eduardo,50645,315,https://s.glbimg.com/es/sde/f/2018/05/24/315077e18e31e9afaf1e1c4bcb25f7e2_FORMATO.png,3,3.3,Carlos Eduardo Santos Oliveira,0,2,9.19,7,,eduardo,5,0.0
+59,Neto,69008,315,https://s.glbimg.com/es/sde/f/2018/08/01/51a34fdddb000e59403320c7aa8b8db4_FORMATO.png,0,0.0,Hélio Hermito Zampier Neto,0,3,2.0,7,,neto,6,0.0
+60,Douglas,63128,315,https://s.glbimg.com/es/sde/f/2018/05/24/4db663cbb6a8ecaa23942948844e63ac_FORMATO.png,6,-0.45,Douglas Silva Bacelar,0,3,1.96,7,,douglas,3,-0.57
+61,Rafael Pereira,51194,315,https://s.glbimg.com/es/sde/f/2019/03/28/d22ece348b83caa8bf2cd42abd7538e5_FORMATO.png,1,0.9,Rafael Pereira dos Santos,0,3,3.92,7,,rafael-pereira,7,0.0
+62,Augusto,71042,315,https://s.glbimg.com/es/sde/f/2019/03/28/a943ff6068ab0a2af942a381c74055b4_FORMATO.png,3,2.43,Augusto César dos Santos Moreira,0,4,4.0,7,,augusto,6,0.0
+63,Gum,68887,315,https://s.glbimg.com/es/sde/f/2019/03/26/488951a254180fbde4b0bad80672f6f8_FORMATO.png,7,2.81,Welington Pereira Rodrigues,0,3,7.02,7,,gum,7,-0.12
+64,Gustavo,86932,264,https://s.glbimg.com/es/sde/f/2019/05/23/e465cd357033b982d32052d767bea71d_FORMATO.png,2,1.35,Gustavo Henrique da Silva Sousa,0,5,4.2,7,,gustavo,6,0.0
+65,Fernando Castro,102609,265,https://s.glbimg.com/es/sde/f/2019/03/29/5d48e68e633e025554f7fb03e89b57cf_FORMATO.png,0,0.0,Fernando Augusto de Castro Ribeiro,0,1,2.0,7,,fernando-castro,6,0.0
+66,Ignácio,103523,265,https://s.glbimg.com/es/sde/f/2019/03/29/4aba5de37f22854b10a7562dc8d5cd4d_FORMATO.png,0,0.0,Ignácio da Silva Oliveira,0,3,2.0,7,,ignacio,6,0.0
+67,Alan Ruschel,63110,315,https://s.glbimg.com/es/sde/f/2018/05/24/ddefa1a922260aeb7a1835dd4a8117f5_FORMATO.png,4,0.98,Alan Luciano Ruschel,0,2,5.57,7,,alan-ruschel,6,0.0
+68,Xandão,101626,265,https://s.glbimg.com/es/sde/f/2019/03/29/af5d7ba38c3fbcc68c13b5fd2a8dd313_FORMATO.png,0,0.0,Alexandre Rodrigues Soares,0,3,2.0,7,,xandao,6,0.0
+69,Diego Cavalieri,38431,263,https://s.glbimg.com/es/sde/f/2019/03/22/660661f23332e4ee9ccda585ec5cec21_FORMATO.png,0,0.0,Diego Cavalieri,0,1,6.0,7,,diego-cavalieri,7,0.0
+70,Matheus Silva,101035,265,https://s.glbimg.com/es/sde/f/2019/03/29/d3524f5f0d162ddeaf053afbf4fcff29_FORMATO.png,0,0.0,Matheus de Barros da Silva,0,2,3.0,7,,matheus-silva,6,0.0
+71,Caíque,104591,265,https://s.glbimg.com/es/sde/f/2019/03/29/3a73b6353572e78678dbadc5d6e657c2_FORMATO.png,0,0.0,Caíque de Jesus da Silva,0,5,2.0,7,,caique,6,0.0
+72,Ramires,103295,265,https://s.glbimg.com/es/sde/f/2019/03/29/c45004f6a309f5dfe660c3becb1ad077_FORMATO.png,7,3.2,Eric dos Santos Rodrigues,0,4,11.78,7,,ramires,6,-0.74
+73,João Paulo,72168,263,https://s.glbimg.com/es/sde/f/2019/03/22/3b2ab0a4c2f206adcc40b24bfc972cbb_FORMATO.png,6,2.57,João Paulo Mior,0,4,7.97,7,,joao-paulo,7,0.39
+74,Gilson,52674,263,https://s.glbimg.com/es/sde/f/2019/03/22/0f83ef7ddff9bb0d276ef1c978e96cee_FORMATO.png,4,2.4,Gilson Gomes do Nascimento,0,2,5.9,7,,gilson,7,1.97
+75,Cícero,37688,263,https://s.glbimg.com/es/sde/f/2019/03/22/127a99bc778de63bbb214dc7e6215725_FORMATO.png,7,5.09,Cícero Santos,0,4,12.7,7,,cicero,7,-0.08
+76,Kieza,68930,356,https://s.glbimg.com/es/sde/f/2019/04/22/a6f002f3b99c385acbafd311e4b3da81_FORMATO.png,5,1.9,Welker Marçal de Almeida,0,5,4.27,7,,kieza,7,-0.72
+77,Jean,89150,263,https://s.glbimg.com/es/sde/f/2019/03/22/8384f77b74efecba7c81cb62ba4392f6_FORMATO.png,1,1.5,Jean Carlos de Souza Irmer,0,4,4.1,7,,jean,6,-0.9
+78,Rodrigo Pimpão,68901,263,https://s.glbimg.com/es/sde/f/2019/03/22/fb5c74a8057f05313adc6f9c2a6a4783_FORMATO.png,6,0.8,Rodrigo Pimpão Viana,0,5,2.53,7,,rodrigo-pimpao,6,1.31
+79,Alan Santos,70132,263,https://s.glbimg.com/es/sde/f/2019/03/22/1276ddf39afc2fbbc816f01fd6d4afb2_FORMATO.png,1,1.2,Alan Santos da Silva,0,4,3.28,7,,alan-santos,2,-0.72
+80,Alex Santana,85465,263,https://s.glbimg.com/es/sde/f/2019/03/22/18c2a6ba294467649a2ebdaf8c14b53a_FORMATO.png,5,3.84,Alex Paulo Menezes Santana,0,4,8.87,7,,alex-santana,2,0.0
+81,Marcinho,93797,263,https://s.glbimg.com/es/sde/f/2019/03/22/73ff5646586a9145ea6768297b10ac7d_FORMATO.png,3,2.2,Márcio Almeida de Oliveira,0,2,6.08,7,,marcinho,6,0.0
+82,Gabriel,87393,263,https://s.glbimg.com/es/sde/f/2019/03/22/0dc3b607fbf0f1db6f328cdcfd7169d0_FORMATO.png,7,4.23,Gabriel Costa França,0,3,9.17,7,,gabriel,7,1.76
+83,Joel Carli,93414,263,https://s.glbimg.com/es/sde/f/2019/03/22/5b148a93fa4bc73fb9ad91009dde28c2_FORMATO.png,6,2.93,Mauro Joel Carli,0,3,7.8,7,,joel-carli,7,1.08
+84,Diego,99430,263,https://s.glbimg.com/es/sde/f/2019/03/22/0f3250424ddb09fc96bd674ce29f8082_FORMATO.png,0,0.0,Diego Terra Loureiro,0,1,1.0,7,,diego,6,0.0
+85,Luiz Fernando ,90715,263,https://s.glbimg.com/es/sde/f/2018/05/17/555bb7e98091372b0b633a3623d5b40d_FORMATO.png,5,0.66,Luiz Fernando Moraes dos Santos,0,4,3.5,7,,luiz-fernando,7,-0.36
+86,Rildo,73635,315,https://s.glbimg.com/es/sde/f/2019/03/26/a767420a07d616038c0c02ad7324e41d_FORMATO.png,4,7.7,Rildo de Andrade Felicissimo,0,5,8.21,7,,rildo,2,-0.92
+87,Marcelo Benevenuto,95638,263,https://s.glbimg.com/es/sde/f/2019/03/22/0e2a859e1579e9ad52cd2edbc1297e88_FORMATO.png,1,-1.0,Marcelo da Conceição Benevenuto Malaquias,0,3,4.28,7,,marcelo-benevenuto,6,0.0
+88,Gustavo Ferrareis,89815,263,https://s.glbimg.com/es/sde/f/2019/03/22/26428f685d0f6779046837ace9c75bc4_FORMATO.png,2,0.75,Gustavo Henrique Ferrareis,0,4,3.07,7,,gustavo-ferrareis,6,0.0
+89,Gustavo Bochecha,95798,263,https://s.glbimg.com/es/sde/f/2019/03/22/c6c604c007ddce9a6af2b1b8a98f99ff_FORMATO.png,6,0.32,Gustavo Costa da Silva Machado,0,4,5.6,7,,gustavo-bochecha,6,-0.31
+90,Leonardo Valencia,91508,263,https://s.glbimg.com/es/sde/f/2019/03/22/92598d9c96fb60c7bb5e624f97b32f21_FORMATO.png,4,-0.48,Leonardo Felipe Valencia Rossel,0,4,3.74,7,,leonardo-valencia,6,0.0
+91,Gustavo Campanharo,72497,315,https://s.glbimg.com/es/sde/f/2019/03/26/9799555064b37105b45b0acc0e54c2b7_FORMATO.png,5,2.4,Gustavo Campanharo,0,4,3.83,7,,gustavo-campanharo,7,0.1
+92,Everaldo,78117,315,https://s.glbimg.com/es/sde/f/2019/03/28/06c711b652c1c301dcb21fa9dc4a4b81_FORMATO.png,7,7.09,Everaldo Stum,0,5,17.65,7,,everaldo,7,1.27
+93,Marllon,70666,264,https://s.glbimg.com/es/sde/f/2019/05/23/cc67b417a66e6a7ded54115b595d3620_FORMATO.png,1,6.7,Marllon Gonçalves Jerônimo Borges,0,3,5.9,7,,marllon,7,0.0
+94,Wenderson,99474,263,https://s.glbimg.com/es/sde/f/2019/03/22/bf58078f6d1432c858880bcb9a3adcdc_FORMATO.png,1,2.9,Wenderson da Silva Costa Ferreira,0,4,3.4,7,,wenderson,6,0.0
+95,Victor Andrade,80536,315,https://s.glbimg.com/es/sde/f/2018/08/03/f380d4813f712ab88644cb0ed0972599_FORMATO.png,0,0.0,Victor Andrade Santos,0,5,3.0,7,,victor-andrade,6,0.0
+96,Marcos Vinícius,73721,315,https://s.glbimg.com/es/sde/f/2019/05/13/158e2a7f1c6d280fee1a1bd3cf12b6fc_FORMATO.png,0,0.0,Marcos Vinícius de Jesus Araújo,0,4,5.0,7,,marcos-vinicius,6,0.0
+97,Aylon,85930,315,https://s.glbimg.com/es/sde/f/2019/03/28/1f6770e6c240b90a3423b20187192bc6_FORMATO.png,3,1.53,Aylon Darwin Tavella,0,5,3.15,7,,aylon,6,0.0
+98,Joílson,80779,315,https://s.glbimg.com/es/sde/f/2019/03/28/c399a208d27940ebedbddfb51a1ec884_FORMATO.png,0,0.0,Joílson de Jesus Cardoso,0,3,2.0,7,,joilson,6,0.0
+99,Hiago,97535,315,https://s.glbimg.com/es/sde/f/2018/05/24/290a6f9eadad6684596a861f850734aa_FORMATO.png,0,0.0,Hiago Corrêa Silveira Cena,0,3,2.0,7,,hiago,6,0.0
+100,Moisés Ribeiro,78991,315,https://s.glbimg.com/es/sde/f/2017/04/25/c7b046cc3c9a420d4047bb8d6d4b6570_FORMATO.png,0,0.0,Moisés Ribeiro Santos,0,4,3.0,7,,moises-ribeiro,3,0.0
+101,Thiago Santos,93151,315,https://s.glbimg.com/es/sde/f/2019/05/08/d6ea24feb54f6ea2b6f7eb5c8ed0c4da_FORMATO.png,0,0.0,Thiago Nascimento dos Santos,0,5,3.0,7,,thiago-santos,5,0.0
+102,Bruno Pacheco,90061,315,https://s.glbimg.com/es/sde/f/2018/05/24/bcba131b890d61329d3dd3d53d25182e_FORMATO.png,7,4.73,Bruno de Jesus Pacheco,0,2,14.08,7,,bruno-pacheco,7,0.35
+103,Kendy,98421,315,https://s.glbimg.com/es/sde/f/2018/05/24/523e1089d0afe7b92de643fefef0ec55_FORMATO.png,0,0.0,Kendy Tateishi Berbel,0,4,2.0,7,,kendy,6,0.0
+104,Bryan,97536,315,https://s.glbimg.com/es/sde/f/2017/06/07/423798cbfcbd349a861fc146b3a5c1e9_FORMATO.png,4,-0.17,Bryan Borges Mascarenhas,0,2,1.03,7,,bryan,7,-0.42
+105,Tiepo,98412,315,https://s.glbimg.com/es/sde/f/2018/05/24/032ba79a6516fa519217f825972c92b9_FORMATO.png,7,4.27,Giovanni Silva Tiepo,0,1,13.77,7,,tiepo,7,-1.08
+106,Tharlis,102997,315,https://s.glbimg.com/es/sde/f/2019/04/18/f819791c50769c7bd2a9f1e7f5a77afa_FORMATO.png,1,2.9,Tharlis Sartori,0,4,3.43,7,,tharlis,6,0.0
+107,Bruno Silva,101422,315,https://s.glbimg.com/es/sde/f/2018/05/24/c08c1ffb51c09b59126c4f9ae3771ec7_FORMATO.png,1,-0.3,Bruno da Silva Costa,0,5,2.8,7,,bruno-silva,6,0.0
+108,Diego Torres,98794,315,https://s.glbimg.com/es/sde/f/2019/03/28/a16774fba850b0c0dafc5cb1c27fbb4f_FORMATO.png,4,4.28,Diego Fabián Torres,0,4,4.94,7,,diego-torres,6,-0.99
+109,Lourency,94249,315,https://s.glbimg.com/es/sde/f/2017/04/24/31a53361a6013019b911ee81b38648a9_FORMATO.png,1,2.4,Lourency do Nascimento Rodrigues,0,5,2.84,7,,lourency,6,0.0
+110,Vagner Love,38959,264,https://s.glbimg.com/es/sde/f/2019/05/23/baafa063aa2addaba5bf9bcfb361129f_FORMATO.png,6,1.08,Vagner Silva de Souza,0,5,4.27,7,,vagner-love,7,0.0
+111,Régis,102999,315,https://s.glbimg.com/es/sde/f/2019/04/18/bad714f682461e54632caf1faf4cc374_FORMATO.png,5,2.04,Régis Tosatti Giacomin,0,4,4.34,7,,regis,6,0.0
+112,Orzusa,99160,315,https://s.glbimg.com/es/sde/f/2019/03/28/f097d7229e237a4c8f098bd3ee11656a_FORMATO.png,0,0.0,Edgardo Daniel Orzusa Cáceres,0,4,2.0,7,,orzusa,6,0.0
+113,Yann Rolim,102892,315,https://s.glbimg.com/es/sde/f/2018/08/01/42e8f3434bff7d6238a0dca11f2239f8_FORMATO.png,0,0.0,Yann Del Pino Rolim,0,4,4.0,7,,yann-rolim,5,0.0
+114,Walter,51413,264,https://s.glbimg.com/es/sde/f/2019/05/23/e07f02ef4a79d6525b03ab26a352738b_FORMATO.png,0,0.0,Walter Leandro Capeloza Artune,0,1,7.0,7,,walter,7,0.0
+115,Henrique,50856,264,https://s.glbimg.com/es/sde/f/2019/05/23/1e0958bf111e04ccbaa5075e15678a5a_FORMATO.png,3,4.43,Henrique Adriano Buss,0,3,7.85,7,,henrique,7,0.0
+116,Jadson,38315,264,https://s.glbimg.com/es/sde/f/2019/05/23/45121fe0ca2edcaff01e4403c67f4d71_FORMATO.png,3,-0.47,Jadson Rodrigues da Silva,0,4,4.09,7,,jadson,7,0.0
+117,Manoel,69014,264,https://s.glbimg.com/es/sde/f/2019/05/23/8ef54147edc589e8e177c09584065867_FORMATO.png,5,5.84,Manoel Messias Silva Carvalho,0,3,11.77,7,,manoel,6,0.0
+118,Rickson,100002,263,https://s.glbimg.com/es/sde/f/2019/03/22/efd7fd2b10b650cb8eaf54baac765f67_FORMATO.png,1,1.2,Rickson Barbosa Sá da Conceição,0,4,1.82,7,,rickson,6,0.0
+119,Perotti,94286,315,https://s.glbimg.com/es/sde/f/2018/05/24/7a6258cfd7a8c2d933e2e742f3c6f783_FORMATO.png,1,0.5,Pedro Henrique Perotti,0,5,1.66,7,,perotti,6,0.0
+120,Roberto,71116,315,https://s.glbimg.com/es/sde/f/2018/08/29/ee96b4652f7fe6a58750ecd5d477ee2f_FORMATO.png,0,0.0,Roberto Heuchayer Santos de Araújo,0,2,4.0,7,,roberto,6,0.0
+121,Júnior Urso,71829,264,https://s.glbimg.com/es/sde/f/2019/05/23/5276932da13edef774a1a4af1abb3beb_FORMATO.png,3,1.5,Ocimar de Almeida Júnior,0,4,7.02,7,,junior-urso,7,0.0
+122,Boselli,69161,264,https://s.glbimg.com/es/sde/f/2019/05/23/6a353db88a96b39b63e2ff4a5b79226d_FORMATO.png,3,0.07,Mauro Boselli,0,5,3.06,7,,boselli,6,0.0
+123,Vini Locatelli,102998,315,https://s.glbimg.com/es/sde/f/2019/04/03/dd414ff9b71a2dad41b8695b82517f67_FORMATO.png,0,0.0,Vinicius Farias Locatelli,0,4,1.0,7,,vini-locatelli,6,0.0
+124,Ralf,52190,264,https://s.glbimg.com/es/sde/f/2019/05/23/6bb1b3455b09de07ffee5ece7a922ca8_FORMATO.png,6,3.4,Ralf de Souza Telles,0,4,10.29,7,,ralf,7,0.0
+125,Ramiro,78715,264,https://s.glbimg.com/es/sde/f/2019/05/23/74dd3815a00b56d9fc765cad761ff91c_FORMATO.png,6,1.97,Ramiro Moschen Benetti,0,4,11.63,7,,ramiro,6,0.0
+126,Helerson,101073,263,https://s.glbimg.com/es/sde/f/2019/03/22/4f209e6f74df9776da75f4a35ed2b28f_FORMATO.png,0,0.0,Helerson Mateus do Nascimento,0,3,2.0,7,,helerson,6,0.0
+127,André,104080,263,,0,0.0,André Luiz Ribeiro da Silva,0,1,1.0,7,,andre,6,0.0
+128,Fábio Carille,70696,264,https://s.glbimg.com/es/sde/f/2018/03/20/3e7bfa01fec16848b569ba9368ea13ef_FORMATO.png,6,4.52,Fábio Luiz Carille de Araújo,0,6,11.32,7,,fabio-carille,7,0.0
+129,Andrew,103183,263,https://s.glbimg.com/es/sde/f/2019/03/28/6bb49f946fbf4eb4e9fa370948141d04_FORMATO.png,0,0.0,Andrew da Silva Ventura,0,1,2.0,7,,andrew,6,0.0
+130,Jonathan,102597,263,https://s.glbimg.com/es/sde/f/2019/03/22/3acc8b0f9bdee13970e84fee1d24648f_FORMATO.png,3,2.0,Jonathan Silva Vieira,0,2,1.87,7,,jonathan,5,0.0
+131,Clayson,83817,264,https://s.glbimg.com/es/sde/f/2019/05/23/4eeb5e5d8c27f4298bba05b91526868c_FORMATO.png,5,3.36,Clayson Henrique da Silva Vieira,0,5,10.58,7,,clayson,7,0.0
+132,Caíque França,91808,264,https://s.glbimg.com/es/sde/f/2019/05/23/2fe6e1e07de6a69ffa395b217210bff4_FORMATO.png,0,0.0,Caíque França Godoy,0,1,3.0,7,,caique-franca,6,0.0
+133,Rhuan,102958,263,https://s.glbimg.com/es/sde/f/2019/03/28/4d88ed09bc75e94e5f255e63ec33d09c_FORMATO.png,0,0.0,Rhuan da Silveira Castro,0,5,1.0,7,,rhuan,6,0.0
+134,Ángel Romero,88323,264,https://s.glbimg.com/es/sde/f/2019/05/23/bc11cc1c2ac1b8fc0dd6144b9fdcc972_FORMATO.png,0,0.0,Ángel Rodrigo Romero Villamayor,0,5,6.0,7,,angel-romero,6,0.0
+135,Pedro Henrique,87225,264,https://s.glbimg.com/es/sde/f/2019/05/23/f288fe0eba8dc3e607cb451541c2dc39_FORMATO.png,3,4.43,Pedro Henrique Ribeiro Gonçalves,0,3,8.82,7,,pedro-henrique,6,0.0
+136,Fessin,97994,264,https://s.glbimg.com/es/sde/f/2019/03/26/d280c476822d11a21bba9408da199dba_FORMATO.png,0,0.0,Jefferson Gabriel Nascimento Brito,0,4,2.0,7,,fessin,6,0.0
+137,Richard,86711,264,https://s.glbimg.com/es/sde/f/2019/05/23/71d16937452022159fb5e9c22fa4a299_FORMATO.png,2,1.95,Richard Cândido Coelho,0,4,4.11,7,,richard,6,0.0
+138,Filipe,100712,264,https://s.glbimg.com/es/sde/f/2019/05/23/637d8e2371145463b7d61a38d9d5ce88_FORMATO.png,0,0.0,Filipe Gonçalves dos Santos,0,1,2.0,7,,filipe,6,0.0
+139,André Luís,92146,356,https://s.glbimg.com/es/sde/f/2019/05/08/2895d967600f116ad01260a0b6dabd98_FORMATO.png,2,2.4,Andre Luis da Costa Alfredo,0,5,3.63,7,,andre-luis,6,-0.25
+140,Sergio Díaz,94010,264,https://s.glbimg.com/es/sde/f/2019/02/06/d12754823e31f219f7d80d0447c43045_FORMATO.png,0,0.0,Sergio Ismael Díaz Velázquez,0,5,2.0,7,,sergio-diaz,6,0.0
+141,Pedrinho,98706,264,https://s.glbimg.com/es/sde/f/2019/05/23/107e15af982bc755cfbd17f0349f4584_FORMATO.png,5,5.44,Pedro Victor Delmino da Silva,0,4,11.99,7,,pedrinho,6,0.0
+142,Araos,102352,264,https://s.glbimg.com/es/sde/f/2019/05/23/cb5269062be03aa00e9d4c376cfa6cf9_FORMATO.png,0,0.0,Ángelo Giovanni Araos Llanos,0,4,4.0,7,,araos,6,0.0
+143,Mateus Vital,93108,264,https://s.glbimg.com/es/sde/f/2019/05/23/3173cd42fd63f03aecc0aa9d2b3fb706_FORMATO.png,6,3.35,Mateus da Silva Vital Assumpção,0,4,6.56,7,,mateus-vital,6,0.0
+144,Carlos Augusto,101803,264,https://s.glbimg.com/es/sde/f/2019/05/23/7cf24d9f3acb482165da003096c26921_FORMATO.png,3,4.23,Carlos Augusto Zopalato Neves,0,2,5.59,7,,carlos-augusto,6,0.0
+145,Thiaguinho,102599,264,https://s.glbimg.com/es/sde/f/2019/02/06/d56eca3cffea14801ef2035fdc653d18_FORMATO.png,0,0.0,Thiago Beserra dos Santos,0,4,3.0,7,,thiaguinho,6,0.0
+146,Caetano,103575,264,https://s.glbimg.com/es/sde/f/2018/10/13/ce82b8abc2ec1b2cbb8702003dddc2cd_FORMATO.png,0,0.0,João Victor Andrade Caetano,0,2,1.0,7,,caetano,6,0.0
+147,João Victor,104250,264,https://s.glbimg.com/es/sde/f/2019/03/26/c13e38517c9406ec1c47b1cdd41eb68e_FORMATO.png,0,0.0,João Victor da Silva Marcelino,0,3,2.0,7,,joao-victor,6,0.0
+148,Fred,38162,283,https://s.glbimg.com/es/sde/f/2018/05/18/d0c4af39faf530d73e1192ba68d0ce20_FORMATO.png,7,0.77,Frederico Chaves Guedes,0,5,5.34,7,,fred,6,-1.28
+149,Lucas Alves,104651,263,https://s.glbimg.com/es/sde/f/2019/03/28/1ae8c43705f6dfd96f9cdfe68b4b8485_FORMATO.png,0,0.0,Lucas Silva Alves,0,1,1.0,7,,lucas-alves,6,0.0
+150,Henrique,37694,283,https://s.glbimg.com/es/sde/f/2018/05/18/f4c3f244aefa8557f0db6db3c2b7328a_FORMATO.png,5,1.84,Henrique Pacheco de Lima,0,4,6.36,7,,henrique,7,0.07
+151,Mano Menezes,37281,283,https://s.glbimg.com/es/sde/f/2018/05/18/b67ea93f254fb3c5b6517b9f84238c19_FORMATO.png,7,3.31,Luis Antônio Venker de Menezes,0,6,9.23,7,,mano-menezes,7,-0.45
+152,Edinho,37792,354,https://s.glbimg.com/es/sde/f/2019/03/28/a73e2e4e04ac38d68b05eb5ffc8d4e8e_FORMATO.png,1,-3.4,Edimo Ferreira Campos,0,4,1.89,7,,edinho,6,0.0
+153,Pedro Ken,50877,354,https://s.glbimg.com/es/sde/f/2019/03/28/7a6cecf56bf5b7d343a126ff05454101_FORMATO.png,4,2.12,Pedro Ken Morimoto Moreira,0,4,4.26,7,,pedro-ken,6,1.32
+154,João Carlos,69010,341,https://s.glbimg.com/es/sde/f/2019/03/23/b148048ebdcdc02c79c893ae63f6e80d_FORMATO.png,1,-6.0,João Carlos Heidemann,0,1,0.69,7,,joao-carlos,6,0.0
+155,Lucas Barros,104650,263,https://s.glbimg.com/es/sde/f/2019/03/28/be4f63d854fc719f9e9072cf24e0d7f3_FORMATO.png,0,0.0,Lucas Barros da Cunha,0,2,1.0,7,,lucas-barros,6,0.0
+156,Dodô,68727,283,https://s.glbimg.com/es/sde/f/2019/02/04/ee21ad2d06f9472ebeac2c604d782d83_FORMATO.png,3,1.5,José Rodolfo Pires Ribeiro,0,2,5.45,7,,dodo,7,0.0
+157,Glauber,104610,263,https://s.glbimg.com/es/sde/f/2019/03/28/3c290bfe8a6a5e1be791a5e6d2f2a13c_FORMATO.png,0,0.0,Glauber Siqueira dos Santos Lima,0,3,2.0,7,,glauber,6,0.0
+158,Felipe Baxola,71113,354,https://s.glbimg.com/es/sde/f/2019/03/28/24e6b367451f8861ad0b1a99cfd02895_FORMATO.png,1,0.3,Felipe de Oliveira Silva,0,4,4.56,7,,felipe-baxola,6,-1.44
+159,Juninho Quixadá,71787,354,https://s.glbimg.com/es/sde/f/2019/03/28/290762becedf23c80b831f923f4b7b33_FORMATO.png,0,0.0,Pedro Julião Azevedo Junior,0,4,5.0,7,,juninho-quixada,6,0.0
+160,Thiago Carleto,51700,354,https://s.glbimg.com/es/sde/f/2019/03/28/e6019b20be4192e66ea436db383a8d95_FORMATO.png,3,2.1,Thiago Carleto Alves,0,2,7.73,7,,thiago-carleto,7,0.0
+161,Wescley,70925,354,https://s.glbimg.com/es/sde/f/2019/03/28/0323fda54c2149f1f78b04bb3c9dcb1f_FORMATO.png,0,0.0,Wescley Gomes dos Santos,0,4,5.0,7,,wescley,6,0.0
+162,Tiago Alves,51495,354,https://s.glbimg.com/es/sde/f/2019/03/28/d9cac4a21775ee745faf095781d51f77_FORMATO.png,4,2.05,Tiago dos Santos Alves,0,3,6.0,7,,tiago-alves,6,0.0
+163,Samuel Xavier,73384,354,https://s.glbimg.com/es/sde/f/2019/03/28/a19b59f7d716d5610181d660801756b6_FORMATO.png,7,5.15,Samuel Xavier Brito,0,2,13.87,7,,samuel-xavier,7,1.07
+164,Auremir,77570,354,https://s.glbimg.com/es/sde/f/2019/03/28/6abb09758933bfcad8f3734cd8fbe484_FORMATO.png,3,1.8,Auremir Evangelista dos Santos,0,4,4.23,7,,auremir,6,0.0
+165,Diogo Silva,71882,354,https://s.glbimg.com/es/sde/f/2019/03/28/124aa9812703927dd6cfd2001e5b1299_FORMATO.png,7,3.56,Diogo José Gonçalves da Silva,0,1,9.21,7,,diogo-silva,7,0.17
+166,Luiz Otávio,72359,354,https://s.glbimg.com/es/sde/f/2019/03/28/731bd0c1760d7e08394c9726255ba348_FORMATO.png,7,2.4,Luiz Otávio Anacleto Leandro,0,3,9.85,7,,luiz-otavio,7,-0.05
+167,Alex Amado,78475,354,https://s.glbimg.com/es/sde/f/2019/03/28/baad423e3d4f7d7ca9067444675bd599_FORMATO.png,0,0.0,Alex Broch Amado,0,5,2.0,7,,alex-amado,6,0.0
+168,Juninho,71937,356,https://s.glbimg.com/es/sde/f/2019/04/30/199fd043d747c68f3eb9ac7a9e21216f_FORMATO.png,5,2.04,Paulo Roberto Valoura Júnior,0,4,5.31,7,,juninho,7,0.96
+169,Charles,84187,354,https://s.glbimg.com/es/sde/f/2019/03/28/8a9cbcec424be180e39b85d96fb5ec47_FORMATO.png,0,0.0,Charles Luis Reiter,0,3,4.0,7,,charles,6,0.0
+170,Ricardinho,78577,354,https://s.glbimg.com/es/sde/f/2019/03/28/893813a02cea9d96daf288036733d24e_FORMATO.png,6,3.35,Ricardo Dias Acosta,0,4,5.43,7,,ricardinho,7,0.0
+171,Chico,82407,354,https://s.glbimg.com/es/sde/f/2019/03/28/591cde68116bac7ca7031a2f73847987_FORMATO.png,4,0.75,Francisco Hyun Sol Kim,0,4,4.27,7,,chico,6,0.0
+172,João Lucas,86740,354,https://s.glbimg.com/es/sde/f/2019/03/28/eb379c8f9ca40adb24afd4216819a3c1_FORMATO.png,5,2.82,João Lucas Cardoso,0,2,10.25,7,,joao-lucas,6,0.37
+173,Cristovam,82930,354,https://s.glbimg.com/es/sde/f/2019/03/28/65f57e09b155b5b3a44d895928edeeca_FORMATO.png,0,0.0,Cristovam Roberto Ribeiro da Silva,0,2,3.0,7,,cristovam,6,0.0
+174,Fernando Sobral,84428,354,https://s.glbimg.com/es/sde/f/2019/03/28/2036fe932766e953f14ef5fc5ed37a53_FORMATO.png,7,2.36,Fernando Pereira do Nascimento,0,4,4.87,7,,fernando-sobral,7,-0.76
+175,Leandro Carvalho,88669,354,https://s.glbimg.com/es/sde/f/2019/05/30/7d4922940f5a9f9151b4ed1421f520e9_FORMATO.png,6,3.25,Leandro Carvalho da Silva,0,5,10.67,7,,leandro-carvalho,7,0.5
+176,Valdo,84509,354,https://s.glbimg.com/es/sde/f/2019/03/28/45578b3cbd48709822cd22573ff790b6_FORMATO.png,3,0.47,Andrevaldo de Jesus Santos,0,3,2.27,7,,valdo,7,0.01
+177,William Oliveira,94297,354,https://s.glbimg.com/es/sde/f/2019/03/28/a3452277d99839a5fd7add732b5aa132_FORMATO.png,0,0.0,William Oliveira dos Santos,0,4,3.0,7,,william-oliveira,5,0.0
+178,Fernando Henrique,37717,354,https://s.glbimg.com/es/sde/f/2019/03/28/7ea4631a70a1da7be84a3480e80a9441_FORMATO.png,0,0.0,Fernando Henrique dos Anjos,0,1,4.0,7,,fernando-henrique,6,0.0
+179,Léo Cittadini,70986,293,https://s.glbimg.com/es/sde/f/2019/03/30/475167cdad7e826c64f4a0a999f8aef9_FORMATO.png,4,3.1,Leonardo Cittadini,0,4,5.16,7,,leo-cittadini,7,-0.71
+180,Everton,86757,284,https://s.glbimg.com/es/sde/f/2018/05/18/997feae679bb584848d2ef5197f0b406_FORMATO.png,6,6.68,Everton Sousa Soares,0,5,17.31,7,,everton,6,0.0
+181,Madson,78077,293,https://s.glbimg.com/es/sde/f/2019/03/30/53ad5d19d960420d8a169d449092cfdf_FORMATO.png,3,3.8,Madson Ferreira dos Santos,0,2,4.92,7,,madson,7,1.15
+182,Cássio,42234,264,https://s.glbimg.com/es/sde/f/2019/05/18/a1c0088018f45c558e550b2e63d482e8_FORMATO.png,6,5.35,Cássio Ramos,0,1,8.71,7,,cassio,6,0.0
+183,Demethryus,101678,293,https://s.glbimg.com/es/sde/f/2018/03/01/0f3f1131a4b2d04a041450038b87c286_FORMATO.png,0,0.0,Demethryus Maciel Areias Nascimento,0,4,1.0,7,,demethryus,6,0.0
+184,Douglas Borel,104634,265,https://s.glbimg.com/es/sde/f/2019/03/29/191f49008e0f92039b6e04b7283da22b_FORMATO.png,0,0.0,Douglas do Espírito Santo Torres,0,2,1.0,7,,douglas-borel,6,0.0
+185,Vitinho,101960,293,https://s.glbimg.com/es/sde/f/2018/03/05/d3c9c0c04b38faa803a27c54ea474192_FORMATO.png,3,0.9,Vitor Hugo Naum dos Santos,0,5,1.22,7,,vitinho,6,0.0
+186,Matheus Matias,100430,314,https://s.glbimg.com/es/sde/f/2019/05/03/4950f0f0b7885ba14d08911b25c080c1_FORMATO.png,2,-0.1,Matheus Matias Ferreira,0,5,1.79,7,,matheus-matias,6,-0.39
+187,Shaylon,97520,265,https://s.glbimg.com/es/sde/f/2019/02/27/1e02008698bf10ffc8e76014ba5cea5f_FORMATO.png,3,0.53,Shaylon Kallyson Cardoso,0,4,3.78,7,,shaylon,6,0.0
+188,Braian Romero,101997,293,https://s.glbimg.com/es/sde/f/2019/03/30/4eab9bac11e6c0d60d5e717b2474963f_FORMATO.png,4,3.73,Braian Ezequiel Romero,0,5,4.85,7,,braian-romero,6,0.0
+189,Marquinhos Gabriel,68954,283,https://s.glbimg.com/es/sde/f/2019/02/04/f910b4ed58ff035220b338cff4ea9f5b_FORMATO.png,5,0.68,Marcos Gabriel do Nascimento,0,4,3.76,7,,marquinhos-gabriel,7,-0.09
+190,Robson Bambu,101579,293,https://s.glbimg.com/es/sde/f/2019/05/13/b7c71f1c725b014eefb9e6f275824bbd_FORMATO.png,2,1.05,Robson Alves de Barros,0,3,4.35,7,,robson-bambu,6,0.0
+191,Gabriel,102290,293,https://s.glbimg.com/es/sde/f/2018/05/08/23ead8e9977bf4883159480316b71e35_FORMATO.png,0,0.0,Gabriel José Ferreira Mesquita,0,1,1.0,7,,gabriel,6,0.0
+192,Igor Cássio,99661,263,https://s.glbimg.com/es/sde/f/2019/03/22/7c87ddae633eb2c51a6c053054e56a1a_FORMATO.png,2,-0.5,Igor Cássio Vieira dos Santos,0,5,1.29,7,,igor-cassio,6,0.0
+193,Bruno Leite,102301,293,https://s.glbimg.com/es/sde/f/2018/03/05/37cc69ce211fa6a6c3fb2fa03e905809_FORMATO.png,0,0.0,Bruno da Silva Costa Leite,0,4,2.0,7,,bruno-leite,5,0.0
+194,Gabriel Poveda,102877,293,https://s.glbimg.com/es/sde/f/2019/02/08/b1a52a41133226ae979f433bfd943849_FORMATO.png,0,0.0,Gabriel Buscariol Poveda,0,5,2.0,7,,gabriel-poveda,6,0.0
+195,Lucas Halter,102253,293,https://s.glbimg.com/es/sde/f/2019/05/18/8451dd8fd1ce139e8f57e002de068475_FORMATO.png,3,2.67,Lucas Halter,0,3,3.68,7,,lucas-halter,7,0.93
+196,Julian,104333,314,https://s.glbimg.com/es/sde/f/2019/02/08/db8844a962ff549d6afcfd7bdbaa321c_FORMATO.png,0,0.0,Julian Yoiti Suzuki Bicudo,0,4,2.0,7,,julian,6,0.0
+197,Danilo Avelar,72142,264,https://s.glbimg.com/es/sde/f/2019/05/23/3838256f970424f3a26f7cf5a433287b_FORMATO.png,3,6.23,Danilo Fernando Avelar,0,2,7.47,7,,danilo-avelar,7,0.0
+198,Renzo,104332,293,https://s.glbimg.com/es/sde/f/2019/01/18/c6f7f05b7b612c3030762fe1798a3dd0_FORMATO.jpeg,0,0.0,Renzo Ribeiro dos Santos,0,4,1.0,7,,renzo,6,0.0
+199,Fernando,99550,263,https://s.glbimg.com/es/sde/f/2019/03/28/0e1597e7f7c233c1663c9739a327843b_FORMATO.png,5,3.12,Fernando Peixoto Costanza,0,2,3.71,7,,fernando,7,0.82
+200,Erik,84848,263,https://s.glbimg.com/es/sde/f/2019/03/22/34b98d60cb3c91184594baa0f454b479_FORMATO.png,6,3.38,Erik Nascimento Lima,0,5,9.58,7,,erik,7,-1.25
+201,Gabriel,78605,264,https://s.glbimg.com/es/sde/f/2019/05/23/2e7a0138d60a1418cacfcd315daf7491_FORMATO.png,0,0.0,Gabriel Girotto Franco,0,4,7.0,7,,gabriel,6,0.0
+202,Alessandro,104081,263,https://s.glbimg.com/es/sde/f/2019/03/22/ca58dd5dc7b75891e8aea6c26aea3064_FORMATO.png,0,0.0,Alessandro Scheppa,0,4,1.0,7,,alessandro,6,0.0
+203,Egídio,42145,283,https://s.glbimg.com/es/sde/f/2018/05/18/4e9c58c4c55851aececb2f797dca0723_FORMATO.png,4,5.12,Egídio de Araújo Pereira Júnior,0,2,9.55,7,,egidio,6,1.29
+204,Renê Júnior,73281,264,https://s.glbimg.com/es/sde/f/2019/05/23/605fd3e976ffe9b529d0208eb32fa15b_FORMATO.png,0,0.0,Renê dos Santos Júnior,0,4,7.0,7,,rene-junior,6,0.0
+205,Michel,80664,264,https://s.glbimg.com/es/sde/f/2019/05/23/d6ee8c1facd131fa22d648e2509f5cac_FORMATO.png,1,0.9,Michel Macedo Rocha Machado,0,2,2.48,7,,michel,7,0.0
+206,Léo,50459,283,https://s.glbimg.com/es/sde/f/2018/05/18/07a11eb9e0ab294a13fe3b76d7e9393b_FORMATO.png,6,2.77,Leonardo Renan Simões de Lacerda,0,3,7.29,7,,leo,7,-0.75
+207,Ricardo Bueno,69141,354,https://s.glbimg.com/es/sde/f/2019/03/28/3d70fd82e49aca88abe94015a45abb9d_FORMATO.png,6,6.25,Ricardo Bueno da Silva,0,5,17.39,7,,ricardo-bueno,6,-1.01
+208,Régis,82647,264,https://s.glbimg.com/es/sde/f/2019/05/23/42c4d6f669a802cc99bd19989a00b862_FORMATO.png,1,0.5,Régis Augusto Salmazzo,0,4,3.81,7,,regis,6,0.0
+209,Dedé,60819,283,https://s.glbimg.com/es/sde/f/2018/05/18/868bcae1cfa32a1aa3c4c3e884f54c78_FORMATO.png,7,5.72,Anderson Vital da Silva,0,3,15.74,7,,dede,7,0.14
+210,Nico López,84709,285,https://s.glbimg.com/es/sde/f/2018/04/08/5bb6e14f65a15709391b32e0e4332d8c_FORMATO.png,6,3.32,Nicolás Federico López Alonso,0,5,15.14,7,,nico-lopez,7,-0.49
+211,Robinho,62104,283,https://s.glbimg.com/es/sde/f/2018/05/07/9ec32acd97931db6852cd1b099fca085_FORMATO.png,5,3.88,Róbson Michael Signorini,0,4,7.36,7,,robinho,7,-2.39
+212,Patrick Fabiano,80275,341,https://s.glbimg.com/es/sde/f/2019/03/23/5009c08e2e14b3fc4e2a17576710e6cd_FORMATO.png,4,1.9,Patrick Fabiano Alves Nóbrega Luz,0,5,5.53,7,,patrick-fabiano,2,-0.68
+213,Iago,97868,285,https://s.glbimg.com/es/sde/f/2018/04/09/733606405d1966bcc1ea11b6d2790ec5_FORMATO.png,5,3.32,Iago Amaral Borduchi,0,2,9.28,7,,iago,6,0.0
+214,Víctor Cuesta,79113,285,https://s.glbimg.com/es/sde/f/2018/04/08/b6cd86f9590fd3e82cb545ac74dc8c41_FORMATO.png,6,5.88,Víctor Leandro Cuesta,0,3,14.61,7,,victor-cuesta,7,1.56
+215,Fábio,37656,283,https://s.glbimg.com/es/sde/f/2018/05/18/d4072db4bdda7615aec2517449afe555_FORMATO.png,6,3.17,Fábio Deivson Lopes Maciel,0,1,9.64,7,,fabio,7,-0.46
+216,Gatito Fernández,74061,263,https://s.glbimg.com/es/sde/f/2019/03/22/27fa5cdf4f485fac2794eb67548421f6_FORMATO.png,7,2.97,Roberto Junior Fernández Torres,0,1,7.8,7,,gatito-fernandez,3,2.38
+217,Rodrigo Moledo,63354,285,https://s.glbimg.com/es/sde/f/2018/03/20/e5bb6257009bf74098a367b4c1b9e53d_FORMATO.png,5,4.68,Rodrigo Modesto da Silva Moledo,0,3,7.09,7,,rodrigo-moledo,6,0.0
+218,Cazares,81682,282,https://s.glbimg.com/es/sde/f/2019/05/30/7e60ff2712f74e10b9a6bcf9661f2f8f_FORMATO.png,3,6.73,Juan Ramón Cazares Sevillano,0,4,11.29,7,,cazares,7,2.02
+219,Victor,52950,282,https://s.glbimg.com/es/sde/f/2018/05/07/d890df905bbd3bb36a77d0ebf6a7ec0e_FORMATO.png,7,4.25,Victor Leandro Bagy,0,1,7.89,7,,victor,7,-0.81
+220,Nino Paraíba,68808,265,https://s.glbimg.com/es/sde/f/2019/03/29/2f29d050e2e2a4be7df0047f2e43dd7f_FORMATO.png,6,4.6,Severino do Ramo Clementino da Silva,0,2,13.11,7,,nino-paraiba,7,1.62
+221,Jean Mota,78548,277,https://s.glbimg.com/es/sde/f/2019/04/04/f6df9ba4f9ba25d9b872308e30c5baa9_FORMATO.png,7,0.84,Jean Mota Oliveira de Sousa,0,4,6.72,7,,jean-mota,2,-0.69
+222,Vanderlei,62121,277,https://s.glbimg.com/es/sde/f/2018/05/23/d1e78d7c4a4d2e68068e24cca6750439_FORMATO.png,6,7.97,Vanderlei Farias da Silva,0,1,22.89,7,,vanderlei,7,0.0
+223,Hernanes,38648,276,https://s.glbimg.com/es/sde/f/2019/04/01/9de4879116fa3172f964c37907406613_FORMATO.png,7,3.76,Anderson Hernanes de Carvalho Andrade Lima,0,4,13.91,7,,hernanes,6,-0.03
+224,Pablo,69138,276,https://s.glbimg.com/es/sde/f/2019/04/01/2183894813bb5543356e56f459ac6b03_FORMATO.png,0,0.0,Pablo Felipe Teixeira,0,5,17.0,7,,pablo,5,0.0
+225,Gilberto ,80313,266,https://s.glbimg.com/es/sde/f/2018/09/20/3cfe538c9466e35f30d8caec3cdeb003_FORMATO.png,6,1.23,Gilberto Moraes Júnior,0,2,6.14,7,,gilberto,7,0.0
+226,Ganso,62977,266,https://s.glbimg.com/es/sde/f/2019/02/04/c331ee1720c436a925256baca5841194_FORMATO.png,3,1.03,Paulo Henrique Chagas de Lima,0,4,7.76,7,,ganso,7,0.0
+227,Ricardo Oliveira,38910,282,https://s.glbimg.com/es/sde/f/2018/05/07/b853b7148bc822996c8074255a69a3c4_FORMATO.png,6,4.03,Ricardo de Oliveira,0,5,15.53,7,,ricardo-oliveira,2,0.0
+228,Fábio Santos,38229,282,https://s.glbimg.com/es/sde/f/2018/05/07/98bee57585b8dde8e58e642b147a3a11_FORMATO.png,6,4.27,Fábio Santos Romeu,0,2,12.61,7,,fabio-santos,7,3.09
+229,Rodriguinho,61033,283,https://s.glbimg.com/es/sde/f/2019/05/08/aed67dfbed5ad1906c0e020b63389e1d_FORMATO.png,5,2.48,Rodrigo Eduardo Costa Marinho,0,4,5.52,7,,rodriguinho,6,0.0
+230,Leandro Castan,38505,267,https://s.glbimg.com/es/sde/f/2019/05/22/05b8bf811c2a379cc00d41e1b7e66beb_FORMATO.png,0,0.0,Leandro Castan da Silva,0,3,11.0,7,,leandro-castan,6,0.0
+231,Yago Pikachu,80196,267,https://s.glbimg.com/es/sde/f/2018/09/27/ade8af11f63aa15e4664fa86f8a48e0e_FORMATO.png,7,3.49,Glaybson Yago Souza Lisboa,0,4,9.88,7,,yago-pikachu,7,-0.61
+232,Reinaldo,78850,276,https://s.glbimg.com/es/sde/f/2019/04/01/6d2d1a24cd6dbf9313e0b6efedc5c055_FORMATO.png,7,4.36,Reinaldo Manoel da Silva,0,2,12.15,7,,reinaldo,7,0.48
+233,Adilson,50307,282,https://s.glbimg.com/es/sde/f/2018/05/07/8d28089e075545ce7ac5d0eacc69563e_FORMATO.png,4,4.65,Adilson Warken,0,4,8.62,7,,adilson,2,2.46
+234,Luan,63219,282,https://s.glbimg.com/es/sde/f/2018/05/07/c8cafabc87bc7ef4d50c8f18eafa05ce_FORMATO.png,6,3.68,Luan Madson Gedeão De Paiva,0,4,8.69,7,,luan,7,2.02
+235,Maicon,62968,282,https://s.glbimg.com/es/sde/f/2019/03/29/32816f651b7a79f953bfbe551d47c80e_FORMATO.png,2,3.75,Maicon Marques Bitencourt,0,5,7.01,7,,maicon,6,0.0
+236,Leonardo Silva,68925,282,https://s.glbimg.com/es/sde/f/2018/05/07/76bcd627f9b56262f6ad6cce8983b430_FORMATO.png,3,0.33,Leonardo Fabiano da Silva e Silva,0,3,4.88,7,,leonardo-silva,5,0.0
+237,Vinícius,71162,282,https://s.glbimg.com/es/sde/f/2019/03/29/188d8189b08f034c67505831cfe67554_FORMATO.png,4,0.35,Vinícius Goes Barbosa de Souza,0,4,3.32,7,,vinicius,6,0.47
+238,Réver,52253,282,https://s.glbimg.com/es/sde/f/2019/03/29/d49f2565289d4bf121348ef17d5a2cc2_FORMATO.png,5,3.56,Réver Humberto Alves Araújo,0,3,11.75,7,,rever,7,0.93
+239,Carlos Cesar,61211,282,https://s.glbimg.com/es/sde/f/2017/04/03/ed8cd5220fe7c5ba0069143fad70f518_FORMATO.png,0,0.0,Carlos Cesar Neves,0,2,4.0,7,,carlos-cesar,6,0.0
+240,Elias,54395,282,https://s.glbimg.com/es/sde/f/2018/05/07/9cae85100fc013bc0d503fb2e82577ce_FORMATO.png,6,2.57,Elias Mendes Trindade,0,4,9.55,7,,elias,7,-0.57
+241,Geuvânio,73896,282,https://s.glbimg.com/es/sde/f/2019/03/25/6756f079e2e35d2a22e59a73782daa41_FORMATO.png,6,3.73,Geuvânio Santos Silva,0,5,12.23,7,,geuvanio,6,-0.72
+242,Matheus Mancini,80124,282,https://s.glbimg.com/es/sde/f/2018/05/07/6f7e5971bc24d9767f330971e875d599_FORMATO.png,0,0.0,Matheus Mancini,0,3,3.0,7,,matheus-mancini,6,0.0
+243,Patric,60969,282,https://s.glbimg.com/es/sde/f/2018/05/07/1a92a6695f550a6074401fe61265d5db_FORMATO.png,3,1.03,Patric Cabral Lalau,0,2,4.64,7,,patric,7,2.06
+244,Leandrinho,91702,282,https://s.glbimg.com/es/sde/f/2018/07/16/427506f9f329b3a83b0695351930c35f_FORMATO.png,0,0.0,Leandro Henrique do Nascimento,0,5,3.0,7,,leandrinho,6,0.0
+245,Marquinhos,98765,282,https://s.glbimg.com/es/sde/f/2019/02/15/7f94dd0a492218c6dcc1fbc02473637c_FORMATO.png,0,0.0,José Marcos Costa Martins,0,4,1.0,7,,marquinhos,6,0.0
+246,Fernando,97543,282,https://s.glbimg.com/es/sde/f/2018/05/07/f73daae77a916904f7cc997667e506ad_FORMATO.png,0,0.0,Fernando Rodrigues Caixeta Barbosa,0,1,1.0,7,,fernando,6,0.0
+247,Matheus Savio,91264,341,https://s.glbimg.com/es/sde/f/2019/03/23/70bbe919f0366ddc8bfed57df94afcc3_FORMATO.png,7,4.25,Matheus Gonçalves Savio,0,4,8.8,7,,matheus-savio,7,-0.64
+248,Michael,93659,282,https://s.glbimg.com/es/sde/f/2018/05/07/b00362ea5028e43dae1152d78fbf5ccc_FORMATO.png,0,0.0,Michael Matias Fracaro,0,1,1.0,7,,michael,6,0.0
+249,Uilson,85418,282,https://s.glbimg.com/es/sde/f/2018/05/07/9c69736d87e93ac80d7f38013cb1c1e7_FORMATO.png,0,0.0,Uilson Pedruzzi de Oliveira,0,1,3.0,7,,uilson,5,0.0
+250,José Welison,86859,282,https://s.glbimg.com/es/sde/f/2018/07/11/1d923ab86aabd29245dae5fd1338d9bd_FORMATO.png,5,2.6,José Welison da Silva,0,4,5.07,7,,jose-welison,2,0.0
+251,Igor Rabello,89493,282,https://s.glbimg.com/es/sde/f/2019/05/28/31576151f911825460540e32249a6735_FORMATO.png,6,2.72,Igor Rabello da Costa,0,3,9.75,7,,igor-rabello,7,0.61
+252,Lucas Cândido,84851,282,https://s.glbimg.com/es/sde/f/2018/05/07/19488c44e682165da72638af463246ff_FORMATO.png,0,0.0,Lucas Cândido Silva,0,4,2.0,7,,lucas-candido,6,0.0
+253,Jair,81091,282,https://s.glbimg.com/es/sde/f/2019/03/29/ada175db5435512e91702370cd95d14f_FORMATO.png,4,2.93,Jair Rodrigues Júnior,0,4,6.73,7,,jair,6,0.0
+254,Iago Maidana,89226,282,https://s.glbimg.com/es/sde/f/2018/05/07/211b2cfc9413080da0e36bac586628df_FORMATO.png,1,-1.4,Iago Justen Maidana Martins,0,3,3.19,7,,iago-maidana,6,0.0
+255,Gustavo Blanco,91191,282,https://s.glbimg.com/es/sde/f/2018/05/07/6ac39bf60c88040543dee78fc133c427_FORMATO.png,0,0.0,Gustavo Blanco Petersen Macedo,0,4,9.0,7,,gustavo-blanco,5,0.0
+256,Edílson,38523,283,https://s.glbimg.com/es/sde/f/2018/05/18/44e434adf82fc311f1b839c8a9d7d38d_FORMATO.png,3,2.97,Edílson Mendes Guimarães,0,2,6.2,7,,edilson,5,0.0
+257,Nathan,87009,282,https://s.glbimg.com/es/sde/f/2018/07/25/2ebd70cae4e549a49e708c60abbee23a_FORMATO.png,4,3.7,Nathan Allan de Souza,0,4,5.47,7,,nathan,6,0.0
+258,Richard,78851,354,https://s.glbimg.com/es/sde/f/2019/03/28/27b9b114a61039b0185e25a34be02245_FORMATO.png,1,1.2,Richard de Oliveira da Costa,0,1,4.73,7,,richard,5,0.0
+259,Eduardo Brock,78654,354,https://s.glbimg.com/es/sde/f/2019/03/28/27579304db4774273de16432633427c2_FORMATO.png,0,0.0,Eduardo Schroeder Brock,0,3,4.0,7,,eduardo-brock,6,0.0
+260,Fabinho,80393,354,https://s.glbimg.com/es/sde/f/2019/03/28/8130912c9c6386df9e0982c031fd0299_FORMATO.png,7,2.11,Fábio Gonçalves,0,4,6.08,7,,fabinho,7,-0.24
+261,Rafael,68928,283,https://s.glbimg.com/es/sde/f/2018/05/07/950b9601003125498cffc38c229783f4_FORMATO.png,1,-1.5,Rafael Pires Monteiro,0,1,4.02,7,,rafael,6,0.0
+262,Maidana,70820,341,https://s.glbimg.com/es/sde/f/2019/04/27/0586d9e43db8f29617604df4824cb9d9_FORMATO.png,1,0.0,Cristian Óscar Maidana,0,4,2.89,7,,maidana,6,0.0
+263,Lucas Silva,79701,283,https://s.glbimg.com/es/sde/f/2018/05/07/ca0ef33e042d0136838dfb74844f22a7_FORMATO.png,6,1.18,Lucas Silva Borges,0,4,4.1,7,,lucas-silva,6,0.11
+264,Lucas Romero,84558,283,https://s.glbimg.com/es/sde/f/2018/05/07/5afee43c79c6ee5a180385ef4550fd6c_FORMATO.png,6,3.35,Lucas Daniel Romero,0,4,4.37,7,,lucas-romero,7,0.71
+265,Fagner,42500,264,https://s.glbimg.com/es/sde/f/2019/03/18/d5cd825ae9a3b7963ead1566162c7d54_FORMATO.png,5,9.9,Fagner Conserva Lemos,0,2,15.29,7,,fagner,6,0.0
+266,Ariel Cabral,80363,283,https://s.glbimg.com/es/sde/f/2018/05/18/f33acc95e50fe26abc27ac1d525bb4a4_FORMATO.png,2,-1.0,Alejandro Ariel Cabral,0,4,2.3,7,,ariel-cabral,7,-0.93
+267,Jadson,80129,283,https://s.glbimg.com/es/sde/f/2019/02/04/fafc80986c9ff78c6b10c98b72c33190_FORMATO.png,3,0.33,Jadson Alves dos Santos,0,4,3.73,7,,jadson,6,0.0
+268,Sassá,79578,283,https://s.glbimg.com/es/sde/f/2018/05/07/89b8e9b3d830ff681500c63572397636_FORMATO.png,3,0.97,Luiz Ricardo Alves,0,5,5.56,7,,sassa,7,-0.52
+269,Romário Rodrigues,79336,354,https://s.glbimg.com/es/sde/f/2019/03/28/8a5fe5aa3179c4ff1643804412e0050b_FORMATO.png,0,0.0,Romário Marques Rodrigues,0,5,2.0,7,,romario-rodrigues,6,0.0
+270,Raniel,86797,283,https://s.glbimg.com/es/sde/f/2018/05/07/074f3b8960ae6ea7711fa17be1c27cac_FORMATO.png,0,0.0,Raniel Santana de Vasconcelos,0,5,8.0,7,,raniel,6,0.0
+271,David,90309,283,https://s.glbimg.com/es/sde/f/2018/05/18/9c8442508cec9bf9dc9f0af8f306e11b_FORMATO.png,6,0.82,David Correa da Fonseca,0,5,4.29,7,,david,6,-0.66
+272,Gabriel,83257,262,https://s.glbimg.com/es/sde/f/2019/04/26/dd35120796b86e57f5dcbd4aec56cbce_FORMATO.png,5,7.74,Gabriel Barbosa Almeida,0,5,18.33,7,,gabriel,7,2.61
+273,Fabrício Bruno,90768,283,https://s.glbimg.com/es/sde/f/2019/02/04/d5a1e093c0e8dfd5ead943946e093661_FORMATO.png,0,0.0,Fabrício Bruno Soares de Faria,0,3,5.0,7,,fabricio-bruno,6,0.0
+274,Orejuela,95352,283,https://s.glbimg.com/es/sde/f/2019/03/31/bab8422e33f99d2553b8c998855973de_FORMATO.png,2,3.4,Luis Manuel Orejuela García,0,2,5.55,7,,orejuela,5,0.0
+275,Vitor Eudes,102137,283,https://s.glbimg.com/es/sde/f/2018/11/22/3fc8cbbb0eff85d2cfd8e31bd040d110_FORMATO.png,0,0.0,Vitor Eudes de Souza Costa,0,1,2.0,7,,vitor-eudes,6,0.0
+276,Cassiano,72033,341,https://s.glbimg.com/es/sde/f/2019/03/23/a5334bd8099947da6320cfd492ef3519_FORMATO.png,6,1.18,Cassiano Dias Moreira,0,5,3.58,7,,cassiano,2,-0.09
+277,Cacá,102340,283,https://s.glbimg.com/es/sde/f/2018/05/18/9e847531623845ec5f88f060b157da00_FORMATO.png,0,0.0,Carlos de Menezes Júnior,0,3,2.0,7,,caca,6,0.0
+278,Murilo,97653,283,https://s.glbimg.com/es/sde/f/2018/05/07/e153f69f7bac5d6410218a2a59787c11_FORMATO.png,1,-1.8,Murilo Cerqueira Paim,0,3,2.22,7,,murilo,6,0.0
+279,Michel,103579,283,https://s.glbimg.com/es/sde/f/2019/03/28/a3e3e2db3e62bb26d03186bd96da7bed_FORMATO.png,0,0.0,Michel Borges De Jesus,0,4,2.0,7,,michel,6,0.0
+280,Vinícius Popó,105201,283,https://s.glbimg.com/es/sde/f/2019/03/28/4a8cc6dc2e1b9cb619a2da8fe306b9da_FORMATO.png,0,0.0,Vinícius Santana da Silva,0,5,2.0,7,,vinicius-popo,6,0.0
+281,Rafael Santos,97907,283,https://s.glbimg.com/es/sde/f/2019/03/28/218f2be6e5fe193939a7c29948a70d4d_FORMATO.png,0,0.0,Rafael Lucas Cardoso Santos,0,2,1.0,7,,rafael-santos,6,0.0
+282,Éderson,103099,283,https://s.glbimg.com/es/sde/f/2018/09/25/2b532258f7e60e9ec20bb6d04c574566_FORMATO.png,0,0.0,Éderson José dos Santos Lourenço da Silva,0,4,2.0,7,,ederson,6,0.0
+283,Amaral,72071,341,https://s.glbimg.com/es/sde/f/2019/03/23/2c3a6bf46567ed434223ed72f1109c0a_FORMATO.png,0,0.0,Maurício Azevedo Alves,0,4,4.0,7,,amaral,5,0.0
+284,Naldo,78897,341,https://s.glbimg.com/es/sde/f/2019/03/23/aac48c4f03031bbaf833ecb77aaca2e3_FORMATO.png,6,1.27,Marinaldo dos Santos Oliveira,0,4,2.62,7,,naldo,7,-0.71
+285,Pedro Rosa,79053,341,https://s.glbimg.com/es/sde/f/2019/03/23/0f6289ea024f460da1833ec941b572be_FORMATO.png,0,0.0,Pedro Henrique Rosa,0,2,2.0,7,,pedro-rosa,6,0.0
+286,Manga Escobar,71704,341,https://s.glbimg.com/es/sde/f/2019/03/23/a987d4c478b33ef1a5232e599b5818e8_FORMATO.png,0,0.0,Andrés Ramiro Escobar Díaz,0,5,4.0,7,,manga-escobar,5,0.0
+287,Vitor Gabriel,101596,262,https://s.glbimg.com/es/sde/f/2019/04/26/1625dafb7038f8b8c6201f97b0f5730d_FORMATO.png,0,0.0,Vitor Gabriel Claudino Rego Ferreira,0,5,2.0,7,,vitor-gabriel,6,0.0
+288,Guga,101319,282,https://s.glbimg.com/es/sde/f/2019/03/29/fb13c66ae9c72ffe321570f916f5d250_FORMATO.png,5,5.88,Claudio Rodrigues Gomes,0,2,8.54,7,,guga,6,0.0
+289,Bill,105272,262,https://s.glbimg.com/es/sde/f/2019/03/26/72599168f208c77a0fcbc5f5c1bd7fb4_FORMATO.png,1,-0.3,Fabricio Rodrigues da Silva Ferreira,0,5,0.73,7,,bill,6,0.0
+290,Rodolfo,63082,266,https://s.glbimg.com/es/sde/f/2018/05/18/5f872890e2cb0764d6ab01fa87c80a2b_FORMATO.png,6,-0.67,Rodolfo Alves de Melo,0,1,2.22,7,,rodolfo,6,0.34
+291,Marcos Felipe ,85004,266,https://s.glbimg.com/es/sde/f/2018/05/18/72317ca5c12be51354f8792ab39b37d8_FORMATO.png,0,0.0,Marcos Felipe de Freitas Monteiro,0,1,2.0,7,,marcos-felipe,6,0.0
+292,Vinícius,105199,262,https://s.glbimg.com/es/sde/f/2019/03/26/a514a8787d2c34f1210e22825eabfc2c_FORMATO.png,0,0.0,Vinícius de Souza Costa,0,4,2.0,7,,vinicius,6,0.0
+293,Reinier,105068,262,https://s.glbimg.com/es/sde/f/2019/02/26/a408b122a7bad435686da050ed61909e_FORMATO.jpeg,0,0.0,Reinier Jesus Carvalho,0,4,3.0,7,,reinier,6,0.0
+294,Dawhan,97780,341,https://s.glbimg.com/es/sde/f/2019/03/23/6be5b8e0ec5727594d30e1a2b17e8f16_FORMATO.png,5,3.02,Dawhan Fran Urano da Purificação Oliveira,0,4,7.26,7,,dawhan,6,0.53
+295,Agenor,71724,266,https://s.glbimg.com/es/sde/f/2019/04/28/250bbbb44b3bc7a9a330aa4be2da6f11_FORMATO.png,2,-3.9,Agenor Detofol,0,1,0.75,7,,agenor,7,0.0
+296,Ezequiel ,80318,265,https://s.glbimg.com/es/sde/f/2019/05/07/9db851eba6d52f43af59baaf6fc0aa8e_FORMATO.png,1,4.4,Ezequiel Jacinto de Biasi,0,2,4.11,7,,ezequiel,6,0.0
+297,Matheus Ferraz,38632,266,https://s.glbimg.com/es/sde/f/2019/03/21/153f5cacc7a34ba4806328a24f5a1750_FORMATO.png,7,3.56,Matheus Ferraz Pereira,0,3,6.23,7,,matheus-ferraz,5,-0.48
+298,Carlinhos,38451,341,https://s.glbimg.com/es/sde/f/2019/03/23/f1d152fe2c81a717de8d0f472e57f90d_FORMATO.png,5,3.6,Carlos Andrade Souza,0,2,4.95,7,,carlinhos,7,-1.23
+299,Alan Cardoso,93785,277,https://s.glbimg.com/es/sde/f/2019/03/28/5f3fd4c09cb41da699f94b30e6bd4600_FORMATO.png,0,0.0,Alan Cardoso de Andrade,0,2,3.0,7,,alan-cardoso,6,0.0
+300,Jean Lucas,98517,277,https://s.glbimg.com/es/sde/f/2019/03/28/b6405232271be69ecc73ba373871e4f0_FORMATO.png,7,3.75,Jean Lucas de Souza Oliveira,0,4,10.55,7,,jean-lucas,7,-0.24
+301,Arthur Gomes,96966,315,https://s.glbimg.com/es/sde/f/2019/05/08/05a9ae684d7d1c4ad13ff91e04c82d09_FORMATO.png,4,1.15,Arthur Gomes Lourenço,0,5,3.03,7,,arthur-gomes,7,-0.7
+302,Lucas Veríssimo,93368,277,https://s.glbimg.com/es/sde/f/2019/05/09/77ef73e05fe5f4a5bcbf11b7577516d4_FORMATO.png,7,4.57,Lucas Veríssimo da Silva,0,3,9.86,7,,lucas-verissimo,2,1.85
+303,Eduardo Sasha,70360,277,https://s.glbimg.com/es/sde/f/2018/05/23/a1e5220c82575c4f297c1173ec07d58a_FORMATO.png,6,6.98,Eduardo Colcenti Antunes,0,5,17.26,7,,eduardo-sasha,2,1.36
+304,Orinho,95542,277,https://s.glbimg.com/es/sde/f/2019/03/28/0606c19cd9b070a14c8dcc9debd30211_FORMATO.png,0,0.0,Edilson Borba de Aquino,0,2,3.0,7,,orinho,6,0.0
+305,Aguilar,95494,277,https://s.glbimg.com/es/sde/f/2019/03/28/938d6ad9b3c0aa9f3fa04ed1ae5193a6_FORMATO.png,5,1.94,Felipe Aguilar Mendoza,0,3,4.48,7,,aguilar,7,0.65
+306,Felipe Jonatan,101708,277,https://s.glbimg.com/es/sde/f/2019/03/28/769db50792d92f77ba296968a2aa8fd7_FORMATO.png,3,4.13,Felipe Jonatan Rocha Andrade,0,2,8.62,7,,felipe-jonatan,2,0.22
+307,Rodrygo,100651,277,https://s.glbimg.com/es/sde/f/2019/03/28/6be35caa2772b45524060927b8922ee1_FORMATO.png,4,10.73,Rodrygo Silva de Goes,0,5,14.95,7,,rodrygo,6,0.0
+308,Felippe Cardoso,100963,277,https://s.glbimg.com/es/sde/f/2018/09/14/448879bc85937305a08a7038f527e40a_FORMATO.png,0,0.0,Wanderson Felippe Cardoso dos Santos,0,5,3.0,7,,felippe-cardoso,6,0.0
+309,Sandry,104580,277,https://s.glbimg.com/es/sde/f/2019/03/28/9f6c9ff2c355a7189b842849d99b5a32_FORMATO.png,0,0.0,Sandry Roberto Santos Goes,0,4,1.0,7,,sandry,6,0.0
+310,Lucas Lourenço,101580,277,https://s.glbimg.com/es/sde/f/2018/03/21/f7982f701870b51a5c2699877f0f30c6_FORMATO.png,0,0.0,Lucas Lourenço Andrade,0,4,2.0,7,,lucas-lourenco,6,0.0
+311,Guilherme Nunes,101912,277,https://s.glbimg.com/es/sde/f/2018/05/23/7e91393fb9d0c73f8ae12e9e96c38308_FORMATO.png,0,0.0,Guilherme Nunes da Silva,0,4,2.0,7,,guilherme-nunes,6,0.0
+312,Yuri Alberto,100652,277,https://s.glbimg.com/es/sde/f/2019/03/28/aa5dd1708e186460f701dd3ce77f0824_FORMATO.png,0,0.0,Yuri Alberto Monteiro da Silva,0,5,2.0,7,,yuri-alberto,6,0.0
+313,Bruninho,105111,277,https://s.glbimg.com/es/sde/f/2019/03/01/996ce41379d22585409ba24981f56d01_FORMATO.png,0,0.0,Bruno Henrique Marques Torres,0,5,2.0,7,,bruninho,6,0.0
+314,Wagner Leonardo,104994,277,https://s.glbimg.com/es/sde/f/2019/03/28/fafba6bc079831779d2a86df19ebb06e_FORMATO.png,0,0.0,Wagner Leonardo Calvelo de Souza,0,3,1.0,7,,wagner-leonardo,6,0.0
+315,Nenê,38913,276,https://s.glbimg.com/es/sde/f/2019/04/01/4d73be1fc34c320f86e3f2b7c0c6029c_FORMATO.png,1,-0.3,Anderson Luiz de Carvalho,0,4,5.81,7,,nene,6,0.0
+316,Anderson Martins,52618,276,https://s.glbimg.com/es/sde/f/2019/04/01/0024f435e5e19a93ff9b8b2d9efe929a_FORMATO.png,3,-1.03,Anderson Vieira Martins,0,3,2.67,7,,anderson-martins,7,0.19
+317,Kaio Jorge,103445,277,https://s.glbimg.com/es/sde/f/2019/03/28/edbb8d73a2ffdb1f447c7bee5b45d91f_FORMATO.png,1,0.0,Kaio Jorge Pinto Ramos,0,5,0.75,7,,kaio-jorge,6,0.0
+318,Everton,50301,276,https://s.glbimg.com/es/sde/f/2019/04/01/f6dbb421ca616441bbb6ab053b0bbd90_FORMATO.png,5,1.84,Everton Cardoso da Silva,0,4,8.13,7,,everton,2,0.0
+319,Hudson,50324,276,https://s.glbimg.com/es/sde/f/2019/04/01/9e5f146e4b4c3975e459435a5ebde804_FORMATO.png,7,4.24,Hudson Rodrigues dos Santos,0,4,11.68,7,,hudson,7,-0.42
+320,Kaique Rocha,103684,277,https://s.glbimg.com/es/sde/f/2018/11/10/74779e57e2c7d94a49870544327e9cb9_FORMATO.png,0,0.0,Kaique Rocha Lima,0,3,2.0,7,,kaique-rocha,6,0.0
+321,Tiago Volpi,72018,276,https://s.glbimg.com/es/sde/f/2019/04/01/2738a4ae33bd55ff85ec0117ecf79063_FORMATO.png,7,3.85,Tiago Luis Volpi,0,1,9.09,7,,tiago-volpi,7,1.11
+322,Jonatan Gomez,94857,341,https://s.glbimg.com/es/sde/f/2019/06/05/9f3a5b8b8f548ddf62d596532896c337_FORMATO.png,0,0.0,Jonatan David Gomez Ospina,0,4,3.0,7,,jonatan-gomez,7,0.0
+323,Willian Farias,63058,276,https://s.glbimg.com/es/sde/f/2019/04/01/92b08d76fca5665f16a0fee09fbc07d2_FORMATO.png,0,0.0,Willian Roberto Farias,0,4,3.0,7,,willian-farias,6,0.0
+324,Anderson Ceará,103724,277,https://s.glbimg.com/es/sde/f/2018/11/20/744c159954ee4c4e7301b12d509ba9ac_FORMATO.jpeg,0,0.0,Francisco Anderson de Jesus dos Santos,0,4,1.0,7,,anderson-ceara,6,0.0
+325,Igor Vinícius,95466,276,https://s.glbimg.com/es/sde/f/2019/04/01/882d97a0ed3a028f3c489768c79b7268_FORMATO.png,5,2.46,Igor Vinícius de Souza,0,2,6.5,7,,igor-vinicius,3,-1.6
+326,Jucilei,63422,276,https://s.glbimg.com/es/sde/f/2019/04/01/3e050c01c28897f628b2b5b275392576_FORMATO.png,0,0.0,Jucilei da Silva,0,4,8.0,7,,jucilei,6,0.0
+327,Lucas Kal,95662,276,https://s.glbimg.com/es/sde/f/2019/04/01/3550f7f824481d5d0345448e8ad226d0_FORMATO.png,0,0.0,Lucas Kal Schenfeld Progioli,0,3,1.0,7,,lucas-kal,6,0.0
+328,Léo,85626,276,https://s.glbimg.com/es/sde/f/2019/04/01/bbb9588c3dbac516f581a278fc277197_FORMATO.png,0,0.0,Leonardo Pinheiro da Conceição,0,2,5.0,7,,leo,6,0.0
+329,Brenner,99789,266,https://s.glbimg.com/es/sde/f/2019/05/25/2d0ecae03a030c68b426c28eb59b2222_FORMATO.png,2,1.25,Brenner Souza da Silva,0,5,2.32,7,,brenner,7,0.15
+330,Igor Gomes,100084,276,https://s.glbimg.com/es/sde/f/2019/04/01/7a6c90034396325f6cc570ef06e1040c_FORMATO.png,4,-0.08,Igor Silveira Gomes,0,4,1.18,7,,igor-gomes,7,0.43
+331,Bruno Peres,73962,276,https://s.glbimg.com/es/sde/f/2019/04/01/e45da566464dfc86f2e866c3d5f0a9ff_FORMATO.png,0,0.0,Bruno da Silva Peres,0,2,5.0,7,,bruno-peres,6,0.0
+332,Bruno Alves,73620,276,https://s.glbimg.com/es/sde/f/2019/04/01/c8c4cd4fac733c4fba030044eefbd05a_FORMATO.png,7,2.04,Bruno Fabiano Alves,0,3,5.92,7,,bruno-alves,7,-0.08
+333,Biro Biro,80949,276,https://s.glbimg.com/es/sde/f/2019/04/01/f68e2361b5e781e14b16924b5effcb08_FORMATO.png,0,0.0,Diego Santos Gama Camilo,0,5,3.0,7,,biro-biro,6,0.0
+334,Liziero,100761,276,https://s.glbimg.com/es/sde/f/2019/04/01/8423e58431d29d7700ba477367f59b3f_FORMATO.png,3,2.13,Igor Matheus Liziero Pereira ,0,4,4.74,7,,liziero,5,0.0
+335,Toró,101885,276,https://s.glbimg.com/es/sde/f/2019/04/01/537547b0687a098437442f6632e753bc_FORMATO.png,6,2.43,Jonas Gabriel da Silva Nunes,0,5,5.33,7,,toro,2,0.53
+336,Jean,90933,276,https://s.glbimg.com/es/sde/f/2019/04/01/0ed07c98bf47b8fa29fdb379eabb0c31_FORMATO.png,0,0.0,Jean Paulo Fernandes Filho,0,1,5.0,7,,jean,6,0.0
+337,Antony,103455,276,https://s.glbimg.com/es/sde/f/2019/04/01/8f7a82b4d2e116fcf5f4b7f1bf94080f_FORMATO.png,6,4.32,Antony Matheus do Santos,0,5,11.31,7,,antony,6,0.0
+338,Everton Felipe,86519,276,https://s.glbimg.com/es/sde/f/2019/04/01/1342705bcf7099d35a68d6c68311e216_FORMATO.png,0,0.0,Everton Felipe de Oliveira Silva,0,4,3.0,7,,everton-felipe,6,0.0
+339,Helinho,102598,276,https://s.glbimg.com/es/sde/f/2019/04/01/a4da339bedf52e7e79df80fd1914f6da_FORMATO.png,3,0.67,Hélio Júnio Nunes de Castro,0,5,3.96,7,,helinho,6,0.0
+340,Gonzalo Carneiro,101796,276,https://s.glbimg.com/es/sde/f/2019/04/01/504b1e2a808ffe49b9679b8e86de83b8_FORMATO.png,0,0.0,Gonzalo Rodrigo Carneiro Méndez,0,5,5.0,7,,gonzalo-carneiro,3,0.0
+341,Walce,104074,276,https://s.glbimg.com/es/sde/f/2019/03/26/d9fb64d171c0188ebc7f660fe5f388ea_FORMATO.png,3,3.57,Walce da Silva Costa Filho,0,3,3.67,7,,walce,6,0.0
+342,Rodrigo Freitas,103261,276,https://s.glbimg.com/es/sde/f/2019/03/26/c82451e325c04a87780194f586a25229_FORMATO.png,0,0.0,Rodrigo dos Santos Freitas,0,3,2.0,7,,rodrigo-freitas,6,0.0
+343,Lucas Paes,101837,276,https://s.glbimg.com/es/sde/f/2019/04/01/93c12b1437d9ab16eb93c3f7fc8c4f9b_FORMATO.png,0,0.0,Lucas Paes Souza,0,1,2.0,7,,lucas-paes,6,0.0
+344,Luan,102909,276,https://s.glbimg.com/es/sde/f/2019/04/01/d66903d72e2d84e1b6c05a8579691862_FORMATO.png,2,0.9,Luan Vinicius da Silva Santos ,0,4,3.95,7,,luan,7,0.64
+345,Breno,50408,267,https://s.glbimg.com/es/sde/f/2018/09/27/3ded47ae372af2247cf245225f727efc_FORMATO.png,0,0.0,Breno Vinicius Rodrigues Borges,0,3,6.0,7,,breno,5,0.0
+346,Claudio Winck,74074,267,https://s.glbimg.com/es/sde/f/2019/02/04/4412c9f53c873f0f2ce2b2038d648bbf_FORMATO.jpeg,2,2.15,Claudio Winck Neto,0,2,4.01,7,,claudio-winck,6,0.0
+347,Bruno César,52558,267,https://s.glbimg.com/es/sde/f/2019/03/31/3b9db9e833f13f65a65d1546e2608e81_FORMATO.jpeg,4,2.12,Bruno César Zanaki,0,4,7.8,7,,bruno-cesar,6,0.0
+348,Júnior,103662,276,https://s.glbimg.com/es/sde/f/2019/04/01/f8a36e8e52088ffa0e8b4469629c46fe_FORMATO.png,0,0.0,Dênis de Oliveira Aguiar Júnior,0,1,1.0,7,,junior,6,0.0
+349,Werley,62974,267,https://s.glbimg.com/es/sde/f/2018/09/27/100cf375e588a977ea2906da9ed2694f_FORMATO.png,5,-1.08,Werley Ananias da Silva,0,3,0.75,7,,werley,6,0.0
+350,Thiago Galhardo,71844,354,https://s.glbimg.com/es/sde/f/2019/04/29/066e54215a4994be68b64958a2b3d326_FORMATO.png,4,10.95,Thiago Galhardo do Nascimento Rocha,0,4,11.14,7,,thiago-galhardo,7,-0.86
+351,Ramon,68896,267,https://s.glbimg.com/es/sde/f/2018/09/27/7b0ec92bd9cd8803ca0b44dec6637586_FORMATO.png,0,0.0,Ramon de Morais Motta ,0,2,5.0,7,,ramon,6,0.0
+352,Rossi,81798,267,https://s.glbimg.com/es/sde/f/2019/05/08/96abdb92d574fa62e402db3c5eb7fc0c_FORMATO.png,6,1.6,Rosicley Pereira da Silva,0,5,4.23,7,,rossi,7,-1.1
+353,Oswaldo Henríquez,81241,267,https://s.glbimg.com/es/sde/f/2018/09/27/93bdf7db4666448d0da5432a29006d5f_FORMATO.png,0,0.0,Oswaldo José Henríquez Bocanegra,0,3,3.0,7,,oswaldo-henriquez,6,0.0
+354,Luiz Gustavo,80573,267,https://s.glbimg.com/es/sde/f/2018/09/27/b551a9e8e890e361540470d7d707da03_FORMATO.png,2,-0.75,Luiz Gustavo Tavares Conde,0,3,2.23,7,,luiz-gustavo,7,0.0
+355,Fernando Miguel,71571,267,https://s.glbimg.com/es/sde/f/2018/09/27/d6ac644102159cd04f0ad131ac4bfb10_FORMATO.png,0,0.0,Fernando Miguel Kaufmann,0,1,8.0,7,,fernando-miguel,7,0.0
+356,Vinícius Araújo,82767,267,https://s.glbimg.com/es/sde/f/2018/09/27/6ddf98420b08a50c32c74472f3b962b3_FORMATO.png,0,0.0,Vinícius Vasconcelos Araújo,0,5,2.0,7,,vinicius-araujo,6,0.0
+357,Marcinho,90458,356,https://s.glbimg.com/es/sde/f/2019/03/22/8f366bd1f99334183e816c8b6e06bc3c_FORMATO.png,7,5.63,Márcio Augusto da Silva Barbosa,0,5,8.16,7,,marcinho,7,0.33
+358,Bruno Silva,83626,267,https://s.glbimg.com/es/sde/f/2018/09/27/b17da0820a3b1e8337a588d2eac239bc_FORMATO.png,1,2.5,Bruno da Silva Barbosa,0,4,2.93,7,,bruno-silva,6,0.0
+359,Danilo Barcelos,84382,267,https://s.glbimg.com/es/sde/f/2019/02/04/9212d58ce4cacfc864eabd43e1aacd0e_FORMATO.jpeg,5,0.04,Danilo Carvalho Barcelos,0,2,3.63,7,,danilo-barcelos,7,0.0
+360,Allan,96652,266,https://s.glbimg.com/es/sde/f/2019/03/31/cbe0d021382b1f6ac6db1fdd5f232dbc_FORMATO.png,6,0.67,Allan Rodrigues de Souza,0,4,2.33,7,,allan,7,-0.35
+361,Rithely,68834,285,https://s.glbimg.com/es/sde/f/2018/09/04/b0fdf1d79ae70c573a8741d9b5226056_FORMATO.png,1,2.8,Francisco Rithely da Silva Sousa,0,4,5.23,7,,rithely,6,0.0
+362,Raúl Cáceres,71680,267,https://s.glbimg.com/es/sde/f/2019/02/04/8b0cf393436f7ab7db324b1059c9b76c_FORMATO.jpeg,1,-1.5,Raúl Alejandro Cáceres Bogado,0,2,3.12,7,,raul-caceres,6,0.0
+363,Luciano Castán,68942,341,https://s.glbimg.com/es/sde/f/2019/03/23/d6ed12c79b94b3fe8318cbe26edff531_FORMATO.png,7,2.11,Luciano Castán da Silva,0,3,5.39,7,,luciano-castan,7,-0.66
+364,Geninho,36886,314,https://s.glbimg.com/es/sde/f/2019/03/31/0f7029892255153d5c0261c6523eef36_FORMATO.png,7,2.74,Eugênio Machado Souto,0,6,5.93,7,,geninho,7,0.23
+365,Léo Santos,95820,266,https://s.glbimg.com/es/sde/f/2019/03/31/c0546b8f7369bd0b592729269c138b03_FORMATO.png,0,0.0,Leonardo Rodrigues dos Santos,0,3,6.0,7,,leo-santos,5,0.0
+366,Madson,42467,341,https://s.glbimg.com/es/sde/f/2019/05/08/c9bb1f5c1ae81ac847abefc7ea36f736_FORMATO.png,5,1.86,Madson Formagini Caridade,0,4,6.46,7,,madson,6,0.0
+367,D'Alessandro,62023,285,https://s.glbimg.com/es/sde/f/2019/04/26/1fb896f3ea8d1a587b57fffd9f5e313d_FORMATO.png,5,0.86,Andrés Nicolas D'Alessandro,0,4,6.69,7,,d-alessandro,6,-0.45
+368,Wellington Silva,68895,285,https://s.glbimg.com/es/sde/f/2018/04/08/37fba0582d79360263206da6e9868169_FORMATO.png,0,0.0,Wellington Alves da Silva,0,5,6.0,7,,wellington-silva,6,0.0
+369,Gabriel Calabres,101911,277,https://s.glbimg.com/es/sde/f/2018/05/23/ab2e89590be1e66768af1205a202b31c_FORMATO.png,0,0.0,Gabriel Calabres Nunes,0,4,2.0,7,,gabriel-calabres,6,0.0
+370,Marlon,91706,266,https://s.glbimg.com/es/sde/f/2018/05/18/957dc9c05196688e737761b957122b5e_FORMATO.png,0,0.0,Marlon Rodrigues Xavier,0,2,4.0,7,,marlon,6,0.0
+371,Paulo Ricardo,88224,266,https://s.glbimg.com/es/sde/f/2018/08/07/40535dad7f23b1a420480a49910c5680_FORMATO.png,0,0.0,Paulo Ricardo Ferreira,0,3,3.0,7,,paulo-ricardo,5,0.0
+372,Everaldo ,91151,264,https://s.glbimg.com/es/sde/f/2019/05/23/6fff5abfbfbd6b07376f8891759f2538_FORMATO.png,2,1.1,Everaldo Silva do Nascimento,0,5,3.47,7,,everaldo,6,0.0
+373,Didira,63178,341,https://s.glbimg.com/es/sde/f/2019/03/23/53d76a1f4b80cf6193e40d704877fbab_FORMATO.png,7,2.7,Cícero dos Santos Bezerra,0,4,6.32,7,,didira,7,-0.32
+374,Nino,91708,266,https://s.glbimg.com/es/sde/f/2019/03/31/828e2021812c049027270d8bec818205_FORMATO.png,7,1.79,Marcílio Florêncio Mota Filho,0,3,2.41,7,,nino,3,-0.17
+375,Sidão,70222,267,https://s.glbimg.com/es/sde/f/2019/05/18/e5e9391eacbbef7a8d684162729df4d4_FORMATO.png,5,1.64,Sidney Aparecido Ramos da Silva,0,1,4.29,7,,sidao,6,-0.43
+376,Dodi,89883,266,https://s.glbimg.com/es/sde/f/2018/04/20/9dae8b824d6d7c1a316a903af9b3740e_FORMATO.png,0,0.0,Douglas Moreira Fagundes,0,4,3.0,7,,dodi,6,0.0
+377,Yony González,97080,266,https://s.glbimg.com/es/sde/f/2019/02/04/afa77024bd6f197dd7f02d24bb8ea775_FORMATO.png,7,4.9,Jony Alexander González Copete,0,5,11.25,7,,yony-gonzalez,5,-0.51
+378,Ronaldo Alves,68950,341,https://s.glbimg.com/es/sde/f/2019/03/23/3bc2e1eb0ea72584d6300404b6ae37b1_FORMATO.png,0,0.0,Ronaldo Luiz Alves,0,3,6.0,7,,ronaldo-alves,5,0.0
+379,Marcos Calazans,97452,276,https://s.glbimg.com/es/sde/f/2019/05/23/afef447f016eefff05fad8b9101e4ecb_FORMATO.png,1,-1.3,Marcos Vinícius Silva Rocha Calazans,0,5,1.94,7,,marcos-calazans,2,-1.06
+380,Daniel,93791,266,https://s.glbimg.com/es/sde/f/2019/03/21/a5343d1cb58ce6999a4b7c00ec34ac1f_FORMATO.png,5,2.4,Daniel Sampaio Simões,0,4,4.91,7,,daniel,7,0.4
+381,Geovane,71667,290,https://s.glbimg.com/es/sde/f/2019/03/26/c9e38ba62632fce4509a3f9e0181914f_FORMATO.png,6,2.0,Geovane Batista de Faria,0,4,4.83,7,,geovane,7,0.0
+382,Pedro,94583,266,https://s.glbimg.com/es/sde/f/2018/09/20/c439d4a824c7f1fd8ec63ecd4e10983e_FORMATO.png,5,5.9,Pedro Guilherme Abreu dos Santos,0,5,12.31,7,,pedro,6,0.0
+383,Caio Henrique,98569,266,https://s.glbimg.com/es/sde/f/2019/02/04/27862dc150d6c7607eebf4e9cc71e83c_FORMATO.png,7,1.85,Caio Henrique Oliveira Silva,0,4,5.09,7,,caio-henrique,7,0.07
+384,Fábio Sanches,71604,290,https://s.glbimg.com/es/sde/f/2019/03/26/dddf90d9631bcb9fa07f3add9c0b918e_FORMATO.png,0,0.0,Fábio Pizarro Sanches,0,3,3.0,7,,fabio-sanches,6,0.0
+385,Frazan,97528,266,https://s.glbimg.com/es/sde/f/2018/09/20/757d419d1040c909be357a50fb4f34b8_FORMATO.png,0,0.0,Wesley Frazan Bernardo,0,3,3.0,7,,frazan,7,0.0
+386,Gilberto,73789,290,https://s.glbimg.com/es/sde/f/2019/03/26/e60267387b772e4aca726b4377fab481_FORMATO.png,0,0.0,Gilberto dos Santos Souza Júnior,0,4,3.0,7,,gilberto,6,0.0
+387,Mateus Gonçalves,103076,354,https://s.glbimg.com/es/sde/f/2019/04/30/fa847e00f13ad27310e18e3ed9e229f5_FORMATO.jpeg,2,-0.45,Mateus Gonçalves Martins,0,5,2.22,7,,mateus-goncalves,6,-0.38
+388,Mascarenhas,99721,266,https://s.glbimg.com/es/sde/f/2017/07/25/440c5676c1d5aade1bd6ddf33598e814_FORMATO.png,0,0.0,Matheus Mascarenhas dos Santos Raimundo,0,2,3.0,7,,mascarenhas,6,0.0
+389,Zé Ricardo,102911,266,https://s.glbimg.com/es/sde/f/2018/09/18/03e7abfdac596735f28f8c3784957b23_FORMATO.png,0,0.0,José Ricardo Araújo Fernandes,0,4,1.0,7,,ze-ricardo,6,0.0
+390,Brenner,80080,314,https://s.glbimg.com/es/sde/f/2019/05/15/1734697a213fcd54106cf09b1ea78a95_FORMATO.png,2,2.55,Brenner Marlos Varanda de Oliveira,0,5,6.03,7,,brenner,7,0.0
+391,Caio,101601,266,https://s.glbimg.com/es/sde/f/2018/09/20/f970b4dfcb039c351e6e0f6bd9a64edb_FORMATO.png,0,0.0,Caio Vinicius da Conceição,0,4,2.0,7,,caio,6,0.0
+392,Yago,77500,290,https://s.glbimg.com/es/sde/f/2019/03/26/32f1ef47f09a17579130bc990308fe11_FORMATO.png,6,1.82,Yago Fernando da Silva,0,3,3.34,7,,yago,7,0.0
+393,Marcos Paulo,103645,266,https://s.glbimg.com/es/sde/f/2019/04/28/6b67724f0df358a59b19d910a740b005_FORMATO.png,2,5.5,Marcos Paulo Costa do Nascimento,0,5,3.09,7,,marcos-paulo,2,0.0
+394,Marcos,78495,290,https://s.glbimg.com/es/sde/f/2019/03/26/97c014749e1bd594e9dc76f33b45a278_FORMATO.png,0,0.0,Marcos de Paula Dutra,0,1,3.0,7,,marcos,6,0.0
+395,Wellington Paulista,38279,356,https://s.glbimg.com/es/sde/f/2019/03/23/2138dee0c7885fcda59ec315f3f3c8bd_FORMATO.png,5,3.94,Wellington Pereira do Nascimento,0,5,10.59,7,,wellington-paulista,5,0.0
+396,Marlone,80944,290,https://s.glbimg.com/es/sde/f/2019/03/26/b8ec528564308c15c0bb71bc4f8a95ab_FORMATO.png,4,2.73,Johnath Marlone Azevedo da Silva,0,4,6.11,7,,marlone,6,0.0
+397,Marcelo Boeck,37788,356,https://s.glbimg.com/es/sde/f/2019/03/22/4b4e1c64603c84d346f4ba4ad46fb562_FORMATO.png,1,1.4,Marcelo Boeck,0,1,4.07,7,,marcelo-boeck,6,-0.93
+398,João Pedro,104026,266,https://s.glbimg.com/es/sde/f/2019/04/28/5584b0d256734e97b4adbf725c2ce137_FORMATO.png,4,7.13,João Pedro Junqueira de Jesus,0,5,5.02,7,,joao-pedro,2,-0.44
+399,Renatinho,80395,290,https://s.glbimg.com/es/sde/f/2019/03/26/4bc605d5a170ce1412fa7c8250432d85_FORMATO.png,3,0.23,Renato Vieira Rodrigues,0,4,2.48,7,,renatinho,6,0.0
+400,Roger Carvalho,51415,356,https://s.glbimg.com/es/sde/f/2019/03/22/d7e594d8f0b678708a852f3ee9178e96_FORMATO.png,5,0.74,Roger de Carvalho,0,3,3.87,7,,roger-carvalho,7,-0.51
+401,Osvaldo,42222,356,https://s.glbimg.com/es/sde/f/2019/03/22/cf67516d72742aa5e48694567a33d6b6_FORMATO.png,6,3.37,Osvaldo Lourenço Filho,0,5,5.98,7,,osvaldo,7,-0.45
+402,Éderson,73446,356,https://s.glbimg.com/es/sde/f/2019/03/22/24b700fe4f2c7138597131364bc2d2d4_FORMATO.png,0,0.0,Éderson Alves Ribeiro Silva,0,5,6.0,7,,ederson,5,0.0
+403,Paulo Roberto,69047,356,https://s.glbimg.com/es/sde/f/2019/03/22/98a0ece4c6b60ee9652ec2c1e371f056_FORMATO.png,3,1.2,Paulo Roberto da Silva,0,4,4.06,7,,paulo-roberto,7,-1.13
+404,Derley,60791,356,https://s.glbimg.com/es/sde/f/2019/03/22/38fbbc852eaf7ac63811890c98f9ee2a_FORMATO.png,0,0.0,Wanderley de Jesus Sousa,0,4,5.0,7,,derley,6,0.0
+405,Carlinhos,63194,356,https://s.glbimg.com/es/sde/f/2019/03/22/7da6584b8edbee8649acb25931c97e1e_FORMATO.png,6,2.35,Carlos Emiliano Pereira,0,2,5.01,7,,carlinhos,7,0.0
+406,Felipe Alves,72372,356,https://s.glbimg.com/es/sde/f/2019/03/22/c0caa3f398373f554d289ace20f955ec_FORMATO.png,6,2.77,Felipe Alves Raymundo,0,1,7.65,7,,felipe-alves,7,0.0
+407,Tinga,82628,356,https://s.glbimg.com/es/sde/f/2019/03/22/fa74caf8029ce11e791edd0d7fc03025_FORMATO.png,2,-0.2,Guilherme de Jesus da Silva,0,2,0.73,7,,tinga,6,0.0
+408,Romero,79109,356,https://s.glbimg.com/es/sde/f/2019/03/22/6f3e87cd0ea7dd0de1f8463bf7e216a1_FORMATO.png,0,0.0,Santiago Ernesto Romero Fernández,0,4,4.0,7,,romero,6,0.0
+409,Edinho,80193,356,https://s.glbimg.com/es/sde/f/2019/03/22/b196faf58ff8f5c11884a98aae52bb13_FORMATO.png,6,3.65,Francisco Edson Moreira da Silva,0,4,8.44,7,,edinho,5,0.0
+410,Max Walef,84338,356,https://s.glbimg.com/es/sde/f/2019/03/22/a9f9fc2677cbf0f365db6054f150935d_FORMATO.png,0,0.0,Max Walef Araújo da Silva,0,1,1.0,7,,max-walef,6,0.0
+411,Bruno Melo,84339,356,https://s.glbimg.com/es/sde/f/2019/03/22/5b57ab0df3cfe7250d2365f6149d1672_FORMATO.png,1,0.4,Bruno Ferreira Melo,0,2,3.09,7,,bruno-melo,6,-0.91
+412,Diego Tavares,83869,356,https://s.glbimg.com/es/sde/f/2019/03/26/2927048c0da9fb9fe99f8992d8483dbc_FORMATO.png,0,0.0,Diego Barbosa Tavares,0,2,3.0,7,,diego-tavares,5,0.0
+413,Romarinho,84523,356,https://s.glbimg.com/es/sde/f/2019/03/22/1e91578796c67027f42f8dfaefafd24d_FORMATO.png,5,3.18,José Romário Silva de Souza,0,5,4.4,7,,romarinho,7,-0.24
+414,Gabriel Dias,88368,356,https://s.glbimg.com/es/sde/f/2019/03/22/4d0e23087bc533d8757c980cbd598eee_FORMATO.png,6,2.98,Gabriel Dias de Oliveira,0,4,4.66,7,,gabriel-dias,7,0.23
+415,Dodô,84927,356,https://s.glbimg.com/es/sde/f/2019/03/22/8a56679778a0433e0c37f71ecf3c4efa_FORMATO.png,4,-0.15,Raphael Guimarães de Paula,0,4,2.74,7,,dodo,6,-0.42
+416,Marlon,88427,356,https://s.glbimg.com/es/sde/f/2019/03/22/165ca899b89d297dde03eeab3ad9dee7_FORMATO.png,3,1.07,Marlon Adriano Prezotti,0,4,3.66,7,,marlon,6,0.03
+417,Patrick,91914,356,https://s.glbimg.com/es/sde/f/2019/03/22/cc54574005150995a5fed73fe216902f_FORMATO.png,0,0.0,Patrick Marcelino ,0,3,4.0,7,,patrick,6,0.0
+418,Felipe,91733,356,https://s.glbimg.com/es/sde/f/2019/03/22/4ef6aa2bd0c3f910bdb023b63225bec1_FORMATO.png,4,2.25,Luiz Antonio Ferreira Rodrigues,0,4,5.96,7,,felipe,6,0.0
+419,Quintero,96382,356,https://s.glbimg.com/es/sde/f/2019/03/22/df21f8c767acbe98de2f1a88be61c8e8_FORMATO.png,7,0.74,Juan Sebastián Quintero Fletcher,0,3,2.74,7,,quintero,7,0.87
+420,Araruna,95660,356,https://s.glbimg.com/es/sde/f/2019/03/23/6af5c025e0db9d04d70d983be161d599_FORMATO.png,2,1.45,Felipe Araruna Hoffman,0,4,4.11,7,,araruna,6,0.0
+421,Matheus Alessandro,97527,356,https://s.glbimg.com/es/sde/f/2019/03/22/fff7f99312b5f26f059e27d7f7b203a5_FORMATO.png,0,0.0,Matheus Alessandro dos Santos Pereira,0,5,3.0,7,,matheus-alessandro,6,0.0
+422,Chará,99891,282,https://s.glbimg.com/es/sde/f/2018/06/12/141a8b4188cba969d63627e1e52b336e_FORMATO.png,7,5.95,Yimmi Javier Chará Zamora,0,5,13.02,7,,chara,7,1.64
+423,Alan,105395,290,https://s.glbimg.com/es/sde/f/2019/03/26/4ebe446997649a79d3d0d6f81824f76d_FORMATO.png,0,0.0,Alan Carlos de Paula Dias Filho,0,3,1.0,7,,alan,6,0.0
+424,Papagaio,102302,282,https://s.glbimg.com/es/sde/f/2019/03/29/6cce9b5a37d0722657f590f8d01229f4_FORMATO.png,1,0.0,Rafael Elias da Silva,0,5,1.45,7,,papagaio,6,0.0
+425,Felipe Mosquete,105397,290,https://s.glbimg.com/es/sde/f/2019/03/26/6b0ace75db697f11e8d9bd5d9c4e920e_FORMATO.png,0,0.0,Felipe Dias Fonte Mosquete,0,1,1.0,7,,felipe-mosquete,6,0.0
+426,Rafael Barbosa,105396,290,https://s.glbimg.com/es/sde/f/2019/03/26/277c76b8820a7ddb5193448964e883e4_FORMATO.png,0,0.0,Rafael Barbosa dos Santos,0,4,1.0,7,,rafael-barbosa,6,0.0
+427,Iago Mendonça,105278,290,https://s.glbimg.com/es/sde/f/2019/03/26/0a85b74cc382e686bc790312c4cd7983_FORMATO.png,0,0.0,Iago Pereira Mendonça,0,3,1.0,7,,iago-mendonca,6,0.0
+428,Marcelo Rangel,82730,290,https://s.glbimg.com/es/sde/f/2019/03/26/eca12439d38b9fd1ddc8662b4872f0c4_FORMATO.png,0,0.0,Marcelo Rangel da Rosa,0,1,4.0,7,,marcelo-rangel,5,0.0
+429,Emerson Santos,86972,285,https://s.glbimg.com/es/sde/f/2018/07/20/c87125fb04d89c8e72a797a7b0ceeddb_FORMATO.png,4,4.7,Emerson Raymundo Santos,0,3,5.05,7,,emerson-santos,7,0.67
+430,Júnior Santos,101002,356,https://s.glbimg.com/es/sde/f/2019/03/22/942da177a5896c7e0236b3f54baed905_FORMATO.png,6,2.0,José Antonio dos Santos Júnior,0,5,5.64,7,,junior-santos,6,0.0
+431,Nathan,102607,356,https://s.glbimg.com/es/sde/f/2019/03/26/fac8ae4b1ad76816a386604cbe32d846_FORMATO.png,2,1.45,Nathan Otávio Ribeiro,0,3,2.62,7,,nathan,6,0.0
+432,Marcelo Hermes,82639,290,https://s.glbimg.com/es/sde/f/2019/03/26/e5cbd69dfd6e038a31846473359d7246_FORMATO.png,1,-1.1,Marcelo Gazella Hermes,0,2,3.14,7,,marcelo-hermes,6,0.0
+433,Maicon,38196,284,https://s.glbimg.com/es/sde/f/2018/05/21/34502d57cb34fa46bd51d3bd901d38bb_FORMATO.png,3,2.43,Maicon Thiago Pereira de Souza,0,4,8.76,7,,maicon,7,0.0
+434,Rafinha,84381,290,https://s.glbimg.com/es/sde/f/2019/03/26/da0e26b0ad42f47aecd017b463a244e5_FORMATO.png,1,0.2,Rafael Diniz Alves e Silva,0,4,3.07,7,,rafinha,6,0.0
+435,Gustavo Coutinho,104362,356,https://s.glbimg.com/es/sde/f/2019/03/22/219513fd22c061ae4c06d8ae536f7b6f_FORMATO.png,0,0.0,Gustavo Coutinho Silva Lopes,0,5,1.0,7,,gustavo-coutinho,6,0.0
+436,Renato Gaúcho,41929,284,https://s.glbimg.com/es/sde/f/2018/05/21/735c0f10e782fe88dc4dde7e95494223_FORMATO.png,7,3.81,Renato Portaluppi,0,6,10.69,7,,renato-gaucho,7,-1.24
+437,Léo Moura,37701,284,https://s.glbimg.com/es/sde/f/2018/05/21/7d6781295f86c2cbf0d78d936349c8c8_FORMATO.png,1,1.4,Leonardo da Silva Moura,0,2,5.55,7,,leo-moura,2,0.0
+438,Júlio César,49673,284,https://s.glbimg.com/es/sde/f/2019/03/30/2278e80f7f1079a8d5156292e3fe8bef_FORMATO.png,1,5.0,Júlio César Jacobi,0,1,6.05,7,,julio-cesar,6,0.0
+439,Talison,105173,356,https://s.glbimg.com/es/sde/f/2019/03/26/4ba6dd4e62dfc1753d3baf251b92078a_FORMATO.png,0,0.0,Francisco Talison Cavalcante Da Silva,0,2,1.0,7,,talison,6,0.0
+440,Giovanni Augusto,68938,290,https://s.glbimg.com/es/sde/f/2019/03/27/9bfae7e4b63cac57b0bc415f46d1ab65_FORMATO.png,5,0.44,Giovanni Augusto Oliveira Cardoso,0,4,3.15,7,,giovanni-augusto,7,0.0
+441,Marcelo Oliveira,50328,284,https://s.glbimg.com/es/sde/f/2018/05/21/cd9984e989967919e3ef170f9dab23b7_FORMATO.png,0,0.0,Marcelo Oliveira Ferreira,0,3,5.0,7,,marcelo-oliveira,5,0.0
+442,Paulo Victor,68873,284,https://s.glbimg.com/es/sde/f/2018/05/21/6022690f57c54343611ba7c2008603ce_FORMATO.png,6,3.92,Paulo Victor Mileo Vidotti,0,1,5.46,7,,paulo-victor,7,-1.11
+443,Diego Tardelli,38231,284,https://s.glbimg.com/es/sde/f/2019/04/02/74a6e14ea8d6948485a09a674bb1bf31_FORMATO.png,4,2.52,Diego Tardelli Martins,0,5,8.53,7,,diego-tardelli,2,-1.54
+444,André,68690,284,https://s.glbimg.com/es/sde/f/2018/05/18/0ca56cb5450f85a99dc8b875b05f9c86_FORMATO.png,7,3.11,André Felipe Ribeiro de Souza,0,5,9.25,7,,andre,6,-0.55
+445,Caíque Sá,87437,315,https://s.glbimg.com/es/sde/f/2019/03/26/6150eb32c87f7d53142963b02f21a967_FORMATO.png,2,-0.25,Caíque Silva Sá,0,2,3.03,7,,caique-sa,6,0.0
+446,Paulo Miranda,68817,284,https://s.glbimg.com/es/sde/f/2018/05/21/62fa3dde13de597371870ee9b721b5d7_FORMATO.png,0,0.0,Jonathan Doin,0,3,5.0,7,,paulo-miranda,5,0.0
+447,Gabriel,104404,282,,0,0.0,Gabriel Alves da Cunha Borges,0,4,1.0,7,,gabriel,6,0.0
+448,Daniel Guedes ,88225,290,https://s.glbimg.com/es/sde/f/2019/03/27/36a8f752725a4c7a0f94522417d6cc98_FORMATO.png,5,1.42,Daniel Guedes da Silva,0,2,3.99,7,,daniel-guedes,7,0.0
+449,Léo Sena,90572,290,https://s.glbimg.com/es/sde/f/2019/03/26/dbb9320b8d6aae993c9a2f2f65c761ee_FORMATO.png,5,4.14,Leonardo de Souza Sena,0,4,6.25,7,,leo-sena,7,0.0
+450,Cleiton,93882,282,https://s.glbimg.com/es/sde/f/2018/05/07/8a0462ed1a379da917d8f4b4fa8cc04a_FORMATO.png,0,0.0,Cleiton Schwengber,0,1,2.0,7,,cleiton,6,0.0
+451,Matheus Alves,91712,290,https://s.glbimg.com/es/sde/f/2019/03/26/de03c48f1b1b556b4876bcb937977dfa_FORMATO.png,0,0.0,Matheus Alves da Silva Cardoso,0,1,1.0,7,,matheus-alves,6,0.0
+452,David Duarte,91772,290,https://s.glbimg.com/es/sde/f/2019/03/26/cfafe9f57bd3c0e32edd4416b3449331_FORMATO.png,6,3.32,David de Duarte Macedo,0,3,8.63,7,,david-duarte,7,0.0
+453,Marinho,68952,277,https://s.glbimg.com/es/sde/f/2019/05/30/cd8a7f9b0744e105efa0a0c572d37d6f_FORMATO.png,3,2.23,Mário Sérgio Santos Costa,0,5,5.56,7,,marinho,7,-0.18
+454,Michel,71920,284,https://s.glbimg.com/es/sde/f/2018/05/21/85cd3dd4979fed2379f69e0aeeaee152_FORMATO.png,6,1.47,Michel Ferreira dos Santos,0,4,4.84,7,,michel,6,0.8
+455,Leandro Barcia,91242,290,https://s.glbimg.com/es/sde/f/2019/03/26/eb34e430eaaff21dcd5c4c680505c910_FORMATO.png,6,5.77,Leandro Barcia Montero,0,5,10.11,7,,leandro-barcia,7,0.0
+456,Alisson,81845,284,https://s.glbimg.com/es/sde/f/2018/05/18/eeeced6e37969b2b8161eb83c56d069e_FORMATO.png,4,4.6,Alisson Euler de Freitas Castro,0,4,7.35,7,,alisson,7,0.0
+457,Vinícius,104660,290,https://s.glbimg.com/es/sde/f/2019/03/27/5ed5059957839ba01890f61649b417e8_FORMATO.png,0,0.0,Vinícius Lopes da Silva,0,5,1.0,7,,vinicius,6,0.0
+458,Paolo Guerrero,75295,285,https://s.glbimg.com/es/sde/f/2018/08/14/11a728603cfca7e8c71e3fadccee1148_FORMATO.png,6,6.33,José Paolo Guerrero Gonzales,0,5,14.5,7,,paolo-guerrero,6,0.74
+459,Camacho,68770,293,https://s.glbimg.com/es/sde/f/2019/03/30/81d88455f0c9a28fc1bf58482da871c1_FORMATO.png,1,1.2,Guilherme de Aguiar Camacho,0,4,4.3,7,,camacho,3,0.0
+460,Kevin ,91888,290,https://s.glbimg.com/es/sde/f/2019/03/26/c942f5741d6801ac46caaa38525ff433_FORMATO.png,2,4.6,Kevin Peterson dos Santos Silva,0,2,7.49,7,,kevin,6,0.0
+461,Robinho,99574,341,https://s.glbimg.com/es/sde/f/2019/03/23/79529c1f985665187fd2266b0f3d797e_FORMATO.png,2,-0.25,Robson Azevedo da Silva,0,5,2.1,7,,robinho,5,0.0
+462,Leandro Souza,62057,341,https://s.glbimg.com/es/sde/f/2019/03/23/3bdd0f64b8caf2a1f19db1abc54eb9a6_FORMATO.png,1,0.0,Leandro Rosa Souza,0,3,3.62,7,,leandro-souza,6,0.0
+463,Júnior Brandão,93909,290,https://s.glbimg.com/es/sde/f/2019/03/26/e954e98c706090570f4b49aed0d84a09_FORMATO.png,4,-0.48,José Brandão Gonçalves Júnior,0,5,1.81,7,,junior-brandao,6,0.0
+464,Joelson,101512,341,https://s.glbimg.com/es/sde/f/2019/03/23/55d863f2d8452ddc265570df15a5f65c_FORMATO.png,0,0.0,Joelson dos Santos Ferreira Júnior,0,4,1.0,7,,joelson,6,0.0
+465,Giovanny ,92085,290,https://s.glbimg.com/es/sde/f/2019/03/26/0622726518f8a75c36ac5bb8486510c4_FORMATO.png,0,0.0,Giovanny Bariani Marques,0,5,2.0,7,,giovanny,6,0.0
+466,Rony,101040,341,https://s.glbimg.com/es/sde/f/2019/03/23/e134f25651f836736bddd86cf4caf5a7_FORMATO.png,0,0.0,Rony Fernandes da Silva,0,3,2.0,7,,rony,6,0.0
+467,Victor Paraíba,102457,341,https://s.glbimg.com/es/sde/f/2019/03/23/8322008084e66ad377dc12a0eea40cff_FORMATO.png,5,0.98,Victor Wesley dos Santos da Silva,0,5,1.4,7,,victor-paraiba,6,-0.2
+468,Loyola,94680,290,https://s.glbimg.com/es/sde/f/2019/03/26/c4579a65458bcbabe053f6cfda210e89_FORMATO.png,0,0.0,Nilson Evair Loyola Morales,0,2,2.0,7,,loyola,6,0.0
+469,Thalles,95222,290,https://s.glbimg.com/es/sde/f/2019/03/26/56b3e518112fea200bbd74d9de3a5289_FORMATO.png,0,0.0,Thalles Gabriel Morais dos Reis,0,4,2.0,7,,thalles,6,0.0
+470,Vital,102452,341,https://s.glbimg.com/es/sde/f/2019/03/23/fb790a1d32b257ad9a64d7752826981f_FORMATO.png,0,0.0,Johnatan Lucas da Silva Vital,0,3,1.0,7,,vital,6,0.0
+471,Michael,99392,290,https://s.glbimg.com/es/sde/f/2019/03/26/57b50e0fcaacd6b990cf2a0becd46e62_FORMATO.png,6,3.35,Michael Richard Delgado de Oliveira,0,5,5.51,7,,michael,7,0.0
+472,Jefferson,95220,290,https://s.glbimg.com/es/sde/f/2019/03/26/0bdca6f9c3095efaf10949cf6c22b654_FORMATO.png,6,5.08,Jefferson Junio Antonio da Silva,0,2,10.31,7,,jefferson,7,0.0
+473,Gerson,104089,341,https://s.glbimg.com/es/sde/f/2019/03/23/6a9c243299be70830e878c88cccbdd1d_FORMATO.png,7,2.33,Gerson Guimarães Ferreira Júnior,0,3,4.29,7,,gerson,7,-1.1
+474,Marcinho,95332,290,https://s.glbimg.com/es/sde/f/2019/03/26/dd575011a1fbea9f0e7859b1bdf2c9c1_FORMATO.png,2,-0.7,Marcio Antonio de Sousa Júnior,0,4,2.04,7,,marcinho,6,0.0
+475,Figueira,102565,290,https://s.glbimg.com/es/sde/f/2019/03/26/7e19f3b4700aea39ef02fe83399dfc6c_FORMATO.png,0,0.0,Miguel Ferreira Damasceno,0,4,1.0,7,,figueira,6,0.0
+476,Diego,38909,262,https://s.glbimg.com/es/sde/f/2019/04/26/03ca6e190e55bbddf134cff00a44c25c_FORMATO.png,6,0.52,Diego Ribas da Cunha,0,4,5.28,7,,diego,7,0.77
+477,Gerson Júnior,104824,341,https://s.glbimg.com/es/sde/f/2019/03/23/78b41c44bdc88eb897869188f13f3715_FORMATO.png,1,0.0,Gerson José Laurentino Júnior,0,5,0.74,7,,gerson-junior,6,0.0
+478,Igo,104991,341,https://s.glbimg.com/es/sde/f/2019/03/23/7e728851fa1878378a93b877a8fb1a5c_FORMATO.png,0,0.0,Igo Gabriel Santos Pereira,0,1,1.0,7,,igo,6,0.0
+479,Henrique,84893,267,https://s.glbimg.com/es/sde/f/2018/09/27/b3280046d476aa241a694771fbe1b0cc_FORMATO.png,2,1.85,Henrique Silva Milagres,0,2,3.57,7,,henrique,6,0.0
+480,Ratinho,101841,290,https://s.glbimg.com/es/sde/f/2019/03/26/fdeafe06b7b61ec6f750abc3c2ed907a_FORMATO.png,0,0.0,Jurani Francisco Ferreira,0,4,2.0,7,,ratinho,6,0.0
+481,Felipe Sousa,101861,282,,0,0.0,Felipe Fernandes Sousa,0,5,1.0,7,,felipe-sousa,6,0.0
+482,Hugo Moura,101594,262,https://s.glbimg.com/es/sde/f/2019/04/26/715d1c48df5b307209cb6157de7d8965_FORMATO.png,1,0.3,Hugo Moura Arruda da Silva,0,4,2.97,7,,hugo-moura,6,0.0
+483,Rhodolfo,42501,262,https://s.glbimg.com/es/sde/f/2019/04/26/51d02738aaf54038d8131123fd325008_FORMATO.png,1,-1.0,Luiz Rhodolfo Dini Gaioto,0,3,4.63,7,,rhodolfo,6,0.0
+484,Bruninho,101716,282,https://s.glbimg.com/es/sde/f/2018/05/17/4db250b451ffbbeb0a3e8ec81fe6023a_FORMATO.png,2,0.85,Bruno Roberto Pereira da Silva,0,4,1.69,7,,bruninho,6,-0.12
+485,Pará,62086,262,https://s.glbimg.com/es/sde/f/2019/04/26/4967faf795743de6fc05492896bb97fb_FORMATO.png,5,2.18,Marcos Rogério Ricci Lopes,0,2,5.61,7,,para,7,1.55
+486,Alerrandro,101715,282,https://s.glbimg.com/es/sde/f/2018/05/17/28dbb606b55029007f0519c4b90dcd6f_FORMATO.png,2,5.4,Alerrandro Barra Mansa Realino de Souza,0,5,5.78,7,,alerrandro,2,2.12
+487,Everton Ribeiro,51772,262,https://s.glbimg.com/es/sde/f/2019/04/23/cfa31f72beaf2822c06932837b119ffa_FORMATO.png,6,3.58,Everton Augusto de Barros Ribeiro,0,4,12.38,7,,everton-ribeiro,7,-0.61
+488,Hulk,102700,282,https://s.glbimg.com/es/sde/f/2018/05/17/2551e15c845e9706b626ca2ab7a4f23f_FORMATO.png,0,0.0,Carlos Gabriel Moreira de Oliviera,0,2,3.0,7,,hulk,6,0.0
+489,Uribe,78415,277,https://s.glbimg.com/es/sde/f/2019/05/30/b108b602d840b36b81509e4c29870b37_FORMATO.png,1,-1.5,Fernando Uribe Hincapié,0,5,4.89,7,,uribe,2,-2.11
+490,Rodrigo Caio,73800,262,https://s.glbimg.com/es/sde/f/2019/04/26/ed48caa8134e11a7c39b6c0d1b2146a7_FORMATO.png,5,5.16,Rodrigo Caio Roquette Russo,0,3,9.51,7,,rodrigo-caio,7,1.16
+491,Terans,102878,282,https://s.glbimg.com/es/sde/f/2018/06/26/88598177badc1f54b4f2757234282710_FORMATO.png,0,0.0,Miguel David Terans Pérez  ,0,4,5.0,7,,terans,6,0.0
+492,William Pottker,77809,285,https://s.glbimg.com/es/sde/f/2018/04/08/06ddb3ee2ae6d52b98811b532e854970_FORMATO.png,2,2.2,William de Oliveira Pottker,0,5,7.2,7,,william-pottker,6,0.0
+493,Vitinho,78435,262,https://s.glbimg.com/es/sde/f/2019/04/26/36d518358679018a8859dd349da9e91c_FORMATO.png,4,4.05,Victor Vinícius Coelho dos Santos,0,5,8.25,7,,vitinho,6,-0.31
+494,Matheus Stockl,104088,282,https://s.glbimg.com/es/sde/f/2019/03/30/86011c733ddfa6a95f8ce320b63fab21_FORMATO.png,0,0.0,Matheus Bungenstab Stockl,0,3,1.0,7,,matheus-stockl,6,0.0
+495,Luan,86759,284,https://s.glbimg.com/es/sde/f/2018/05/21/c01a0fcc9657bf0df6cfde4356ece5bc_FORMATO.png,4,3.0,Luan Guilherme de Jesus Vieira,0,5,10.15,7,,luan,6,0.0
+496,Arrascaeta,87863,262,https://s.glbimg.com/es/sde/f/2019/04/26/85b7c7626785a66de96ac6b9008f4299_FORMATO.png,4,6.35,Giorgian Daniel de Arrascaeta Benedetti,0,4,13.35,7,,arrascaeta,6,1.98
+497,Neto,103706,282,https://s.glbimg.com/es/sde/f/2019/03/30/845cad8021ef58fd85f953cdd5d0fae9_FORMATO.png,0,0.0,Antônio Fialho de Carvalho Neto,0,4,1.0,7,,neto,6,0.0
+498,César,78086,262,https://s.glbimg.com/es/sde/f/2019/04/26/c90b6f282ed66e95550b8b12c749706c_FORMATO.png,3,3.5,César Bernardo Dutra,0,1,5.44,7,,cesar,6,0.0
+499,Berrío ,85300,262,https://s.glbimg.com/es/sde/f/2019/04/26/91363f5a07b1bf1bd53bc95cb9436ae9_FORMATO.png,4,3.92,Orlando Enrique Berrío Meléndez,0,5,6.49,7,,berrio,6,-0.55
+500,Ronaldo,92981,262,https://s.glbimg.com/es/sde/f/2019/04/26/578ca72e7ea4892017227d6dbfdeeae7_FORMATO.png,2,4.15,Ronaldo da Silva Souza,0,4,4.99,7,,ronaldo,6,0.0
+501,Renan Guedes,104127,282,https://s.glbimg.com/es/sde/f/2019/03/30/326a3140a44042ebe99aabbad8cfef22_FORMATO.png,0,0.0,Renan Guedes Borges,0,2,1.0,7,,renan-guedes,6,0.0
+502,Léo Duarte,94214,262,https://s.glbimg.com/es/sde/f/2019/04/26/7cbaac69273796bf05072d8d0b7e6353_FORMATO.png,4,1.52,Leonardo Campos Duarte da Silva,0,3,3.14,7,,leo-duarte,7,-0.12
+503,Hélio Júnior,104622,282,,0,0.0,Hélio Júnior Rossi Francino,0,2,1.0,7,,helio-junior,6,0.0
+504,Igor Reis,104408,282,,0,0.0,Igor Alves dos Reis,0,4,1.0,7,,igor-reis,6,0.0
+505,Trauco,95738,262,https://s.glbimg.com/es/sde/f/2019/04/26/92bd61710e21808fbbecfb022cfe34e7_FORMATO.png,3,4.27,Miguel Ángel Trauco Saavedra,0,2,5.64,7,,trauco,6,0.08
+506,Betão,37646,314,https://s.glbimg.com/es/sde/f/2019/02/18/c0b805cc5c8e5f13e496652b72658a40_FORMATO.png,6,2.2,Ebert William Amâncio,0,3,4.11,7,,betao,7,1.79
+507,Willian Arão,78478,262,https://s.glbimg.com/es/sde/f/2019/04/26/24196e5c70d2a4de33babf207cf06539_FORMATO.png,5,6.62,Willian Souza Arão da Silva,0,4,13.68,7,,willian-arao,7,-0.04
+508,Marquinhos Silva,38515,314,https://s.glbimg.com/es/sde/f/2019/03/25/8dc24bebfd563fe4253dc5e8837b3121_FORMATO.png,4,2.5,Marcos Roberto da Silva Barbosa,0,3,6.52,7,,marquinhos-silva,6,0.0
+509,Raphael Lopes,105198,282,,0,0.0,Raphael Lopes Silva,0,5,1.0,7,,raphael-lopes,6,0.0
+510,André Moritz,42208,314,https://s.glbimg.com/es/sde/f/2019/02/18/d99758d2310a72493c0acbd56c97f22d_FORMATO.png,3,1.13,André Francisco Moritz,0,4,3.64,7,,andre-moritz,6,0.0
+511,Piris da Motta,95802,262,https://s.glbimg.com/es/sde/f/2019/04/26/28247a3afb9c8e95c1956b2bea9f5c5e_FORMATO.png,4,0.9,Robert Ayrton Piris da Motta,0,4,3.51,7,,piris-da-motta,7,-0.32
+512,Gabriel Batista,98333,262,https://s.glbimg.com/es/sde/f/2019/04/26/69ee9fb82966a6aed84c07e074991f1a_FORMATO.png,0,0.0,Gabriel Batista de Souza,0,1,4.0,7,,gabriel-batista,6,0.0
+513,Lucas Silva,98515,262,https://s.glbimg.com/es/sde/f/2019/04/26/688eee515ba3a5aad11e8f9d0b719f66_FORMATO.png,2,1.1,Lucas da Silva de Jesus,0,5,2.0,7,,lucas-silva,6,0.0
+514,Rafael,97902,262,https://s.glbimg.com/es/sde/f/2019/04/26/64d0a13b8e06be6354ab0abfb3a8b449_FORMATO.png,1,-1.2,Rafael Santos de Sousa,0,3,0.73,7,,rafael,6,0.0
+515,Douglas,38738,314,https://s.glbimg.com/es/sde/f/2019/03/25/5842a2e0a1d8ab226f0555c0667dfc11_FORMATO.png,2,0.0,Douglas dos Santos,0,4,5.74,7,,douglas,6,-0.3
+516,Vladimir,69040,314,https://s.glbimg.com/es/sde/f/2019/03/25/4bc2171f8c51b2c85199265874ecd26c_FORMATO.png,7,2.93,Vladimir Orlando Cardoso de Araújo Filho,0,1,4.53,7,,vladimir,7,0.44
+517,Julinho,73501,314,https://s.glbimg.com/es/sde/f/2019/02/18/cf3d8eab528cc3bf388f557c9134576c_FORMATO.png,0,0.0,Júlio César Godinho Catole,0,4,2.0,7,,julinho,6,0.0
+518,Lincoln,100065,262,https://s.glbimg.com/es/sde/f/2019/04/26/255d9bff72ac266df10afb5e3a477f23_FORMATO.png,5,3.04,Lincoln Corrêa dos Santos,0,5,4.16,7,,lincoln,6,0.0
+519,Kleber,100126,262,https://s.glbimg.com/es/sde/f/2019/04/26/1059963db07b0f577d52843428be99d5_FORMATO.png,0,0.0,Kleber Augusto Caetano Leite Filho,0,2,2.0,7,,kleber,6,0.0
+520,Pedro Castro,78840,314,https://s.glbimg.com/es/sde/f/2019/03/25/cdc521cfa238c56aa9fb0eb73e4aca7a_FORMATO.png,7,2.4,Pedro Henrique de Castro Silva,0,4,4.4,7,,pedro-castro,7,0.64
+521,Bruno Silva,68698,266,https://s.glbimg.com/es/sde/f/2019/03/21/555c62e4a3cee5e6cbe3931eb000ac6f_FORMATO.png,3,5.33,Bruno César Pereira da Silva,0,4,9.58,7,,bruno-silva,5,0.0
+522,Matheus Dantas,101592,262,https://s.glbimg.com/es/sde/f/2019/04/26/598e69e78ec9ae7d5fe95d527c68781b_FORMATO.png,1,-0.6,Matheus de Jesus Dantas,0,3,1.25,7,,matheus-dantas,6,0.0
+523,Matheus Barbosa,74069,314,https://s.glbimg.com/es/sde/f/2019/03/25/1566120db01ce074100b649a154a6290_FORMATO.png,5,1.74,Matheus Barbosa Teixeira,0,4,4.26,7,,matheus-barbosa,6,1.05
+524,Airton,61985,266,https://s.glbimg.com/es/sde/f/2019/03/21/d608f479e030bba9eaacc9453619b564_FORMATO.png,4,-1.75,Airton Ribeiro Santos,0,4,1.57,7,,airton,3,-2.92
+525,Martín Rea,103093,282,https://s.glbimg.com/es/sde/f/2018/08/15/112cfc233171e1ce071bc8982b37d432_FORMATO.png,0,0.0,Martín Rea Zuccotti,0,3,4.0,7,,martin-rea,6,0.0
+526,Thuler,100125,262,https://s.glbimg.com/es/sde/f/2019/04/26/95196820b7c23e6db6715208a1fd4ea6_FORMATO.png,3,-0.63,Matheus Soares Thuler,0,3,1.99,7,,thuler,6,0.0
+527,Digão,68886,266,https://s.glbimg.com/es/sde/f/2018/07/05/108a277374dbf9d6964a4440bd9ef43e_FORMATO.png,0,0.0,Rodrigo Júnior Paula Silva,0,3,7.0,7,,digao,5,0.0
+528,Fernando Diniz,72391,266,https://s.glbimg.com/es/sde/f/2019/03/31/d5e12d0aeac958061862829b9b8a6b61_FORMATO.png,7,2.73,Fernando Diniz Silva,0,6,5.94,7,,fernando-diniz,7,-0.2
+529,Gegê,82474,314,https://s.glbimg.com/es/sde/f/2019/02/18/a6e6b20f53d3e64deddfd38a901450c0_FORMATO.png,4,4.5,Geirton Marques Aires,0,4,4.31,7,,gege,6,0.72
+530,Pablo Dyego,86444,266,https://s.glbimg.com/es/sde/f/2018/09/20/013c4c3e1dffe0fb41e29461871427f3_FORMATO.png,1,0.0,Pablo Dyego da Silva Rosa,0,5,2.17,7,,pablo-dyego,6,0.0
+531,Luciano,80287,266,https://s.glbimg.com/es/sde/f/2018/07/05/1283cc320b56be7f4661388346c1aeba_FORMATO.png,5,4.28,Luciano da Rocha Neves,0,5,7.06,7,,luciano,7,0.0
+532,Igor Julião,81951,266,https://s.glbimg.com/es/sde/f/2018/10/10/c1027d589069c95376f433aa4ccfbe1a_FORMATO.png,3,2.37,Igor de Carvalho Julião,0,2,3.29,7,,igor-juliao,6,0.14
+533,Daniel Amorim,82880,314,https://s.glbimg.com/es/sde/f/2019/02/18/0d8fec2dd84657e690f017bb4a25b414_FORMATO.png,5,2.44,Daniel Amorim Dias da Silva,0,5,5.98,7,,daniel-amorim,6,-0.28
+534,João Paulo,86770,314,https://s.glbimg.com/es/sde/f/2019/02/18/e6b56502fd1ec5cd75f853c47b7df942_FORMATO.png,7,1.44,João Paulo da Silva Alves,0,4,4.65,7,,joao-paulo,7,0.72
+535,Igor Fernandes,82635,314,https://s.glbimg.com/es/sde/f/2019/02/18/8ab8d39b2dc545324288925073d88bfd_FORMATO.png,4,1.82,Igor Fernandes da Silva Araújo,0,2,2.5,7,,igor-fernandes,7,0.31
+536,Lucas Frigeri,84854,314,https://s.glbimg.com/es/sde/f/2019/03/26/65f2f48172da036fdca184334f150eab_FORMATO.png,0,0.0,Lucas Henrique Frigeri,0,1,5.0,7,,lucas-frigeri,6,0.0
+537,Mosquera,86116,314,https://s.glbimg.com/es/sde/f/2019/03/31/8ef2e2aca1a983bd2f770590e4a0aa91_FORMATO.png,2,0.5,Jonny Ferney Mosquera Mena,0,4,2.69,7,,mosquera,6,0.0
+538,Getúlio,90573,314,https://s.glbimg.com/es/sde/f/2019/02/18/3eda93423ebb9e3f661c0360363ef5e5_FORMATO.png,6,2.08,Getúlio Wandelly Silva Timoteo,0,5,6.1,7,,getulio,7,-0.36
+539,Kunde,95476,314,https://s.glbimg.com/es/sde/f/2019/03/25/c4c9c869583e3c80724d1cea7d6dbbc9_FORMATO.png,2,-1.0,Eduardo Kunde,0,3,0.73,7,,kunde,7,0.0
+540,Alex Silva,84861,314,https://s.glbimg.com/es/sde/f/2019/02/18/2ffd333de72b16a616330241a2857925_FORMATO.png,1,1.7,Alex da Silva,0,2,4.35,7,,alex-silva,5,0.0
+541,Léo Lopes,96965,314,https://s.glbimg.com/es/sde/f/2019/03/25/75373f3be71d114621aba37a7d05db97_FORMATO.png,0,0.0,Leonardo Thomas Lopes,0,1,1.0,7,,leo-lopes,6,0.0
+542,Maurício,96464,314,https://s.glbimg.com/es/sde/f/2019/03/26/1f39cc62496e44034c3eeebbdf31abf6_FORMATO.png,0,0.0,Maurício Tomazi Pinheiro,0,3,3.0,7,,mauricio,6,0.0
+543,Lourenço,99032,314,https://s.glbimg.com/es/sde/f/2019/03/26/a10ea3714ffa4fb0caf1a1a80ffd5255_FORMATO.png,4,4.48,João Paulo Ferreira Lourenço,0,5,4.07,7,,lourenco,7,0.15
+544,Cláudio Vitor,98888,314,https://s.glbimg.com/es/sde/f/2019/02/18/798d0ead220702bf3c3f671330c609e5_FORMATO.png,0,0.0,Cláudio Vitor Morais de Lima Cruz,0,1,1.0,7,,claudio-vitor,6,0.0
+545,Gabriel Lima,98400,314,https://s.glbimg.com/es/sde/f/2019/02/18/a93bba8cbc0b3d63a2713d51b3e80af1_FORMATO.png,0,0.0,Gabriel Farias de Lima,0,5,3.0,7,,gabriel-lima,6,0.0
+546,Luan Pereira,99900,314,https://s.glbimg.com/es/sde/f/2019/03/26/4ea943857c8fd654cdc1fe1f3e802748_FORMATO.png,5,1.74,Luan Martins Pereira,0,4,3.26,7,,luan-pereira,6,0.0
+547,Ricardo,101491,314,https://s.glbimg.com/es/sde/f/2019/03/26/d6db02ce94eb23f6a9e0090158f1d7e8_FORMATO.png,4,2.38,Ricardo Thalheimer,0,3,3.99,7,,ricardo,7,-0.52
+548,Glédson,73533,314,https://s.glbimg.com/es/sde/f/2019/02/18/c6d4b90211065258bf950d6d8491a977_FORMATO.png,0,0.0,Glédson Ribeiro dos Santos,0,1,3.0,7,,gledson,6,0.0
+549,Wesley,99462,314,https://s.glbimg.com/es/sde/f/2019/03/26/c2306740c31403d20520165b9297b553_FORMATO.png,0,0.0,Wesley Soares Xavier,0,4,2.0,7,,wesley,6,0.0
+550,Gustavo,101316,314,https://s.glbimg.com/es/sde/f/2019/02/18/2d52dcaf120ebbe0826308ada2b51f8d_FORMATO.png,0,0.0,Gustavo Alcindo (Alcino),0,3,3.0,7,,gustavo,6,0.0
+551,Iury,101846,314,https://s.glbimg.com/es/sde/f/2019/02/18/0758f27a5553304e808e5732adb6eadd_FORMATO.png,3,2.93,Iury de Oliveira Nascimento ,0,2,6.76,7,,iury,6,0.0
+552,Marcinho,102380,314,https://s.glbimg.com/es/sde/f/2019/03/26/f668b0e7484644c6732bfc57f72a5fdb_FORMATO.png,0,0.0,Márcio Rodrigues Velasco,0,4,1.0,7,,marcinho,6,0.0
+553,Caio Paulista,102318,314,https://s.glbimg.com/es/sde/f/2019/02/18/9a6fef900167a97e0492da10177e45b8_FORMATO.png,3,3.2,Caio Fernando de Oliveira,0,5,2.78,7,,caio-paulista,7,-0.31
+554,Rodrigo,104328,314,https://s.glbimg.com/es/sde/f/2019/03/26/ba2af494a1681ac20387f7fc39e21721_FORMATO.png,0,0.0,Rodrigo Jardim dos Santos Almeida,0,1,1.0,7,,rodrigo,6,0.0
+555,Dudu,104327,314,https://s.glbimg.com/es/sde/f/2019/02/18/802f542c5adf740551a1a6aec66a72ba_FORMATO.png,0,0.0,Eduardo Luis Tapparo,0,4,1.0,7,,dudu,6,0.0
+556,João Vitor,104329,314,https://s.glbimg.com/es/sde/f/2019/03/26/bbbed8c4d42ead7dff816c8262ba62cf_FORMATO.png,0,0.0,João Vitor de Oliveira,0,1,1.0,7,,joao-vitor,6,0.0
+557,Paulo André,37604,293,https://s.glbimg.com/es/sde/f/2019/03/30/d13b3f750784e34198600803f659c068_FORMATO.png,3,0.4,Paulo André Cren Benini,0,3,3.8,7,,paulo-andre,7,0.0
+558,Falcão,104104,314,https://s.glbimg.com/es/sde/f/2019/02/18/6a3faee3e0ccb1919d96bae0cb823728_FORMATO.png,0,0.0,Lucas de Oliveira Teodoro Falcão,0,4,2.0,7,,falcao,6,0.0
+559,Nuno,104326,314,https://s.glbimg.com/es/sde/f/2019/03/26/c1b1a18f433b957ac0690204c16bedca_FORMATO.png,0,0.0,Acácio Nuno Boing,0,3,2.0,7,,nuno,6,0.0
+560,Jonathan,37662,293,https://s.glbimg.com/es/sde/f/2019/03/30/8b5651c87880d8422c6440c0edfc069a_FORMATO.png,2,0.8,Jonathan Cícero Moreira,0,2,4.71,7,,jonathan,6,0.0
+561,Leonardo,86973,284,https://s.glbimg.com/es/sde/f/2018/05/21/15d96549307788253f2aba10bff0c973_FORMATO.png,6,2.4,Leonardo Gomes da Conceição Silva,0,2,5.02,7,,leonardo,7,-1.3
+562,Márcio Azevedo,42491,293,https://s.glbimg.com/es/sde/f/2019/03/30/94c0ddfd7cbc5c7244c6b1a5aecc258b_FORMATO.png,6,3.63,Márcio Gonzaga de Azevedo,0,2,6.8,7,,marcio-azevedo,7,2.39
+563,Wellington,62129,293,https://s.glbimg.com/es/sde/f/2019/03/30/79dd4d1b071e14e833f4b54ceaba247a_FORMATO.png,6,-1.05,Wellington Aparecido Martins,0,4,0.75,7,,wellington,7,0.0
+564,Santos,69012,293,https://s.glbimg.com/es/sde/f/2019/03/30/e7ce05ddde9ec166606e95d579a152ba_FORMATO.png,6,2.2,Aderbar Melo dos Santos Neto,0,1,6.19,7,,santos,7,1.66
+565,Bergson,68696,354,https://s.glbimg.com/es/sde/f/2019/05/13/8694db2e75af48647f99b643845dac13_FORMATO.png,6,1.7,Bergson Gustavo Silveira da Silva,0,5,5.19,7,,bergson,7,1.03
+566,Brizuela,104819,314,https://s.glbimg.com/es/sde/f/2019/03/26/5b47fe819c97b3c422671ac692dc59d7_FORMATO.png,3,3.3,Feliciano Brizuela,0,5,7.33,7,,brizuela,6,0.0
+567,Marcelo Cirino,69022,293,https://s.glbimg.com/es/sde/f/2019/03/30/c8469dc064bfee30f2576ca3d65fc15b_FORMATO.png,7,4.57,Marcelo Cirino da Silva,0,5,8.1,7,,marcelo-cirino,6,-0.68
+568,Thaciano,87470,284,https://s.glbimg.com/es/sde/f/2018/05/21/8805a9e1e4f2ee609adb3d2576d5ff0a_FORMATO.png,5,0.84,Thaciano Mickael da Silva,0,4,3.36,7,,thaciano,6,-0.02
+569,Pepê,91201,284,https://s.glbimg.com/es/sde/f/2018/07/31/21dbd08feda4a4caf00ffc5fe75ec14b_FORMATO.png,3,-1.0,Eduardo Gabriel Aquino Cossa,0,5,2.8,7,,pepe,2,0.35
+570,Anderson,38001,265,https://s.glbimg.com/es/sde/f/2019/03/29/bbfcc261f62ebb5c1dbea1b7e31f6dca_FORMATO.png,1,-1.0,Anderson Pedro Nunes da Silva Campos,0,1,2.08,7,,anderson,6,0.0
+571,Felipe Vizeu,94138,284,https://s.glbimg.com/es/sde/f/2019/06/05/2daf01a9e1c0abfaadf9c988b8805f10_FORMATO.png,7,0.74,Felipe dos Reis Pereira Vizeu do Carmo,0,5,2.39,7,,felipe-vizeu,7,-1.24
+572,Rodriguez,91251,284,https://s.glbimg.com/es/sde/f/2018/08/09/e6b3f5b4c7922f94ca18791b3af1f390_FORMATO.png,2,6.9,Antônio Josenildo Rodrigues de Oliveira,0,3,3.5,7,,rodriguez,7,-0.53
+573,Ernando,49651,265,https://s.glbimg.com/es/sde/f/2019/02/27/6fa92b9ae476bc3a5c60c6beed20ac71_FORMATO.png,7,4.13,Ernando Rodrigues Lopes,0,3,9.91,7,,ernando,7,0.95
+574,Nilton,38573,341,https://s.glbimg.com/es/sde/f/2019/05/14/417d6279fba50eafc9af2314f1114933_FORMATO.png,4,-0.13,Nílton Ferreira Júnior,0,4,3.29,7,,nilton,6,0.0
+575,Antonini,103069,284,https://s.glbimg.com/es/sde/f/2018/08/09/f41ecc80cc226664f24552cc555ae14b_FORMATO.png,0,0.0,Matias Antonini Lui,0,3,1.0,7,,antonini,6,0.0
+576,Brenno,100830,284,https://s.glbimg.com/es/sde/f/2017/12/01/eb6549ddfa3b798b4e31af8c9473334b_FORMATO.jpeg,0,0.0,Brenno Oliveira Fraga Costa,0,1,2.0,7,,brenno,6,0.0
+577,Thonny Anderson,101484,293,https://s.glbimg.com/es/sde/f/2019/05/18/9c926f399fb16f3629089771a4b5a9b6_FORMATO.png,2,1.1,Thonny Anderson da Silva Carvalho,0,4,3.49,7,,thonny-anderson,7,0.0
+578,Emanuel,100840,284,https://s.glbimg.com/es/sde/f/2017/12/01/e2a85d715ac397898197228bac470497_FORMATO.jpeg,0,0.0,Emanuel Leone Moura,0,3,2.0,7,,emanuel,6,0.0
+579,Rafael Sobis,37798,285,https://s.glbimg.com/es/sde/f/2019/03/29/391192f2c104011047dcb18e6855dd72_FORMATO.png,4,0.77,Rafael Augusto Sobis do Nascimento,0,5,5.44,7,,rafael-sobis,7,0.0
+580,Rodrigo Dourado,78865,285,https://s.glbimg.com/es/sde/f/2018/04/08/d62e4f24b1b01196c8a645026d8091b2_FORMATO.png,1,1.4,Rodrigo Dourado Cunha,0,4,7.12,7,,rodrigo-dourado,5,0.0
+581,Juninho Capixaba,94968,284,https://s.glbimg.com/es/sde/f/2018/07/25/49d7d2f3cc1d0ef8b78666c591c1128d_FORMATO.png,5,3.92,Luis Antônio da Rocha Júnior,0,2,6.36,7,,juninho-capixaba,3,-1.72
+582,Zeca,87192,285,https://s.glbimg.com/es/sde/f/2018/04/24/ef12015cf94f9b6c7ab39c4b092ba4a4_FORMATO.png,5,3.84,José Carlos Cracco Neto,0,2,6.98,7,,zeca,7,0.34
+583,Vico,95622,284,https://s.glbimg.com/es/sde/f/2018/05/21/8e861efae6f1b9924b64cb068b7855b8_FORMATO.png,0,0.0,Marcus Vinicius Aredes Duarte,0,5,1.0,7,,vico,6,0.0
+584,Gilberto,61188,265,https://s.glbimg.com/es/sde/f/2019/03/29/e664bac2dfda2416beb75fb9615b8a4f_FORMATO.png,6,6.67,Gilberto Oliveira Souza Júnior,0,5,17.49,7,,gilberto,6,0.0
+585,Camilo,62009,315,https://s.glbimg.com/es/sde/f/2019/05/29/d5226fcbeb0c1ff9cb362cb31dddde84_FORMATO.png,2,2.15,Fernando Camilo Farias,0,4,5.5,7,,camilo,2,-1.23
+586,Matheus Galdezani,82634,285,https://s.glbimg.com/es/sde/f/2019/04/01/eef015fc7bcd190caa8be7fd622aec04_FORMATO.png,0,0.0,Matheus Galdezani,0,4,5.0,7,,matheus-galdezani,5,0.0
+587,Guilherme Parede,83438,285,https://s.glbimg.com/es/sde/f/2019/04/29/a4e7ace9cd75f4187d56ba2fd7543a56_FORMATO.png,5,2.72,Guilherme Parede Pinheiro,0,5,5.07,7,,guilherme-parede,2,0.47
+588,Guilherme,50294,266,https://s.glbimg.com/es/sde/f/2019/05/04/999c57638fe8815a7060966d05a4be93_FORMATO.png,2,-1.9,Guilherme Milhomem Gusmão,0,4,3.31,7,,guilherme,6,-0.45
+589,Jean Pyerre,98832,284,https://s.glbimg.com/es/sde/f/2019/05/28/8d48c0a56b2e5448d42d4e66649d976d_FORMATO.png,4,4.08,Jean Pyerre Casagrande Silveira Correa,0,4,7.74,7,,jean-pyerre,7,-0.86
+590,Guilherme Guedes,100741,284,https://s.glbimg.com/es/sde/f/2018/12/19/3d13ae8aea5e4e960becd85ce4407e5a_FORMATO.jpeg,0,0.0,Guilherme Alecsander Guedes,0,2,3.0,7,,guilherme-guedes,6,0.0
+591,Uendel,60852,285,https://s.glbimg.com/es/sde/f/2018/04/08/54329b1f2e19497e40a10f2e289a5406_FORMATO.png,2,4.7,Uendel Pereira Gonçalves,0,2,3.77,7,,uendel,7,1.97
+592,Neilton,83772,285,https://s.glbimg.com/es/sde/f/2019/03/29/640d511884279db90f11e5446270556b_FORMATO.png,2,3.5,Neilton Meira Mestzk,0,5,6.84,7,,neilton,6,0.0
+593,Edenílson,63289,285,https://s.glbimg.com/es/sde/f/2018/04/08/b8c17a1d807dace07b81afcb28a3438d_FORMATO.png,6,4.05,Edenílson Andrade Dos Santos,0,4,10.57,7,,edenilson,7,2.75
+594,Matheus Henrique,100742,284,https://s.glbimg.com/es/sde/f/2018/09/25/46030666e126811406fd6e8bdccc980e_FORMATO.png,5,0.76,Matheus Henrique de Souza,0,4,3.9,7,,matheus-henrique,6,0.0
+595,Fernandão,62033,265,https://s.glbimg.com/es/sde/f/2019/02/27/c71b608a8727463f7418750e4b406c48_FORMATO.png,6,2.68,José Fernando Viana de Santana,0,5,7.15,7,,fernandao,7,1.57
+596,Enderson Moreira,62137,354,https://s.glbimg.com/es/sde/f/2019/04/27/6b41336a5a8911ee8ee9b1b8ce87488f_FORMATO.png,7,3.8,Enderson Alves Moreira,0,6,10.69,7,,enderson-moreira,7,0.07
+597,Odair Hellmann,92273,285,https://s.glbimg.com/es/sde/f/2019/05/16/f54cba4fa38d6b6985012bc37f16a698_FORMATO.png,7,5.12,Odair Hellmann,0,6,10.79,7,,odair-hellmann,7,0.79
+598,Tréllez,87679,285,https://s.glbimg.com/es/sde/f/2019/03/29/d567e4033e024dd2c71420f70c7bdeb0_FORMATO.jpeg,0,0.0,Santiago Tréllez Vivero,0,5,6.0,7,,trellez,6,0.0
+599,Cueva,82411,277,https://s.glbimg.com/es/sde/f/2019/03/29/52188ffb1316a2e09ed8b05910c0ece5_FORMATO.png,4,1.25,Christian Alberto Cueva Bravo,0,4,6.83,7,,cueva,6,0.0
+600,Jonatan Álvez,92377,285,https://s.glbimg.com/es/sde/f/2018/07/16/8b1421130c1ebf9cc2ff9bd2d84bd2a0_FORMATO.png,1,3.9,Jonatan Daniel Álvez Sagar,0,5,6.17,7,,jonatan-alvez,6,0.0
+601,Klaus,90846,285,https://s.glbimg.com/es/sde/f/2018/04/09/213245ee05c1b0ca97f32c728f20bd6b_FORMATO.png,0,0.0,Willian Klaus,0,3,4.0,7,,klaus,6,0.0
+602,Marcelo Lomba,68872,285,https://s.glbimg.com/es/sde/f/2018/04/08/c6db42e2a46652d39dfdaf203267d223_FORMATO.png,7,6.5,Marcelo Lomba do Nascimento,0,1,12.12,7,,marcelo-lomba,7,-0.12
+603,Dudu,97133,285,https://s.glbimg.com/es/sde/f/2018/04/09/cb32c36884710a73aa2671bf0998c170_FORMATO.png,0,0.0,Luis Eduardo Marques Dos Santos,0,2,3.0,7,,dudu,5,0.0
+604,Nonato,100987,285,https://s.glbimg.com/es/sde/f/2019/05/09/08cbb57fc00b07a7ca892ea09b8dc8e5_FORMATO.png,6,6.23,Gustavo Nonato Santana,0,4,8.61,7,,nonato,7,0.22
+605,Sarrafiore,101315,285,https://s.glbimg.com/es/sde/f/2018/07/05/ce690031c364aa0119c415809e422cf0_FORMATO.png,6,1.3,Martín Nicolás Sarrafiore,0,4,3.76,7,,sarrafiore,6,0.27
+606,Keiller,93834,285,https://s.glbimg.com/es/sde/f/2018/04/08/2b0ef7e6d3eca3c4d867a530c5f5993a_FORMATO.png,0,0.0,Keiller da Silva Nunes,0,1,2.0,7,,keiller,6,0.0
+607,Éverson,72294,277,https://s.glbimg.com/es/sde/f/2019/03/28/83ec5c765fe26cff5158a6e6b1d55061_FORMATO.png,1,8.5,Éverson Felipe Marques Pires,0,1,7.99,7,,everson,6,-0.01
+608,Danilo Fernandes,69051,285,https://s.glbimg.com/es/sde/f/2019/04/26/ff9a95bc3d5696feb8d8d55b5b47f12b_FORMATO.png,0,0.0,Danilo Fernandes Batista,0,1,7.0,7,,danilo-fernandes,6,0.0
+609,Pedro Lucas,104087,285,https://s.glbimg.com/es/sde/f/2019/01/16/c9f4620588de79e571e82ab72160fa3f_FORMATO.jpeg,0,0.0,Pedro Lucas Schwaizer,0,5,4.0,7,,pedro-lucas,6,0.0
+610,Victor Ferraz,70046,277,https://s.glbimg.com/es/sde/f/2018/05/23/229fbb519d2bbf0c8b2c2b77992e15ed_FORMATO.png,7,4.6,Victor Ferraz Macedo,0,2,10.2,7,,victor-ferraz,7,0.55
+611,Bruno Fuchs,104085,285,https://s.glbimg.com/es/sde/f/2019/04/26/fff0d652b4ac6ce54ef47883b8b15162_FORMATO.png,0,0.0,Bruno de Lara Fuchs,0,3,2.0,7,,bruno-fuchs,6,0.0
+612,Bruno,42499,285,https://s.glbimg.com/es/sde/f/2019/04/26/d902e9b106945142d1e4b989287abaa1_FORMATO.png,3,3.5,Bruno Vieira do Nascimento,0,2,5.46,7,,bruno,6,0.57
+613,Carlos Miguel,104084,285,https://s.glbimg.com/es/sde/f/2019/04/26/d8ee304d012b001ba32d480ec6788ead_FORMATO.png,0,0.0,Carlos Miguel dos Santos Pereira,0,1,1.0,7,,carlos-miguel,6,0.0
+614,Roberto,104086,285,https://s.glbimg.com/es/sde/f/2019/05/16/b8a0891d626e56bbf0d4c6c82632218e_FORMATO.png,1,3.3,Roberto Pinheiro da Rosa,0,3,2.98,7,,roberto,6,0.0
+615,Bryan Ruíz,71019,277,https://s.glbimg.com/es/sde/f/2018/07/11/ef076ba265a7f7e961749ab3e573933e_FORMATO.png,0,0.0,Bryan Jafet Ruíz González,0,4,4.0,7,,bryan-ruiz,6,0.0
+616,Jorge Sampaoli,70800,277,https://s.glbimg.com/es/sde/f/2019/04/02/cbfe46eed15abdc67d75bd4170d5e6a1_FORMATO.png,7,4.86,Jorge Sampaoli,0,6,11.69,7,,jorge-sampaoli,7,0.39
+617,Daniel,96468,285,https://s.glbimg.com/es/sde/f/2019/04/26/ac6062a69b3c066cd610015cd65af6e5_FORMATO.png,0,0.0,Daniel de Sousa Brito,0,1,3.0,7,,daniel,6,0.0
+618,Rodrigo Lindoso,72362,285,https://s.glbimg.com/es/sde/f/2019/04/25/e02841571923b2b0da6813c6575fe687_FORMATO.png,6,4.78,Rodrigo Oliveira Lindoso,0,4,8.64,7,,rodrigo-lindoso,7,-0.63
+619,Copete,77959,277,https://s.glbimg.com/es/sde/f/2019/03/28/8b877a8c4ad54095a090c72a16cdb129_FORMATO.png,1,0.3,Jonathan Copete Valencia,0,5,4.56,7,,copete,6,-1.44
+620,Derlis González,75372,277,https://s.glbimg.com/es/sde/f/2018/08/02/82821b03d402e292e2c9436d34a6f1b3_FORMATO.png,4,-3.0,Derlis Alberto González Galeano,0,5,0.74,7,,derlis-gonzalez,6,0.0
+621,Alison,73974,277,https://s.glbimg.com/es/sde/f/2019/03/28/2438d7ca6b16c454a1fc9ccb45ec389d_FORMATO.png,4,1.85,Alison Lopes Ferreira,0,4,4.97,7,,alison,6,0.73
+622,Luiz Felipe,79035,277,https://s.glbimg.com/es/sde/f/2019/03/28/8bb249c2111b49eff60737fd35c27a45_FORMATO.png,0,0.0,Luiz Felipe do Nascimento dos Santos,0,3,7.0,7,,luiz-felipe,6,0.0
+623,João Paulo,85425,277,https://s.glbimg.com/es/sde/f/2019/03/28/55b6bd3285315d25077f61ea5d4a7fc9_FORMATO.png,0,0.0,João Paulo Silva Martins,0,1,2.0,7,,joao-paulo,6,0.0
+624,Gustavo Henrique,78248,277,https://s.glbimg.com/es/sde/f/2019/03/28/1fb1aeab02e0006889fbd9ef7a4dd6e0_FORMATO.png,6,3.25,Gustavo Henrique Vernes,0,3,6.26,7,,gustavo-henrique,7,0.0
+625,Carlos Sánchez,81677,277,https://s.glbimg.com/es/sde/f/2019/03/28/c138b40f3a1c3c5a30059c6bfeb61b3d_FORMATO.png,6,4.07,Carlos Andrés Sánchez Arcosa,0,4,11.48,7,,carlos-sanchez,2,0.09
+626,Soteldo,87258,277,https://s.glbimg.com/es/sde/f/2019/03/29/31e7873f19386d05456c38558b181df5_FORMATO.png,6,2.5,Yeferson Julio Soteldo Martínez,0,4,5.74,7,,soteldo,2,0.0
+627,Joao Rojas,70784,276,https://s.glbimg.com/es/sde/f/2018/08/22/4263f96a54ea57b00b989a04f50f6ec3_FORMATO.png,0,0.0,Joao Robin Rojas Mendoza,0,5,7.0,7,,joao-rojas,5,0.0
+628,Yuri Lima,90569,266,https://s.glbimg.com/es/sde/f/2019/05/08/61da0aba54dc5264e04da63e8e98e78d_FORMATO.png,2,-0.15,Yuri Oliveira Lima,0,4,2.47,7,,yuri-lima,7,1.04
+629,Jorge,88065,277,https://s.glbimg.com/es/sde/f/2019/04/30/d5b0b482b84d690a1f796957d38dd952_FORMATO.png,5,9.32,Jorge Marco de Oliveira Moraes,0,2,14.5,7,,jorge,2,0.73
+630,Matheus Ribeiro,82943,277,https://s.glbimg.com/es/sde/f/2019/03/28/3e3b672c196784b9afea72e85325a468_FORMATO.png,0,0.0,Matheus Antunes Ribeiro,0,2,3.0,7,,matheus-ribeiro,6,0.0
+631,Arboleda,91573,276,https://s.glbimg.com/es/sde/f/2019/04/01/8b22d106ccba1278e3e4a6b89e76eab0_FORMATO.png,3,0.87,Robert Abel Arboleda Escobar,0,3,6.53,7,,arboleda,6,0.0
+632,Diego Pituca,94156,277,https://s.glbimg.com/es/sde/f/2019/03/28/c72bd8dd63cb920ddd6ebd16f7324c0e_FORMATO.png,6,1.47,Diego Cristiano Evaristo,0,4,2.85,7,,diego-pituca,7,0.0
+633,Fellipe Bastos,70116,267,https://s.glbimg.com/es/sde/f/2019/03/26/c1b84ba942df91f5064aabec2e10f1de_FORMATO.png,3,4.17,Fellipe Ramos Ignez Bastos,0,4,4.76,7,,fellipe-bastos,7,0.03
+634,Nikão,69705,293,https://s.glbimg.com/es/sde/f/2019/03/30/e389d21dd5909e815633dfb6c0fffca7_FORMATO.png,5,5.34,Maycon Vinícius Ferreira da Cruz,0,4,16.94,7,,nikao,7,-2.76
+635,Valdívia,85423,267,https://s.glbimg.com/es/sde/f/2019/04/30/6b113d194ccf4eb4bfb71f180f460c44_FORMATO.png,5,0.76,Wanderson Ferreira de Oliveira,0,4,3.87,7,,valdivia,6,0.0
+636,Gabriel Félix,92057,267,https://s.glbimg.com/es/sde/f/2018/04/09/1d85c758ea942cdf25ad4709d3c7ccb8_FORMATO.png,0,0.0,Gabriel Félix dos Santos,0,1,2.0,7,,gabriel-felix,6,0.0
+637,Hugo Borges,95875,267,https://s.glbimg.com/es/sde/f/2018/09/27/c26012bba743c6c3a958bb3650c5a7ed_FORMATO.png,0,0.0,Hugo da Conceição Borges Alves,0,5,2.0,7,,hugo-borges,6,0.0
+638,Caio Monteiro,93789,267,https://s.glbimg.com/es/sde/f/2018/09/27/535d1be6446915f8de685279a6430f6d_FORMATO.png,0,0.0,Caio Monteiro Costa,0,5,3.0,7,,caio-monteiro,6,0.0
+639,Ribamar,94068,267,https://s.glbimg.com/es/sde/f/2019/02/04/9b1da38d8e388aadbecc486fc796afa1_FORMATO.jpeg,1,0.8,Lucas Ribamar Lopes dos Santos Bibiano,0,5,2.64,7,,ribamar,6,0.0
+640,Yan Sasse,96055,267,https://s.glbimg.com/es/sde/f/2019/02/04/f937d7652133bbfcf5c27e7aa470da43_FORMATO.jpeg,5,1.44,Yan Medeiros Sasse,0,4,3.9,7,,yan-sasse,6,0.62
+641,Lucas Mineiro,90634,267,https://s.glbimg.com/es/sde/f/2019/02/04/8c21d6c085c35c5d92e3380a55b2f833_FORMATO.jpeg,7,2.79,Lucas da Silva Izidoro,0,4,6.66,7,,lucas-mineiro,3,0.15
+642,Andrey,93787,267,https://s.glbimg.com/es/sde/f/2018/09/27/8599b503c16e7576611774a756e2e106_FORMATO.png,5,3.12,Andrey Ramos do Nascimento,0,4,5.45,7,,andrey,6,0.53
+643,Raul,92496,267,https://s.glbimg.com/es/sde/f/2018/09/27/cff54b0c5b12cb5f18cd3ca9292e3511_FORMATO.png,4,2.13,Raul Lô Gonçalves,0,4,5.1,7,,raul,7,0.0
+644,Marrony,101717,267,https://s.glbimg.com/es/sde/f/2019/06/06/12302f7cea2b3f83dbae79f9d804d551_FORMATO.png,6,4.6,Marrony da Silva Liberato,0,5,12.88,7,,marrony,7,0.25
+645,Lucas Santos,101718,267,https://s.glbimg.com/es/sde/f/2018/07/17/3d354bb2faab384ce4d8a8fd0bf1d81d_FORMATO.png,0,0.0,Lucas Santos da Silva,0,4,5.0,7,,lucas-santos,5,0.0
+646,Ricardo,99881,267,https://s.glbimg.com/es/sde/f/2019/05/22/83cc3161d01d982a7f019f88e1a24064_FORMATO.png,7,3.12,Ricardo Queiroz de Alencastro Graça,0,3,7.3,7,,ricardo,7,0.53
+647,Roni,105585,264,https://s.glbimg.com/es/sde/f/2019/04/30/4d83ae2a6fb83ce19a30e77021066844_FORMATO.png,0,0.0,Roni Medeiros de Moura,0,4,2.0,7,,roni,6,0.0
+648,Rafael França,101719,267,https://s.glbimg.com/es/sde/f/2018/09/27/58cbfa1d712490ae26a319b3d7c007e5_FORMATO.png,0,0.0,Rafael de Carvalho França,0,2,2.0,7,,rafael-franca,6,0.0
+649,João Pedro,101721,267,https://s.glbimg.com/es/sde/f/2018/09/27/bdf3476e0782cb7e4f75819b1f8495cc_FORMATO.png,0,0.0,João Pedro Soares Borges,0,1,1.0,7,,joao-pedro,6,0.0
+650,Moresche,102719,267,https://s.glbimg.com/es/sde/f/2018/09/27/c6c9b83f9837ff43f73359da0386895a_FORMATO.png,0,0.0,Matheus Celestino Moresche Rodrigues,0,5,2.0,7,,moresche,6,0.0
+651,Tiago Reis,104678,267,https://s.glbimg.com/es/sde/f/2019/02/04/bce79fcb5c254414ecc78fd8ca9e28c4_FORMATO.jpeg,2,1.35,Tiago Rodrigues dos Reis,0,5,4.32,7,,tiago-reis,7,0.75
+652,Ney Franco,37246,315,https://s.glbimg.com/es/sde/f/2019/05/03/968903adfa225595add765307d2d9be3_FORMATO.png,7,3.76,Ney Franco da Silveira Júnior,0,6,8.64,7,,ney-franco,7,-0.38
+653,Miranda,101720,267,https://s.glbimg.com/es/sde/f/2018/09/27/0dec5ab486a566e8fbde05157bccb9cf_FORMATO.png,1,0.7,Matheus dos Santos Miranda,0,3,2.57,7,,miranda,6,0.0
+654,Heitor,104649,285,https://s.glbimg.com/es/sde/f/2019/03/29/72b7f78855a5ecee46897bb061452400_FORMATO.png,0,0.0,Heitor Rodrigues da Fonseca,0,2,1.0,7,,heitor,6,0.0
+655,Rodrigo Fernandes,102771,267,https://s.glbimg.com/es/sde/f/2018/09/27/5ff6d5126f3366e505e6caa6897ccff3_FORMATO.png,0,0.0,Rodrigo Fernandes Nóbrega,0,4,2.0,7,,rodrigo-fernandes,6,0.0
+656,Diego Souza,68911,263,https://s.glbimg.com/es/sde/f/2019/05/28/e0cc239d7bd9a209bfdc1fecccf39567_FORMATO.png,6,0.8,Diego Souza de Andrade,0,5,5.12,7,,diego-souza,7,1.69
+657,João Ricardo,81881,315,https://s.glbimg.com/es/sde/f/2019/03/28/1dadcc46ba4eb0738815ddfca0b51a71_FORMATO.png,0,0.0,João Ricardo Riedi,0,1,6.0,7,,joao-ricardo,3,0.0
+658,Dudu,102852,267,https://s.glbimg.com/es/sde/f/2019/02/04/5f0cba5bf1f2c598d7825638281a5e22_FORMATO.jpeg,0,0.0, Eduardo Feitoza Sampaio,0,4,3.0,7,,dudu,6,0.0
+659,Sornoza,87877,264,https://s.glbimg.com/es/sde/f/2019/05/23/f57131336fd4986cab54d1401667dbf8_FORMATO.png,4,1.62,Júnior Nazareno Sornoza Moreira,0,4,4.35,7,,sornoza,7,0.0
+660,Apodi,51042,341,https://s.glbimg.com/es/sde/f/2019/03/30/b18585f6b8ae91f70811643eb4487638_FORMATO.png,6,1.35,Luiz Diallison de Souza Alves,0,2,3.75,7,,apodi,7,-1.71
+661,Cuéllar,71709,262,https://s.glbimg.com/es/sde/f/2018/05/04/f29c0031ffc2adccbe51088049c2dea0_FORMATO.png,4,7.47,Gustavo Leonardo Cuellar Gallego,0,4,13.77,7,,cuellar,6,0.06
+662,Thiago Heleno,38394,293,https://s.glbimg.com/es/sde/f/2019/03/30/d941b7a4bb640424918c02ce3d930666_FORMATO.png,2,-2.1,Thiago Heleno Henrique Ferreira,0,3,1.27,7,,thiago-heleno,6,0.0
+663,Thiago Neves,38277,283,https://s.glbimg.com/es/sde/f/2018/05/07/d1d468f88a9bce01adaf6cdad34d20ae_FORMATO.png,6,6.18,Thiago Neves Augusto,0,4,8.96,7,,thiago-neves,7,-0.56
+664,Rogério Ceni,97341,356,https://s.glbimg.com/es/sde/f/2019/03/22/7e7ec9b7db2e43595a54d0cbab7f653b_FORMATO.png,7,3.0,Rogério Ceni,0,6,6.97,7,,rogerio-ceni,7,-0.14
+665,Romulo,70009,284,https://s.glbimg.com/es/sde/f/2019/03/30/b06f6bb3a42e7565fe15d4abdbbbe956_FORMATO.png,2,4.45,Romulo Borges Monteiro,0,4,5.45,7,,romulo,2,0.0
+666,Patrick,83433,285,https://s.glbimg.com/es/sde/f/2018/04/08/ecdf20e0263f65cb7a63bf0e68ebd3b6_FORMATO.png,2,6.15,Patrick Bezerra do Nascimento,0,4,9.85,7,,patrick,2,0.0
+667,Rafael Galhardo,68821,284,https://s.glbimg.com/es/sde/f/2019/03/30/c914f02dc858484095b4c076f9ee33f9_FORMATO.png,0,0.0,Rafael Galhardo de Souza,0,2,3.0,7,,rafael-galhardo,6,0.0
+668,Rafael Vaz,73421,290,https://s.glbimg.com/es/sde/f/2019/03/26/2893d827588a8a8150dbe4d07ec4e480_FORMATO.png,1,13.0,Rafael Vaz dos Santos,0,3,13.18,7,,rafael-vaz,6,0.0
+669,Bruno Cortez,72079,284,https://s.glbimg.com/es/sde/f/2018/05/18/0ba3c7d69167c8dcfafe511fc043e800_FORMATO.png,2,2.25,Bruno Cortês Barbosa,0,2,5.59,7,,bruno-cortez,6,0.0
+670,Alexandre Pato,49675,276,https://s.glbimg.com/es/sde/f/2019/03/29/eeca6b8bc1af0980d000db756e4c61ec_FORMATO.png,6,3.78,Alexandre Rodrigues da Silva,0,5,8.71,7,,alexandre-pato,7,2.73
+671,Jô,101317,314,https://s.glbimg.com/es/sde/f/2018/01/23/b7dbfe9b201891a0b82bad50c8db0b21_FORMATO.png,0,0.0,Jean Hebert de Freitas,0,5,1.0,7,,jo,6,0.0
+672,Cuca,42411,276,https://s.glbimg.com/es/sde/f/2019/04/07/35352a4b014ee5f80f5cf8c8e7123bc9_FORMATO.png,7,3.26,Alexi Stival,0,6,9.33,7,,cuca,7,0.18
+673,Tchê Tchê,86686,276,https://s.glbimg.com/es/sde/f/2019/05/06/fbb4319c2256b5cbf2fb558f6e3e9503_FORMATO.png,7,1.87,Danilo das Neves Pinheiro,0,4,3.99,7,,tche-tche,7,-1.76
+674,Tião,47134,356,https://s.glbimg.com/es/sde/f/2019/04/01/2f2d8115868a8a24ba14c10ce4bc4fa2_FORMATO.png,0,0.0,Sebastião Sousa Costa,0,4,1.0,7,,tiao,6,0.0
+675,Montoya,94840,284,https://s.glbimg.com/es/sde/f/2019/03/30/6b3cb365020bb75a2d06d3f5c72c6cf7_FORMATO.png,3,2.7,Walter Iván Alexis Montoya,0,4,6.11,7,,montoya,2,-0.48
+676,Roger Machado ,79437,265,https://s.glbimg.com/es/sde/f/2019/04/29/8982a435477e1d2bde62d75552c4bbfe_FORMATO.png,7,4.72,Roger Machado Marques,0,6,10.83,7,,roger-machado,7,0.21
+677,Pedro Rocha,90302,283,https://s.glbimg.com/es/sde/f/2019/04/30/f119889a4c40913f4b21088f371f6333_FORMATO.png,5,3.74,Pedro Rocha Neves,0,5,11.16,7,,pedro-rocha,6,0.0
+678,Léo Artur,82644,266,https://s.glbimg.com/es/sde/f/2019/04/12/681f8a45ee9c053eff9eb87402ae4e76_FORMATO.png,6,0.67,Leonardo Artur de Melo,0,4,1.99,7,,leo-artur,6,0.03
+679,Kayke,50402,290,https://s.glbimg.com/es/sde/f/2019/04/10/21bd813c25a65fc141baa5756eda6a41_FORMATO.png,6,3.07,Kayke Moreno de Andrade Rodrigues,0,5,5.34,7,,kayke,7,0.0
+680,Eduardo Barroca,77774,263,https://s.glbimg.com/es/sde/f/2019/04/16/d952f67089f2842da5bc84d3029f1a73_FORMATO.png,7,2.84,Eduardo de Souza Barroca,0,6,7.83,7,,eduardo-barroca,7,0.92
+681,Marcos Júnior,93893,267,https://s.glbimg.com/es/sde/f/2019/04/17/da657b0e54ff1131824ec12cb5ae13c2_FORMATO.png,2,2.1,Marcos Antonio Candido Ferreira Júnior,0,4,2.83,7,,marcos-junior,7,-0.09
+682,Vitor Bueno,87552,276,https://s.glbimg.com/es/sde/f/2019/04/04/095c0e9c914b5540c22f639788f6324f_FORMATO.png,4,1.65,Vitor Frezarin Bueno,0,4,4.83,7,,vitor-bueno,2,-0.25
+683,Ewandro,86842,266,https://s.glbimg.com/es/sde/f/2019/04/15/990ff3d748339cc44eee773a59ac5c9a_FORMATO.png,0,0.0,Ewandro Felipe de Lima Costa,0,5,4.0,7,,ewandro,6,0.0
+684,Abner,84860,293,https://s.glbimg.com/es/sde/f/2019/04/01/18e6ddda5e7dd97a6c3c7e7a4ee0011d_FORMATO.png,0,0.0,Abner Felipe Souza de Almeida,0,2,4.0,7,,abner,6,0.0
+685,Vagner,78151,315,https://s.glbimg.com/es/sde/f/2019/05/08/f2f7ed3e3f857655c8c5e56733e7aa3d_FORMATO.png,0,0.0,Vagner Antônio Brandalise,0,1,4.0,7,,vagner,5,0.0
+686,Rodrigo Santana,97922,282,https://s.glbimg.com/es/sde/f/2019/04/11/5607c63c174a35d72ef59210e61712a6_FORMATO.png,7,4.51,Rodrigo Marques de Santana,0,6,11.24,7,,rodrigo-santana,7,1.37
+687,Tadeu,82453,290,https://s.glbimg.com/es/sde/f/2019/04/04/2c3f9d22de0dfd11ee1e9331d5fd85d9_FORMATO.png,6,6.25,Tadeu Antonio Ferreira,0,1,14.42,7,,tadeu,7,0.0
+688,Luanderson ,86380,314,https://s.glbimg.com/es/sde/f/2019/05/07/da04fa8f12c10e89989965f7bf9d54ac_FORMATO.png,1,3.0,Luanderson Johnala Marques da Silva,0,4,2.47,7,,luanderson,6,0.0
+689,Jobson,93377,277,https://s.glbimg.com/es/sde/f/2019/05/28/8a9434518b6eac78476b395bcebe53c7_FORMATO.png,0,0.0,Jobson Souza Santos,0,4,4.0,7,,jobson,6,0.0
+690,Yuri,88125,263,https://s.glbimg.com/es/sde/f/2019/04/22/afe400fc89b6142fd695e234cd15be57_FORMATO.png,3,-0.1,Yuri Antonio Costa da Silva,0,4,2.4,7,,yuri,6,0.0
+691,Paulinho,78512,314,https://s.glbimg.com/es/sde/f/2019/05/07/d675dad7ddcb13ca96fcc4065ac3b404_FORMATO.png,3,1.07,Paulo Oliveira de Souza Junior,0,2,2.31,7,,paulinho,6,0.0
+692,Claudinei Oliveira,84761,290,https://s.glbimg.com/es/sde/f/2019/04/23/acaed80044dff447745c9f6d8558f717_FORMATO.png,6,3.76,Claudinei dos Santos Oliveira,0,6,8.46,7,,claudinei-oliveira,7,0.0
+693,Diguinho,105282,356,https://s.glbimg.com/es/sde/f/2019/03/26/4c13e130e2f3f94ed262901e2ed530c9_FORMATO.png,0,0.0,Francisco Rodrigo de Sousa Barbosa,0,3,2.0,7,,diguinho,6,0.0
+694,Matheus Inácio,80394,356,https://s.glbimg.com/es/sde/f/2019/04/23/0874eaa1c85dea23ae378fbf3d5e1768_FORMATO.png,0,0.0,Matheus Francisco Inácio,0,1,2.0,7,,matheus-inacio,6,0.0
+695,Alexander,105553,267,https://s.glbimg.com/es/sde/f/2019/04/24/158fd65567dd79616ea41fcf9f0bd470_FORMATO.png,2,6.0,Alexander Silva de Lucena,0,1,9.79,7,,alexander,6,0.0
+696,Lucas Piton,105584,264,https://s.glbimg.com/es/sde/f/2019/04/28/5ed7e99f209f90f0aaa290e985138e59_FORMATO.png,0,0.0,Lucas Piton Crivellaro,0,2,1.0,7,,lucas-piton,6,0.0
+697,Rick,104459,354,https://s.glbimg.com/es/sde/f/2019/05/07/16dd4157b1d7457f46c1c3f0e15cfc70_FORMATO.png,2,1.3,Rick Jhonatan Lima Morais,0,5,2.07,7,,rick,6,0.0
+698,Lucas Dias,104356,341,https://s.glbimg.com/es/sde/f/2019/04/27/493ca5a8ac35c34ea0b93396ea486c56_FORMATO.png,0,0.0,Lucas Vinícius Dias Costa,0,3,2.0,7,,lucas-dias,6,0.0
+699,Bruno Méndez,103700,264,https://s.glbimg.com/es/sde/f/2019/05/23/0dc006a6698913db3ce69120b8804b8c_FORMATO.png,0,0.0,Bruno Méndez Cittadini,0,3,6.0,7,,bruno-mendez,6,0.0
+700,Jairinho,102139,267,https://s.glbimg.com/es/sde/f/2019/05/04/5f48ebf39427ff35dd65f6f1b4768386_FORMATO.png,2,1.85,Jairo Santos de Oliveira Filho,0,5,2.85,7,,jairinho,6,0.0
+701,Maranhão,73513,341,https://s.glbimg.com/es/sde/f/2019/05/08/3bddb1479a66b964ae6fe120dc7b6b0b_FORMATO.png,4,2.62,Francinilson Santos Meireles,0,5,3.64,7,,maranhao,7,-0.82
+702,Yago Felipe,87747,290,https://s.glbimg.com/es/sde/f/2019/04/25/b0af7a3c86be9b197bc4fe18084d69ca_FORMATO.png,3,2.13,Yago Felipe da Costa Rocha,0,4,3.76,7,,yago-felipe,6,0.0
+703,Janderson,97245,264,https://s.glbimg.com/es/sde/f/2019/04/30/813c0919a982172ffb025e8d81021a44_FORMATO.png,1,-0.5,Janderson Santos de Souza,0,5,1.23,7,,janderson,6,0.0
+704,Kelvin,71549,266,https://s.glbimg.com/es/sde/f/2019/04/30/4ac354c2c0fa03ebeb8343419ae93c11_FORMATO.png,1,0.2,Kelvin Mateus de Oliveira,0,5,3.72,7,,kelvin,6,0.0
+705,Matheus Jesus,95335,264,https://s.glbimg.com/es/sde/f/2019/05/09/e71fd15038b4159201c4558cc307a573_FORMATO.png,0,0.0,Matheus Sousa de Jesus,0,4,5.0,7,,matheus-jesus,6,0.0
+706,Geovane,105635,293,,0,0.0,Geovane Silva Santos,0,4,1.0,7,,geovane,6,0.0
+707,Walter,62128,290,https://s.glbimg.com/es/sde/f/2019/05/09/07ab5db1f79c2241d47cf70bd2468e76_FORMATO.png,0,0.0,Walter Henrique da Silva,0,5,5.0,7,,walter,6,0.0
+708,Vanderlei Luxemburgo,41327,267,https://s.glbimg.com/es/sde/f/2019/05/20/9fcaa473e56ff2a1a519c0b461160bc0_FORMATO.png,3,2.66,Vanderlei Luxemburgo da Silva,0,6,6.85,7,,vanderlei-luxemburgo,7,0.0
+709,Miguel,105612,266,https://s.glbimg.com/es/sde/f/2019/05/15/50ad076df15a064baadf9eaf5d832c7c_FORMATO.png,0,0.0,Miguel Silveira dos Santos,0,4,3.0,7,,miguel,6,0.0
+710,Dudu,68920,275,https://s.glbimg.com/es/sde/f/2019/01/14/819c40f79c6d36a3a715ac4cc0e6ddba_FORMATO.jpeg,2,8.65,Eduardo Pereira Rodrigues,0,5,19.29,7,,dudu,7,1.75
+711,Morato,105613,276,https://s.glbimg.com/es/sde/f/2019/05/17/06c314cb618673bb9ed533eb908ec42a_FORMATO.png,0,0.0,Felipe Rodrigues da Silva,0,3,1.0,7,,morato,6,0.0
+712,Deyverson,92708,275,https://s.glbimg.com/es/sde/f/2019/01/14/3437ba3702c7494eee6e3469ceacfe97_FORMATO.jpeg,2,-0.85,Deyverson Brum Silva Acosta,0,5,7.96,7,,deyverson,7,-2.08
+713,Ernandes,68956,315,https://s.glbimg.com/es/sde/f/2019/05/21/481baff58528c3c0c9bf4bdeb61d8264_FORMATO.png,0,0.0,Ernandes Dias Luz,0,2,2.0,7,,ernandes,6,0.0
+714,Mauricio,105647,283,,0,0.0,Mauricio Magalhães Prado,0,4,1.0,7,,mauricio,6,0.0
+715,Gabriel Fornari,105636,293,https://s.glbimg.com/es/sde/f/2019/05/19/7cabec74a311c35c7c5daf6981bea68f_FORMATO.png,0,0.0,Gabriel Henrique Chavoni Fornari,0,3,1.0,7,,gabriel-fornari,6,0.0
+716,João Lucas,104257,262,https://s.glbimg.com/es/sde/f/2019/05/09/5068741391b0dcdd7fef7972922e2b38_FORMATO.png,0,0.0,João Lucas de Almeida Carvalho,0,2,2.0,7,,joao-lucas,6,0.0
+717,Willian,42116,275,https://s.glbimg.com/es/sde/f/2019/01/14/60f84b09140055d7fb8c0d0892d5f573_FORMATO.jpeg,0,0.0,Willian Gomes de Siqueira,0,5,10.0,7,,willian,6,0.0
+718,Arthur Cabral,92171,275,https://s.glbimg.com/es/sde/f/2019/01/14/59058b439e69f8a17e72d1a75aa3314a_FORMATO.jpeg,0,0.0,Arthur Mendonça Cabral,0,5,8.0,7,,arthur-cabral,6,0.0
+719,Carlos Eduardo,90917,275,https://s.glbimg.com/es/sde/f/2019/01/14/065996f5e53a936d45d1b737405dfb27_FORMATO.jpeg,0,0.0,Carlos Eduardo Ferreira de Souza,0,5,5.0,7,,carlos-eduardo,6,0.0
+720,Luiz Felipe Scolari,43618,275,https://s.glbimg.com/es/sde/f/2018/08/03/d69c893d37fe02578baf16e9f5ca22fd_FORMATO.png,2,4.14,Luiz Felipe Scolari,0,6,10.9,7,,luiz-felipe-scolari,7,-1.06
+721,Felipe Pires,100289,275,https://s.glbimg.com/es/sde/f/2019/01/14/29f340d1b163d089fce563100b10ccd3_FORMATO.jpeg,0,0.0,Felipe Augusto Rodrigues Pires,0,5,5.0,7,,felipe-pires,6,0.0
+722,Borja,86120,275,https://s.glbimg.com/es/sde/f/2019/01/14/393ccccd62c119cd16a7237e06bb54bf_FORMATO.jpeg,0,0.0,Miguel Ángel Borja Hernández,0,5,7.0,7,,borja,6,0.0
+723,Jailson,72290,275,https://s.glbimg.com/es/sde/f/2019/01/14/89275763a0ba1f9787279a68c22de24f_FORMATO.jpeg,0,0.0,Jailson Marcelino dos Santos,0,1,8.0,7,,jailson,6,0.0
+724,Antônio Carlos ,79702,275,https://s.glbimg.com/es/sde/f/2019/06/04/82859093e0dc5964ab48dbe20839b60d_FORMATO.png,2,2.85,Antônio Carlos Cunha Capocasali Júnior,0,3,6.06,7,,antonio-carlos,7,-1.5
+725,Edu Dracena,37657,275,https://s.glbimg.com/es/sde/f/2019/06/05/4b2eb6b4e8d69e5d9596ee97455c1859_FORMATO.png,0,0.0,Eduardo Luís Abonizio de Souza,0,3,6.0,7,,edu-dracena,7,0.0
+726,Luan,80692,275,https://s.glbimg.com/es/sde/f/2019/01/14/a90df5771f9066a2c5babe59b575790d_FORMATO.jpeg,1,5.0,Luan Garcia Teixeira,0,3,10.57,7,,luan,6,0.0
+727,Fernando Prass,38140,275,https://s.glbimg.com/es/sde/f/2019/01/14/fa2170b10aa6b39a49f233749a326dec_FORMATO.jpeg,0,0.0,Fernando Buttenbender Prass,0,1,8.0,7,,fernando-prass,6,0.0
+728,Juninho,92182,275,https://s.glbimg.com/es/sde/f/2019/05/21/2e870c968311af8802b16fb18a65e714_FORMATO.png,0,0.0,José Carlos Ferreira Júnior,0,3,4.0,7,,juninho,6,0.0
+729,Bruno Henrique,70944,275,https://s.glbimg.com/es/sde/f/2019/01/14/57fb81b73c89620d18f66384c4d61108_FORMATO.jpeg,2,2.05,Bruno Henrique Corsini,0,4,11.4,7,,bruno-henrique,7,-2.64
+730,Fabiano,79887,275,https://s.glbimg.com/es/sde/f/2019/01/14/ea7db8fa2a3e153ecdfb733b6c70c6c7_FORMATO.jpeg,0,0.0,Fabiano Leissmann,0,2,4.0,7,,fabiano,6,0.0
+731,Luan,105807,266,,0,0.0,Luan de Freitas Molarinho Chagas,0,3,1.0,7,,luan,6,0.0
+732,Riquelme,105566,267,https://s.glbimg.com/es/sde/f/2019/04/24/c9b8a5031b03ccf71b246635ffe126ed_FORMATO.png,0,0.0,Riquelme Carvalho Araújo Viana,0,2,1.0,7,,riquelme,6,0.0
+733,Elias,90843,315,https://s.glbimg.com/es/sde/f/2018/05/18/914d44f55072f4eb554217f96488b7ae_FORMATO.png,0,0.0,Elias Martello Curzel,0,1,2.0,7,,elias,6,0.0
+734,Victor Rangel,82653,263,https://s.glbimg.com/es/sde/f/2019/06/06/57321e0975769607d7b66a873b461574_FORMATO.png,0,0.0,Victor Neves Rangel,0,5,3.0,7,,victor-rangel,6,0.0
+735,Diogo Barbosa,70916,275,https://s.glbimg.com/es/sde/f/2019/06/05/c68ca1e3beca5f7ef515490e1446798c_FORMATO.png,2,6.45,Diogo Barbosa Mendanha,0,2,10.62,7,,diogo-barbosa,7,-0.79
+736,Victor Luis,86410,275,https://s.glbimg.com/es/sde/f/2019/01/14/6656cffa0a00120d740886ec3a73c1df_FORMATO.jpeg,0,0.0,Victor Luis Chuab Zamblauskas,0,2,7.0,7,,victor-luis,6,0.0
+737,Lucas Hernández,98822,282,https://s.glbimg.com/es/sde/f/2019/06/05/2e1901899d630ed1bfcc833d35f44ff0_FORMATO.png,0,0.0,Lucas Camilo Hernández Perdomo,0,2,4.0,7,,lucas-hernandez,6,0.0
+738,Celsinho,72494,341,https://s.glbimg.com/es/sde/f/2019/03/23/8e0cf56b709151b2440313376e51f0c5_FORMATO.png,2,2.2,Celsonil Santos de Macedo Junior ,0,2,3.43,7,,celsinho,6,-0.96
+739,Mayke,81150,275,https://s.glbimg.com/es/sde/f/2019/01/14/44f0336a3733e2e3fb4fccc9cf275f3a_FORMATO.jpeg,0,0.0,Mayke Rocha de Oliveira,0,2,10.0,7,,mayke,6,0.0
+740,Guerra,74213,275,https://s.glbimg.com/es/sde/f/2019/01/14/a74c9df4b310dda7b80600d132713dd6_FORMATO.jpeg,0,0.0,Alejandro Abraham Guerra Morales,0,4,5.0,7,,guerra,6,0.0
+741,Lucas Lima,80583,275,https://s.glbimg.com/es/sde/f/2019/01/14/3629dc12c2a7c9f0e4c6c53a4a2cbb61_FORMATO.jpeg,2,0.65,Lucas Rafael Araujo Lima,0,4,5.05,7,,lucas-lima,6,-0.23
+742,Raphael Veiga,94509,275,https://s.glbimg.com/es/sde/f/2019/01/14/e85d3259b80c8d878e2b07eae90749ee_FORMATO.jpeg,0,0.0,Raphael Cavalcante Veiga,0,4,8.0,7,,raphael-veiga,5,0.0
+743,Matheus Fernandes,94067,275,https://s.glbimg.com/es/sde/f/2019/01/14/6c44cb9987aece7b067a5e308a05a551_FORMATO.jpeg,0,0.0,Matheus Fernandes Siqueira,0,4,5.0,7,,matheus-fernandes,6,0.0
+744,Thiago Santos,78855,275,https://s.glbimg.com/es/sde/f/2019/01/14/c215c66c4f1a435e26c1d93d00555071_FORMATO.jpeg,1,1.7,Thiago dos Santos,0,4,6.05,7,,thiago-santos,6,0.0
+745,Jhon Cley,78652,341,https://s.glbimg.com/es/sde/f/2019/03/23/5706cc0e143f6dc5b8242d22be55d672_FORMATO.png,0,0.0,Jhon Cley Jesus Silva,0,4,4.0,7,,jhon-cley,6,0.0
+746,Marcos Rocha,63013,275,https://s.glbimg.com/es/sde/f/2019/01/14/7f464fdea223af04dca8d52a2ac4d9d7_FORMATO.jpeg,2,11.55,Marcos Luis Rocha Aquino,0,2,16.19,7,,marcos-rocha,7,1.61
+747,Marcelo Cabo,37333,341,https://s.glbimg.com/es/sde/f/2019/03/23/843c23143eca2d56e0f4bbd3030f4324_FORMATO.png,7,2.8,Marcelo Ribeiro Cabo,0,6,4.71,7,,marcelo-cabo,7,-0.92
+748,Alexandre Cajuru,80276,341,https://s.glbimg.com/es/sde/f/2019/03/23/edb53fb0c37fc84723a26e49ce65dfa0_FORMATO.png,0,0.0,Alexandre Rosa Paschoalato,0,1,3.0,7,,alexandre-cajuru,5,0.0
+749,Hyoran,85931,275,https://s.glbimg.com/es/sde/f/2019/01/14/160ad6a02501aba225a8ebd56873a2c7_FORMATO.jpeg,1,-0.5,Hyoran Kaue Dalmoro,0,4,4.32,7,,hyoran,6,-1.68
+750,Jean,62047,275,https://s.glbimg.com/es/sde/f/2019/01/14/207e69e5aa0f7a726fd16599f889feec_FORMATO.jpeg,0,0.0,Jean Raphael Vanderlei Moreira,0,4,6.0,7,,jean,6,0.0
+751,Bruno Ramires,89924,341,https://s.glbimg.com/es/sde/f/2019/03/23/10a59cd060887aaea6d902edd828545f_FORMATO.png,3,1.3,Bruno Edgar Silva Almeida,0,4,3.81,7,,bruno-ramires,6,0.0
+752,Rafinha,83681,341,https://s.glbimg.com/es/sde/f/2019/03/23/6fa441d642d426cca217c6d7c843a2c0_FORMATO.png,0,0.0,Rafael Chagas Machado,0,2,4.0,7,,rafinha,6,0.0
+753,Alessandro Vinícius,94495,282,https://s.glbimg.com/es/sde/f/2019/03/30/ffa3db77225e133627999054dd742e50_FORMATO.png,0,0.0,Alessandro Vinícius Gonçalves da Silva,0,4,1.0,7,,alessandro-vinicius,6,0.0
+754,Felipe Melo,38545,275,https://s.glbimg.com/es/sde/f/2019/01/14/77b041717dd4a70bd6537a299732619b_FORMATO.jpeg,1,0.2,Felipe Melo de Carvalho,0,4,7.56,7,,felipe-melo,7,-2.44
+755,Moisés,63158,275,https://s.glbimg.com/es/sde/f/2019/01/14/20086c7504f5424f31332554ca7c7549_FORMATO.jpeg,2,-0.25,Moisés Lima Magalhães,0,4,5.73,7,,moises,6,-0.84
+756,Fabrício,61228,341,https://s.glbimg.com/es/sde/f/2019/03/23/1c71c2070af8670cdc9e45e7d111715c_FORMATO.png,0,0.0,Fabrício Barros Santana,0,1,1.0,7,,fabricio,6,0.0
+757,Weverton,71631,275,https://s.glbimg.com/es/sde/f/2019/01/14/5b1562d1bba27830fd9ed3e313848728_FORMATO.jpeg,2,2.7,Weverton Pereira da Silva,0,1,11.9,7,,weverton,7,-3.04
+758,Jordi,86776,341,https://s.glbimg.com/es/sde/f/2019/04/27/086fa2e4939cd7153795f155d02f6f52_FORMATO.png,7,5.8,Jordi Almeida,0,1,6.99,7,,jordi,7,-2.91
+759,Daniel,97349,282,https://s.glbimg.com/es/sde/f/2017/05/04/6d566daae907e707a8bfbd7975033f26_FORMATO.png,0,0.0,Daniel dos Santos Penha,0,4,1.0,7,,daniel,6,0.0
+760,Zé Rafael,82455,275,https://s.glbimg.com/es/sde/f/2019/01/14/297712b048dce3da334c1701833a889a_FORMATO.jpeg,2,2.45,José Rafael Vivian,0,4,9.64,7,,ze-rafael,7,-0.41
+761,Renato Kayzer,92696,315,https://s.glbimg.com/es/sde/f/2015/10/28/db01ff9fdb31294b5a212440599c6fbf_FORMATO.png,1,0.0,Renato Kayzer de Souza,0,5,2.25,7,,renato-kayzer,6,-0.75
+762,Gustavo Scarpa,87999,275,https://s.glbimg.com/es/sde/f/2019/01/14/ecfff46ca7c7e833694357f560f6c1c6_FORMATO.jpeg,2,-0.45,Gustavo Henrique Furtado Scarpa,0,4,2.95,7,,gustavo-scarpa,7,-0.42
+763,Weverton,104625,283,https://s.glbimg.com/es/sde/f/2019/05/30/48a83901711e5cb65605aad4d0a20615_FORMATO.png,0,0.0,Weverton Guilherme da Silva Souza,0,2,2.0,7,,weverton,6,0.0
+764,Gustavo Gómez,71684,275,https://s.glbimg.com/es/sde/f/2019/01/14/3bd03adab98a337f19a89fde0e3a3b69_FORMATO.jpeg,2,6.5,Gustavo Raúl Gómez Portillo,0,3,15.32,7,,gustavo-gomez,6,-3.05
+765,Talles,105786,267,https://s.glbimg.com/es/sde/f/2019/06/03/d39e2057a3605b92b412644c04b8d41e_FORMATO.png,1,-1.6,Talles Magno Bacelar Martins,0,5,0.78,7,,talles,6,-1.22
+766,Saulo,89492,263,https://s.glbimg.com/es/sde/f/2018/05/17/2e661ef69600f0353d4bc7ce467624df_FORMATO.png,0,0.0,Saulo Ferreira Silva Nascimento,0,1,3.0,7,,saulo,6,0.0
+767,Marcelo Salles,84071,262,https://s.glbimg.com/es/sde/f/2019/06/06/7414c504a1516316e655679dfcffb035_FORMATO.png,1,7.44,Luiz Marcelo de Castro Salles,0,6,11.48,7,,marcelo-salles,7,0.61
+768,Patrick,99918,284,https://s.glbimg.com/es/sde/f/2017/08/16/34305aca84639e95caaf29addb016bab_FORMATO.png,1,0.0,Patrick Machado Ferreira ,0,4,0.75,7,,patrick,6,-0.25
