@@ -1,0 +1,116 @@
+match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,match_nickname,match_ratio
+121,Pedro,Fluminense - RJ,out,266,94583,Pedro Guilherme Abreu dos Santos,Pedro,100
+121,Marcos Calazans,Fluminense - RJ,in,266,97452,Marcos Vinícius Silva Rocha Calazans,Marcos Calazans,100
+121,Wellington Silva,Fluminense - RJ,out,266,68895,Wellington Alves da Silva,Wellington Silva,100
+121,Lucas Fernandes,Fluminense - RJ,in,266,"[50362, 90899]","['Lucas Rios Marques', 'Lucas Fernandes']","['Lucas', 'Lucas Fernandes']","[100, 100]"
+121,Mascarenhas,Fluminense - RJ,out,266,99721,Matheus Mascarenhas dos Santos Raimundo,Mascarenhas,100
+121,Matheus Alessandro,Fluminense - RJ,in,266,97527,Matheus Alessandro dos Santos Pereira,Matheus Alessandro,100
+121,Roger,Botafogo - RJ,out,263,38287,Roger Rodrigues da Silva,Roger,100
+121,Guilherme Augusto,Botafogo - RJ,in,263,94207,Guilherme Augusto Vieira dos Santos,Guilherme,100
+121,Matheus Fernandes,Botafogo - RJ,out,263,"[90399, 94067]","[nan, 'Matheus Fernandes Siqueira']","['Fernandes', 'Matheus Fernandes']","[100, 100]"
+121,Jonathan,Botafogo - RJ,in,263,"[38109, 68901, 72168, 72362, 78497, 86410, 89493, 90399, 92180, 93414, 94067]","['Jefferson de Oliveira Galvão', 'Rodrigo Pimpão Viana', 'João Paulo Mior', 'Rodrigo Oliveira Lindoso', 'Arnaldo Manoel de Almeida', 'Victor Luis Chuab Zamblauskas', 'Igor Rabello da Costa', nan, 'Jair Ventura', 'Mauro Joel Carli', 'Matheus Fernandes Siqueira']","['Jefferson', 'Rodrigo Pimpão', 'João Paulo', 'Rodrigo Lindoso', 'Arnaldo', 'Victor Luis', 'Igor Rabello', 'Fernandes', 'Jair Ventura', 'Joel Carli', 'Matheus Fernandes']",
+121,Marcos Vinicius,Botafogo - RJ,out,263,73721,Marcos Vinícius de Jesus Araújo,Marcos Vinícius,97
+121,Camilo,Botafogo - RJ,in,263,62009,Fernando Camilo Farias,Camilo,100
+122,Marcio Araujo,Flamengo - RJ,out,262,38311,Márcio Rodrigues Araújo,Márcio Araújo,92
+122,Gigio,Flamengo - RJ,in,262,"[38909, 50301, 51772, 52253, 68953, 73421, 73896, 73992, 91194, 95780]","['Diego Ribas da Cunha', 'Everton Cardoso da Silva', 'Éverton Augusto de Barros Ribeiro', 'Réver Humberto Alves Araújo', 'Leandro Damião da Silva dos Santos', 'Rafael Vaz dos Santos', 'Geuvânio Santos Silva', 'Rodinei Marcelo de Almeida', 'Thiago Rodrigues da Silva', 'José Ricardo Mannarino']","['Diego', 'Everton', 'Éverton Ribeiro', 'Réver', 'Leandro Damião', 'Rafael Vaz', 'Geuvânio', 'Rodinei', 'Thiago', 'Zé Ricardo']",
+122,Trauco,Flamengo - RJ,out,262,95738,Miguel <c1>ngel Trauco Saavedra,Trauco,100
+122,Mancuello,Flamengo - RJ,in,262,71066,Federico Mancuello,Mancuello,100
+122,Cuellar,Flamengo - RJ,out,262,71709,Gustavo Leonardo Cuellar Gallego,Cuéllar,100
+122,Felipe Vizeu,Flamengo - RJ,in,262,94138,Felipe dos Reis Pereira Vizeu do Carmo,Felipe Vizeu,100
+122,Luan,Grêmio - RS,out,284,86759,Luan Guilherme de Jesus Vieira,Luan,100
+122,R. Thyere,Grêmio - RS,in,284,83048,Rafael Thyere Albuquerque Marques,Rafael Thyere,86
+122,Arthur,Grêmio - RS,out,284,90532,Arthur Henrique Ramos de Oliveira Melo,Arthur,100
+122,Jailson,Grêmio - RS,in,284,90290,Jaílson Marques Siqueira,Jailson,100
+122,Lucas Barrios,Grêmio - RS,out,284,69282,,Lucas Barrios,100
+122,Everton,Grêmio - RS,in,284,86757,Everton Sousa Soares,Everton,100
+123,Egidio,Palmeiras - SP,out,275,42145,Egídio de Araújo Pereira Júnior,Egídio,91
+123,Ze Roberto,Palmeiras - SP,in,275,36612,,Zé Roberto,95
+123,Bruno,Palmeiras - SP,out,275,70944,Bruno Henrique Corsini,Bruno Henrique,100
+123,Borja,Palmeiras - SP,in,275,86120,Miguel Angel Borja Hernandez,Borja,100
+123,Thiago Santos,Palmeiras - SP,out,275,78855,Thiago dos Santos,Thiago Santos,100
+123,Keno,Palmeiras - SP,in,275,86485,Marcos da Silva França,Keno,100
+123,Rodriguinho,Corinthians - SP,out,264,61033,Rodrigo Eduardo Costa Marinho,Rodriguinho,100
+123,Camacho,Corinthians - SP,in,264,68770,Guilherme de Aguiar Camacho,Camacho,100
+123,Jadson,Corinthians - SP,out,264,38315,Jadson Rodrigues da Silva,Jadson,100
+123,Marquinhos Gabriel,Corinthians - SP,in,264,"[68954, 78605]","['Marcos Gabriel do Nascimento', 'Gabriel Girotto Franco']","['Marquinhos Gabriel', 'Gabriel']","[100, 100]"
+123,Pablo,Corinthians - SP,out,264,69165,,Pablo,100
+123,Pedro,Corinthians - SP,in,264,87225,Pedro Henrique Ribeiro Gonçalves,Pedro Henrique,100
+124,Wellington Silva,São Paulo - SP,out,276,73619,,Wellington Nem,83
+124,Marcinho,São Paulo - SP,in,276,95332,Marcio Antonio de Sousa Júnior,Marcinho,100
+124,Cueva,São Paulo - SP,out,276,82411,Christian Alberto Cueva Bravo,Cueva,100
+124,Gilberto,São Paulo - SP,in,276,61188,Gilberto Oliveira Souza Júnior,Gilberto,100
+124,Jonatan Gomez,São Paulo - SP,out,276,94857,Jonatan David Gomez Ospina,Jonatan Gomez,100
+124,Lucas,São Paulo - SP,in,276,"[73649, 94931]","[nan, 'Lucas Fernandes da Silva']","['Lucas Pratto', 'Lucas Fernandes']","[100, 100]"
+124,Igor,Atlético - GO,out,373,"[93551, 89930]","[nan, 'Andrigo Oliveira de Araujo']","['Igor', 'Andrigo']","[100, 86]"
+124,Paulinho,Atlético - GO,in,373,69016,,Paulinho,100
+124,Andrigo,Atlético - GO,out,373,"[89930, 93551]","['Andrigo Oliveira de Araujo', nan]","['Andrigo', 'Igor']","[100, 86]"
+124,Everaldo,Atlético - GO,in,373,78117,Everaldo Stum,Everaldo,100
+124,Niltinho,Atlético - GO,out,373,84703,,Niltinho,100
+124,Luiz Fernando,Atlético - GO,in,373,90715,Luiz Fernando Moraes dos Santos,Luiz Fernando ,100
+125,Fred,Atlético - MG,out,282,38162,Frederico Chaves Guedes,Fred,100
+125,Rafael Moura,Atlético - MG,in,282,37655,Rafael Martiniano de Miranda Moura,Rafael Moura,100
+125,Marlone,Atlético - MG,out,282,80944,Johnath Marlone Azevedo da Silva,Marlone,100
+125,Robinho,Atlético - MG,in,282,38246,,Robinho,100
+125,Yago Henrique Severino dos Santos,Atlético - MG,out,282,84926,Yago Henrique Severino dos Santos,Yago,100
+125,Valdivia,Atlético - MG,in,282,85423,Wanderson Ferreira de Oliveira,Valdívia,93
+125,Kayke,Santos - SP,out,277,50402,Kayke Moreno de Andrade Rodrigues,Kayke,100
+125,Sergio,Santos - SP,in,277,88002,Sergio Antonio Soler de Oliveira Junior,Serginho,100
+125,Leandro Donizete,Santos - SP,out,277,51318,Leandro Donizete Gonçalves da Silva,Leandro Donizete,100
+125,Alison,Santos - SP,in,277,73974,Alison Lopes Ferreira,Alison,100
+125,Thiago Ribeiro,Santos - SP,out,277,68929,,Thiago Ribeiro,100
+125,Vladimir Hernandez,Santos - SP,in,277,72879,,Vladimir Hernández,97
+126,Jonathan,Atlético - PR,out,293,37662,Jonathan Cícero Moreira,Jonathan,100
+126,Yago,Atlético - PR,in,293,95126,,Yago,100
+126,Ederson,Atlético - PR,out,293,"[73446, 86143]","['Éderson Alves Ribeiro Silva', 'Wanderson Santos Pereira']","['Éderson', 'Wanderson']","[92, 86]"
+126,Matheus,Atlético - PR,in,293,97879,,Matheus Anjos,100
+126,Nicolas,Atlético - PR,out,293,95127,Nicolas Vichiatto da Silva,Nicolas,100
+126,Gustavo Cascardo,Atlético - PR,in,293,90587,,Cascardo,100
+126,Rafael Sobis,Cruzeiro - MG,out,283,37798,Rafael Augusto Sobis do Nascimento,Rafael Sobis,100
+126,Sassá,Cruzeiro - MG,in,283,79578,Luiz Ricardo Alves,Sassá,100
+126,Elber,Cruzeiro - MG,out,283,"[74140, 81845]","['José Élber Pimentel da Silva', 'Alisson Euler de Freitas Castro']","['Élber', 'Alisson']","[89, 80]"
+126,Rafael Marques,Cruzeiro - MG,in,283,38957,Rafael Marques Mariano,Rafael Marques,100
+126,Lucas Silva,Cruzeiro - MG,out,283,79701,Lucas Silva Borges,Lucas Silva,100
+126,Nonoca,Cruzeiro - MG,in,283,97856,Lucas de Souza Ventura,Nonoca,100
+127,Osvaldo,Sport - PE,out,292,42222,Osvaldo Lourenço Filho,Osvaldo,100
+127,Rogerio,Sport - PE,in,292,73540,José Rogério de Oliveira,Rogério,92
+127,Sander,Sport - PE,out,292,"[95843, 41218, 41327, 68690]","['Sander Henrique Bortolotto', 'Alessandro Beti Rosa', 'Vanderlei Luxemburgo da Silva', 'André Felipe Ribeiro de Souza']","['Sander', 'Magrão', 'Vanderlei Luxemburgo', 'André']","[100, 83, 83, 80]"
+127,Andrei,Chapecoense - SC,out,315,"[83683, 86508]","[nan, 'Jandrei Chitolina Carniel']","['Andrei Girotto', 'Jandrei']","[100, 100]"
+127,Luiz Antonio,Chapecoense - SC,in,315,74060,Luiz Antonio de Souza Soares,Luiz Antonio ,100
+127,Lucas Marques,Chapecoense - SC,out,315,91973,Lucas Marques de Oliveira,Lucas Marques,100
+127,Lourency,Chapecoense - SC,in,315,94249,Lourency do Nascimento Rodrigues,Lourency,100
+127,Seijas,Chapecoense - SC,out,315,70742,,Seijas,100
+127,Dodo,Chapecoense - SC,in,315,84927,Raphael Guimarães de Paula,Dodô,86
+128,Yago Felipe,Vitória - BA,out,287,87747,Yago Felipe da Costa Rocha,Yago,100
+128,Neilton,Vitória - BA,in,287,83772,Neilton Meira Mestzk,Neilton,100
+128,Rene,Vitória - BA,out,287,73978,René Ferreira dos Santos,René,86
+128,Paulinho,Vitória - BA,in,287,78578,,Paulinho,100
+128,Ramon,Vitória - BA,out,287,88087,Ramon Menezes Roma,Ramon,100
+128,Fred,Vitória - BA,in,287,72490,,Fred,100
+128,Thalles,Vasco da Gama - RJ,out,267,85211,,Thalles,100
+128,Paulo Vitor,Vasco da Gama - RJ,in,267,99588,Paulo Vitor Fernandes Pereira,Paulo Vitor,100
+128,Yago,Vasco da Gama - RJ,out,267,80196,Glaybson Yago Souza Lisboa,Yago Pikachu,100
+128,Paulinho,Vasco da Gama - RJ,in,267,99818,,Paulinho,100
+128,Escudero,Vasco da Gama - RJ,out,267,72745,,Escudero,100
+128,Guilherme,Vasco da Gama - RJ,in,267,74081,Guilherme Costa Machado Silveira,Guilherme Costa,100
+129,Jadson,Ponte Preta - SP,out,303,80129,Jadson Alves dos Santos,Jadson,100
+129,Xuxa,Ponte Preta - SP,in,303,55594,,Xuxa,100
+129,Wendel,Ponte Preta - SP,out,303,38021,,Wendel,100
+129,Saraiva,Ponte Preta - SP,in,303,99616,,Felipe Saraiva,100
+129,Claudio,Ponte Preta - SP,out,303,92630,,Claudinho,88
+129,Yuri,Ponte Preta - SP,in,303,97769,,Yuri,100
+129,Regis,Bahia - BA,out,265,"[82647, 87486, 89815]","['Régis Augusto Salmazzo', nan, 'Gustavo Henrique Ferrareis']","['Régis', 'Matheus Reis', 'Gustavo Ferrareis']","[89, 89, 89]"
+129,Vinicius,Bahia - BA,in,265,71162,Vinícius Goes Barbosa de Souza,Vinícius,93
+129,Ze Rafael,Bahia - BA,out,265,82455,José Rafael Vivian,Zé Rafael ,94
+129,Juninho,Bahia - BA,in,265,71937,Paulo Roberto Valoura Júnior,Juninho,100
+129,Rodrigao,Bahia - BA,out,265,90651,,Rodrigão,93
+129,Gustavo Ferrareis,Bahia - BA,in,265,89815,Gustavo Henrique Ferrareis,Gustavo Ferrareis,100
+130,Marquinhos,Avaí - SC,out,314,38150,,Marquinhos,100
+130,Pedro Castro,Avaí - SC,in,314,78840,Pedro Henrique de Castro Silva,Pedro Castro,100
+130,Romulo,Avaí - SC,out,314,89696,,Romulo,100
+130,Willians,Avaí - SC,in,314,60787,,Willians,100
+130,Judson,Avaí - SC,out,314,84691,,Judson,100
+130,Lucas,Avaí - SC,in,314,84896,,Lucas Otávio ,100
+130,K. Giacomazzi,Coritiba - PR,out,294,"[37792, 38852, 40179, 50284, 51700, 73635, 73991, 82634, 85586, 91388, 93153, 97538]","['Edimo Ferreira Campos', nan, nan, nan, 'Thiago Carleto Alves', 'Rildo de Andrade Felicissimo', 'Walisson Moreira Farias Maia', 'Matheus Galdezani', 'Jonas Gomes de Sousa', nan, nan, nan]","['Edinho', 'Anderson', 'Kleber', 'Wilson', 'Thiago Carleto', 'Rildo', 'Walisson Maia', 'Matheus Galdezani', 'Jonas', 'Rodrigo Ramos', 'Pachequinho', 'Marcio']",
+130,H. Almeida,Coritiba - PR,in,294,68773,,Henrique Almeida,88
+130,Iago Dias,Coritiba - PR,out,294,88417,,Iago,100
+130,Neto Berola,Coritiba - PR,in,294,68807,,Neto Berola,100
