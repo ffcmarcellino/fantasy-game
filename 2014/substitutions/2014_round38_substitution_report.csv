@@ -37,10 +37,10 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 374,Pablo Nicolas Mouche,Palmeiras - SP,in,275,70106,,Mouche,100
 374,Nathan,Palmeiras - SP,out,275,89156,,Nathan,100
 374,Victorino,Palmeiras - SP,in,275,69088,,Victorino,100
-374,Guilherme,Atletico - PR,out,,[],[],[],
-374,Pedro,Atletico - PR,in,,[],[],[],
-374,Nathan,Atletico - PR,out,,[],[],[],
-374,Matteus,Atletico - PR,in,,[],[],[],
+374,Guilherme,Atlético - PR,out,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
+374,Pedro,Atlético - PR,in,293,74086,,Pedro Paulo ,100
+374,Nathan,Atlético - PR,out,293,87009,Nathan Allan de Souza,Nathan,100
+374,Matteus,Atlético - PR,in,293,84794,,Matteus ,100
 375,Germano,Coritiba - PR,out,294,38638,,Germano,100
 375,Julio Cesar,Coritiba - PR,in,294,40904,,Julio Cesar,100
 375,Alex,Coritiba - PR,out,294,36522,,Alex,100

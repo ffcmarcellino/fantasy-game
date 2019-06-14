@@ -43,12 +43,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 204,Dudu,Coritiba - PR,in,294,73511,,Dudu Figueiredo,100
 204,Elber,Coritiba - PR,out,294,74140,José Élber Pimentel da Silva,Elber,100
 204,Douglas,Coritiba - PR,in,294,88915,,Douglas ,100
-205,Marcelo Cirino,Atletico - PR,out,,[],[],[],
-205,Paulinho Dias,Atletico - PR,in,,[],[],[],
-205,Douglas,Atletico - PR,out,,[],[],[],
-205,Sidcley,Atletico - PR,in,,[],[],[],
-205,Guilherme,Atletico - PR,out,,[],[],[],
-205,Mosquito,Atletico - PR,in,,[],[],[],
+205,Marcelo Cirino,Atlético - PR,out,293,69022,Marcelo Cirino da Silva,Marcelo,100
+205,Paulinho Dias,Atlético - PR,in,293,50292,,Paulinho Dias,100
+205,Douglas,Atlético - PR,out,293,82469,Douglas Coutinho Gomes de Souza,Douglas Coutinho ,100
+205,Sidcley,Atlético - PR,in,293,86764,Sidcley Ferreira Pereira,Sidcley,100
+205,Guilherme,Atlético - PR,out,293,"[37840, 69018, 71631, 71778, 73527, 74078, 77579, 80281, 84761, 87399]","[nan, 'Deivid Willian da Silva', 'Weverton Pereira da Silva', nan, nan, nan, nan, nan, 'Claudinei dos Santos Oliveira', nan]","['Gustavo', 'Deivid', 'Weverton', 'Bady', 'Willian Rocha', 'Hernani', 'Dellatorre', 'Cleberson', 'Claudinei Oliveira', 'Mário Sérgio']",
+205,Mosquito,Atlético - PR,in,293,86189,,Mosquito,100
 205,Luis,Vitória - BA,out,287,"[37246, 37705, 38069, 38763, 50418, 50427, 68808, 72943, 74061, 80573]","['Ney Franco da Silveira Júnior', nan, nan, nan, nan, nan, 'Severino do Ramo Clementino da Silva', nan, 'Roberto Junior Fernández Torres', 'Luiz Gustavo Tavares Conde']","['Ney Franco', 'Juan', 'Richarlyson', 'Marcinho', 'Dinei', 'Kadu', 'Nino Paraíba', 'Luís Cáceres', 'Roberto Fernández', 'Luiz Gustavo']",
 205,Beltran,Vitória - BA,in,287,78694,,Guillermo Beltrán,86
 205,Welison,Vitória - BA,out,287,86859,José Welison da Silva,José Welison,100

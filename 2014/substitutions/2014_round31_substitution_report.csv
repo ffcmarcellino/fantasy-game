@@ -17,12 +17,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 302,Bruno,Fluminense - RJ,in,266,42499,Bruno Vieira do Nascimento,Bruno,100
 302,Marlon,Fluminense - RJ,out,266,80538,,Marlon,100
 302,Elivelton,Fluminense - RJ,in,266,74059,,Elivelton,100
-302,Sueliton,Atletico - PR,out,,[],[],[],
-302,Mario Sergio,Atletico - PR,in,,[],[],[],
-302,Bady,Atletico - PR,out,,[],[],[],
-302,Nathan,Atletico - PR,in,,[],[],[],
-302,Guilherme,Atletico - PR,out,,[],[],[],
-302,Douglas,Atletico - PR,in,,[],[],[],
+302,Sueliton,Atlético - PR,out,293,72023,,Sueliton,100
+302,Mario Sergio,Atlético - PR,in,293,87399,,Mário Sérgio,91
+302,Bady,Atlético - PR,out,293,71778,,Bady,100
+302,Nathan,Atlético - PR,in,293,"[87009, 86264]","['Nathan Allan de Souza', nan]","['Nathan', 'Natanael']","[100, 83]"
+302,Guilherme,Atlético - PR,out,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
+302,Douglas,Atlético - PR,in,293,82469,Douglas Coutinho Gomes de Souza,Douglas Coutinho ,100
 303,Michel Bastos,São Paulo - SP,out,276,37607,Michel Fernandes Bastos,Michel Bastos,100
 303,Ademilson,São Paulo - SP,in,276,"[74085, 38064]","[nan, nan]","['Ademilson', 'Denilson']","[100, 88]"
 303,Alan Kardec,São Paulo - SP,out,276,50347,,Alan Kardec,100

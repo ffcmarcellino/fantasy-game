@@ -37,12 +37,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 24,Lucas,Grêmio - RS,in,284,82632,,Lucas Coelho,100
 24,Luan,Grêmio - RS,out,284,86759,Luan Guilherme de Jesus Vieira,Luan,100
 24,Rodriguinho,Grêmio - RS,in,284,61033,Rodrigo Eduardo Costa Marinho,Rodriguinho,100
-25,Paulinho Dias,Atletico - PR,out,,[],[],[],
-25,Mario Sergio,Atletico - PR,in,,[],[],[],
-25,Ederson,Atletico - PR,out,,[],[],[],
-25,Douglas,Atletico - PR,in,,[],[],[],
-25,Marcos Guilherme,Atletico - PR,out,,[],[],[],
-25,Leonardo,Atletico - PR,in,,[],[],[],
+25,Paulinho Dias,Atlético - PR,out,293,50292,,Paulinho Dias,100
+25,Mario Sergio,Atlético - PR,in,293,87399,,Mário Sérgio,91
+25,Ederson,Atlético - PR,out,293,"[73446, 80281]","['Éderson Alves Ribeiro Silva', nan]","['Éderson', 'Cleberson']","[92, 86]"
+25,Douglas,Atlético - PR,in,293,82469,Douglas Coutinho Gomes de Souza,Douglas Coutinho ,100
+25,Marcos Guilherme,Atlético - PR,out,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
+25,Leonardo,Atlético - PR,in,293,83528,Leonardo Pereira,Léo Pereira,100
 25,Tinga,Cruzeiro - MG,out,283,37794,,Tinga,100
 25,Alisson,Cruzeiro - MG,in,283,81845,Alisson Euler de Freitas Castro,Alisson,100
 25,Egidio,Cruzeiro - MG,out,283,42145,Egídio de Araújo Pereira Júnior,Egídio,91

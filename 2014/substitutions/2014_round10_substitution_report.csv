@@ -5,12 +5,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 91,Lucas,Flamengo - RJ,in,262,"[37673, 37684, 37701, 37958, 38184, 50301, 68958, 81121, 84320]","[nan, nan, 'Leonardo da Silva Moura', nan, nan, 'Everton Cardoso da Silva', nan, nan, nan]","['Alecsandro', 'Chicão', 'Léo Moura', 'Felipe', 'André Santos', 'Everton', 'Wallace', 'Mugni', 'Recife']",
 91,Samir,Flamengo - RJ,out,262,84318,,Samir ,100
 91,Nixon,Flamengo - RJ,in,262,80913,,Nixon,100
-91,Ederson,Atletico - PR,out,,[],[],[],
-91,João Paulo,Atletico - PR,in,,[],[],[],
-91,Derley,Atletico - PR,out,,[],[],[],
-91,Paulinho Dias,Atletico - PR,in,,[],[],[],
-91,Bady,Atletico - PR,out,,[],[],[],
-91,Marcelo Cirino,Atletico - PR,in,,[],[],[],
+91,Ederson,Atlético - PR,out,293,"[73446, 80281]","['Éderson Alves Ribeiro Silva', nan]","['Éderson', 'Cleberson']","[92, 86]"
+91,João Paulo,Atlético - PR,in,293,56102,,João Paulo,100
+91,Derley,Atlético - PR,out,293,60791,Wanderley de Jesus Sousa,Derley,100
+91,Paulinho Dias,Atlético - PR,in,293,50292,,Paulinho Dias,100
+91,Bady,Atlético - PR,out,293,71778,,Bady,100
+91,Marcelo Cirino,Atlético - PR,in,293,69022,Marcelo Cirino da Silva,Marcelo,100
 92,Felipe Azevedo,Sport - PE,out,292,60825,Felipe Azevedo dos Santos,Felipe Azevedo,100
 92,Ananias,Sport - PE,in,292,61135,,Ananias,100
 92,Neto Baiano,Sport - PE,out,292,42118,,Neto Baiano,100

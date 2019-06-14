@@ -47,12 +47,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 44,Eduardo,Atlético - MG,in,282,78994,,Eduardo,100
 44,Fernandinho,Atlético - MG,out,282,"[40025, 51318, 52950, 68690, 68925, 69219, 77895, 79947, 84861]","['Levir Culpi', 'Leandro Donizete Gonçalves da Silva', 'Victor Leandro Bagy', 'André Felipe Ribeiro de Souza', 'Leonardo Fabiano da Silva e Silva', nan, nan, nan, 'Alex da Silva']","['Levir Culpi', 'Leandro Donizete', 'Victor', 'André', 'Leonardo Silva', 'Otamendi', 'Emerson Conceição', 'Marion', 'Alex Silva']",
 44,Datolo,Atlético - MG,in,282,69240,,Dátolo,91
-45,Ederson,Atletico - PR,out,,[],[],[],
-45,Bady,Atletico - PR,in,,[],[],[],
-45,Marcos Guilherme,Atletico - PR,out,,[],[],[],
-45,Douglas,Atletico - PR,in,,[],[],[],
-45,Lucas Olaza,Atletico - PR,out,,[],[],[],
-45,Felipe,Atletico - PR,in,,[],[],[],
+45,Ederson,Atlético - PR,out,293,"[73446, 80281]","['Éderson Alves Ribeiro Silva', nan]","['Éderson', 'Cleberson']","[92, 86]"
+45,Bady,Atlético - PR,in,293,71778,,Bady,100
+45,Marcos Guilherme,Atlético - PR,out,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
+45,Douglas,Atlético - PR,in,293,82469,Douglas Coutinho Gomes de Souza,Douglas Coutinho ,100
+45,Lucas Olaza,Atlético - PR,out,293,86409,,Lucas Olaza,100
+45,Felipe,Atlético - PR,in,293,"[50292, 69018, 69022, 71631, 72023, 73446, 80281, 82657, 83528, 86264]","[nan, 'Deivid Willian da Silva', 'Marcelo Cirino da Silva', 'Weverton Pereira da Silva', nan, 'Éderson Alves Ribeiro Silva', nan, nan, 'Leonardo Pereira', nan]","['Paulinho Dias', 'Deivid', 'Marcelo', 'Weverton', 'Sueliton', 'Éderson', 'Cleberson', 'Miguel Ángel Portuga', 'Léo Pereira', 'Natanael']",
 45,Ricardo Conceicao,Chapecoense - SC,out,315,37983,,Ricardo Conceição,94
 45,Dede,Chapecoense - SC,in,315,80171,,Dedé,86
 45,Andre Paulino,Chapecoense - SC,out,315,51168,,André Paulino,96

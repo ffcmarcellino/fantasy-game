@@ -51,12 +51,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 255,Elber,Coritiba - PR,in,294,74140,José Élber Pimentel da Silva,Elber,100
 255,Joel,Coritiba - PR,out,294,82787,,Joel,100
 255,Geraldo,Coritiba - PR,in,294,70055,,Geraldo,100
-255,Sueliton,Atletico - PR,out,,[],[],[],
-255,Mario Sergio,Atletico - PR,in,,[],[],[],
-255,Douglas,Atletico - PR,out,,[],[],[],
-255,Marco Damasceno,Atletico - PR,in,,[],[],[],
-255,Marcelo Cirino,Atletico - PR,out,,[],[],[],
-255,Sidcley,Atletico - PR,in,,[],[],[],
+255,Sueliton,Atlético - PR,out,293,72023,,Sueliton,100
+255,Mario Sergio,Atlético - PR,in,293,87399,,Mário Sérgio,91
+255,Douglas,Atlético - PR,out,293,82469,Douglas Coutinho Gomes de Souza,Douglas Coutinho ,100
+255,Marco Damasceno,Atlético - PR,in,293,88850,,Marco Damasceno ,100
+255,Marcelo Cirino,Atlético - PR,out,293,69022,Marcelo Cirino da Silva,Marcelo,100
+255,Sidcley,Atlético - PR,in,293,86764,Sidcley Ferreira Pereira,Sidcley,100
 256,Willian,Cruzeiro - MG,out,283,42116,Willian Gomes de Siqueira,Willian,100
 256,Dagoberto,Cruzeiro - MG,in,283,37613,,Dagoberto,100
 256,Marcelo Moreno,Cruzeiro - MG,out,283,50358,,Marcelo Moreno,100

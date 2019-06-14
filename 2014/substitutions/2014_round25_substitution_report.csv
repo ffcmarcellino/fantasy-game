@@ -47,12 +47,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 244,Bruno Mineiro,Goiás - GO,in,290,50909,,Bruno Mineiro,100
 244,Moises,Goiás - GO,out,290,72495,,Moisés,91
 244,Ramon,Goiás - GO,in,290,37783,,Ramon,100
-245,Cleo,Atletico - PR,out,,[],[],[],
-245,Mosquito,Atletico - PR,in,,[],[],[],
-245,Douglas,Atletico - PR,out,,[],[],[],
-245,Sidcley,Atletico - PR,in,,[],[],[],
-245,Hernani,Atletico - PR,out,,[],[],[],
-245,João Paulo,Atletico - PR,in,,[],[],[],
+245,Cleo,Atlético - PR,out,293,38525,,Cléo,86
+245,Mosquito,Atlético - PR,in,293,86189,,Mosquito,100
+245,Douglas,Atlético - PR,out,293,82469,Douglas Coutinho Gomes de Souza,Douglas Coutinho ,100
+245,Sidcley,Atlético - PR,in,293,86764,Sidcley Ferreira Pereira,Sidcley,100
+245,Hernani,Atlético - PR,out,293,74078,,Hernani,100
+245,João Paulo,Atlético - PR,in,293,56102,,João Paulo,100
 245,Renato Augusto,Corinthians - SP,out,264,38398,,Renato Augusto,100
 245,Danilo,Corinthians - SP,in,264,38067,Danilo Gabriel de Andrade,Danilo,100
 245,Petros,Corinthians - SP,out,264,78891,Petros Mateus dos Santos Araújo,Petros,100

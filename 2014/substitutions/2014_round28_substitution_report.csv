@@ -47,12 +47,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 274,Giuliano,Grêmio - RS,in,284,51548,,Giuliano,100
 274,Matias,Grêmio - RS,out,284,69090,,Matías Rodríguez,83
 274,Lucas,Grêmio - RS,in,284,82632,,Lucas Coelho,100
-275,Gustavo,Atletico - PR,out,,[],[],[],
-275,Willian,Atletico - PR,in,,[],[],[],
-275,Marcos Guilherme,Atletico - PR,out,,[],[],[],
-275,Guilherme,Atletico - PR,in,,[],[],[],
-275,Marcelo Cirino,Atletico - PR,out,,[],[],[],
-275,Mosquito,Atletico - PR,in,,[],[],[],
+275,Gustavo,Atlético - PR,out,293,37840,,Gustavo,100
+275,Willian,Atlético - PR,in,293,"[69018, 73527]","['Deivid Willian da Silva', nan]","['Deivid', 'Willian Rocha']","[100, 100]"
+275,Marcos Guilherme,Atlético - PR,out,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
+275,Guilherme,Atlético - PR,in,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
+275,Marcelo Cirino,Atlético - PR,out,293,69022,Marcelo Cirino da Silva,Marcelo,100
+275,Mosquito,Atlético - PR,in,293,86189,,Mosquito,100
 275,Marquinhos,Figueirense - SC,out,316,80552,,Marquinhos Pedroso,100
 275,Vitor Junior,Figueirense - SC,in,316,50321,,Vitor Júnior,96
 275,Mazola,Figueirense - SC,out,316,69048,,Mazola,100

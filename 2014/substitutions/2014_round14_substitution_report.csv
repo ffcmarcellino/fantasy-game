@@ -47,12 +47,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 134,Renato Augusto,Corinthians - SP,in,264,38398,,Renato Augusto,100
 134,Guilherme,Corinthians - SP,out,264,63018,,Guilherme Andrade,100
 134,Ferrugem,Corinthians - SP,in,264,82128,,Ferrugem,100
-135,Cleo,Atletico - PR,out,,[],[],[],
-135,Douglas,Atletico - PR,in,,[],[],[],
-135,Marcelo Cirino,Atletico - PR,out,,[],[],[],
-135,Paulinho Dias,Atletico - PR,in,,[],[],[],
-135,Bady,Atletico - PR,out,,[],[],[],
-135,Otavio,Atletico - PR,in,,[],[],[],
+135,Cleo,Atlético - PR,out,293,38525,,Cléo,86
+135,Douglas,Atlético - PR,in,293,82469,Douglas Coutinho Gomes de Souza,Douglas Coutinho ,100
+135,Marcelo Cirino,Atlético - PR,out,293,69022,Marcelo Cirino da Silva,Marcelo,100
+135,Paulinho Dias,Atlético - PR,in,293,50292,,Paulinho Dias,100
+135,Bady,Atlético - PR,out,293,71778,,Bady,100
+135,Otavio,Atlético - PR,in,293,82463,,Otávio ,91
 135,Junior Cesar,Botafogo - RJ,out,263,"[37621, 37663]","[nan, nan]","['Junior Cesar', 'Julio Cesar']","[100, 87]"
 135,Julio Cesar,Botafogo - RJ,in,263,"[37663, 37621]","[nan, nan]","['Julio Cesar', 'Junior Cesar']","[100, 87]"
 135,Rogerio,Botafogo - RJ,out,263,73540,José Rogério de Oliveira,Rogério,92

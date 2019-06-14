@@ -89,12 +89,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 198,Giuliano,Grêmio - RS,in,284,51548,,Giuliano,100
 198,Luan,Grêmio - RS,out,284,86759,Luan Guilherme de Jesus Vieira,Luan,100
 198,Fernandinho,Grêmio - RS,in,284,68758,,Fernandinho,100
-198,Marcos Guilherme,Atletico - PR,out,,[],[],[],
-198,Hernani,Atletico - PR,in,,[],[],[],
-198,Guilherme,Atletico - PR,out,,[],[],[],
-198,Mosquito,Atletico - PR,in,,[],[],[],
-198,Nathan,Atletico - PR,out,,[],[],[],
-198,Sidcley,Atletico - PR,in,,[],[],[],
+198,Marcos Guilherme,Atlético - PR,out,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
+198,Hernani,Atlético - PR,in,293,74078,,Hernani,100
+198,Guilherme,Atlético - PR,out,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
+198,Mosquito,Atlético - PR,in,293,86189,,Mosquito,100
+198,Nathan,Atlético - PR,out,293,"[87009, 86264]","['Nathan Allan de Souza', nan]","['Nathan', 'Natanael']","[100, 83]"
+198,Sidcley,Atlético - PR,in,293,86764,Sidcley Ferreira Pereira,Sidcley,100
 199,Clayton,Figueirense - SC,out,316,81770,Clayton Silveira da Silva,Clayton,100
 199,Jefferson,Figueirense - SC,in,316,81950,,Jefferson,100
 199,Felipe,Figueirense - SC,out,316,71113,Felipe de Oliveira Silva,Felipe ,100

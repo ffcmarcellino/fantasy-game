@@ -99,12 +99,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 299,Ze Carlos,Criciuma - SC,in,288,"[38613, 50645]","[nan, 'Carlos Eduardo Santos Oliveira']","['Zé Carlos', 'Eduardo']","[94, 80]"
 299,Eduardo,Criciuma - SC,out,288,50645,Carlos Eduardo Santos Oliveira,Eduardo,100
 299,Michael,Criciuma - SC,in,288,80537,,Michael,100
-299,Cleo,Atletico - PR,out,,[],[],[],
-299,Douglas,Atletico - PR,in,,[],[],[],
-299,Bady,Atletico - PR,out,,[],[],[],
-299,Hernani,Atletico - PR,in,,[],[],[],
-299,Guilherme,Atletico - PR,out,,[],[],[],
-299,Marcos Guilherme,Atletico - PR,in,,[],[],[],
+299,Cleo,Atlético - PR,out,293,38525,,Cléo,86
+299,Douglas,Atlético - PR,in,293,82469,Douglas Coutinho Gomes de Souza,Douglas Coutinho ,100
+299,Bady,Atlético - PR,out,293,71778,,Bady,100
+299,Hernani,Atlético - PR,in,293,74078,,Hernani,100
+299,Guilherme,Atlético - PR,out,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
+299,Marcos Guilherme,Atlético - PR,in,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
 300,Tiago Luis,Chapecoense - SC,out,315,62119,,Tiago Luis,100
 300,Bruno Rangel,Chapecoense - SC,in,315,51683,,Bruno Rangel,100
 300,Diones,Chapecoense - SC,out,315,60948,,Diones,100

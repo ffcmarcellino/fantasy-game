@@ -47,12 +47,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 224,Nirley,Figueirense - SC,in,316,62971,,Nirley,100
 224,Clayton,Figueirense - SC,out,316,81770,Clayton Silveira da Silva,Clayton,100
 224,Felipe,Figueirense - SC,in,316,"[69138, 71113]","['Pablo Felipe Teixeira', 'Felipe de Oliveira Silva']","['Pablo', 'Felipe ']","[100, 100]"
-225,Hernani,Atletico - PR,out,,[],[],[],
-225,Sidcley,Atletico - PR,in,,[],[],[],
-225,Marcos Guilherme,Atletico - PR,out,,[],[],[],
-225,Marco Damasceno,Atletico - PR,in,,[],[],[],
-225,Mario Sergio,Atletico - PR,out,,[],[],[],
-225,Sueliton,Atletico - PR,in,,[],[],[],
+225,Hernani,Atlético - PR,out,293,74078,,Hernani,100
+225,Sidcley,Atlético - PR,in,293,86764,Sidcley Ferreira Pereira,Sidcley,100
+225,Marcos Guilherme,Atlético - PR,out,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
+225,Marco Damasceno,Atlético - PR,in,293,88850,,Marco Damasceno ,100
+225,Mario Sergio,Atlético - PR,out,293,87399,,Mário Sérgio,91
+225,Sueliton,Atlético - PR,in,293,72023,,Sueliton,100
 225,Wellington Paulista,Internacional - RS,out,285,"[38279, 62129]","['Wellington Pereira do Nascimento', 'Wellington Aparecido Martins']","['Wellington Paulista', 'Wellington']","[100, 100]"
 225,Rafael Moura,Internacional - RS,in,285,37655,Rafael Martiniano de Miranda Moura,Rafael Moura,100
 225,Ernando,Internacional - RS,out,285,49651,Ernando Rodrigues Lopes,Ernando,100

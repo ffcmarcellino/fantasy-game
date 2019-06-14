@@ -41,12 +41,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 154,Stefano Yuri Goncalves Almeida,Santos - SP,in,277,87101,,Stéfano Yuri,92
 154,Leandro Damiao,Santos - SP,out,277,68953,Leandro Damião da Silva dos Santos,Leandro Damião,96
 154,Souza,Santos - SP,in,277,"[37657, 68909]","['Eduardo Luís Abonizio de Souza', nan]","['Edu Dracena', 'Souza']","[100, 100]"
-154,João Paulo,Atletico - PR,out,,[],[],[],
-154,Otavio,Atletico - PR,in,,[],[],[],
-154,Bady,Atletico - PR,out,,[],[],[],
-154,Guilherme,Atletico - PR,in,,[],[],[],
-154,Marcos Guilherme,Atletico - PR,out,,[],[],[],
-154,Douglas,Atletico - PR,in,,[],[],[],
+154,João Paulo,Atlético - PR,out,293,56102,,João Paulo,100
+154,Otavio,Atlético - PR,in,293,82463,,Otávio ,91
+154,Bady,Atlético - PR,out,293,71778,,Bady,100
+154,Guilherme,Atlético - PR,in,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
+154,Marcos Guilherme,Atlético - PR,out,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
+154,Douglas,Atlético - PR,in,293,82469,Douglas Coutinho Gomes de Souza,Douglas Coutinho ,100
 155,Neto,Coritiba - PR,out,294,80374,Norberto Pereira Marinho Neto,Norberto ,100
 155,Reginaldo,Coritiba - PR,in,294,86820,,Reginaldo ,100
 155,Dudu,Coritiba - PR,out,294,73511,,Dudu Figueiredo,100

@@ -45,10 +45,10 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 64,Igor,Flamengo - RJ,in,262,83134,,Igor Sartori,100
 64,Samir,Flamengo - RJ,out,262,84318,,Samir ,100
 64,Joao Paulo,Flamengo - RJ,in,262,71602,,João Paulo,95
-65,Ederson,Atletico - PR,out,,[],[],[],
-65,Nathan,Atletico - PR,in,,[],[],[],
-65,Bady,Atletico - PR,out,,[],[],[],
-65,João Paulo,Atletico - PR,in,,[],[],[],
+65,Ederson,Atlético - PR,out,293,"[73446, 80281]","['Éderson Alves Ribeiro Silva', nan]","['Éderson', 'Cleberson']","[92, 86]"
+65,Nathan,Atlético - PR,in,293,"[87009, 86264]","['Nathan Allan de Souza', nan]","['Nathan', 'Natanael']","[100, 83]"
+65,Bady,Atlético - PR,out,293,71778,,Bady,100
+65,João Paulo,Atlético - PR,in,293,56102,,João Paulo,100
 65,Alex,Coritiba - PR,out,294,36522,,Alex,100
 65,Jakson Avelino,Coritiba - PR,in,294,"[36856, 42490, 50446, 62121, 63005, 63194, 71093, 73465, 78965, 81031]","[nan, nan, nan, 'Vanderlei Farias da Silva', nan, 'Carlos Emiliano Pereira', nan, nan, nan, nan]","['Celso Roth', 'Jajá', 'Chico', 'Vanderlei', 'Welinton', 'Carlinhos', 'Baraka', 'Luccas Claro', 'Roni', 'Marquinhos Santos']",
 65,Julio Cesar,Coritiba - PR,out,294,40904,,Julio Cesar,100

@@ -77,12 +77,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 357,Lincoln,Bahia - BA,in,265,41364,,Lincoln,100
 357,Para,Bahia - BA,out,265,87213,,Pará,86
 357,Jeam,Bahia - BA,in,265,88075,,Jeam,100
-357,Gustavo,Atletico - PR,out,,[],[],[],
-357,Willian,Atletico - PR,in,,[],[],[],
-357,Bady,Atletico - PR,out,,[],[],[],
-357,Jose Paulo,Atletico - PR,in,,[],[],[],
-357,Marcelo Cirino,Atletico - PR,out,,[],[],[],
-357,Pedro,Atletico - PR,in,,[],[],[],
+357,Gustavo,Atlético - PR,out,293,37840,,Gustavo,100
+357,Willian,Atlético - PR,in,293,73527,,Willian Rocha,100
+357,Bady,Atlético - PR,out,293,71778,,Bady,100
+357,Jose Paulo,Atlético - PR,in,293,87227,,Zé Paulo,83
+357,Marcelo Cirino,Atlético - PR,out,293,69022,Marcelo Cirino da Silva,Marcelo,100
+357,Pedro,Atlético - PR,in,293,74086,,Pedro Paulo ,100
 358,Gilberto,Internacional - RS,out,285,80313,Gilberto Moraes Júnior,Gilberto ,100
 358,Valdivia,Internacional - RS,in,285,85423,Wanderson Ferreira de Oliveira,Valdivia,100
 358,Alex,Internacional - RS,out,285,38219,,Alex,100

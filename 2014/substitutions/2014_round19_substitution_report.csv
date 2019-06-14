@@ -43,12 +43,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 184,Beltran,Vitória - BA,in,287,78694,,Guillermo Beltrán,86
 184,Caio,Vitória - BA,out,287,68883,,Caio,100
 184,Luis Bernardo,Vitória - BA,in,287,"[37246, 37705, 38763, 39230, 50418, 68808, 70225, 72133, 74061, 80568, 80573]","['Ney Franco da Silveira Júnior', nan, nan, nan, nan, 'Severino do Ramo Clementino da Silva', nan, nan, 'Roberto Junior Fernández Torres', nan, 'Luiz Gustavo Tavares Conde']","['Ney Franco', 'Juan', 'Marcinho', 'Neto Coruja', 'Dinei', 'Nino Paraíba', 'Luís Aguiar', 'Ednei', 'Roberto Fernández', 'Willie', 'Luiz Gustavo']",
-185,João Paulo,Atletico - PR,out,,[],[],[],
-185,Paulinho Dias,Atletico - PR,in,,[],[],[],
-185,Drausio,Atletico - PR,out,,[],[],[],
-185,Willian,Atletico - PR,in,,[],[],[],
-185,Nathan,Atletico - PR,out,,[],[],[],
-185,Bady,Atletico - PR,in,,[],[],[],
+185,João Paulo,Atlético - PR,out,293,56102,,João Paulo,100
+185,Paulinho Dias,Atlético - PR,in,293,50292,,Paulinho Dias,100
+185,Drausio,Atlético - PR,out,293,78648,,Dráusio,92
+185,Willian,Atlético - PR,in,293,"[69018, 73527]","['Deivid Willian da Silva', nan]","['Deivid', 'Willian Rocha']","[100, 100]"
+185,Nathan,Atlético - PR,out,293,"[87009, 86264]","['Nathan Allan de Souza', nan]","['Nathan', 'Natanael']","[100, 83]"
+185,Bady,Atlético - PR,in,293,71778,,Bady,100
 185,Welder,Palmeiras - SP,out,275,"[40990, 50328, 50666, 63119, 69292, 70951, 72375, 73085, 73910, 80576, 81905, 86410]","['Dorival Silvestre Júnior', 'Marcelo Oliveira Ferreira', nan, nan, nan, nan, nan, nan, nan, nan, 'José Henrique da Silva Dourado', 'Victor Luis Chuab Zamblauskas']","['Dorival Júnior', 'Marcelo Oliveira', 'Diogo', 'Juninho', 'Eguren', 'Fabio', 'Weldinho', 'Leandro', 'Tobio', 'Renato', 'Henrique', 'Victor Luis']",
 185,Josimar,Palmeiras - SP,in,275,68951,,Josimar,100
 185,Wellington Silva,Palmeiras - SP,out,275,68907,,Wellington,100

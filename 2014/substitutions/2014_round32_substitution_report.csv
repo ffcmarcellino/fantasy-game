@@ -47,12 +47,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 314,Bertotto,Internacional - RS,in,285,78530,,Matheus Bertotto,100
 314,Nilmar,Internacional - RS,out,285,37653,,Nilmar,100
 314,Ygor,Internacional - RS,in,285,38074,,Ygor,100
-315,Bady,Atletico - PR,out,,[],[],[],
-315,Hernani,Atletico - PR,in,,[],[],[],
-315,Marcelo Cirino,Atletico - PR,out,,[],[],[],
-315,Guilherme,Atletico - PR,in,,[],[],[],
-315,Mario Sergio,Atletico - PR,out,,[],[],[],
-315,Otavio,Atletico - PR,in,,[],[],[],
+315,Bady,Atlético - PR,out,293,71778,,Bady,100
+315,Hernani,Atlético - PR,in,293,74078,,Hernani,100
+315,Marcelo Cirino,Atlético - PR,out,293,69022,Marcelo Cirino da Silva,Marcelo,100
+315,Guilherme,Atlético - PR,in,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
+315,Mario Sergio,Atlético - PR,out,293,87399,,Mário Sérgio,91
+315,Otavio,Atlético - PR,in,293,82463,,Otávio ,91
 315,Josue,Atlético - MG,out,282,"[36790, 37851]","[nan, 'Maicosuel Reginaldo de Matos']","['Josué', 'Maicosuel']","[89, 80]"
 315,Marion,Atlético - MG,in,282,"[79947, 38231]","[nan, 'Diego Tardelli Martins']","['Marion', 'Diego Tardelli']","[100, 83]"
 315,Maicosuel,Atlético - MG,out,282,37851,Maicosuel Reginaldo de Matos,Maicosuel,100

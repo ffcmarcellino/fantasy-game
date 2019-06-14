@@ -5,12 +5,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 321,Pablo Daniel,Botafogo - RJ,in,263,"[37621, 37652, 38109, 39850, 61115, 61985, 68995, 74065, 78605, 79339]","[nan, nan, 'Jefferson de Oliveira Galvão', 'Vagner Carmo Mancini', nan, 'Airton Ribeiro Santos', 'Régis Ribeiro de Souza', nan, 'Gabriel Girotto Franco', nan]","['Junior Cesar', 'Carlos Alberto', 'Jefferson', 'Vagner Mancini', 'Jobson', 'Airton', 'Régis Souza', 'Zeballos', 'Gabriel', 'Dankler']",
 321,Yuri Mamute,Botafogo - RJ,out,263,78012,,Yuri Mamute,100
 321,Bruno,Botafogo - RJ,in,263,88987,,Bruno Correa,100
-321,Bady,Atletico - PR,out,,[],[],[],
-321,Nathan,Atletico - PR,in,,[],[],[],
-321,Marcelo Cirino,Atletico - PR,out,,[],[],[],
-321,Douglas,Atletico - PR,in,,[],[],[],
-321,Marcos Guilherme,Atletico - PR,out,,[],[],[],
-321,Guilherme,Atletico - PR,in,,[],[],[],
+321,Bady,Atlético - PR,out,293,71778,,Bady,100
+321,Nathan,Atlético - PR,in,293,"[87009, 86264]","['Nathan Allan de Souza', nan]","['Nathan', 'Natanael']","[100, 83]"
+321,Marcelo Cirino,Atlético - PR,out,293,69022,Marcelo Cirino da Silva,Marcelo,100
+321,Douglas,Atlético - PR,in,293,82469,Douglas Coutinho Gomes de Souza,Douglas Coutinho ,100
+321,Marcos Guilherme,Atlético - PR,out,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
+321,Guilherme,Atlético - PR,in,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
 322,Wendel,Sport - PE,out,292,38021,,Wendel,100
 322,Regis,Sport - PE,in,292,82647,Régis Augusto Salmazzo,Régis,89
 322,Ibson,Sport - PE,out,292,38369,,Ibson,100

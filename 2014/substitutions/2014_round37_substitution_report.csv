@@ -43,12 +43,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 364,Gêge,Botafogo - RJ,in,263,"[37621, 38109, 38370, 39850, 61985, 68995, 73851, 78012, 78605, 79339, 82474, 89253]","[nan, 'Jefferson de Oliveira Galvão', nan, 'Vagner Carmo Mancini', 'Airton Ribeiro Santos', 'Régis Ribeiro de Souza', nan, nan, 'Gabriel Girotto Franco', nan, 'Geirton Marques Aires', nan]","['Junior Cesar', 'Jefferson', 'André Bahia', 'Vagner Mancini', 'Airton', 'Régis Souza', 'Ronny', 'Yuri Mamute', 'Gabriel', 'Dankler', 'Gegê', 'Andreazzi']",
 364,Mauricio,Botafogo - RJ,out,263,"[37621, 38109, 38370, 39850, 61985, 68995, 73851, 78012, 78605, 79339, 82474, 89253]","[nan, 'Jefferson de Oliveira Galvão', nan, 'Vagner Carmo Mancini', 'Airton Ribeiro Santos', 'Régis Ribeiro de Souza', nan, nan, 'Gabriel Girotto Franco', nan, 'Geirton Marques Aires', nan]","['Junior Cesar', 'Jefferson', 'André Bahia', 'Vagner Mancini', 'Airton', 'Régis Souza', 'Ronny', 'Yuri Mamute', 'Gabriel', 'Dankler', 'Gegê', 'Andreazzi']",
 364,Murilo,Botafogo - RJ,in,263,79038,,Murilo,100
-365,Bady,Atletico - PR,out,,[],[],[],
-365,Nathan,Atletico - PR,in,,[],[],[],
-365,Marcelo Cirino,Atletico - PR,out,,[],[],[],
-365,Douglas,Atletico - PR,in,,[],[],[],
-365,Guilherme,Atletico - PR,out,,[],[],[],
-365,Marcos Guilherme,Atletico - PR,in,,[],[],[],
+365,Bady,Atlético - PR,out,293,71778,,Bady,100
+365,Nathan,Atlético - PR,in,293,"[87009, 86264]","['Nathan Allan de Souza', nan]","['Nathan', 'Natanael']","[100, 83]"
+365,Marcelo Cirino,Atlético - PR,out,293,69022,Marcelo Cirino da Silva,Marcelo,100
+365,Douglas,Atlético - PR,in,293,82469,Douglas Coutinho Gomes de Souza,Douglas Coutinho ,100
+365,Guilherme,Atlético - PR,out,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
+365,Marcos Guilherme,Atlético - PR,in,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
 365,Ramon,Goiás - GO,out,290,37783,,Ramon,100
 365,Esquerdinha,Goiás - GO,in,290,63283,,Esquerdinha,100
 365,Erik,Goiás - GO,out,290,84848,Erik Nascimento Lima,Erik,100

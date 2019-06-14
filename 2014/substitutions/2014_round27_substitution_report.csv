@@ -21,8 +21,8 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 263,Gabriel,São Paulo - SP,in,276,"[36934, 37607, 38055, 38064, 38194, 38196, 50324, 50347, 62977, 68817, 86841]","[nan, 'Michel Fernandes Bastos', nan, nan, nan, 'Maicon Thiago Pereira de Souza', 'Hudson Rodrigues dos Santos', nan, 'Paulo Henrique Chagas de Lima', 'Jonathan Doin', nan]","['Muricy Ramalho', 'Michel Bastos', 'Rogério Ceni', 'Denilson', 'Antônio Carlos', 'Maicon', 'Hudson', 'Alan Kardec', 'Paulo Henrique Ganso', 'Paulo Miranda', 'Boschilia']",
 263,Alexandre Pato,São Paulo - SP,out,276,49675,Alexandre Rodrigues da Silva,Alexandre Pato,100
 263,Luis Fabiano,São Paulo - SP,in,276,37919,,Luis Fabiano,100
-263,Bady,Atletico - PR,out,,[],[],[],
-263,Carlos Alberto,Atletico - PR,in,,[],[],[],
+263,Bady,Atlético - PR,out,293,71778,,Bady,100
+263,Carlos Alberto,Atlético - PR,in,293,79713,,Carlos Alberto,100
 264,Leandro Damiao,Santos - SP,out,277,68953,Leandro Damião da Silva dos Santos,Leandro Damião,96
 264,Leandro,Santos - SP,in,277,"[68953, 78235]","['Leandro Damião da Silva dos Santos', nan]","['Leandro Damião', 'Leandrinho']","[100, 86]"
 264,Gigio,Santos - SP,out,277,"[37657, 37718, 50317, 61106, 62137, 68909, 69040, 73896, 78235, 80583, 89342]","['Eduardo Luís Abonizio de Souza', 'Marcos Arouca da Silva', 'David Braz de Oliveira Filho', nan, 'Enderson Alves Moreira', nan, 'Vladimir Orlando Cardoso de Araújo Filho', 'Geuvânio Santos Silva', nan, 'Lucas Rafael Araujo Lima', nan]","['Edu Dracena', 'Arouca', 'David Braz', 'Cicinho', 'Enderson Moreira', 'Souza', 'Vladimir', 'Geuvânio', 'Leandrinho', 'Lucas Lima', 'Caju']",

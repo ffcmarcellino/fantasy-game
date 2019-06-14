@@ -65,12 +65,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 216,Nilton,Cruzeiro - MG,in,283,38573,Nílton Ferreira Júnior,Nilton,100
 216,Alisson,Cruzeiro - MG,out,283,81845,Alisson Euler de Freitas Castro,Alisson,100
 216,Marlone,Cruzeiro - MG,in,283,80944,Johnath Marlone Azevedo da Silva,Marlone,100
-216,Natanael,Atletico - PR,out,,[],[],[],
-216,Sidcley,Atletico - PR,in,,[],[],[],
-216,Douglas,Atletico - PR,out,,[],[],[],
-216,Mosquito,Atletico - PR,in,,[],[],[],
-216,João Paulo,Atletico - PR,out,,[],[],[],
-216,Hernani,Atletico - PR,in,,[],[],[],
+216,Natanael,Atlético - PR,out,293,86264,,Natanael,100
+216,Sidcley,Atlético - PR,in,293,86764,Sidcley Ferreira Pereira,Sidcley,100
+216,Douglas,Atlético - PR,out,293,82469,Douglas Coutinho Gomes de Souza,Douglas Coutinho ,100
+216,Mosquito,Atlético - PR,in,293,86189,,Mosquito,100
+216,João Paulo,Atlético - PR,out,293,56102,,João Paulo,100
+216,Hernani,Atlético - PR,in,293,74078,,Hernani,100
 217,Willie,Vitória - BA,out,287,"[80568, 70928]","[nan, nan]","['Willie', 'William Henrique']","[100, 83]"
 217,Vinicius,Vitória - BA,in,287,68917,Vinicius Santos Silva,Vinícius,100
 217,Welison,Vitória - BA,out,287,86859,José Welison da Silva,José Welison,100

@@ -83,12 +83,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 38,Otavio,Internacional - RS,in,285,80585,,Otávio,91
 38,Paulão,Internacional - RS,out,285,63172,Paulo Marcos de Jesus Ribeiro,Paulão,100
 38,Ernando,Internacional - RS,in,285,49651,Ernando Rodrigues Lopes,Ernando,100
-38,Ederson,Atletico - PR,out,,[],[],[],
-38,Bruno Mendes,Atletico - PR,in,,[],[],[],
-38,Marcelo Cirino,Atletico - PR,out,,[],[],[],
-38,Mosquito,Atletico - PR,in,,[],[],[],
-38,Otavio,Atletico - PR,out,,[],[],[],
-38,Felipe,Atletico - PR,in,,[],[],[],
+38,Ederson,Atlético - PR,out,293,"[73446, 80281]","['Éderson Alves Ribeiro Silva', nan]","['Éderson', 'Cleberson']","[92, 86]"
+38,Bruno Mendes,Atlético - PR,in,293,78977,,Bruno Mendes,100
+38,Marcelo Cirino,Atlético - PR,out,293,69022,Marcelo Cirino da Silva,Marcelo,100
+38,Mosquito,Atlético - PR,in,293,86189,,Mosquito,100
+38,Otavio,Atlético - PR,out,293,82463,,Otávio ,91
+38,Felipe,Atlético - PR,in,293,"[50292, 69018, 71631, 72023, 73446, 80281, 82657, 83266, 83528, 86264]","[nan, 'Deivid Willian da Silva', 'Weverton Pereira da Silva', nan, 'Éderson Alves Ribeiro Silva', nan, nan, 'Marcos Guilherme de Almeida Santos Matos', 'Leonardo Pereira', nan]","['Paulinho Dias', 'Deivid', 'Weverton', 'Sueliton', 'Éderson', 'Cleberson', 'Miguel Ángel Portuga', 'Marcos Guilherme ', 'Léo Pereira', 'Natanael']",
 39,Artur,Figueirense - SC,out,316,72281,,Artur,100
 39,Leandro Silva,Figueirense - SC,in,316,77529,,Leandro Silva,100
 39,Everton Santos,Figueirense - SC,out,316,50326,,Éverton Santos,96

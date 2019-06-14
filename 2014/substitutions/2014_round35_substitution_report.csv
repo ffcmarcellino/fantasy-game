@@ -47,12 +47,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 344,Wendel,Sport - PE,in,292,38021,,Wendel,100
 344,Joelinton,Sport - PE,out,292,87741,,Joelinton,100
 344,Ananias,Sport - PE,in,292,61135,,Ananias,100
-345,Deivid,Atletico - PR,out,,[],[],[],
-345,Hernani,Atletico - PR,in,,[],[],[],
-345,Sueliton,Atletico - PR,out,,[],[],[],
-345,Mario Sergio,Atletico - PR,in,,[],[],[],
-345,Guilherme,Atletico - PR,out,,[],[],[],
-345,Douglas,Atletico - PR,in,,[],[],[],
+345,Deivid,Atlético - PR,out,293,69018,Deivid Willian da Silva,Deivid,100
+345,Hernani,Atlético - PR,in,293,74078,,Hernani,100
+345,Sueliton,Atlético - PR,out,293,72023,,Sueliton,100
+345,Mario Sergio,Atlético - PR,in,293,87399,,Mário Sérgio,91
+345,Guilherme,Atlético - PR,out,293,"[38525, 84761, 77579, 80281, 50292, 71631, 86409, 69022, 37840, 71778]","[nan, 'Claudinei dos Santos Oliveira', nan, nan, nan, 'Weverton Pereira da Silva', nan, 'Marcelo Cirino da Silva', nan, nan]","['Cléo', 'Claudinei Oliveira', 'Dellatorre', 'Cleberson', 'Paulinho Dias', 'Weverton', 'Lucas Olaza', 'Marcelo', 'Gustavo', 'Bady']",
+345,Douglas,Atlético - PR,in,293,82469,Douglas Coutinho Gomes de Souza,Douglas Coutinho ,100
 345,Souza,Santos - SP,out,277,"[68909, 37657]","[nan, 'Eduardo Luís Abonizio de Souza']","['Souza', 'Edu Dracena']","[100, 100]"
 345,Alan Santos,Santos - SP,in,277,70132,Alan Santos da Silva,Alan Santos,100
 345,Leandro Damiao,Santos - SP,out,277,68953,Leandro Damião da Silva dos Santos,Leandro Damião,96

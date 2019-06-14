@@ -47,12 +47,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 284,Renato,Santos - SP,in,277,38908,Renato Dirnei Florêncio,Renato,100
 284,Gabriel B.,Santos - SP,out,277,83257,Gabriel Barbosa Almeida,Gabriel,100
 284,Rildo,Santos - SP,in,277,73635,Rildo de Andrade Felicissimo,Rildo,100
-285,Cleo,Atletico - PR,out,,[],[],[],
-285,Marcos Guilherme,Atletico - PR,in,,[],[],[],
-285,Bady,Atletico - PR,out,,[],[],[],
-285,Hernani,Atletico - PR,in,,[],[],[],
-285,Guilherme,Atletico - PR,out,,[],[],[],
-285,Douglas,Atletico - PR,in,,[],[],[],
+285,Cleo,Atlético - PR,out,293,38525,,Cléo,86
+285,Marcos Guilherme,Atlético - PR,in,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
+285,Bady,Atlético - PR,out,293,71778,,Bady,100
+285,Hernani,Atlético - PR,in,293,74078,,Hernani,100
+285,Guilherme,Atlético - PR,out,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
+285,Douglas,Atlético - PR,in,293,82469,Douglas Coutinho Gomes de Souza,Douglas Coutinho ,100
 285,Anderson Pico,Flamengo - RJ,out,262,50453,,Anderson Pico,100
 285,Joao Paulo,Flamengo - RJ,in,262,71602,,João Paulo,95
 285,Caceres,Flamengo - RJ,out,262,69268,,Víctor Cáceres,86

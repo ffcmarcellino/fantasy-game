@@ -45,12 +45,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 104,Tinga,Cruzeiro - MG,in,283,37794,,Tinga,100
 104,Lucas Silva,Cruzeiro - MG,out,283,79701,Lucas Silva Borges,Lucas Silva,100
 104,Willian,Cruzeiro - MG,in,283,63058,Willian Roberto Farias,Willian Farias,100
-105,Ederson,Atletico - PR,out,,[],[],[],
-105,João Paulo,Atletico - PR,in,,[],[],[],
-105,Douglas,Atletico - PR,out,,[],[],[],
-105,Mosquito,Atletico - PR,in,,[],[],[],
-105,Marcelo Cirino,Atletico - PR,out,,[],[],[],
-105,Cleo,Atletico - PR,in,,[],[],[],
+105,Ederson,Atlético - PR,out,293,"[73446, 80281]","['Éderson Alves Ribeiro Silva', nan]","['Éderson', 'Cleberson']","[92, 86]"
+105,João Paulo,Atlético - PR,in,293,56102,,João Paulo,100
+105,Douglas,Atlético - PR,out,293,82469,Douglas Coutinho Gomes de Souza,Douglas Coutinho ,100
+105,Mosquito,Atlético - PR,in,293,86189,,Mosquito,100
+105,Marcelo Cirino,Atlético - PR,out,293,69022,Marcelo Cirino da Silva,Marcelo,100
+105,Cleo,Atlético - PR,in,293,38525,,Cléo,86
 105,Silvinho,Criciuma - SC,out,288,71799,Silvio José Cardoso Reis Junior,Silvinho,100
 105,Mauro,Criciuma - SC,in,288,82625,,Maurinho,80
 105,Rodrigo,Criciuma - SC,out,288,78936,,Rodrigo Souza,100

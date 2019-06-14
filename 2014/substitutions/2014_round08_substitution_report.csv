@@ -45,12 +45,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 74,Rodrigo Souto,Botafogo - RJ,in,263,37678,,Rodrigo Souto,100
 74,Junior Cesar,Botafogo - RJ,out,263,"[37621, 37663]","[nan, nan]","['Junior Cesar', 'Julio Cesar']","[100, 87]"
 74,Julio Cesar,Botafogo - RJ,in,263,"[37663, 37621]","[nan, nan]","['Julio Cesar', 'Junior Cesar']","[100, 87]"
-75,Ederson,Atletico - PR,out,,[],[],[],
-75,Cleo,Atletico - PR,in,,[],[],[],
-75,Bady,Atletico - PR,out,,[],[],[],
-75,João Paulo,Atletico - PR,in,,[],[],[],
-75,Douglas,Atletico - PR,out,,[],[],[],
-75,Nathan,Atletico - PR,in,,[],[],[],
+75,Ederson,Atlético - PR,out,293,73446,Éderson Alves Ribeiro Silva,Éderson,92
+75,Cleo,Atlético - PR,in,293,38525,,Cléo,86
+75,Bady,Atlético - PR,out,293,71778,,Bady,100
+75,João Paulo,Atlético - PR,in,293,56102,,João Paulo,100
+75,Douglas,Atlético - PR,out,293,82469,Douglas Coutinho Gomes de Souza,Douglas Coutinho ,100
+75,Nathan,Atlético - PR,in,293,"[87009, 86264]","['Nathan Allan de Souza', nan]","['Nathan', 'Natanael']","[100, 83]"
 75,Osvaldo,São Paulo - SP,out,276,42222,Osvaldo Lourenço Filho,Osvaldo,100
 75,Hudson,São Paulo - SP,in,276,50324,Hudson Rodrigues dos Santos,Hudson,100
 75,Alexandre Pato,São Paulo - SP,out,276,49675,Alexandre Rodrigues da Silva,Alexandre Pato,100

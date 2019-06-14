@@ -27,12 +27,12 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 53,Romarinho,Corinthians - SP,in,264,77738,,Romarinho,100
 53,Petros,Corinthians - SP,out,264,78891,Petros Mateus dos Santos Araújo,Petros,100
 53,Luciano,Corinthians - SP,in,264,80287,Luciano da Rocha Neves,Luciano,100
-53,Paulinho Dias,Atletico - PR,out,,[],[],[],
-53,Nathan,Atletico - PR,in,,[],[],[],
-53,Ederson,Atletico - PR,out,,[],[],[],
-53,Douglas,Atletico - PR,in,,[],[],[],
-53,Bady,Atletico - PR,out,,[],[],[],
-53,Bruno Mendes,Atletico - PR,in,,[],[],[],
+53,Paulinho Dias,Atlético - PR,out,293,50292,,Paulinho Dias,100
+53,Nathan,Atlético - PR,in,293,"[87009, 86264]","['Nathan Allan de Souza', nan]","['Nathan', 'Natanael']","[100, 83]"
+53,Ederson,Atlético - PR,out,293,"[73446, 80281]","['Éderson Alves Ribeiro Silva', nan]","['Éderson', 'Cleberson']","[92, 86]"
+53,Douglas,Atlético - PR,in,293,82469,Douglas Coutinho Gomes de Souza,Douglas Coutinho ,100
+53,Bady,Atlético - PR,out,293,71778,,Bady,100
+53,Bruno Mendes,Atlético - PR,in,293,78977,,Bruno Mendes,100
 54,Marquinhos Gabriel,Palmeiras - SP,out,275,68954,Marcos Gabriel do Nascimento,Marquinhos Gabriel,100
 54,Victor,Palmeiras - SP,in,275,86410,Victor Luis Chuab Zamblauskas,Victor Luis,100
 54,Mendieta,Palmeiras - SP,out,275,77994,,Mendieta,100
