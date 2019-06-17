@@ -40,7 +40,7 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 14,Marquinhos Gabriel,Palmeiras - SP,out,275,68954,Marcos Gabriel do Nascimento,Marquinhos Gabriel,100
 14,Diogo,Palmeiras - SP,in,275,50666,,Diogo,100
 14,Diguinho,Fluminense - RJ,out,266,37627,,Diguinho,100
-14,Rafael,Fluminense - RJ,in,266,37798,Rafael Augusto Sobis do Nascimento,Rafael Sobis,100
+14,Rafael,Fluminense - RJ,in,266,[],[],[],[]
 14,Rafael Sobis,Fluminense - RJ,out,266,37798,Rafael Augusto Sobis do Nascimento,Rafael Sobis,100
 14,Valencia,Fluminense - RJ,in,266,50417,,Valencia,100
 15,Chico,Coritiba - PR,out,294,50446,,Chico,100

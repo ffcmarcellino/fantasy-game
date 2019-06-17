@@ -2,7 +2,7 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 21,Negueba,Flamengo - RJ,out,262,70929,,Negueba,100
 21,Joao Paulo,Flamengo - RJ,in,262,71602,,João Paulo,95
 21,Nixon,Flamengo - RJ,out,262,80913,,Nixon,100
-21,Lucas,Flamengo - RJ,in,262,"[37673, 37958, 38184, 38311, 68958, 69268, 74060, 78578, 79019, 81121, 84318]","[nan, nan, nan, 'Márcio Rodrigues Araújo', nan, nan, 'Luiz Antonio de Souza Soares', nan, nan, nan, nan]","['Alecsandro', 'Felipe', 'André Santos', 'Márcio Araújo', 'Wallace', 'Víctor Cáceres', 'Luiz Antonio ', 'Paulinho', 'Jayme De Almeida', 'Mugni', 'Samir ']",
+21,Lucas,Flamengo - RJ,in,262,81121,,Mugni,0
 21,Fernando Prass,Palmeiras - SP,out,275,38140,Fernando Buttenbender Prass,Fernando Prass,100
 21,Bruno,Palmeiras - SP,in,275,62003,,Bruno,100
 21,Wendel,Palmeiras - SP,out,275,38432,,Wendel,100
@@ -28,18 +28,18 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 24,Thiago Ribeiro,Santos - SP,out,277,68929,,Thiago Ribeiro,100
 24,Stefano Yuri Goncalves Almeida,Santos - SP,in,277,87101,,Stéfano Yuri,92
 24,Leandro Damiao,Santos - SP,out,277,68953,Leandro Damião da Silva dos Santos,Leandro Damião,96
-24,Gigio,Santos - SP,in,277,"[36940, 37718, 37984, 50317, 61106, 62137, 68909, 70132, 73617, 73855, 73896]","[nan, 'Marcos Arouca da Silva', nan, 'David Braz de Oliveira Filho', nan, 'Enderson Alves Moreira', nan, 'Alan Santos da Silva', nan, nan, 'Geuvânio Santos Silva']","['Oswaldo De Oliveira', 'Arouca', 'Aranha', 'David Braz', 'Cicinho', 'Enderson Moreira', 'Souza', 'Alan Santos', 'Emerson', 'Jubal', 'Geuvânio']",
+24,Gigio,Santos - SP,in,277,73896,Geuvânio Santos Silva,Geuvânio,0
 24,Gabriel B.,Santos - SP,out,277,83257,Gabriel Barbosa Almeida,Gabriel,100
 24,Lucas Lima,Santos - SP,in,277,80583,Lucas Rafael Araujo Lima,Lucas Lima,100
 24,Dudu,Grêmio - RS,out,284,68920,Eduardo Pereira Rodrigues,Dudu,100
 24,Everton,Grêmio - RS,in,284,86757,Everton Sousa Soares,Everton,100
-24,Barcos,Grêmio - RS,out,284,"[78379, 62086]","['Hernán Barcos', 'Marcos Rogério Ricci Lopes']","['Barcos', 'Pará']","[100, 83]"
+24,Barcos,Grêmio - RS,out,284,78379,Hernán Barcos,Barcos,100
 24,Lucas,Grêmio - RS,in,284,82632,,Lucas Coelho,100
 24,Luan,Grêmio - RS,out,284,86759,Luan Guilherme de Jesus Vieira,Luan,100
 24,Rodriguinho,Grêmio - RS,in,284,61033,Rodrigo Eduardo Costa Marinho,Rodriguinho,100
 25,Paulinho Dias,Atlético - PR,out,293,50292,,Paulinho Dias,100
 25,Mario Sergio,Atlético - PR,in,293,87399,,Mário Sérgio,91
-25,Ederson,Atlético - PR,out,293,"[73446, 80281]","['Éderson Alves Ribeiro Silva', nan]","['Éderson', 'Cleberson']","[92, 86]"
+25,Ederson,Atlético - PR,out,293,73446,Éderson Alves Ribeiro Silva,Éderson,92
 25,Douglas,Atlético - PR,in,293,82469,Douglas Coutinho Gomes de Souza,Douglas Coutinho ,100
 25,Marcos Guilherme,Atlético - PR,out,293,83266,Marcos Guilherme de Almeida Santos Matos,Marcos Guilherme ,100
 25,Leonardo,Atlético - PR,in,293,83528,Leonardo Pereira,Léo Pereira,100
@@ -49,10 +49,10 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 25,Dagoberto,Cruzeiro - MG,in,283,37613,,Dagoberto,100
 25,Luan,Cruzeiro - MG,out,283,60834,Luan Michel de Louzã,Luan,100
 25,Marcelo Moreno,Cruzeiro - MG,in,283,50358,,Marcelo Moreno,100
-26,Jo,Atlético - MG,out,282,52253,Réver Humberto Alves Araújo,Réver,100
+26,Jo,Atlético - MG,out,282,[],[],[],[]
 26,Datolo,Atlético - MG,in,282,69240,,Dátolo,91
 26,Guilherme,Atlético - MG,out,282,50294,Guilherme Milhomem Gusmão,Guilherme,100
-26,Andre,Atlético - MG,in,282,"[68690, 52950]","['André Felipe Ribeiro de Souza', 'Victor Leandro Bagy']","['André', 'Victor']","[89, 80]"
+26,Andre,Atlético - MG,in,282,68690,André Felipe Ribeiro de Souza,André,89
 26,Fillipe Soutto,Atlético - MG,out,282,70581,Fillipe Soutto Mayor Nogueira Ferreira,Fillipe Soutto,100
 26,Rosinei,Atlético - MG,in,282,"[38138, 40025, 52950, 68690, 69219, 73863, 77895, 79947, 84861]","[nan, 'Levir Culpi', 'Victor Leandro Bagy', 'André Felipe Ribeiro de Souza', nan, nan, nan, nan, 'Alex da Silva']","['Jô', 'Levir Culpi', 'Victor', 'André', 'Otamendi', 'Claudinei', 'Emerson Conceição', 'Marion', 'Alex Silva']",
 26,Vitor,Goiás - GO,out,290,"[37899, 38695, 42232, 62139, 70058, 70934, 71123, 73417, 80036]","[nan, 'David França Oliveira e Silva', 'William José de Souza', 'Ricardo Drubscky', nan, 'Jackson de Souza', nan, nan, nan]","['Renan', 'David', 'Amaral', 'Ricardo Drubscky', 'Tiago Real', 'Jackson', 'Thiago Mendes', 'Lima', 'Alex Alves']",
@@ -64,15 +64,15 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 27,Lincoln,Bahia - BA,out,265,41364,,Lincoln,100
 27,Branquinho,Bahia - BA,in,265,69186,,Branquinho,100
 27,Rhayner,Bahia - BA,out,265,70874,Rhayner Santos Nascimento,Rhayner,100
-27,Lima,Bahia - BA,in,265,"[37306, 50353, 50532, 53472, 63003, 68723, 68872, 73359, 73530, 82502, 87213]","['Gilson Kleina', nan, nan, nan, nan, nan, 'Marcelo Lomba do Nascimento', nan, nan, nan, nan]","['Gilson Kleina', 'Titi', 'Maxi Biancucchi', 'Fahel', 'Uelliton', 'Demerson', 'Marcelo Lomba', 'Roniery', 'Wilson Pittoni', 'Rafinha', 'Pará']",
+27,Lima,Bahia - BA,in,265,82502,,Rafinha,0
 27,Talisca,Bahia - BA,out,265,84099,,Anderson Talisca,100
-27,Wilson,Bahia - BA,in,265,"[73530, 37306]","[nan, 'Gilson Kleina']","['Wilson Pittoni', 'Gilson Kleina']","[100, 83]"
+27,Wilson,Bahia - BA,in,265,73530,,Wilson Pittoni,100
 27,Daniel,Botafogo - RJ,out,263,85629,,Daniel,100
 27,Wallyson,Botafogo - RJ,in,263,62127,Wallyson Ricardo Maciel Monteiro,Wallyson,100
 27,Lodeiro,Botafogo - RJ,out,263,"[37621, 37789, 38109, 38523, 39850, 68744, 69232, 74065, 78605, 78946, 81236]","[nan, nan, 'Jefferson de Oliveira Galvão', 'Edílson Mendes Guimarães', 'Vagner Carmo Mancini', 'Márcio Passos de Albuquerque', nan, nan, 'Gabriel Girotto Franco', nan, nan]","['Junior Cesar', 'Bolívar', 'Jefferson', 'Edílson', 'Vagner Mancini', 'Emerson', 'Bolatti', 'Zeballos', 'Gabriel', 'Dória', 'Ferreyra']",
 27,Jorge Wagner Goes Conceicao,Botafogo - RJ,in,263,37795,,Jorge Wagner,100
-27,Pablo Daniel,Botafogo - RJ,out,263,85629,,Daniel,100
-27,Juan,Botafogo - RJ,in,263,"[37621, 37789, 38109, 38523, 39850, 68744, 69232, 74065, 78605, 78946, 81236]","[nan, nan, 'Jefferson de Oliveira Galvão', 'Edílson Mendes Guimarães', 'Vagner Carmo Mancini', 'Márcio Passos de Albuquerque', nan, nan, 'Gabriel Girotto Franco', nan, nan]","['Junior Cesar', 'Bolívar', 'Jefferson', 'Edílson', 'Vagner Mancini', 'Emerson', 'Bolatti', 'Zeballos', 'Gabriel', 'Dória', 'Ferreyra']",
+27,Pablo Daniel,Botafogo - RJ,out,263,[],[],[],[]
+27,Juan,Botafogo - RJ,in,263,81236,,Ferreyra,0
 28,Alex,Internacional - RS,out,285,38219,,Alex,100
 28,Ygor,Internacional - RS,in,285,38074,,Ygor,100
 28,Rafael Moura,Internacional - RS,out,285,37655,Rafael Martiniano de Miranda Moura,Rafael Moura,100
@@ -84,19 +84,19 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 28,Ananias,Sport - PE,out,292,61135,,Ananias,100
 28,Felipe Azevedo,Sport - PE,in,292,"[37848, 38100, 38579, 38986, 41218, 42118, 60822, 60969, 68834, 68904, 72039, 82647, 87211]","[nan, 'Severino dos Ramos Durval da Silva', nan, nan, 'Alessandro Beti Rosa', nan, 'Renan Henrique Oliveira Vieira', 'Patric Cabral Lalau', 'Francisco Rithely da Silva Sousa', nan, nan, 'Régis Augusto Salmazzo', 'Eduardo Augusto Baptista Miguel']","['Leonardo', 'Durval', 'Rodrigo Mancha', 'Aílton', 'Magrão', 'Neto Baiano', 'Renan Oliveira', 'Patric', 'Rithely', 'Vítor', 'Ferron', 'Régis', 'Eduardo Baptista']",
 28,Rene,Sport - PE,out,292,78445,Renê Rodrigues Martins,Renê,86
-28,Renan,Sport - PE,in,292,"[60822, 82635]","['Renan Henrique Oliveira Vieira', 'Igor Fernandes da Silva Araújo']","['Renan Oliveira', 'Igor']","[100, 80]"
+28,Renan,Sport - PE,in,292,60822,Renan Henrique Oliveira Vieira,Renan Oliveira,100
 29,Lucca,Criciuma - SC,out,288,61149,Lucca Borges Brito,Lucca,100
-29,Rodrigo,Criciuma - SC,in,288,"[38362, 78936]","[nan, nan]","['Rodrigo Silva', 'Rodrigo Souza']","[100, 100]"
+29,Rodrigo,Criciuma - SC,in,288,38362,,Rodrigo Silva,100
 29,Joao Vitor,Criciuma - SC,out,288,68987,,João Vitor,95
 29,Maylson,Criciuma - SC,in,288,54250,,Maylson,100
 29,Paulo Baier,Criciuma - SC,out,288,37826,,Paulo Baier,100
 29,Wellington,Criciuma - SC,in,288,50908,,Wellington Bruno,100
-29,Marquinhos,Figueirense - SC,out,316,38515,Marcos Roberto da Silva Barbosa,Marquinhos,100
+29,Marquinhos,Figueirense - SC,out,316,37816,,Marco Antônio,0
 29,Marquinhos Silva,Figueirense - SC,in,316,38515,Marcos Roberto da Silva Barbosa,Marquinhos,100
 29,Everton Santos,Figueirense - SC,out,316,50326,,Éverton Santos,96
-29,Leonardo,Figueirense - SC,in,316,"[37245, 37816, 38394, 38630, 62971, 69047, 72018, 72281, 78117, 78716, 78967, 81914]","['Augusto Sérgio Ferreira', nan, 'Thiago Heleno Henrique Ferreira', nan, nan, 'Paulo Roberto da Silva', 'Tiago Luis Volpi', nan, 'Everaldo Stum', nan, nan, nan]","['Guto Ferreira', 'Marco Antônio', 'Thiago Heleno', 'Rivaldo', 'Nirley', 'Paulo Roberto', 'Tiago Volpi', 'Artur', 'Everaldo', 'Nem', 'Dudu', 'Léo Lisboa']",
+29,Leonardo,Figueirense - SC,in,316,81914,,Léo Lisboa,0
 29,Ricardo Bueno,Figueirense - SC,out,316,69141,Ricardo Bueno da Silva,Ricardo Bueno,100
-29,Everaldo,Figueirense - SC,in,316,"[78117, 38630]","['Everaldo Stum', nan]","['Everaldo', 'Rivaldo']","[100, 83]"
+29,Everaldo,Figueirense - SC,in,316,78117,Everaldo Stum,Everaldo,100
 30,Andre Paulino,Chapecoense - SC,out,315,51168,,André Paulino,96
 30,Alemao,Chapecoense - SC,in,315,78756,,Alemão,91
 30,Fabinho Alves,Chapecoense - SC,out,315,51193,,Fabinho Alves,100

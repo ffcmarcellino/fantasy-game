@@ -62,7 +62,7 @@ match_num,player_name_2,team_name_3,player_status,team_id,player_id,match_name,m
 6,Fernandinho,Atlético - MG,out,282,"[36802, 36943, 38231, 38440, 51318, 52950, 68925, 69219, 77895, 79947, 84861]","[nan, nan, 'Diego Tardelli Martins', nan, 'Leandro Donizete Gonçalves da Silva', 'Victor Leandro Bagy', 'Leonardo Fabiano da Silva e Silva', nan, nan, nan, 'Alex da Silva']","['Ronaldinho Gaúcho', 'Paulo Autuori', 'Diego Tardelli', 'Pierre', 'Leandro Donizete', 'Victor', 'Leonardo Silva', 'Otamendi', 'Emerson Conceição', 'Marion', 'Alex Silva']",
 6,Marion,Atlético - MG,in,282,79947,,Marion,100
 6,Jadson,Corinthians - SP,out,264,38315,Jadson Rodrigues da Silva,Jadson,100
-6,Jose Paulo,Corinthians - SP,in,264,75295,José Paolo Guerrero Gonzales,Paolo Guerrero,80
+6,Jose Paulo,Corinthians - SP,in,264,[],[],[],[]
 6,Guilherme,Corinthians - SP,out,264,71636,,Guilherme,100
 6,Bruno,Corinthians - SP,in,264,70944,Bruno Henrique Corsini,Bruno Henrique,100
 6,Luciano,Corinthians - SP,out,264,80287,Luciano da Rocha Neves,Luciano,100
