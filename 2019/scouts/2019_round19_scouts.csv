@@ -1,0 +1,813 @@
+round_num,player_id,player_name,player_nickname,position,team_id,G,A,FT,FD,FF,FS,PP,I,PE,SG,DP,DD,RB,GC,CV,CA,GS,FC,total_score,current_price,price_delta
+19,37673,Alecsandro Barbosa Felisbino,Alecsandro,ATA,341,1,0,0,4,7,5,1,4,11,0,0,0,1,0,0,1,0,14,1.8,4.02,0.23
+19,37646,Ebert William Amâncio,Betão,ZAG,314,0,0,0,0,2,16,0,0,32,4,0,0,24,0,1,4,0,13,7.2,4.82,1.78
+19,37655,Rafael Martiniano de Miranda Moura,Rafael Moura,ATA,290,0,0,0,1,2,4,0,1,3,0,0,0,2,0,0,0,0,7,-0.5,3.26,-0.53
+19,37657,Eduardo Luís Abonizio de Souza,Edu Dracena,ZAG,275,0,0,0,1,3,2,0,0,1,2,0,0,4,0,0,0,0,3,0.0,6.97,0.0
+19,37662,Jonathan Cícero Moreira,Jonathan,LAT,293,1,0,0,1,0,3,0,0,7,2,0,0,6,0,0,2,0,4,0.0,7.3,0.0
+19,38140,Fernando Buttenbender Prass,Fernando Prass,GOL,275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,8.0,0.0
+19,37656,Fábio Deivson Lopes Maciel,Fábio,GOL,283,0,0,0,0,0,1,0,0,8,5,2,18,0,0,0,1,22,0,-2.6,9.06,-0.24
+19,37688,Cícero Santos,Cícero,MEI,263,3,1,0,2,8,38,0,2,32,0,0,0,21,0,0,4,0,10,-0.3,11.93,-0.06
+19,61985,Airton Ribeiro Santos,Airton,MEI,266,0,0,0,0,0,9,0,0,7,0,0,0,4,0,1,2,0,9,0.0,1.97,0.0
+19,68950,Ronaldo Luiz Alves,Ronaldo Alves,ZAG,341,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,6,0.0,3.9,0.0
+19,36940,Oswaldo de Oliveira,Oswaldo de Oliveira,TEC,266,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.43,7.52,0.29
+19,37788,Marcelo Boeck,Marcelo Boeck,GOL,356,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,1,2,0,0.0,3.31,0.0
+19,37694,Henrique Pacheco de Lima,Henrique,MEI,283,0,0,0,2,9,20,0,1,19,0,0,0,33,0,0,2,0,20,3.2,7.86,0.49
+19,38144,Márcio Rafael Ferreira de Souza,Rafinha,LAT,262,0,3,0,0,0,9,0,0,15,4,0,0,12,0,0,3,0,11,7.4,10.42,0.22
+19,38162,Frederico Chaves Guedes,Fred,ATA,283,3,2,1,7,6,20,0,9,33,0,0,0,3,0,0,4,0,17,1.3,5.98,-1.52
+19,37281,Luis Antônio Venker de Menezes,Mano Menezes,TEC,275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.91,9.66,0.23
+19,38001,Anderson Pedro Nunes da Silva Campos,Anderson,GOL,265,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0.0,2.08,0.0
+19,37246,Ney Franco da Silveira Júnior,Ney Franco,TEC,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.14,8.92,0.2
+19,37701,Leonardo da Silva Moura,Léo Moura,LAT,284,0,1,0,0,1,7,0,0,21,2,0,0,6,0,0,0,0,2,0.0,5.69,0.0
+19,37798,Rafael Augusto Sobis do Nascimento,Rafael Sobis,ATA,285,2,3,0,15,13,10,0,0,17,0,0,0,8,0,0,3,0,9,7.4,8.67,-0.29
+19,37614,Evandro Goebel,Evandro,MEI,277,0,0,0,1,1,3,0,0,8,0,0,0,5,0,0,0,0,6,0.0,5.04,0.0
+19,62033,José Fernando Viana de Santana,Fernandão,ATA,265,2,0,0,6,13,12,0,4,9,0,0,0,5,0,1,0,0,5,0.8,6.33,0.06
+19,38229,Fábio Santos Romeu,Fábio Santos,LAT,282,2,0,0,1,1,14,0,2,26,3,0,0,11,0,0,2,0,13,3.7,9.92,1.1
+19,68942,Luciano Castán da Silva,Luciano Castán,ZAG,341,0,0,0,0,1,3,0,0,28,7,0,0,18,0,0,6,0,14,-1.0,5.26,-0.96
+19,38196,Maicon Thiago Pereira de Souza,Maicon,MEI,284,0,2,0,1,2,2,0,0,18,0,0,0,7,0,0,3,0,6,0.0,7.81,0.0
+19,68987,João Vitor Lima Gomes,João Vitor,MEI,341,0,0,0,0,0,3,0,1,13,0,0,0,18,0,0,4,0,15,1.5,4.67,0.26
+19,69008,Hélio Hermito Zampier Neto,Neto,ZAG,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,69010,João Carlos Heidemann,João Carlos,GOL,341,0,0,0,0,0,1,0,0,1,1,0,1,0,0,1,0,2,1,0.0,1.19,0.0
+19,62086,Marcos Rogério Ricci Lopes,Pará,LAT,277,0,0,0,0,0,5,0,0,10,2,0,0,9,0,0,3,0,7,0.0,4.4,0.0
+19,69014,Manoel Messias Silva Carvalho,Manoel,ZAG,264,1,0,0,1,4,6,0,0,20,8,0,0,20,1,0,1,0,11,0.0,10.89,0.0
+19,69012,Aderbar Melo dos Santos Neto,Santos,GOL,293,0,0,0,0,0,2,0,0,14,6,1,17,0,0,0,1,12,1,0.0,8.31,0.0
+19,62104,Róbson Michael Signorini,Robinho,MEI,283,1,1,0,3,9,14,0,0,61,0,0,0,13,0,0,5,0,21,0.0,6.15,0.0
+19,62128,Walter Henrique da Silva,Walter,ATA,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,5.0,0.0
+19,69022,Marcelo Cirino da Silva,Marcelo Cirino,ATA,293,4,2,1,6,9,14,0,4,21,0,0,0,7,0,0,0,0,9,4.7,8.33,0.48
+19,62121,Vanderlei Farias da Silva,Vanderlei,GOL,277,0,0,0,0,0,2,0,0,4,3,0,15,0,0,0,0,6,0,0.0,22.89,0.0
+19,62137,Enderson Alves Moreira,Enderson Moreira,TEC,354,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.53,11.11,0.28
+19,62129,Wellington Aparecido Martins,Wellington,MEI,293,0,0,0,0,1,3,0,0,28,0,0,0,8,0,0,5,0,22,0.0,0.77,0.0
+19,62047,Jean Raphael Vanderlei Moreira,Jean,MEI,275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,4.06,0.0
+19,69040,Vladimir Orlando Cardoso de Araújo Filho,Vladimir,GOL,314,0,0,0,0,0,1,0,0,2,5,0,34,0,0,0,2,22,0,14.0,8.65,2.98
+19,69041,Muriel Gustavo Becker,Muriel,GOL,266,0,0,0,0,0,1,0,0,2,2,0,11,0,0,0,1,7,1,3.5,4.9,-2.13
+19,62974,Werley Ananias da Silva,Werley,ZAG,267,0,0,0,3,0,1,0,2,5,0,0,0,0,1,0,0,0,4,0.0,0.75,0.0
+19,62977,Paulo Henrique Chagas de Lima,Ganso,MEI,266,2,0,0,6,10,15,0,0,45,0,0,0,14,0,0,4,0,13,9.1,9.04,1.81
+19,69051,Danilo Fernandes Batista,Danilo Fernandes,GOL,285,0,0,0,0,0,0,0,0,1,1,0,8,0,0,0,0,2,0,7.0,7.35,-0.77
+19,62968,Maicon Marques Bitencourt,Maicon,ATA,282,0,2,0,0,1,3,0,1,4,0,0,0,4,0,0,1,0,4,0.0,6.05,0.0
+19,69047,Paulo Roberto da Silva,Paulo Roberto,MEI,356,0,0,0,0,1,7,0,0,7,0,0,0,2,0,0,0,0,5,0.0,3.66,0.0
+19,42411,Alexi Stival,Cuca,TEC,276,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.39,10.35,0.23
+19,69138,Pablo Felipe Teixeira,Pablo,ATA,276,1,0,0,1,5,3,0,2,1,0,0,0,1,0,0,0,0,0,4.7,13.61,-1.49
+19,63013,Marcos Luis Rocha Aquino,Marcos Rocha,LAT,275,1,1,0,0,3,14,0,0,40,4,0,0,36,0,0,1,0,20,9.2,16.71,0.87
+19,63082,Rodolfo Alves de Melo,Rodolfo,GOL,266,0,0,0,0,0,1,0,0,5,0,0,7,0,0,0,0,12,0,0.0,2.22,0.0
+19,69141,Ricardo Bueno da Silva,Ricardo Bueno,ATA,341,3,2,0,5,6,8,1,9,16,0,0,0,9,0,0,2,0,19,0.0,14.08,0.0
+19,63110,Alan Luciano Ruschel,Alan Ruschel,LAT,290,0,0,0,2,1,14,0,0,8,1,0,0,4,0,0,4,0,18,0.0,3.75,0.0
+19,69161,Mauro Boselli,Boselli,ATA,264,2,1,0,4,4,4,0,1,10,0,0,0,1,0,0,1,0,3,-0.5,3.69,-0.3
+19,63128,Douglas Silva Bacelar,Douglas,ZAG,315,0,0,0,0,4,2,0,0,9,2,0,0,6,0,0,5,0,15,0.0,3.12,0.0
+19,69177,Leonardo Moreira Morais,Léo,LAT,314,0,1,0,0,4,13,0,0,13,2,0,0,11,0,1,2,0,13,5.5,5.64,0.67
+19,69288,Rodolfo Vicente Gamarra Varela,Gamarra,ATA,341,0,0,0,0,1,0,0,0,3,0,0,0,1,0,0,0,0,2,0.0,5.34,0.0
+19,69705,Maycon Vinícius Ferreira da Cruz,Nikão,MEI,293,2,1,0,9,11,10,0,0,13,0,0,0,5,0,0,2,0,9,0.0,16.23,0.0
+19,70009,Romulo Borges Monteiro,Romulo,MEI,284,1,0,0,1,3,9,0,0,15,0,0,0,11,0,0,3,0,18,0.0,4.74,0.0
+19,63194,Carlos Emiliano Pereira,Carlinhos,LAT,356,1,2,0,3,6,12,0,1,32,1,0,0,28,0,1,3,0,30,-1.2,5.66,-0.72
+19,70046,Victor Ferraz Macedo,Victor Ferraz,LAT,277,0,1,0,3,4,12,0,1,44,8,0,0,25,0,0,3,0,8,4.9,10.58,0.18
+19,70116,Fellipe Ramos Ignez Bastos,Fellipe Bastos,MEI,267,1,0,0,1,9,3,0,0,7,0,0,0,10,0,0,2,0,7,0.0,4.79,0.0
+19,70132,Alan Santos da Silva,Alan Santos,MEI,263,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0.0,3.28,0.0
+19,63289,Edenílson Andrade Dos Santos,Edenílson,MEI,285,4,1,0,4,1,12,0,0,27,0,0,0,12,0,0,3,0,10,0.0,9.34,0.0
+19,63422,Jucilei da Silva,Jucilei,MEI,276,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,8.0,0.0
+19,63219,Luan Madson Gedeão De Paiva,Luan,MEI,282,0,1,0,3,8,25,1,0,36,0,0,0,25,0,0,2,0,17,0.0,8.38,0.0
+19,63354,Rodrigo Modesto da Silva Moledo,Rodrigo Moledo,ZAG,285,1,0,0,1,1,1,0,0,4,2,0,0,10,0,0,1,0,2,0.0,6.55,0.0
+19,63178,Cícero dos Santos Bezerra,Didira,MEI,341,0,0,0,2,3,14,0,0,21,0,0,0,17,0,0,3,0,14,0.0,5.3,0.0
+19,70222,Sidney Aparecido Ramos da Silva,Sidão,GOL,267,0,0,0,0,0,0,0,0,6,0,0,8,0,0,0,0,8,0,0.0,3.74,0.0
+19,68696,Bergson Gustavo Silveira da Silva,Bergson,ATA,354,0,0,0,6,9,9,0,5,10,0,0,0,4,0,0,1,0,11,0.2,4.02,-0.14
+19,68698,Bruno César Pereira da Silva,Bruno Silva,MEI,285,0,0,0,2,2,12,0,1,18,0,0,0,19,0,0,3,0,14,0.0,7.02,0.0
+19,68808,Severino do Ramo Clementino da Silva,Nino Paraíba,LAT,265,1,3,0,3,4,21,0,0,32,7,0,0,23,0,0,3,0,18,3.0,12.99,-1.84
+19,68770,Guilherme de Aguiar Camacho,Camacho,MEI,293,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0.0,4.3,0.0
+19,68773,Henrique Almeida Caixeta Nascentes,Henrique Almeida,ATA,315,0,0,0,1,3,4,0,0,1,0,0,0,4,0,0,1,0,1,0.0,4.19,0.0
+19,68690,André Felipe Ribeiro de Souza,André,ATA,284,1,1,1,4,4,11,1,3,11,0,0,0,6,0,0,1,0,10,0.0,8.69,0.0
+19,68821,Rafael Galhardo de Souza,Rafael Galhardo,LAT,284,1,2,0,2,2,4,0,1,14,3,0,0,7,0,0,0,0,2,9.6,5.49,0.78
+19,68727,José Rodolfo Pires Ribeiro,Dodô,LAT,283,0,0,1,2,2,5,0,1,28,4,0,0,15,0,0,1,0,15,0.0,5.86,0.0
+19,68834,Francisco Rithely da Silva Sousa,Rithely,MEI,285,0,1,0,1,2,6,0,0,13,0,0,0,17,0,0,0,0,14,0.7,5.28,-0.02
+19,68872,Marcelo Lomba do Nascimento,Marcelo Lomba,GOL,285,0,0,0,0,0,4,0,0,1,6,0,24,0,0,0,0,15,0,0.0,11.92,0.0
+19,68817,Jonathan Doin,Paulo Miranda,ZAG,284,0,0,0,1,0,3,0,0,7,3,0,0,10,1,0,1,0,8,10.7,5.85,1.24
+19,42477,Maurício Donizete Ramos Júnior,Maurício Ramos,ZAG,315,0,0,0,2,1,8,0,0,12,3,0,0,5,0,0,0,0,12,2.4,5.04,0.45
+19,68873,Paulo Victor Mileo Vidotti,Paulo Victor,GOL,284,0,0,0,0,0,1,0,0,9,5,0,16,0,0,0,0,11,0,8.0,6.69,0.38
+19,68886,Rodrigo Júnior Paula Silva,Digão,ZAG,266,0,0,0,0,1,6,0,1,9,2,0,0,11,0,1,1,0,10,3.7,5.84,-0.04
+19,68887,Welington Pereira Rodrigues,Gum,ZAG,315,1,0,0,6,7,13,0,2,41,4,0,0,10,1,1,0,0,8,0.0,6.1,0.0
+19,68895,Wellington Alves da Silva,Wellington Silva,ATA,285,1,1,0,4,5,20,0,0,17,0,0,0,4,0,0,1,0,2,0.0,5.72,0.0
+19,70696,Fábio Luiz Carille de Araújo,Fábio Carille,TEC,264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.19,11.53,0.06
+19,70360,Eduardo Colcenti Antunes,Eduardo Sasha,ATA,277,8,1,2,10,13,13,0,2,32,0,0,0,22,0,0,1,0,13,1.9,17.52,-0.26
+19,68896,Ramon de Morais Motta ,Ramon,LAT,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,5.0,0.0
+19,70925,Wescley Gomes dos Santos,Wescley,MEI,354,0,0,0,2,0,6,0,3,13,0,0,0,6,0,0,1,0,6,0.2,3.62,-0.76
+19,70934,Jackson de Souza,Jackson,ZAG,356,0,0,0,1,2,3,0,1,11,1,0,0,2,0,0,0,0,3,2.4,4.58,0.65
+19,70800,Jorge Sampaoli,Jorge Sampaoli,TEC,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.62,12.21,-0.56
+19,70916,Diogo Barbosa Mendanha,Diogo Barbosa,LAT,275,0,0,0,2,2,11,0,0,14,4,0,0,35,0,0,2,0,18,6.7,13.86,0.85
+19,71113,Felipe de Oliveira Silva,Felipe Baxola,MEI,354,0,0,0,0,3,0,0,0,9,0,0,0,3,0,0,1,0,2,4.3,4.27,0.75
+19,68901,Rodrigo Pimpão Viana,Rodrigo Pimpão,ATA,263,0,2,0,4,7,4,0,2,32,0,0,0,11,0,0,5,0,19,-0.5,1.56,-0.13
+19,70944,Bruno Henrique Corsini,Bruno Henrique,MEI,275,2,0,0,1,3,13,0,0,23,0,0,0,13,0,0,1,0,26,8.2,10.95,0.82
+19,71019,Bryan Jafet Ruíz González,Bryan Ruíz,MEI,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,4.0,0.0
+19,68911,Diego Souza de Andrade,Diego Souza,ATA,263,5,1,1,7,9,27,0,7,37,0,0,0,4,0,0,1,0,20,0.7,6.2,-1.3
+19,68923,Carlos Gilberto do Nascimento Silva,Gil,ZAG,264,0,0,1,0,5,1,0,4,5,4,0,0,10,0,0,2,0,4,8.5,10.82,1.24
+19,71043,Leonardo da Silva Vieira,Leo,GOL,293,0,0,0,0,0,0,0,0,1,0,0,6,0,0,0,1,2,0,-2.0,2.47,-2.45
+19,68925,Leonardo Fabiano da Silva e Silva,Leonardo Silva,ZAG,282,0,0,1,1,0,6,0,0,5,0,0,0,6,0,0,2,0,4,1.4,4.25,-0.54
+19,70986,Leonardo Cittadini,Léo Cittadini,MEI,293,1,0,0,4,6,13,0,0,13,0,0,0,12,0,0,1,0,10,0.0,6.26,0.0
+19,71042,Augusto César dos Santos Moreira,Augusto,MEI,315,0,2,0,8,3,13,0,3,19,0,0,0,10,0,0,0,0,24,4.1,4.56,0.63
+19,68928,Rafael Pires Monteiro,Rafael,GOL,283,0,0,0,0,0,1,0,0,1,1,0,5,0,0,0,0,6,0,0.0,3.99,0.0
+19,68938,Giovanni Augusto Oliveira Cardoso,Giovanni Augusto,MEI,290,0,1,0,6,8,15,0,0,37,0,0,0,14,0,1,1,0,16,0.0,4.32,0.0
+19,68930,Welker Marçal de Almeida,Kieza,ATA,356,0,0,0,4,5,13,0,1,2,0,0,0,0,0,0,0,0,9,0.0,3.56,0.0
+19,68920,Eduardo Pereira Rodrigues,Dudu,ATA,275,5,0,0,11,15,53,0,4,37,0,0,0,7,0,0,2,0,9,0.9,18.02,-0.26
+19,42491,Márcio Gonzaga de Azevedo,Márcio Azevedo,LAT,293,0,2,0,1,2,14,0,0,26,6,0,0,8,0,0,3,0,16,0.0,6.62,0.0
+19,49673,Júlio César Jacobi,Júlio César,GOL,284,0,0,0,0,0,0,0,0,1,2,0,15,0,0,0,0,11,0,0.0,7.93,0.0
+19,50284,Wilson Rodrigues de Moura Júnior,Wilson,GOL,282,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0.0,4.8,0.0
+19,49651,Ernando Rodrigues Lopes,Ernando,ZAG,265,1,0,1,0,0,4,0,0,3,4,0,0,4,0,0,0,0,2,0.0,10.78,0.0
+19,50294,Guilherme Milhomem Gusmão,Guilherme,MEI,266,0,0,0,0,0,2,0,0,6,0,0,0,2,0,0,2,0,3,0.0,3.06,0.0
+19,50293,Ramires Santos do Nascimento,Ramires,MEI,275,0,0,0,0,1,2,0,0,1,0,0,0,2,0,0,0,0,2,0.0,6.79,0.0
+19,42499,Bruno Vieira do Nascimento,Bruno,LAT,285,0,0,0,0,1,4,0,0,9,3,0,0,3,0,0,1,0,6,0.0,5.38,0.0
+19,50301,Everton Cardoso da Silva,Everton,MEI,276,1,2,0,3,2,18,0,7,29,0,0,0,14,0,0,3,0,31,0.4,6.89,-0.41
+19,42500,Fagner Conserva Lemos,Fagner,LAT,264,0,2,0,2,2,19,0,0,46,7,0,0,27,0,0,2,0,12,3.6,12.92,-0.89
+19,49675,Alexandre Rodrigues da Silva,Alexandre Pato,ATA,276,5,0,0,5,15,19,0,5,23,0,0,0,9,0,0,1,0,9,-0.2,8.98,-3.43
+19,42501,Luiz Rhodolfo Dini Gaioto,Rhodolfo,ZAG,262,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,3,0.0,4.4,0.0
+19,47134,Sebastião Sousa Costa,Tião,MEI,356,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,70784,Joao Robin Rojas Mendoza,Joao Rojas,ATA,276,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,7.0,0.0
+19,50324,Hudson Rodrigues dos Santos,Hudson,MEI,276,1,1,0,4,1,10,0,1,18,0,0,0,22,0,0,3,0,25,0.0,9.56,0.0
+19,50402,Kayke Moreno de Andrade Rodrigues,Kayke,ATA,290,6,3,0,6,16,7,0,5,29,0,0,0,3,0,0,3,0,16,0.0,7.31,-0.25
+19,50328,Marcelo Oliveira Ferreira,Marcelo Oliveira,ZAG,284,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,5.0,0.0
+19,50459,Leonardo Renan Simões de Lacerda,Léo,ZAG,283,0,0,0,0,0,4,0,0,15,3,0,0,15,0,0,1,0,16,-1.9,6.34,-0.42
+19,50407,Marco Antonio de Mattos Filho,Marquinho,MEI,267,0,0,0,1,1,2,0,1,5,0,0,0,5,0,0,0,0,8,0.0,4.67,0.0
+19,50317,David Braz de Oliveira Filho,David Braz,ZAG,284,1,0,0,1,4,1,0,0,9,2,0,0,9,0,0,0,0,3,10.8,8.69,1.91
+19,50313,Elicarlos Souza Santos,Elicarlos,MEI,315,0,0,0,2,6,5,0,0,12,0,0,0,7,0,0,2,0,10,-1.5,4.15,-1.04
+19,50408,Breno Vinicius Rodrigues Borges,Breno,ZAG,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,6.0,0.0
+19,50645,Carlos Eduardo Santos Oliveira,Eduardo,LAT,315,0,1,0,0,0,18,0,0,43,4,0,0,16,0,0,2,0,14,-0.1,8.03,-0.03
+19,51042,Luiz Diallison de Souza Alves,Apodi,LAT,341,1,0,0,4,4,18,0,3,35,5,0,0,10,0,0,3,0,30,4.6,5.16,0.07
+19,52253,Réver Humberto Alves Araújo,Réver,ZAG,282,0,0,1,2,5,10,0,1,21,3,0,0,28,0,0,1,0,3,2.9,11.68,0.08
+19,51495,Tiago dos Santos Alves,Tiago Alves,ZAG,354,1,0,0,0,2,1,0,2,17,2,0,0,7,0,0,1,0,9,6.0,6.31,1.4
+19,52618,Anderson Vieira Martins,Anderson Martins,ZAG,276,0,0,0,0,0,1,0,0,10,3,0,0,13,0,0,5,0,10,0.0,3.03,0.0
+19,51413,Walter Leandro Capeloza Artune,Walter,GOL,264,0,0,0,0,0,1,0,0,2,2,0,7,0,0,0,0,1,0,0.0,8.01,0.0
+19,50877,Pedro Ken Morimoto Moreira,Pedro Ken,MEI,354,0,0,0,0,0,9,0,0,2,0,0,0,8,0,0,1,0,7,0.0,3.33,0.0
+19,52558,Bruno César Zanaki,Bruno César,MEI,267,2,0,0,0,1,12,1,1,10,0,0,0,1,0,0,1,0,5,0.0,6.11,0.0
+19,51194,Rafael Pereira dos Santos,Rafael Pereira,ZAG,315,1,0,0,0,0,2,0,0,6,0,0,0,2,0,0,2,0,2,-2.3,3.55,-0.12
+19,52674,Gilson Gomes do Nascimento,Gilson,LAT,263,0,1,0,0,1,12,0,0,33,5,0,0,14,0,1,2,0,15,0.0,5.1,0.0
+19,51415,Roger de Carvalho,Roger Carvalho,ZAG,356,0,0,0,0,3,3,0,0,24,2,0,0,5,0,0,0,0,5,0.0,4.09,0.0
+19,38231,Diego Tardelli Martins,Diego Tardelli,ATA,284,2,0,0,11,4,11,1,4,31,0,0,0,7,0,0,0,0,10,1.2,8.12,-1.04
+19,52950,Victor Leandro Bagy,Victor,GOL,282,0,0,0,0,0,0,0,0,7,1,0,17,0,0,0,1,11,0,0.0,6.56,0.0
+19,60852,Uendel Pereira Gonçalves,Uendel,LAT,285,0,0,0,1,3,2,0,3,17,2,0,0,14,0,0,0,0,9,0.0,3.39,0.0
+19,60819,Anderson Vital da Silva,Dedé,ZAG,283,2,0,0,4,6,15,0,0,31,5,0,0,23,0,0,2,0,11,0.0,15.9,0.0
+19,54395,Elias Mendes Trindade,Elias,MEI,282,1,1,1,3,3,13,0,0,49,0,0,0,22,0,1,2,0,22,4.4,9.17,0.65
+19,51549,Adalberto dos Santos Rodrigues,Adalberto,ZAG,356,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,38277,Thiago Neves Augusto,Thiago Neves,MEI,283,4,2,1,11,19,14,0,2,28,0,0,0,5,0,0,4,0,13,0.9,7.98,-0.54
+19,60791,Wanderley de Jesus Sousa,Derley,MEI,356,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0.0,3.15,0.0
+19,60969,Patric Cabral Lalau,Patric,LAT,282,0,1,0,2,5,3,0,0,31,3,0,0,12,0,0,3,0,20,-1.2,3.63,-0.56
+19,61033,Rodrigo Eduardo Costa Marinho,Rodriguinho,MEI,283,1,0,0,1,3,7,0,1,9,0,0,0,4,0,0,2,0,3,0.0,5.52,0.0
+19,51700,Thiago Carleto Alves,Thiago Carleto,LAT,354,0,0,0,2,1,2,0,0,16,2,0,0,2,0,0,0,0,4,0.0,7.44,0.0
+19,38311,Márcio Rodrigues Araújo,Márcio Araújo,MEI,315,0,0,0,3,6,22,0,0,23,0,0,0,42,0,1,2,0,21,0.0,7.89,0.0
+19,68952,Mário Sérgio Santos Costa,Marinho,ATA,277,2,1,1,11,9,31,0,4,22,0,0,0,12,0,0,5,0,18,-2.6,6.53,-0.77
+19,52190,Ralf de Souza Telles,Ralf,MEI,264,0,0,1,1,1,20,0,0,16,0,0,0,26,0,0,1,0,10,0.0,10.31,0.0
+19,62009,Fernando Camilo Farias,Camilo,MEI,315,0,3,0,7,8,12,0,3,27,0,0,0,12,0,0,1,0,16,0.0,6.9,0.0
+19,68954,Marcos Gabriel do Nascimento,Marquinhos Gabriel,MEI,283,0,0,0,4,3,11,0,1,17,0,0,0,8,0,0,2,0,8,-1.3,3.16,-0.39
+19,51772,Everton Augusto de Barros Ribeiro,Everton Ribeiro,MEI,262,1,5,0,4,7,30,0,1,48,0,0,0,20,0,0,1,0,14,11.7,13.59,0.96
+19,38279,Wellington Pereira do Nascimento,Wellington Paulista,ATA,356,5,1,1,13,11,22,0,6,23,0,0,0,6,0,0,3,0,30,-2.9,9.86,-1.48
+19,71724,Agenor Detofol,Agenor,GOL,266,0,0,0,0,0,3,0,0,1,1,0,9,0,0,1,0,7,0,0.0,3.05,0.0
+19,62023,Andrés Nicolas D'Alessandro,D'Alessandro,MEI,285,1,1,0,5,4,6,1,3,33,0,0,0,1,0,0,0,0,0,0.0,6.49,0.0
+19,70666,Marllon Gonçalves Jerônimo Borges,Marllon,ZAG,264,0,0,0,0,1,7,0,0,4,1,0,0,3,0,0,1,0,1,0.0,5.51,0.0
+19,61188,Gilberto Oliveira Souza Júnior,Gilberto,ATA,265,10,2,0,6,11,11,0,6,20,0,0,0,10,0,0,0,0,15,7.5,16.91,0.16
+19,61149,Lucca Borges Brito,Lucca,ATA,265,0,0,0,8,6,17,0,1,14,0,0,0,7,0,0,1,0,11,-0.8,5.32,-1.04
+19,61228,Fabrício Barros Santana,Fabrício,GOL,341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,38315,Jadson Rodrigues da Silva,Jadson,MEI,264,0,1,0,0,5,1,0,0,16,0,0,0,0,0,0,2,0,4,-0.3,2.97,-0.22
+19,71882,Diogo José Gonçalves da Silva,Diogo Silva,GOL,354,0,0,0,0,0,7,0,0,8,4,0,31,0,0,0,2,19,0,4.7,10.71,0.93
+19,71787,Pedro Julião Azevedo Junior,Juninho Quixadá,MEI,354,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.8,0.0
+19,38431,Diego Cavalieri,Diego Cavalieri,GOL,263,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,5,0,0.0,5.35,0.0
+19,38394,Thiago Heleno Henrique Ferreira,Thiago Heleno,ZAG,293,0,0,0,1,0,1,0,0,3,0,0,0,0,0,0,2,0,2,0.0,1.27,0.0
+19,38336,Adriano Correia Claro,Adriano,LAT,293,0,0,0,0,1,1,0,0,8,2,0,0,4,0,0,2,0,3,0.0,10.25,0.0
+19,38515,Marcos Roberto da Silva Barbosa,Marquinhos Silva,ZAG,314,0,0,1,0,8,6,0,1,23,1,0,0,16,0,0,2,0,14,0.0,6.34,0.0
+19,38451,Carlos Andrade Souza,Carlinhos,LAT,341,1,0,0,6,7,13,0,0,41,6,0,0,24,0,0,0,0,6,5.2,8.04,-0.03
+19,71829,Ocimar de Almeida Júnior,Júnior Urso,MEI,264,0,0,0,7,6,15,0,1,23,0,0,0,22,0,0,3,0,21,0.5,6.7,-0.55
+19,38505,Leandro Castan da Silva,Leandro Castan,ZAG,267,2,1,0,2,1,8,0,2,15,3,0,0,12,0,0,4,0,4,-1.6,9.59,-0.64
+19,38509,Diego Alves Carreira,Diego Alves,GOL,262,0,0,0,0,0,1,0,0,7,6,2,20,2,0,0,0,14,0,5.0,7.88,-0.8
+19,38523,Edílson Mendes Guimarães,Edílson,LAT,283,0,0,1,0,2,4,0,0,12,1,0,0,9,0,2,1,0,8,0.0,4.97,0.0
+19,71920,Michel Ferreira dos Santos,Michel,MEI,284,0,0,0,3,4,1,0,0,16,0,0,0,28,2,0,1,0,19,5.4,5.32,0.62
+19,71937,Paulo Roberto Valoura Júnior,Juninho,MEI,356,2,3,0,8,13,14,0,0,35,0,0,0,26,1,0,3,0,30,0.0,6.9,0.0
+19,71844,Thiago Galhardo do Nascimento Rocha,Thiago Galhardo,MEI,354,8,1,1,14,13,20,0,4,40,0,0,0,16,0,0,1,0,14,-0.9,11.46,-1.93
+19,38909,Diego Ribas da Cunha,Diego,MEI,262,0,0,2,6,7,16,1,0,25,0,0,0,9,0,0,5,0,10,0.0,5.52,0.0
+19,38545,Felipe Melo de Carvalho,Felipe Melo,MEI,275,1,0,0,2,9,12,0,0,16,0,0,0,9,0,1,5,0,15,3.3,6.23,0.05
+19,72168,João Paulo Mior,João Paulo,MEI,263,1,1,0,6,6,23,0,0,61,0,0,0,24,0,0,4,0,12,-2.0,7.32,-1.05
+19,72097,Giovanni Palmieri dos Santos,Giovanni,LAT,265,0,0,0,0,1,1,0,0,11,3,0,0,5,0,0,1,0,3,0.0,6.18,0.0
+19,38910,Ricardo de Oliveira,Ricardo Oliveira,ATA,282,2,2,1,9,9,14,1,2,11,0,0,0,5,0,0,0,0,14,0.5,13.34,-0.15
+19,38913,Anderson Luiz de Carvalho,Nenê,MEI,266,1,2,0,3,5,10,0,0,27,0,0,0,6,0,1,0,0,10,4.7,6.39,0.37
+19,38573,Nílton Ferreira Júnior,Nilton,MEI,341,0,0,0,0,2,6,0,0,11,0,0,0,7,0,0,3,0,9,0.0,2.88,0.0
+19,38939,Daniel Alves da Silva,Daniel Alves,LAT,276,1,0,1,1,3,6,0,1,15,2,0,0,7,0,0,0,0,9,3.7,15.81,-1.22
+19,38959,Vagner Silva de Souza,Vagner Love,ATA,264,4,0,0,3,5,25,0,6,22,0,0,0,8,0,0,2,0,17,0.2,5.17,-1.06
+19,38632,Matheus Ferraz Pereira,Matheus Ferraz,ZAG,266,1,0,0,4,3,2,0,1,6,0,0,0,11,0,0,1,0,7,0.0,6.23,0.0
+19,72294,Éverson Felipe Marques Pires,Éverson,GOL,277,0,0,0,0,0,5,0,0,19,5,0,18,0,0,0,1,13,0,-0.5,7.69,-0.71
+19,72018,Tiago Luis Volpi,Tiago Volpi,GOL,276,0,0,0,0,0,7,0,0,13,7,0,29,0,0,0,0,13,0,-2.0,10.26,-1.15
+19,72142,Danilo Fernando Avelar,Danilo Avelar,LAT,264,1,0,0,5,2,21,0,1,23,7,0,0,18,0,0,3,0,15,0.0,8.76,0.0
+19,72290,Jailson Marcelino dos Santos,Jailson,GOL,275,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0.0,6.4,0.0
+19,72359,Luiz Otávio Anacleto Leandro,Luiz Otávio,ZAG,354,0,1,0,1,1,8,0,0,13,3,0,0,14,0,0,5,0,21,0.0,9.0,0.0
+19,38648,Anderson Hernanes de Carvalho Andrade Lima,Hernanes,MEI,276,1,4,0,10,12,14,0,1,14,0,0,0,9,0,0,2,0,12,3.7,13.62,-0.83
+19,72071,Maurício Azevedo Alves,Amaral,MEI,341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,4.0,0.0
+19,39572,José Renato da Silva Júnior,Renato,ATA,315,0,0,0,2,3,9,0,0,2,0,0,0,1,0,0,0,0,0,0.0,5.74,0.0
+19,72362,Rodrigo Oliveira Lindoso,Rodrigo Lindoso,MEI,285,2,1,0,4,5,6,0,0,20,0,0,0,28,0,0,1,0,12,0.0,11.35,0.0
+19,38738,Douglas dos Santos,Douglas,MEI,314,0,0,0,0,2,3,0,2,14,0,0,0,1,0,0,1,0,1,0.0,4.65,0.0
+19,41327,Vanderlei Luxemburgo da Silva,Vanderlei Luxemburgo,TEC,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.95,8.16,0.26
+19,72079,Bruno Cortês Barbosa,Bruno Cortez,LAT,284,0,2,0,0,0,5,0,3,10,1,0,0,7,0,0,0,0,7,12.6,6.64,1.85
+19,73540,José Rogério de Oliveira,Rogério,ATA,265,1,0,0,5,4,11,0,2,7,0,0,0,3,0,0,0,0,7,0.0,9.4,0.0
+19,38750,Filipe Luís Kasmirski,Filipe Luís,LAT,262,0,0,0,0,0,2,0,0,18,3,0,0,19,0,0,0,0,15,8.3,13.19,-0.14
+19,72372,Felipe Alves Raymundo,Felipe Alves,GOL,356,0,0,0,0,0,1,0,0,22,3,1,34,0,0,0,2,24,1,-2.0,8.4,-1.05
+19,42222,Osvaldo Lourenço Filho,Osvaldo,ATA,356,2,3,0,4,4,5,0,0,18,0,0,0,6,0,1,1,0,13,5.8,5.87,0.61
+19,42116,Willian Gomes de Siqueira,Willian,ATA,275,1,0,0,2,0,5,0,1,6,0,0,0,2,0,0,1,0,4,0.2,6.94,-1.26
+19,42145,Egídio de Araújo Pereira Júnior,Egídio,LAT,283,0,1,0,3,1,10,0,1,33,3,0,0,18,0,0,0,0,11,-0.3,8.38,-0.98
+19,41929,Renato Portaluppi,Renato Gaúcho,TEC,284,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.16,12.85,0.5
+19,72605,Vitor Hugo Franchescoli de Souza,Vitor Hugo,ZAG,275,0,0,0,1,1,1,0,2,5,1,0,0,3,0,0,0,0,3,5.2,6.7,0.92
+19,73608,Luis Otavio Bonilha de Oliveira Santos,Nenê Bonilha,MEI,356,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,2.41,0.0
+19,72497,Gustavo Campanharo,Gustavo Campanharo,MEI,315,1,1,0,4,10,29,0,0,30,0,0,0,37,0,0,0,0,20,0.8,6.23,-0.13
+19,42234,Cássio Ramos,Cássio,GOL,264,0,0,0,0,0,3,0,0,7,7,0,19,0,0,0,3,11,0,-2.0,7.81,-0.71
+19,42232,William José de Souza,Amaral,MEI,315,0,0,0,0,0,2,0,0,3,0,0,0,7,0,0,0,0,4,-0.1,2.93,-0.34
+19,73619,Wellington Silva Sanches Aguiar,Wellington Nem,ATA,266,0,0,0,2,5,15,0,0,4,0,0,0,2,0,0,2,0,6,0.0,5.1,0.0
+19,72494,Celsonil Santos de Macedo Junior ,Celsinho,LAT,341,0,0,0,0,0,1,0,0,11,1,0,0,4,0,0,1,0,2,0.0,3.07,0.0
+19,73620,Bruno Fabiano Alves,Bruno Alves,ZAG,276,0,1,0,1,4,8,0,0,17,6,0,0,20,0,0,3,0,23,7.0,8.05,-0.23
+19,72772,Luiz Adriano de Souza da Silva,Luiz Adriano,ATA,275,0,1,0,1,1,5,0,1,4,0,0,0,1,0,0,0,0,8,4.2,5.83,1.12
+19,73721,Marcos Vinícius de Jesus Araújo,Marcos Vinícius,MEI,263,0,0,0,0,0,2,0,0,1,0,0,0,1,0,0,0,0,2,0.0,4.01,0.0
+19,72620,Juan Francisco Torres Belén,Juanfran,LAT,276,0,0,0,0,0,1,0,0,10,2,0,0,7,0,0,0,0,5,0.0,11.31,0.0
+19,73317,Argélico Fucks,Argel Fucks,TEC,341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.89,6.02,-0.18
+19,73741,Marco Gastón Rubén Rodríguez,Marco Ruben,ATA,293,1,3,2,7,4,5,0,5,11,0,0,0,6,0,0,1,0,14,0.0,14.52,0.0
+19,73281,Renê dos Santos Júnior,Renê Júnior,MEI,264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,7.0,0.0
+19,73384,Samuel Xavier Brito,Samuel Xavier,LAT,354,0,2,1,4,7,33,0,2,43,4,0,0,24,0,0,6,0,15,3.4,12.51,0.33
+19,73789,Gilberto dos Santos Souza Júnior,Gilberto,MEI,290,0,0,0,1,2,1,0,0,4,0,0,0,8,0,0,1,0,6,5.9,3.29,0.66
+19,74074,Claudio Winck Neto,Claudio Winck,LAT,267,0,0,0,0,2,0,0,0,6,0,0,0,5,0,0,1,0,2,0.0,4.01,0.0
+19,73421,Rafael Vaz dos Santos,Rafael Vaz,ZAG,290,3,0,0,4,4,6,0,0,40,3,0,0,14,1,0,0,0,4,1.2,11.1,-1.01
+19,73858,Jean Cléber Santos da Silva,Jean Cléber,MEI,341,0,1,0,0,2,8,0,0,10,0,0,0,9,0,0,2,0,10,1.0,2.78,0.16
+19,73800,Rodrigo Caio Roquette Russo,Rodrigo Caio,ZAG,262,1,0,0,2,10,6,0,1,14,6,0,0,11,0,0,3,0,12,4.2,8.82,0.15
+19,73446,Éderson Alves Ribeiro Silva,Éderson,ATA,356,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,6.0,0.0
+19,80318,Ezequiel Jacinto de Biasi,Ezequiel ,LAT,265,0,0,0,0,0,2,0,1,8,3,0,0,3,0,0,3,0,13,0.0,3.23,0.0
+19,74140,José Élber Pimentel da Silva,Élber,MEI,265,0,0,0,5,3,28,0,3,17,0,0,0,13,0,0,1,0,5,1.1,5.59,-0.14
+19,73962,Bruno da Silva Peres,Bruno Peres,LAT,276,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,5.0,0.0
+19,73896,Geuvânio Santos Silva,Geuvânio,ATA,282,0,1,1,8,10,24,0,1,25,0,0,0,16,0,0,2,0,23,0.0,11.15,0.0
+19,78077,Madson Ferreira dos Santos,Madson,LAT,293,1,0,0,1,1,12,0,1,26,4,0,0,15,0,0,1,0,9,2.9,5.67,0.57
+19,78086,César Bernardo Dutra,César,GOL,262,0,0,0,0,0,1,0,0,0,1,0,7,0,0,0,0,4,0,0.0,6.1,0.0
+19,78117,Everaldo Stum,Everaldo,ATA,315,8,1,0,21,28,32,1,2,46,0,0,0,9,0,0,4,0,37,2.5,16.7,-0.2
+19,73501,Júlio César Godinho Catole,Julinho,MEI,314,0,0,0,2,2,3,0,0,9,0,0,0,6,0,0,2,0,4,0.0,1.68,0.13
+19,74213,Alejandro Abraham Guerra Morales,Guerra,MEI,265,1,0,0,1,1,1,0,0,8,0,0,0,2,0,0,1,0,6,0.5,3.57,0.18
+19,75295,José Paolo Guerrero Gonzales,Paolo Guerrero,ATA,285,3,0,1,6,9,12,0,6,12,0,0,0,5,0,0,1,0,12,0.0,12.65,0.0
+19,73533,Glédson Ribeiro dos Santos,Glédson,GOL,314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,74061,Roberto Junior Fernández Torres,Gatito Fernández,GOL,263,0,0,0,0,0,4,0,0,10,7,0,27,0,0,0,3,14,0,11.7,10.3,1.83
+19,73974,Alison Lopes Ferreira,Alison,MEI,277,0,0,0,0,2,11,0,0,12,0,0,0,23,0,0,4,0,18,4.2,4.98,0.74
+19,78151,Vagner Antônio Brandalise,Vagner,GOL,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,4.0,0.0
+19,73513,Francinilson Santos Meireles,Maranhão,ATA,341,1,0,0,1,3,18,0,4,14,0,0,0,6,0,0,0,0,12,0.0,3.04,0.0
+19,75372,Derlis Alberto González Galeano,Derlis González,ATA,277,1,0,0,1,3,12,0,6,14,0,0,0,7,0,1,3,0,15,0.0,0.99,0.0
+19,78435,Victor Vinícius Coelho dos Santos,Vitinho,ATA,262,2,0,0,7,8,10,0,0,16,0,0,0,8,0,0,0,0,11,0.0,8.94,0.0
+19,74069,Matheus Barbosa Teixeira,Matheus Barbosa,MEI,314,0,1,0,1,3,5,0,1,21,0,0,0,12,0,0,0,0,9,6.6,4.54,1.0
+19,73992,Rodinei Marcelo de Almeida,Rodinei,LAT,262,0,0,0,0,1,2,0,2,8,1,0,0,6,0,0,3,0,8,0.0,2.24,0.0
+19,77570,Auremir Evangelista dos Santos,Auremir,MEI,354,0,0,0,0,0,3,0,0,7,0,0,0,6,0,0,0,0,6,0.0,4.23,0.0
+19,77500,Yago Fernando da Silva,Yago,ZAG,290,0,0,0,0,1,2,0,1,11,4,0,0,6,0,0,3,0,9,0.0,2.95,0.0
+19,78248,Gustavo Henrique Vernes,Gustavo Henrique,ZAG,277,1,0,0,3,3,9,0,0,21,7,0,0,12,0,1,6,0,16,-3.0,5.48,-1.52
+19,77774,Eduardo de Souza Barroca,Eduardo Barroca,TEC,263,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.91,8.74,0.3
+19,77809,William de Oliveira Pottker,William Pottker,ATA,285,2,0,0,1,4,2,0,0,6,0,0,0,5,0,0,0,0,4,20.0,9.48,3.55
+19,78415,Fernando Uribe Hincapié,Uribe,ATA,277,0,0,0,3,4,0,0,2,5,0,0,0,1,0,0,2,0,4,0.0,4.13,-0.56
+19,78445,Renê Rodrigues Martins,Renê,LAT,262,0,1,0,1,1,6,0,0,29,5,0,0,19,0,0,1,0,9,5.0,8.04,0.2
+19,78850,Reinaldo Manoel da Silva,Reinaldo,LAT,276,4,1,0,5,12,20,0,0,36,7,0,0,31,0,0,3,0,18,15.0,16.37,2.46
+19,78548,Jean Mota Oliveira de Sousa,Jean Mota,MEI,277,1,1,1,6,4,19,0,0,23,0,0,0,7,0,0,0,0,14,0.0,8.0,0.0
+19,78654,Eduardo Schroeder Brock,Eduardo Brock,ZAG,354,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,4.0,0.0
+19,78478,Willian Souza Arão da Silva,Willian Arão,MEI,262,1,4,1,4,9,11,0,0,38,0,0,0,40,0,0,1,0,26,1.1,13.41,-1.61
+19,78475,Alex Broch Amado,Alex Amado,ATA,354,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,78577,Ricardo Dias Acosta,Ricardinho,MEI,354,1,4,0,13,14,5,0,0,42,0,0,0,27,0,0,1,0,20,2.2,7.33,-0.31
+19,78715,Ramiro Moschen Benetti,Ramiro,MEI,264,0,1,0,1,3,7,0,0,10,0,0,0,9,0,0,1,0,15,0.0,9.48,0.0
+19,78851,Richard de Oliveira da Costa,Richard,GOL,354,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0.0,4.73,0.0
+19,78840,Pedro Henrique de Castro Silva,Pedro Castro,MEI,314,1,0,1,6,9,25,0,1,48,0,0,0,28,0,0,0,0,25,2.2,5.31,0.16
+19,78855,Thiago dos Santos,Thiago Santos,MEI,275,0,0,0,1,1,6,0,1,7,0,0,0,16,0,0,2,0,20,0.0,5.6,0.0
+19,78495,Marcos de Paula Dutra,Marcos,GOL,290,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,2,0,0.0,2.23,0.0
+19,78512,Paulo Oliveira de Souza Junior,Paulinho,LAT,314,0,0,0,0,2,4,0,0,9,0,0,0,4,0,0,0,0,7,0.0,1.93,0.0
+19,78897,Marinaldo dos Santos Oliveira,Naldo,MEI,341,0,1,0,2,5,8,0,2,26,0,0,0,24,0,0,3,0,21,4.1,3.87,0.54
+19,78991,Moisés Ribeiro Santos,Moisés Ribeiro,MEI,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,79109,Santiago Ernesto Romero Fernández,Romero,MEI,356,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,4.0,0.0
+19,79578,Luiz Ricardo Alves,Sassá,ATA,283,2,0,1,6,3,11,0,2,4,0,0,0,1,0,0,0,0,7,0.5,6.25,0.0
+19,79437,Roger Machado Marques,Roger Machado ,TEC,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.29,11.33,-0.7
+19,79035,Luiz Felipe do Nascimento dos Santos,Luiz Felipe,ZAG,277,0,0,0,0,0,1,0,0,1,2,0,0,2,0,0,0,0,0,0.0,5.96,0.0
+19,80276,Alexandre Rosa Paschoalato,Alexandre Cajuru,GOL,341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,79336,Romário Marques Rodrigues,Romário Rodrigues,ATA,354,0,0,0,0,1,4,0,0,1,0,0,0,0,0,0,0,0,1,0.0,1.76,0.0
+19,78605,Gabriel Girotto Franco,Gabriel,MEI,264,0,0,0,0,1,4,0,0,13,0,0,0,24,0,0,1,0,12,4.2,6.63,0.12
+19,80196,Glaybson Yago Souza Lisboa,Yago Pikachu,MEI,267,2,1,1,3,12,33,2,1,37,0,0,0,15,0,0,3,0,12,0.0,8.83,0.0
+19,79113,Víctor Leandro Cuesta,Víctor Cuesta,ZAG,285,0,0,0,0,0,12,0,0,23,6,0,0,41,0,0,4,0,11,0.0,14.51,0.0
+19,79887,Fabiano Leissmann,Fabiano,LAT,275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,4.0,0.0
+19,80313,Gilberto Moraes Júnior,Gilberto ,LAT,266,0,1,0,2,5,9,0,0,34,2,0,0,16,0,0,1,0,17,7.1,7.04,0.59
+19,80287,Luciano da Rocha Neves,Luciano,ATA,284,2,2,0,9,7,12,1,3,24,0,0,0,10,0,0,5,0,17,0.7,5.91,0.05
+19,80080,Brenner Marlos Varanda de Oliveira,Brenner,ATA,314,2,0,1,3,6,19,0,6,15,0,0,0,2,0,0,4,0,24,0.0,4.62,0.0
+19,79702,Antônio Carlos Cunha Capocasali Júnior,Antônio Carlos ,ZAG,275,0,0,0,0,0,2,0,0,8,3,0,0,6,0,0,2,0,7,0.0,6.13,0.0
+19,83869,Diego Barbosa Tavares,Diego Tavares,LAT,356,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,78584,Douglas Alan Schuck Friedrich,Douglas Friedrich,GOL,265,0,0,0,0,0,5,0,0,6,10,1,36,1,0,0,0,14,0,1.0,13.97,-0.75
+19,84253,Jean Carlos Guimarães dos Santos,Jean Carlos,MEI,290,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0.0,0.78,0.0
+19,84338,Max Walef Araújo da Silva,Max Walef,GOL,356,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,86380,Luanderson Johnala Marques da Silva,Luanderson ,MEI,314,0,0,0,0,1,5,0,0,1,0,0,0,3,0,0,0,0,3,0.0,2.62,0.0
+19,84339,Bruno Ferreira Melo,Bruno Melo,LAT,356,1,0,0,0,1,9,0,1,9,2,0,0,3,0,1,0,0,7,0.0,3.2,0.0
+19,78865,Rodrigo Dourado Cunha,Rodrigo Dourado,MEI,285,0,0,0,0,0,1,0,0,2,0,0,0,3,0,0,1,0,2,0.0,7.12,0.0
+19,84428,Fernando Pereira do Nascimento,Fernando Sobral,MEI,354,0,0,0,2,6,11,0,1,23,0,0,0,22,0,0,1,0,17,0.0,5.34,0.0
+19,84381,Rafael Diniz Alves e Silva,Rafinha,MEI,290,0,0,1,1,1,2,0,0,2,0,0,0,1,0,0,0,0,1,4.7,3.48,0.51
+19,84509,Andrevaldo de Jesus Santos,Valdo,ZAG,354,0,1,0,2,1,10,0,0,16,3,0,0,21,0,0,2,0,12,6.9,5.36,0.76
+19,84523,José Romário Silva de Souza,Romarinho,ATA,356,1,2,0,3,3,34,0,1,31,0,0,0,13,0,0,1,0,12,2.6,5.17,0.21
+19,84462,Bruno Alves de Souza,Bruno Alves,ATA,341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,-3.0,0.77,-0.23
+19,84709,Nicolás Federico López Alonso,Nico López,ATA,285,1,1,2,10,11,8,0,5,27,0,0,0,13,0,0,4,0,14,0.0,16.2,0.0
+19,84847,Luan Peres Petroni,Luan Peres ,ZAG,277,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,2,-0.4,2.99,-1.01
+19,83817,Clayson Henrique da Silva Vieira,Clayson,ATA,264,2,1,0,6,3,26,0,1,34,0,0,0,12,0,0,3,0,23,0.0,9.0,0.0
+19,84863,Alberto Valentim do Carmo Neto,Alberto Valentim,TEC,314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.63,7.03,0.84
+19,84382,Danilo Carvalho Barcelos,Danilo Barcelos,LAT,267,1,1,1,5,6,8,0,1,27,2,0,0,15,0,1,0,0,19,1.7,5.36,-0.39
+19,84890,Elosman Euller Silva Cavalcanti,Euller ,LAT,341,0,0,1,1,3,2,0,0,5,0,0,0,2,0,0,0,0,2,5.3,4.08,0.8
+19,84854,Lucas Henrique Frigeri,Lucas Frigeri,GOL,314,0,0,0,0,0,0,0,0,1,0,0,6,0,0,0,0,3,0,0.0,6.17,0.0
+19,84861,Alex da Silva,Alex Silva,LAT,314,0,0,0,1,1,3,0,0,1,0,0,0,1,0,0,1,0,2,0.0,4.35,0.0
+19,84860,Abner Felipe Souza de Almeida,Abner Felipe,LAT,293,0,2,0,0,0,5,0,0,9,1,0,0,5,0,0,0,0,6,0.0,4.81,0.0
+19,84893,Henrique Silva Milagres,Henrique,LAT,267,0,0,0,1,2,18,0,0,13,3,0,0,13,0,0,5,0,14,-1.0,3.75,0.09
+19,85465,Alex Paulo Menezes Santana,Alex Santana,MEI,263,5,0,1,6,13,21,0,0,19,0,0,0,11,0,0,2,0,11,-0.3,10.08,-1.94
+19,85418,Uilson Pedruzzi de Oliveira,Uilson,GOL,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,85300,Orlando Enrique Berrío Meléndez,Berrío ,ATA,262,1,2,0,1,6,4,0,0,15,0,0,0,8,0,1,1,0,15,-1.5,5.06,-0.43
+19,85626,Leonardo Pinheiro da Conceição,Léo,LAT,276,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0.0,3.67,0.0
+19,85004,Marcos Felipe de Freitas Monteiro,Marcos Felipe ,GOL,266,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,85423,Wanderson Ferreira de Oliveira,Valdívia,MEI,267,0,1,0,3,5,10,0,0,14,0,0,0,5,0,0,0,0,10,0.0,3.86,0.0
+19,85930,Aylon Darwin Tavella,Aylon,ATA,315,0,1,0,1,1,8,0,0,4,0,0,0,5,0,0,2,0,4,-0.5,2.38,-0.72
+19,85931,Hyoran Kaue Dalmoro,Hyoran,MEI,275,0,1,1,3,4,4,0,0,6,0,0,0,4,0,0,0,0,5,0.0,6.59,0.0
+19,85425,João Paulo Silva Martins,João Paulo,GOL,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,86116,Jonny Ferney Mosquera Mena,Mosquera,MEI,314,0,0,0,0,2,4,0,0,7,0,0,0,2,0,0,0,0,2,2.0,2.57,0.24
+19,86120,Miguel Ángel Borja Hernández,Borja,ATA,275,0,1,0,2,1,4,0,1,3,0,0,0,0,0,0,0,0,4,1.0,5.6,-0.45
+19,86410,Victor Luis Chuab Zamblauskas,Victor Luis,LAT,275,0,0,0,0,1,0,0,0,3,0,0,0,2,0,0,0,0,5,0.0,5.22,0.0
+19,86143,Wanderson Santos Pereira,Wanderson,ZAG,265,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0.0,1.68,0.0
+19,86444,Pablo Dyego da Silva Rosa,Pablo Dyego,ATA,266,0,0,0,0,0,1,0,0,1,0,0,0,2,0,0,0,0,2,2.7,2.03,0.43
+19,86740,João Lucas Cardoso,João Lucas,LAT,354,1,0,0,3,2,8,0,4,37,3,0,0,18,1,0,1,0,8,6.7,10.21,1.86
+19,86757,Everton Sousa Soares,Everton,ATA,284,7,2,1,6,7,10,0,0,25,0,0,0,17,0,0,1,0,7,13.8,17.88,-1.1
+19,86759,Luan Guilherme de Jesus Vieira,Luan,ATA,284,2,3,1,6,9,18,0,1,33,0,0,0,5,0,0,0,0,10,0.2,9.49,-0.13
+19,86264,Natanael Batista Pimenta,Natanael,LAT,285,0,0,0,0,1,4,0,0,15,2,0,0,9,1,0,2,0,8,0.0,4.46,0.0
+19,86766,Matheus Rossetto,Matheus Rossetto,MEI,293,0,0,0,0,0,3,0,0,15,0,0,0,9,0,0,2,0,11,-1.9,2.49,0.12
+19,86711,Richard Cândido Coelho,Richard,MEI,267,0,0,0,1,3,14,0,0,17,0,0,0,20,0,0,3,0,14,3.0,4.56,0.24
+19,86519,Everton Felipe de Oliveira Silva,Everton Felipe,MEI,293,0,0,0,1,3,4,0,0,10,0,0,0,3,0,0,1,0,2,1.8,2.44,-0.22
+19,86770,João Paulo da Silva Alves,João Paulo,MEI,314,2,0,0,5,9,29,0,0,46,0,0,0,28,0,0,3,0,30,0.0,5.73,0.0
+19,86776,Jordi Almeida,Jordi,GOL,341,0,0,0,0,0,3,0,0,14,6,2,43,0,0,0,4,23,2,2.0,10.66,-1.5
+19,87393,Gabriel Costa França,Gabriel,ZAG,263,0,0,0,1,0,13,0,1,26,7,0,0,23,0,0,3,0,7,5.9,9.25,0.41
+19,86842,Ewandro Felipe de Lima Costa,Ewandro,ATA,266,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,2.46,0.0
+19,86797,Raniel Santana de Vasconcelos,Raniel,ATA,276,1,1,1,6,8,13,0,3,12,0,0,0,5,1,1,2,0,11,0.0,6.66,0.0
+19,86686,Danilo das Neves Pinheiro,Tchê Tchê,MEI,276,1,0,0,7,7,25,0,0,41,0,0,0,22,0,0,4,0,21,2.4,5.13,0.1
+19,86859,José Welison da Silva,José Welison,MEI,282,0,0,0,0,5,5,0,0,13,0,0,0,16,0,0,2,0,8,0.0,4.66,0.0
+19,86932,Gustavo Henrique da Silva Sousa,Gustavo,ATA,264,1,0,0,2,5,8,0,2,2,0,0,0,2,0,0,0,0,11,2.9,4.03,0.41
+19,87009,Nathan Allan de Souza,Nathan,MEI,282,2,0,0,4,4,2,0,0,12,0,0,0,4,0,0,1,0,5,0.0,4.81,-0.05
+19,87192,José Carlos Cracco Neto,Zeca,LAT,285,0,0,0,1,0,4,0,0,29,5,0,0,34,0,0,3,0,11,2.8,7.63,-1.16
+19,87225,Pedro Henrique Ribeiro Gonçalves,Pedro Henrique,ZAG,293,0,0,0,2,3,11,0,0,15,6,0,0,14,0,0,0,0,2,6.5,9.7,1.18
+19,86972,Emerson Raymundo Santos,Emerson Santos,ZAG,285,1,0,0,2,0,3,0,1,22,4,0,0,13,0,0,3,0,12,0.2,4.42,-0.34
+19,87470,Thaciano Mickael da Silva,Thaciano,MEI,284,1,1,0,5,3,12,0,3,15,0,0,0,21,0,0,4,0,16,0.0,5.56,0.0
+19,86973,Leonardo Gomes da Conceição Silva,Leonardo,LAT,284,0,0,0,4,3,1,0,0,18,4,0,0,7,0,0,2,0,9,0.0,5.41,0.0
+19,87863,Giorgian Daniel de Arrascaeta Benedetti,Arrascaeta,MEI,262,8,7,0,5,8,26,0,0,42,0,0,0,16,0,0,1,0,12,0.6,16.23,-2.79
+19,87258,Yeferson Julio Soteldo Martínez,Soteldo,MEI,277,3,2,1,11,12,24,0,9,37,0,0,0,15,0,0,7,0,9,-1.1,6.82,-0.95
+19,87342,Walter Kannemann,Kannemann,ZAG,284,1,0,0,0,0,10,0,0,7,1,0,0,11,0,0,4,0,13,0.0,12.58,0.0
+19,87747,Yago Felipe da Costa Rocha,Yago Felipe,MEI,290,0,1,1,0,2,17,0,1,21,0,0,0,23,0,0,5,0,17,-0.1,3.9,-0.53
+19,87679,Santiago Tréllez Vivero,Tréllez,ATA,285,0,0,0,3,6,4,0,5,2,0,0,0,1,0,0,0,0,5,0.0,4.35,0.0
+19,87437,Caíque Silva Sá,Caíque Sá,LAT,315,0,0,0,0,0,1,0,0,5,0,0,0,3,0,0,1,0,4,0.0,3.03,0.0
+19,87552,Vitor Frezarin Bueno,Vitor Bueno,MEI,276,1,0,0,1,3,13,0,0,15,0,0,0,10,0,0,0,0,4,0.0,6.12,0.0
+19,87929,Matheus de Vargas,Matheus Vargas,MEI,356,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,4.0,2.99,0.99
+19,87877,Júnior Nazareno Sornoza Moreira,Sornoza,MEI,264,0,1,0,5,8,12,0,0,13,0,0,0,12,0,0,2,0,12,0.0,5.07,0.0
+19,88065,Jorge Marco de Oliveira Moraes,Jorge,LAT,277,1,4,0,7,8,25,0,1,28,7,0,0,24,0,0,3,0,20,0.7,14.34,-1.95
+19,87999,Gustavo Henrique Furtado Scarpa,Gustavo Scarpa,MEI,275,2,1,0,7,5,6,0,0,31,0,0,0,4,0,0,1,0,8,-0.8,3.9,-2.33
+19,88125,Yuri Antonio Costa da Silva,Yuri,MEI,263,0,0,0,1,0,3,0,0,1,0,0,0,0,0,0,1,0,3,0.0,1.98,0.0
+19,88224,Paulo Ricardo Ferreira,Paulo Ricardo,ZAG,290,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.0,2.22,0.0
+19,88427,Marlon Adriano Prezotti,Marlon,MEI,356,0,0,0,0,0,8,0,0,2,0,0,0,5,0,0,1,0,9,0.0,2.59,0.0
+19,88368,Gabriel Dias de Oliveira,Gabriel Dias,MEI,356,0,0,0,4,4,22,0,1,17,0,0,0,22,0,0,3,0,18,5.0,4.8,0.57
+19,89150,Jean Carlos de Souza Irmer,Jean,MEI,263,0,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0,3.57,0.0
+19,88225,Daniel Guedes da Silva,Daniel Guedes ,LAT,290,0,0,0,1,2,6,0,2,33,3,0,0,18,0,0,1,0,19,0.7,4.5,0.19
+19,89101,Bruno Sávio da Silva,Bruno Sávio,ATA,314,0,0,0,1,2,1,0,0,6,0,0,0,4,0,0,0,0,2,0.0,2.22,0.0
+19,88669,Leandro Carvalho da Silva,Leandro Carvalho,ATA,354,3,1,0,6,12,23,0,2,26,0,0,0,14,0,0,2,0,13,3.5,10.86,-0.62
+19,89256,Gerson Santos da Silva,Gerson,MEI,262,1,0,2,1,2,34,0,0,29,0,0,0,14,0,0,1,0,19,5.3,8.82,0.93
+19,88651,Vinicius Rodolfo de Souza Oliveira,Vinícius Tanque,ATA,263,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0.0,1.19,0.0
+19,89273,João Pedro Maturano dos Santos,João Pedro ,LAT,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,5.0,0.0
+19,89226,Iago Justen Maidana Martins,Iago Maidana,ZAG,282,1,0,1,0,2,2,0,0,7,0,0,0,2,0,0,1,0,2,0.0,5.09,0.0
+19,90061,Bruno de Jesus Pacheco,Bruno Pacheco,LAT,315,0,2,0,0,1,40,0,0,48,4,0,0,37,0,1,2,0,31,6.9,13.68,1.17
+19,89492,Saulo Ferreira Silva Nascimento,Saulo,GOL,263,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,89883,Douglas Moreira Fagundes,Dodi,MEI,266,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1.5,2.6,-0.4
+19,89493,Igor Rabello da Costa,Igor Rabello,ZAG,282,0,0,0,1,4,12,0,1,23,3,0,0,24,0,1,0,0,18,0.0,8.09,0.0
+19,89342,Wanderson de Jesus Martins,Caju,LAT,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,89815,Gustavo Henrique Ferrareis,Gustavo Ferrareis,MEI,314,0,0,0,4,9,8,0,1,15,0,0,0,3,0,1,2,0,8,0.0,1.65,0.0
+19,90118,Yago da Silva Rocha,Yago Rocha,LAT,290,0,0,0,0,0,3,0,0,8,0,0,0,3,0,1,0,0,4,0.0,0.77,0.0
+19,90406,Crysan da Cruz Queiroz Barcelos,Crysan,ATA,293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,90309,David Correa da Fonseca,David,ATA,283,0,2,0,8,11,13,0,4,24,0,0,0,8,0,0,1,0,22,2.8,5.1,0.83
+19,90285,Bruno Henrique Pinto,Bruno Henrique,ATA,262,7,2,2,15,21,38,0,4,24,0,0,0,7,0,0,4,0,24,3.5,19.29,-0.8
+19,90302,Pedro Rocha Neves,Pedro Rocha,ATA,283,2,2,0,8,4,24,0,1,44,0,0,0,11,0,0,1,0,12,2.4,10.49,-0.37
+19,90444,Moisés Roberto Barbosa,Moisés,LAT,265,0,1,0,4,9,7,0,1,30,7,0,0,42,0,1,4,0,30,0.5,12.82,-2.26
+19,90572,Leonardo de Souza Sena,Léo Sena,MEI,290,0,1,0,1,5,51,0,0,37,0,0,0,44,0,1,3,0,10,6.4,8.72,-1.12
+19,90634,Lucas da Silva Izidoro,Lucas Mineiro,MEI,267,0,0,1,1,8,11,0,1,22,0,0,0,15,0,0,4,0,17,0.0,5.12,0.0
+19,99032,João Paulo Ferreira Lourenço,Lourenço,ATA,314,0,3,1,8,8,28,0,3,37,0,0,0,16,0,0,1,0,14,-0.6,4.78,-0.54
+19,99430,Diego Terra Loureiro,Diego,GOL,263,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,90715,Luiz Fernando Moraes dos Santos,Luiz Fernando ,MEI,263,1,0,1,4,6,20,0,2,22,0,0,0,8,0,0,2,0,10,0.7,4.15,0.11
+19,90843,Elias Martello Curzel,Elias,GOL,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,90768,Fabrício Bruno Soares de Faria,Fabrício Bruno,ZAG,283,0,0,0,0,0,4,0,0,6,3,0,0,4,0,0,0,0,1,0.0,5.69,0.0
+19,99392,Michael Richard Delgado de Oliveira,Michael,ATA,290,2,0,2,16,15,24,0,8,41,0,0,0,19,0,0,1,0,12,3.6,7.49,0.29
+19,101716,Bruno Roberto Pereira da Silva,Bruninho,MEI,282,1,0,0,4,3,4,0,0,4,0,0,0,2,0,0,0,0,3,15.8,4.33,2.8
+19,99460,Caio Alan Tem Catem Gonçalves,Caio,GOL,293,0,0,0,0,0,0,0,0,4,1,0,3,0,0,0,0,4,0,0.0,1.25,0.0
+19,99462,Wesley Soares Xavier,Wesley,MEI,314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,99474,Wenderson da Silva Costa Ferreira,Wenderson,MEI,263,0,0,0,0,0,4,0,0,2,0,0,0,1,0,0,0,0,0,0.0,3.4,0.0
+19,99802,Richard Darío Franco Escobar,Richard Franco,MEI,314,1,0,0,3,8,10,0,1,22,0,0,0,16,0,0,0,0,12,1.9,5.0,-0.3
+19,99550,Fernando Peixoto Costanza,Fernando,LAT,263,0,1,0,2,0,8,0,0,23,6,0,0,9,0,0,2,0,19,6.9,5.03,1.42
+19,80337,Arthur Caíke do Nascimento Cruz,Arthur Caíke,ATA,265,3,1,1,4,11,7,0,2,22,0,0,0,3,0,1,0,0,11,3.0,9.62,0.57
+19,99721,Matheus Mascarenhas dos Santos Raimundo,Mascarenhas,LAT,266,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0.0,1.75,0.0
+19,99881,Ricardo Queiroz de Alencastro Graça,Ricardo,ZAG,267,1,0,0,1,3,7,0,0,21,1,0,0,19,0,0,1,0,8,0.0,7.1,0.0
+19,99661,Igor Cássio Vieira dos Santos,Igor Cássio,ATA,263,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0.0,1.29,0.0
+19,99789,Brenner Souza da Silva,Brenner,ATA,266,0,0,1,2,4,4,0,0,6,0,0,0,4,0,0,0,0,2,0.0,3.14,0.0
+19,99900,Luan Martins Pereira,Luan Pereira,MEI,314,0,1,0,1,2,10,0,0,12,0,0,0,8,0,0,4,0,7,0.0,2.54,0.0
+19,99891,Yimmi Javier Chará Zamora,Chará,ATA,282,3,1,1,11,10,24,0,4,49,0,0,0,19,0,0,0,0,9,6.5,12.01,0.91
+19,99918,Patrick Machado Ferreira ,Patrick,MEI,284,0,0,0,3,1,9,0,0,6,0,0,0,4,0,0,0,0,1,0.0,1.79,-0.4
+19,100065,Lincoln Corrêa dos Santos,Lincoln,ATA,262,1,0,0,4,3,8,0,1,8,0,0,0,2,0,0,1,0,3,0.0,3.74,0.0
+19,99903,Lucas da Silva Ribeiro Campos,Lucas Campos,ATA,263,0,0,0,1,3,7,0,0,6,0,0,0,8,0,0,1,0,5,0.0,2.2,0.0
+19,100002,Rickson Barbosa Sá da Conceição,Rickson,MEI,263,0,0,0,0,1,5,0,0,3,0,0,0,2,0,0,0,0,1,0.0,1.99,0.0
+19,99915,Ezequiel Santos da Silva,Ezequiel,ATA,283,0,0,0,1,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0.0,4.07,0.0
+19,80129,Jadson Alves dos Santos,Jadson,MEI,283,0,0,0,1,2,10,0,0,6,0,0,0,9,0,0,1,0,7,0.0,3.49,0.0
+19,100103,Pedro Gabriel Pereira Lopes,Pedrinho,ATA,293,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,0.5,1.02,-0.08
+19,80363,Alejandro Ariel Cabral,Ariel Cabral,MEI,283,0,0,0,1,4,5,0,0,19,0,0,0,12,0,0,2,0,10,0.0,2.85,0.0
+19,100290,Lucas Henrique Ferreira Venuto,Lucas Venuto,ATA,277,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0.0,2.32,0.0
+19,100125,Matheus Soares Thuler,Thuler,ZAG,262,0,0,0,0,0,4,0,0,7,2,0,0,4,0,0,1,0,6,0.0,3.28,0.0
+19,100289,Felipe Augusto Rodrigues Pires,Felipe Pires,ATA,356,1,1,0,1,3,8,0,1,9,0,0,0,2,0,0,0,0,3,8.8,5.63,1.39
+19,100084,Igor Silveira Gomes,Igor Gomes,MEI,276,0,0,0,3,3,5,0,0,9,0,0,0,2,0,0,2,0,5,1.3,1.08,-0.02
+19,100652,Yuri Alberto Monteiro da Silva,Yuri Alberto,ATA,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,100712,Filipe Gonçalves dos Santos,Filipe,GOL,264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,100425,Héctor Ariel Bustamante,Bustamante,ATA,341,1,0,0,1,2,9,0,0,9,0,0,0,3,0,0,1,0,14,9.7,3.08,2.31
+19,80189,Lucas Fonseca da Silva,Lucas Fonseca,ZAG,265,0,1,0,1,2,5,0,0,36,10,0,0,11,0,0,0,0,5,-0.3,6.28,-1.59
+19,100430,Matheus Matias Ferreira,Matheus Matias,ATA,314,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0.0,1.79,0.0
+19,80393,Fábio Gonçalves,Fabinho,MEI,354,0,0,0,0,2,15,0,0,24,0,0,0,39,0,0,4,0,30,8.2,7.1,1.32
+19,100742,Matheus Henrique de Souza,Matheus Henrique,MEI,284,0,1,0,2,1,12,0,0,24,0,0,0,12,0,0,3,0,11,0.9,3.6,-0.63
+19,80193,Francisco Edson Moreira da Silva,Edinho,MEI,356,2,0,0,5,10,21,0,1,16,0,0,0,3,0,0,1,0,8,2.1,7.7,0.21
+19,100763,Gabriel Davi Gomes Sara,Gabriel Sara,MEI,276,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0.0,0.9,0.0
+19,100830,Brenno Oliveira Fraga Costa,Brenno,GOL,284,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,100843,Felipe Albuquerque Felippi,Felipe,LAT,284,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,100840,Emanuel Leone Moura,Emanuel,ZAG,284,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,100761,Igor Matheus Liziero Pereira ,Liziero,MEI,276,0,0,0,1,2,8,0,0,17,0,0,0,11,0,0,1,0,9,-1.0,3.82,-0.23
+19,100842,Ruan Tressoldi Netto,Ruan,ZAG,284,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,100846,Lucas Esteves de Souza,Esteves,LAT,275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,80395,Renato Vieira Rodrigues,Renatinho,MEI,290,0,0,0,4,4,7,0,1,9,0,0,0,2,0,0,1,0,4,0.0,2.11,0.0
+19,80394,Matheus Francisco Inácio,Matheus Inácio,GOL,356,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,93151,Thiago Nascimento dos Santos,Thiago Santos,ATA,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,100963,Wanderson Felippe Cardoso dos Santos,Felippe Cardoso,ATA,354,2,1,0,7,5,14,0,8,7,0,0,0,6,0,0,1,0,33,1.9,3.44,0.5
+19,80583,Lucas Rafael Araujo Lima,Lucas Lima,MEI,275,0,1,0,1,1,4,0,0,7,0,0,0,5,0,1,1,0,10,1.7,4.32,0.91
+19,80692,Luan Garcia Teixeira,Luan,ZAG,275,0,0,0,3,1,6,0,0,4,1,0,0,12,0,0,0,0,6,0.0,9.98,0.0
+19,80664,Michel Macedo Rocha Machado,Michel,LAT,264,0,0,0,0,0,6,0,0,10,2,0,0,5,0,1,1,0,7,0.0,2.41,0.0
+19,80748,Franco Matías Di Santo,Di Santo,ATA,282,1,0,0,2,0,0,0,1,1,0,0,0,1,0,0,0,0,1,3.9,7.11,-0.3
+19,101315,Martín Nicolás Sarrafiore,Sarrafiore,MEI,285,2,0,0,2,6,7,0,0,19,0,0,0,8,0,0,3,0,12,0.2,3.6,-0.23
+19,100987,Gustavo Nonato Santana,Nonato,MEI,285,2,1,0,4,6,14,0,1,23,0,0,0,40,0,0,2,0,36,3.3,8.81,-0.11
+19,101040,Rony Fernandes da Silva,Rony,ZAG,276,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,80853,Pedro Tonon Geromel,Pedro Geromel,ZAG,284,1,0,0,1,3,7,0,0,12,4,0,0,28,0,0,3,0,7,0.0,13.01,0.0
+19,101316,Gustavo Alcindo (Alcino),Gustavo,ZAG,314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,101421,Igor Henrique Pereira de Campos,Igor Campos,GOL,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,101375,Matheus Rodrigues do Prado,Matheus Prado,MEI,341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,101317,Jean Hebert de Freitas,Jô,ATA,314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,80949,Diego Santos Gama Camilo,Biro Biro,ATA,263,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,80944,Johnath Marlone Azevedo da Silva,Marlone,MEI,290,1,0,1,0,6,7,0,1,16,0,0,0,7,0,0,1,0,7,0.0,5.27,-0.04
+19,81150,Mayke Rocha de Oliveira,Mayke,LAT,275,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.0,7.71,0.0
+19,81091,Jair Rodrigues Júnior,Jair,MEI,282,1,0,0,0,1,14,0,0,13,0,0,0,21,0,0,2,0,16,0.0,6.81,0.0
+19,81031,Marcos Vinícius dos Santos Gonçalves,Marquinhos Santos,TEC,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,9.83,0.0
+19,101319,Claudio Rodrigues Gomes,Guga,LAT,282,0,3,0,0,3,6,0,1,33,0,0,0,21,0,0,0,0,7,0.0,7.81,0.0
+19,81241,Oswaldo José Henríquez Bocanegra,Oswaldo Henríquez,ZAG,267,0,0,1,1,0,3,0,0,18,4,0,0,11,0,0,2,0,7,-0.3,3.47,-0.29
+19,81682,Juan Ramón Cazares Sevillano,Cazares,MEI,282,4,0,1,18,13,5,0,0,48,0,0,0,6,0,0,0,0,10,0.9,10.54,-0.52
+19,101422,Bruno da Silva Costa,Bruno Silva,ATA,282,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.0,2.8,0.0
+19,90846,Willian Klaus,Klaus,ZAG,285,0,0,0,1,0,2,0,0,17,3,0,0,4,0,0,1,0,9,-0.6,3.15,-1.21
+19,81677,Carlos Andrés Sánchez Arcosa,Carlos Sánchez,MEI,277,6,3,2,11,11,36,1,4,63,0,0,0,19,0,0,2,0,25,4.5,13.67,-0.49
+19,71116,Roberto Heuchayer Santos de Araújo,Roberto,LAT,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,4.0,0.0
+19,90569,Yuri Oliveira Lima,Yuri Lima,MEI,266,0,0,0,1,2,4,0,0,14,0,0,0,10,0,0,4,0,17,-1.8,1.45,-0.25
+19,81770,Clayton Silveira da Silva,Clayton,ATA,267,0,0,0,3,1,0,0,0,5,0,0,0,0,0,0,1,0,4,-3.4,2.98,-0.94
+19,83433,Patrick Bezerra do Nascimento,Patrick,MEI,285,0,1,0,1,3,7,0,0,15,0,0,0,14,0,0,1,0,7,0.0,7.8,0.0
+19,83257,Gabriel Barbosa Almeida,Gabriel,ATA,262,16,3,0,15,18,14,0,9,31,0,0,0,5,0,0,5,0,9,8.5,20.99,-0.43
+19,83528,Leonardo Pereira,Léo Pereira,ZAG,293,1,0,0,3,3,5,0,1,32,5,0,0,11,0,0,3,0,16,0.0,8.04,0.0
+19,83438,Guilherme Parede Pinheiro,Guilherme Parede,ATA,285,1,1,0,6,8,18,0,7,13,0,0,0,6,0,0,2,0,15,0.8,4.45,-0.37
+19,83263,Yuri Lima Lara,Yuri,MEI,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,101579,Robson Alves de Barros,Robson Bambu,ZAG,293,0,0,0,1,2,1,0,0,6,2,0,0,3,0,0,0,0,7,0.0,4.97,0.0
+19,101512,Joelson dos Santos Ferreira Júnior,Joelson,MEI,341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,83681,Rafael Chagas Machado,Rafinha,LAT,341,0,0,0,0,0,3,0,0,2,0,0,0,4,0,0,0,0,2,0.0,3.92,0.0
+19,101573,João Pedro Vilardi Pinto,Pepê,MEI,262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,83772,Neilton Meira Mestzk,Neilton,ATA,285,1,0,0,1,2,12,0,1,13,0,0,0,5,0,0,0,0,3,9.3,7.23,1.65
+19,101484,Thonny Anderson da Silva Carvalho,Thonny Anderson,MEI,293,2,1,1,7,5,11,0,2,17,0,0,0,10,0,0,1,0,14,9.8,5.72,0.75
+19,101491,Ricardo Thalheimer,Ricardo,ZAG,314,0,0,0,1,2,1,0,2,23,5,0,0,8,0,0,2,0,9,3.5,4.55,0.6
+19,101580,Lucas Lourenço Andrade,Lucas Lourenço,MEI,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,101574,Hugo de Souza Nogueira,Hugo Souza,GOL,262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,101592,Matheus de Jesus Dantas,Matheus Dantas,ZAG,262,0,0,0,0,0,1,0,1,2,0,0,0,0,0,0,0,0,0,0.0,1.25,0.0
+19,101594,Hugo Moura Arruda da Silva,Hugo Moura,MEI,262,0,1,0,0,0,0,0,0,3,0,0,0,2,0,0,1,0,1,0.0,2.97,0.0
+19,101596,Vitor Gabriel Claudino Rego Ferreira,Vitor Gabriel,ATA,262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,101708,Felipe Jonatan Rocha Andrade,Felipe Jonatan,LAT,277,2,0,0,5,5,6,0,1,24,4,0,0,6,0,0,0,0,9,0.0,8.56,-0.38
+19,101597,Ramon Ramos Lima,Ramon,LAT,262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,101626,Alexandre Rodrigues Soares,Xandão,ZAG,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,101728,Diego Henrique Costa Barbosa,Diego,ZAG,276,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,101647,Ulisses Wilson Jeronymo Rocha ,Ulisses,ZAG,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,101679,Ricardo Verza de Souza,Ricardo Verza,ATA,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,93797,Márcio Almeida de Oliveira,Marcinho,LAT,263,1,2,0,4,8,8,0,0,28,5,0,0,11,0,0,2,0,16,5.9,7.55,0.71
+19,101715,Alerrandro Barra Mansa Realino de Souza,Alerrandro,ATA,282,2,1,2,5,9,9,0,3,4,0,0,0,7,0,0,0,0,3,0.0,7.78,0.0
+19,101720,Matheus dos Santos Miranda,Miranda,ZAG,267,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,2,0.0,2.57,0.0
+19,101601,Caio Vinicius da Conceição,Caio,MEI,266,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,2,0.0,1.07,0.0
+19,101721,João Pedro Soares Borges,João Pedro Borges,GOL,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,101837,Lucas Paes Souza,Lucas Paes,GOL,276,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,101861,Felipe Fernandes Sousa,Felipe Sousa,ATA,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,101803,Carlos Augusto Zopalato Neves,Carlos Augusto,LAT,264,1,0,0,0,2,4,0,0,11,2,0,0,4,0,0,1,0,5,1.3,4.98,0.17
+19,101729,Fabio Augusto Luciano da Silva,Fabinho,ATA,276,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0.77,0.0
+19,101796,Gonzalo Rodrigo Carneiro Méndez,Gonzalo Carneiro,ATA,276,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,5.0,0.0
+19,101911,Gabriel Calabres Nunes,Gabriel Calabres,MEI,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,101846,Iury de Oliveira Nascimento ,Iury,LAT,314,0,1,0,0,1,8,0,0,24,3,0,0,10,0,0,1,0,12,4.4,6.54,1.03
+19,102137,Vitor Eudes de Souza Costa,Vitor Eudes,GOL,283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,101960,Vitor Hugo Naum dos Santos,Vitinho,ATA,293,1,2,0,5,7,5,0,0,8,0,0,0,3,0,0,0,0,13,0.7,2.63,-0.2
+19,102139,Jairo Santos de Oliveira Filho,Jairinho,ATA,267,0,0,0,2,1,4,0,0,2,0,0,0,2,0,0,0,0,1,0.0,2.89,0.0
+19,101997,Braian Ezequiel Romero,Braian Romero,ATA,293,2,1,1,2,6,11,0,1,13,0,0,0,10,0,0,1,0,17,0.6,4.8,-1.12
+19,101885,Jonas Gabriel da Silva Nunes,Toró,ATA,276,2,0,0,3,10,17,0,1,23,0,0,0,9,0,1,1,0,17,2.2,5.06,-0.35
+19,102253,Lucas Halter,Lucas Halter,ZAG,293,0,0,0,1,2,1,0,0,7,1,0,0,5,0,0,1,0,4,0.0,2.77,0.0
+19,90917,Carlos Eduardo Ferreira de Souza,Carlos Eduardo,ATA,275,0,0,0,0,1,2,0,1,1,0,0,0,1,0,0,1,0,2,0.0,3.67,0.0
+19,91733,Luiz Antonio Ferreira Rodrigues,Felipe,MEI,356,0,0,0,2,2,17,0,0,55,0,0,0,49,0,0,5,0,28,2.3,6.62,-0.34
+19,90933,Jean Paulo Fernandes Filho,Jean,GOL,276,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,3.32,0.0
+19,91772,David de Duarte Macedo,David Duarte,ZAG,290,0,0,0,0,3,3,0,0,10,2,0,0,7,0,0,0,0,2,0.0,8.03,0.0
+19,101719,Rafael de Carvalho França,Rafael França,LAT,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,91808,Caíque França Godoy,Caíque França,GOL,264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,92085,Giovanny Bariani Marques,Giovanny ,ATA,290,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0.0,1.24,0.0
+19,92146,Andre Luis da Costa Alfredo,André Luís,ATA,356,2,0,1,4,2,23,0,1,14,0,0,0,1,0,0,2,0,6,0.0,4.21,0.0
+19,91102,Flávio Medeiros da Silva,Flávio,MEI,265,0,0,0,1,0,9,0,1,18,0,0,0,22,0,0,1,0,15,5.2,3.7,0.76
+19,101717,Marrony da Silva Liberato,Marrony,ATA,267,1,1,0,7,12,26,0,5,29,0,0,0,25,0,1,2,0,29,0.7,11.19,-0.39
+19,91888,Kevin Peterson dos Santos Silva,Kevin ,LAT,290,0,0,0,0,1,2,0,0,13,1,0,0,5,0,0,1,0,1,0.0,6.04,0.0
+19,91972,João Paulo Queiroz Moraes,João Paulo,ATA,354,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,93368,Lucas Veríssimo da Silva,Lucas Veríssimo,ZAG,277,1,0,2,2,7,12,0,1,43,7,0,0,41,0,1,5,0,36,1.3,9.54,-0.44
+19,92155,Ramón Martínez López,Ramón Martínez,MEI,282,0,0,0,0,0,3,0,1,6,0,0,0,8,0,0,1,0,3,1.7,4.07,0.18
+19,92182,José Carlos Ferreira Júnior,Juninho,ZAG,265,0,0,0,2,3,6,0,0,18,6,0,0,8,0,0,1,0,3,1.2,5.66,-0.5
+19,91151,Everaldo Silva do Nascimento,Everaldo ,ATA,264,1,1,0,2,8,15,0,3,7,0,0,0,8,0,0,2,0,15,0.0,3.91,0.0
+19,91130,Fernando José Marques Maciel,Fernandinho,ATA,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,91201,Eduardo Gabriel Aquino Cossa,Pepê,ATA,284,3,0,0,5,10,7,0,7,19,0,0,0,7,0,0,1,0,7,0.0,4.81,0.0
+19,91251,Antônio Josenildo Rodrigues de Oliveira,Rodriguez,ZAG,284,0,1,0,0,1,1,0,1,7,3,0,0,11,0,0,0,0,1,0.0,5.01,0.0
+19,91242,Leandro Barcia Montero,Leandro Barcia,ATA,290,3,1,1,7,12,20,0,3,25,0,0,0,18,0,0,4,0,25,0.4,8.5,0.01
+19,102598,Hélio Júnio Nunes de Castro,Helinho,ATA,276,0,0,0,1,1,6,0,0,7,0,0,0,1,0,0,0,0,5,0.0,3.27,0.0
+19,91191,Gustavo Blanco Petersen Macedo,Gustavo Blanco,MEI,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,9.0,0.0
+19,91260,Lucas Estella Perri,Lucas Perri,GOL,276,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,92273,Odair Hellmann,Odair Hellmann,TEC,285,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.4,11.31,-0.02
+19,91712,Matheus Alves da Silva Cardoso,Matheus Alves,GOL,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,91708,Marcílio Florêncio Mota Filho,Nino,ZAG,266,1,1,0,2,3,9,0,0,16,2,0,0,25,0,0,6,0,20,2.5,3.79,-0.87
+19,91573,Robert Abel Arboleda Escobar,Arboleda,ZAG,276,0,0,0,0,3,7,0,1,21,3,0,0,10,0,0,3,0,14,-0.3,5.88,-0.23
+19,91508,Leonardo Felipe Valencia Rossel,Leonardo Valencia,MEI,263,0,1,0,1,4,1,0,1,9,0,0,0,1,0,0,2,0,3,0.7,3.46,-0.49
+19,91607,Ronielson da Silva Barbosa,Rony,ATA,293,4,2,1,10,14,26,0,2,24,0,0,0,10,0,0,3,0,28,0.0,13.09,0.0
+19,95220,Jefferson Junio Antonio da Silva,Jefferson,LAT,290,1,0,0,1,3,22,0,0,42,4,0,0,41,0,0,2,0,12,0.0,11.24,0.0
+19,95222,Thalles Gabriel Morais dos Reis,Thalles,MEI,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,97352,Luiz Henrique Pachu Lira,Pachu,ATA,263,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,95335,Matheus Sousa de Jesus,Matheus Jesus,MEI,264,0,0,0,0,0,7,0,1,4,0,0,0,5,0,0,0,0,1,0.0,4.92,0.0
+19,95352,Luis Manuel Orejuela García,Orejuela,LAT,283,0,0,0,2,1,8,0,0,12,2,0,0,13,0,0,1,0,19,-1.1,4.81,-1.57
+19,95464,Gregore de Magalhães da Silva,Gregore,MEI,265,0,0,0,1,4,11,0,0,48,0,0,0,50,0,1,3,0,55,-0.7,9.39,-0.6
+19,95466,Igor Vinícius de Souza,Igor Vinícius,LAT,276,0,2,0,2,3,7,0,0,18,4,0,0,21,0,2,3,0,19,0.0,7.26,0.0
+19,95494,Felipe Aguilar Mendoza,Aguilar,ZAG,277,0,0,0,0,2,8,0,0,12,6,0,0,21,0,0,3,0,18,0.0,6.02,0.0
+19,95476,Eduardo Kunde,Kunde,ZAG,314,0,0,0,0,0,1,0,0,7,1,0,0,3,0,0,2,0,7,0.0,0.75,0.0
+19,95799,Artur Victor Guimarães,Artur,ATA,265,3,1,0,9,14,28,1,2,59,0,0,0,14,0,0,4,0,16,3.2,9.82,0.87
+19,95798,Gustavo Costa da Silva Machado,Gustavo Bochecha,MEI,263,0,0,0,1,5,12,0,0,40,0,0,0,14,0,0,2,0,4,0.0,5.25,-0.16
+19,95802,Robert Ayrton Piris da Motta,Piris da Motta,MEI,262,0,0,0,0,1,11,0,0,10,0,0,0,9,0,0,2,0,6,0.0,3.63,0.0
+19,95660,Felipe Araruna Hoffman,Araruna,MEI,356,0,0,0,0,0,0,0,0,7,0,0,0,4,0,0,1,0,1,0.0,3.04,0.0
+19,95638,Marcelo da Conceição Benevenuto Malaquias,Marcelo Benevenuto,ZAG,263,1,0,1,0,1,4,0,0,8,2,0,0,2,0,0,2,0,5,6.9,5.44,1.61
+19,95860,Ruan Vinícius Silva de Jesus,Ruan,ZAG,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,95780,José Ricardo Mannarino,Zé Ricardo,TEC,356,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.34,6.76,0.05
+19,94067,Matheus Fernandes Siqueira,Matheus Fernandes,MEI,275,0,0,0,0,0,3,0,0,4,0,0,0,3,0,0,0,0,1,0.0,3.87,0.0
+19,95820,Leonardo Rodrigues dos Santos,Léo Santos,ZAG,264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,6.0,0.0
+19,102607,Nathan Otávio Ribeiro,Nathan,ZAG,356,0,0,0,1,0,2,0,0,5,0,0,0,5,0,1,0,0,3,0.0,1.44,0.0
+19,97349,Daniel dos Santos Penha,Daniel,MEI,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,94138,Felipe dos Reis Pereira Vizeu do Carmo,Felipe Vizeu,ATA,284,1,0,0,0,4,3,0,0,7,0,0,0,0,0,0,0,0,9,0.0,2.41,0.0
+19,94044,John Victor Maciel Furtado,John Victor,GOL,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,102599,Thiago Beserra dos Santos,Thiaguinho,MEI,264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,94156,Diego Cristiano Evaristo,Diego Pituca,MEI,277,1,0,2,6,10,18,0,0,44,0,0,0,21,0,0,6,0,39,0.0,3.51,0.0
+19,94297,William Oliveira dos Santos,William Oliveira,MEI,354,0,0,0,1,1,3,0,0,1,0,0,0,1,0,0,1,0,5,0.0,2.04,0.0
+19,94068,Lucas Ribamar Lopes dos Santos Bibiano,Ribamar,ATA,267,1,0,0,2,4,1,0,2,1,0,0,0,0,0,0,0,0,1,9.5,3.9,1.45
+19,102609,Fernando Augusto de Castro Ribeiro,Fernando Castro,GOL,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,92496,Raul Lô Gonçalves,Raul,MEI,267,0,2,0,7,7,41,0,0,29,0,0,0,44,0,0,4,0,28,8.3,9.06,0.78
+19,92708,Deyverson Brum Silva Acosta,Deyverson,ATA,275,1,2,0,6,10,20,0,11,17,0,0,0,6,0,0,1,0,10,0.0,10.68,0.0
+19,92981,Ronaldo da Silva Souza,Ronaldo,MEI,265,0,1,0,0,2,5,0,0,16,0,0,0,24,0,0,2,0,13,0.0,5.57,0.0
+19,93108,Mateus da Silva Vital Assumpção,Mateus Vital,MEI,264,1,2,0,6,10,29,0,0,14,0,0,0,15,0,0,1,0,4,2.7,7.48,-0.69
+19,92696,Renato Kayzer de Souza,Renato Kayzer,ATA,315,1,0,0,1,2,5,0,2,3,0,0,0,1,0,0,0,0,9,0.0,2.28,0.0
+19,92841,Fernando Medeiros da Silva,Fernando Medeiros,MEI,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,93414,Mauro Joel Carli,Joel Carli,ZAG,263,0,0,1,1,2,10,0,0,39,5,0,0,13,0,0,5,0,13,0.0,6.17,0.0
+19,102302,Rafael Elias da Silva,Papagaio,ATA,282,0,0,0,1,2,3,0,0,3,0,0,0,2,0,0,0,0,3,0.0,1.97,0.0
+19,93377,Jobson Souza Santos,Jobson,MEI,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,4.0,0.0
+19,102290,Gabriel José Ferreira Mesquita,Gabriel,GOL,293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,102301,Bruno da Silva Costa Leite,Bruno Leite,MEI,293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,93785,Alan Cardoso de Andrade,Alan Cardoso,LAT,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,93659,Michael Matias Fracaro,Michael,GOL,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,102318,Caio Fernando de Oliveira,Caio Paulista,ATA,314,0,0,0,4,11,19,0,1,23,0,0,0,20,0,0,0,0,16,2.0,3.79,-0.46
+19,93782,Alisson Pelegrini Safira,Alisson Safira,ATA,341,0,1,0,0,0,4,0,0,2,0,0,0,1,0,0,0,0,3,1.7,4.48,-0.03
+19,104513,Abner Vinícius da Silva Santos,Abner Vinícius,LAT,293,0,0,0,0,0,0,0,0,8,1,0,0,2,0,0,0,0,2,0.4,4.03,-0.22
+19,93787,Andrey Ramos do Nascimento,Andrey,MEI,267,1,0,0,3,3,5,0,0,14,0,0,0,14,0,0,0,0,10,0.0,5.47,0.0
+19,102340,Carlos de Menezes Júnior,Cacá,ZAG,283,0,0,0,1,0,7,0,0,2,2,0,0,6,0,0,2,0,4,2.5,2.61,0.11
+19,106312,Marx Lênin dos Santos Gonçalves,Marx Lênin,MEI,314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104591,Caíque de Jesus da Silva,Caíque,ATA,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,104580,Sandry Roberto Santos Goes,Sandry,MEI,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104459,Rick Jhonatan Lima Morais,Rick,ATA,354,0,0,0,0,1,1,0,0,5,0,0,0,3,0,0,0,0,2,0.0,1.82,0.0
+19,104593,Darlan Pereira Mendes,Darlan,MEI,284,0,0,0,0,1,1,0,0,8,0,0,0,7,0,0,0,0,5,0.0,1.73,0.0
+19,104622,Hélio Júnior Rossi Francino,Hélio Júnior,LAT,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104646,Warley Leandro da Silva,Warley,LAT,341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,104625,Weverton Guilherme da Silva Souza,Weverton,LAT,283,0,0,0,0,1,3,0,0,10,2,0,0,3,0,0,0,0,1,0.0,3.08,0.0
+19,104578,Tailson Pinto Gonçalves,Tailson,ATA,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,95875,Hugo da Conceição Borges Alves,Hugo Borges,ATA,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,96340,Vinicius Moreira de Lima,Lima,MEI,354,0,1,0,5,3,11,0,2,11,0,0,0,13,0,0,1,0,7,2.5,5.25,-0.69
+19,96382,Juan Sebastián Quintero Fletcher,Quintero,ZAG,356,1,0,0,1,1,6,0,0,27,3,0,0,13,0,0,2,0,9,-0.6,3.11,-0.67
+19,96652,Allan Rodrigues de Souza,Allan,MEI,266,0,1,0,6,8,18,0,0,43,0,0,0,14,0,1,6,0,30,4.9,2.32,0.89
+19,96468,Daniel de Sousa Brito,Daniel,GOL,285,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,96464,Maurício Tomazi Pinheiro,Maurício,ZAG,314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,83199,Lucas Vinícius Gonçalves Silva,Lucão,ATA,266,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.1,0.0
+19,104634,Douglas do Espírito Santo Torres,Douglas Borel,LAT,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,97080,Jony Alexander González Copete,Yony González,ATA,266,4,0,2,12,26,25,0,4,16,0,0,0,14,0,0,1,0,14,0.8,12.3,-0.16
+19,96965,Leonardo Thomas Lopes,Léo Lopes,GOL,314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,82453,Tadeu Antonio Ferreira,Tadeu,GOL,290,0,0,0,0,0,5,0,0,12,4,1,37,0,0,0,0,25,0,0.0,14.39,0.0
+19,102907,Matheus Henrique Teixeira,Matheus Teixeira,GOL,275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,96966,Arthur Gomes Lourenço,Arthur Gomes,ATA,315,2,0,1,0,8,33,0,2,22,0,0,0,13,0,0,2,0,13,8.2,5.77,1.41
+19,97133,Luis Eduardo Marques Dos Santos,Dudu,LAT,285,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,102911,José Ricardo Araújo Fernandes,Zé Ricardo,MEI,266,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,97341,Rogério Ceni,Rogério Ceni,TEC,283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,8.01,0.0
+19,97245,Janderson Santos de Souza,Janderson,ATA,264,0,0,0,1,1,7,0,0,1,0,0,0,2,0,0,0,0,2,7.7,2.38,1.41
+19,102909,Luan Vinicius da Silva Santos ,Luan,MEI,276,0,0,0,1,1,2,0,0,14,0,0,0,9,0,0,2,0,16,0.0,2.57,0.0
+19,102958,Rhuan da Silveira Castro,Rhuan,ATA,263,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0.0,0.77,0.0
+19,102997,Tharlis Sartori,Tharlis,MEI,315,0,0,0,0,0,1,0,0,2,0,0,0,3,0,0,0,0,2,0.0,2.84,0.0
+19,97452,Marcos Vinícius Silva Rocha Calazans,Marcos Calazans,ATA,276,0,0,0,1,0,2,0,0,4,0,0,0,3,0,0,1,0,6,0.0,2.38,0.0
+19,81776,Bruno dos Santos Nazário,Bruno Nazário,MEI,293,0,0,1,5,3,10,0,0,11,0,0,0,2,0,0,1,0,5,0.0,2.36,0.0
+19,102998,Vinicius Farias Locatelli,Vini Locatelli,MEI,315,0,1,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,7.2,2.12,1.12
+19,81845,Alisson Euler de Freitas Castro,Alisson,MEI,284,2,4,0,5,4,17,0,0,12,0,0,0,10,0,0,4,0,10,15.0,9.39,1.6
+19,103069,Matias Antonini Lui,Antonini,ZAG,284,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,97520,Shaylon Kallyson Cardoso,Shaylon,MEI,265,0,0,0,1,1,2,0,0,7,0,0,0,2,0,0,0,0,4,0.0,2.99,0.0
+19,81798,Rosicley Pereira da Silva,Rossi,ATA,267,0,1,0,6,10,16,0,1,32,0,0,0,8,0,0,5,0,20,0.2,3.61,-0.19
+19,97522,Willean Bernardo Willemen,Lepu,MEI,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,102999,Régis Tosatti Giacomin,Régis,MEI,315,0,0,0,2,7,2,0,1,7,0,0,0,6,0,0,1,0,6,1.1,3.55,0.12
+19,93791,Daniel Sampaio Simões,Daniel,MEI,266,0,1,0,6,3,21,0,0,40,0,0,0,10,0,0,2,0,10,0.0,4.58,0.0
+19,103076,Mateus Gonçalves Martins,Mateus Gonçalves,ATA,354,1,0,0,0,2,5,0,0,18,0,0,0,6,0,0,1,0,5,0.0,2.23,0.0
+19,81881,João Ricardo Riedi,João Ricardo,GOL,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,6.0,0.0
+19,97528,Wesley Frazan Bernardo,Frazan,ZAG,266,0,0,0,0,0,1,0,0,1,3,0,0,0,0,1,1,0,4,5.0,2.62,0.17
+19,97527,Matheus Alessandro dos Santos Pereira,Matheus Alessandro,ATA,356,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0.0,2.19,-0.39
+19,102352,Ángelo Giovanni Araos Llanos,Araos,MEI,264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,4.0,0.0
+19,71604,Fábio Pizarro Sanches,Fábio Sanches,ZAG,290,1,0,0,0,1,9,0,0,9,0,0,0,7,0,0,0,0,2,6.5,4.02,1.14
+19,93834,Keiller da Silva Nunes,Keiller,GOL,285,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,81905,José Henrique da Silva Dourado,Henrique Dourado,ATA,275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,6.0,0.0
+19,103099,Éderson José dos Santos Lourenço da Silva,Éderson,MEI,283,0,0,1,1,1,5,0,0,11,0,0,0,3,0,0,1,0,8,-4.7,1.0,-0.79
+19,103445,Kaio Jorge Pinto Ramos,Kaio Jorge,ATA,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.75,0.0
+19,93869,Lucas Oliveira de França,Lucas França,GOL,354,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,103183,Andrew da Silva Ventura,Andrew,GOL,263,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,82407,Francisco Hyun Sol Kim,Chico,MEI,354,0,0,0,1,1,8,0,0,7,0,0,0,6,0,0,1,0,14,0.0,3.68,0.0
+19,81951,Igor de Carvalho Julião,Igor Julião,LAT,266,0,0,0,2,1,13,0,0,10,1,0,0,14,0,0,1,0,13,0.0,4.23,0.0
+19,102380,Márcio Rodrigues Velasco,Marcinho,MEI,314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,82455,José Rafael Vivian,Zé Rafael,MEI,275,0,1,0,6,6,21,0,1,13,0,0,0,13,0,0,3,0,21,0.3,8.81,-0.64
+19,102452,Johnatan Lucas da Silva Vital,Vital,ZAG,341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,93882,Cleiton Schwengber,Cleiton,GOL,282,0,0,0,0,0,0,0,0,6,2,0,10,0,0,0,0,10,0,-3.3,1.81,-1.2
+19,93893,Marcos Antonio Candido Ferreira Júnior,Marcos Júnior,MEI,267,1,0,1,3,5,19,0,0,35,0,0,0,18,0,0,4,0,22,4.5,4.19,1.15
+19,82613,Alan Henrique Costa,Alan Costa,ZAG,341,0,0,0,1,3,3,0,0,15,4,0,0,11,0,0,2,0,12,-0.3,4.4,-0.97
+19,102565,Miguel Ferreira Damasceno,Miguel Figueira,MEI,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,82474,Geirton Marques Aires,Gegê,MEI,314,0,0,1,3,3,4,0,0,9,0,0,0,11,0,0,0,0,9,0.0,3.11,0.0
+19,102457,Victor Wesley dos Santos da Silva,Victor Paraíba,ATA,341,0,1,0,1,3,5,0,1,7,0,0,0,4,0,0,0,0,1,0.0,2.46,0.0
+19,103446,Yuri Cesar Santos de Oliveira Silva,Yuri ,MEI,262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,103455,Antony Matheus do Santos,Antony,ATA,276,1,2,2,10,8,36,0,0,40,0,0,0,13,0,1,1,0,9,0.4,11.0,-0.21
+19,82411,Christian Alberto Cueva Bravo,Cueva,MEI,277,0,0,0,0,0,4,0,0,12,0,0,0,5,0,0,1,0,4,-3.1,5.15,-1.68
+19,102563,Kaio Nunes Ferreira,Kaio,MEI,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,82628,Guilherme de Jesus da Silva,Tinga,LAT,356,1,2,0,0,2,5,0,0,42,1,0,0,7,0,0,0,0,5,-0.6,1.54,-0.06
+19,103523,Ignácio da Silva Oliveira,Ignácio,ZAG,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,103579,Michel Borges De Jesus,Michel,MEI,283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,82635,Igor Fernandes da Silva Araújo,Igor Fernandes,LAT,314,0,0,0,0,2,10,0,2,29,5,0,0,23,0,0,3,0,17,6.4,4.94,1.01
+19,82639,Marcelo Gazella Hermes,Marcelo Hermes,LAT,290,0,1,0,1,3,6,0,0,17,0,0,0,10,0,0,2,0,7,4.2,3.61,0.51
+19,82647,Régis Augusto Salmazzo,Régis,MEI,264,0,0,0,1,1,2,0,0,1,0,0,0,1,0,0,0,0,0,0.0,4.02,0.0
+19,82634,Matheus Galdezani,Matheus Galdezani,MEI,285,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,5.0,0.0
+19,97619,Tomás Gustavo Andrade,Tomás Andrade,MEI,293,0,1,0,3,5,4,0,0,19,0,0,0,2,0,0,0,0,10,0.2,3.82,0.18
+19,97543,Fernando Rodrigues Caixeta Barbosa,Fernando,GOL,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,97780,Dawhan Fran Urano da Purificação Oliveira,Dawhan,MEI,341,0,0,0,0,6,7,0,0,17,0,0,0,22,0,0,2,0,14,-0.8,5.92,-0.26
+19,103524,Phelipe Megiolaro Alves,Phelipe,GOL,284,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,103645,Marcos Paulo Costa do Nascimento,Marcos Paulo,ATA,266,0,2,1,3,6,9,0,0,17,0,0,0,13,0,0,0,0,4,0.0,4.24,0.0
+19,103662,Dênis de Oliveira Aguiar Júnior,Júnior,GOL,276,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,97907,Rafael Lucas Cardoso Santos,Rafael Santos,LAT,283,0,0,0,1,0,0,0,0,3,1,0,0,0,0,0,1,0,0,-1.7,0.9,-0.91
+19,83004,Rómulo Otero Vásquez,Otero,MEI,282,0,0,0,6,8,14,0,0,7,0,0,0,1,0,0,1,0,9,0.0,7.29,0.0
+19,82653,Victor Neves Rangel,Victor Rangel,ATA,263,0,0,0,0,0,5,0,0,2,0,0,0,0,0,0,1,0,8,0.0,1.12,0.0
+19,97902,Rafael Santos de Sousa,Rafael,ZAG,262,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0.0,0.73,0.0
+19,82767,Vinícius Vasconcelos Araújo,Vinícius Araújo,ATA,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,97922,Rodrigo Marques de Santana,Rodrigo Santana,TEC,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.58,11.04,0.11
+19,97994,Jefferson Gabriel Nascimento Brito,Fessin,MEI,264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,82730,Marcelo Rangel da Rosa,Marcelo Rangel,GOL,290,0,0,0,0,0,1,0,0,0,0,0,6,0,0,0,0,3,0,12.5,5.43,1.43
+19,97535,Hiago Corrêa Silveira Cena,Hiago,ZAG,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,1.45,0.0
+19,82880,Daniel Amorim Dias da Silva,Daniel Amorim,ATA,314,1,0,0,3,5,9,0,2,6,0,0,0,0,0,0,1,0,6,0.0,5.13,0.0
+19,82930,Cristovam Roberto Ribeiro da Silva,Cristovam,LAT,354,0,0,0,0,0,3,0,0,7,0,0,0,8,0,0,2,0,3,0.0,2.57,0.0
+19,98022,Erick Luis Conrado de Carvalho,Erick,MEI,293,0,0,0,4,1,2,0,0,8,0,0,0,3,0,0,1,0,13,-2.0,0.77,-0.14
+19,97536,Bryan Borges Mascarenhas,Bryan,LAT,315,0,0,0,1,1,5,0,0,11,1,0,0,7,0,0,2,0,6,0.0,2.71,0.0
+19,98224,Jaderson Flores dos Reis,Jaderson,MEI,293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.76,0.0
+19,103684,Kaique Rocha Lima,Kaique Rocha,ZAG,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,98057,Tiago Retzlaff Nunes,Tiago Nunes,TEC,293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.01,9.94,-0.1
+19,98412,Giovanni Silva Tiepo,Tiepo,GOL,315,0,0,0,0,0,3,0,0,13,4,3,31,0,0,0,0,32,0,2.0,13.57,-0.23
+19,71631,Weverton Pereira da Silva,Weverton,GOL,275,0,0,0,0,0,3,0,0,4,4,0,15,0,0,0,0,12,0,11.0,14.19,2.56
+19,103695,Jadsom Meemyas de Oliveira da Silva,Jadsom Silva,MEI,283,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0.0,0.76,0.0
+19,71667,Geovane Batista de Faria,Geovane,MEI,290,0,0,0,1,8,9,0,0,34,0,0,0,21,0,0,4,0,37,0.0,2.8,0.0
+19,98352,Bruno Guimarães Rodriguez Moura,Bruno Guimarães,MEI,293,2,1,1,7,8,41,0,0,37,0,0,0,15,0,0,1,0,21,0.0,12.44,0.0
+19,82943,Matheus Antunes Ribeiro,Matheus Ribeiro,LAT,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,98333,Gabriel Batista de Souza,Gabriel Batista,GOL,262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,4.0,0.0
+19,71684,Gustavo Raúl Gómez Portillo,Gustavo Gómez,ZAG,275,1,0,0,2,0,8,0,0,8,2,0,0,6,0,1,3,0,7,2.9,12.0,0.76
+19,98400,Gabriel Farias de Lima,Gabriel Lima,ATA,314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,98421,Kendy Tateishi Berbel,Kendy,MEI,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,98419,Ronei Gebing,Ronei,MEI,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,71719,Elton Junior Melo Ataíde,Elton,MEI,265,0,0,0,1,4,0,0,0,15,0,0,0,18,0,0,1,0,19,0.0,5.22,0.0
+19,71680,Raúl Alejandro Cáceres Bogado,Raúl Cáceres,LAT,267,0,0,0,1,0,1,0,1,6,1,0,0,2,0,0,1,0,11,-2.1,1.76,-0.42
+19,98822,Lucas Camilo Hernández Perdomo,Lucas Hernández,LAT,282,0,0,0,1,1,4,0,0,6,0,0,0,1,0,0,2,0,9,0.0,1.72,0.0
+19,98765,José Marcos Costa Martins,Marquinhos,MEI,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,98794,Diego Fabián Torres,Diego Torres,MEI,315,1,0,0,2,9,5,0,0,14,0,0,0,7,0,0,0,0,3,0.0,4.98,0.0
+19,98484,Victor Hugo Soares dos Santos,Kanu,ZAG,263,0,0,0,0,0,1,0,0,3,0,0,0,2,0,0,0,0,0,0.0,1.41,0.0
+19,98494,Lucas Bessa dos Santos Costa,Lucas Bessa,MEI,285,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,71162,Vinícius Goes Barbosa de Souza,Vinícius,MEI,282,2,1,1,10,12,14,0,1,48,0,0,0,10,0,0,2,0,10,2.2,4.99,-1.07
+19,103764,Gabriel Veron Fonseca de Souza,Veron,ATA,275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,98515,Lucas da Silva de Jesus,Lucas Silva,ATA,262,0,0,0,0,0,4,0,0,1,0,0,0,1,0,0,0,0,1,0.0,1.69,0.0
+19,98888,Cláudio Vitor Morais de Lima Cruz,Cláudio Vitor,GOL,314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,98832,Jean Pyerre Casagrande Silveira Correa,Jean Pyerre,MEI,284,3,2,0,4,7,11,0,0,23,0,0,0,12,0,0,0,0,10,11.9,10.48,1.03
+19,71224,Jorge Fernando Pinheiro de Jesus,Jorge Jesus,TEC,262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.83,14.73,-0.44
+19,103706,Antônio Fialho de Carvalho Neto,Neto,MEI,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,71479,Luis Oscar González,Lucho González,MEI,293,1,0,0,2,4,2,0,0,12,0,0,0,3,0,0,1,0,10,-0.1,4.66,0.4
+19,103700,Bruno Méndez Cittadini,Bruno Méndez,ZAG,264,0,0,0,0,0,0,0,0,9,1,0,0,7,0,0,1,0,2,2.4,5.01,-0.3
+19,98496,Vinícius Teodoro Barreta Melo,Vinícius,GOL,283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,98497,José Natanael da Cruz Oliveira,Natan,MEI,275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,98569,Caio Henrique Oliveira Silva,Caio Henrique,MEI,266,0,1,0,2,3,17,0,4,35,0,0,0,32,0,0,0,0,23,1.4,5.8,0.0
+19,71571,Fernando Miguel Kaufmann,Fernando Miguel,GOL,267,0,0,0,0,0,1,0,0,5,4,0,13,0,0,0,1,12,0,4.0,7.28,1.24
+19,98706,Pedro Victor Delmino da Silva,Pedrinho,MEI,264,4,1,0,10,7,23,0,1,40,0,0,0,10,0,0,0,0,4,3.9,11.53,0.13
+19,71549,Kelvin Mateus de Oliveira,Kelvin,ATA,266,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0.0,3.72,0.0
+19,104085,Bruno de Lara Fuchs,Bruno Fuchs,ZAG,285,0,0,0,1,0,1,0,0,6,2,0,0,1,0,0,1,0,0,0.0,2.72,0.0
+19,103724,Francisco Anderson de Jesus dos Santos,Anderson Ceará,MEI,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,98760,Mariano Vázquez,Mariano Vázquez,MEI,356,0,0,0,1,0,9,0,0,5,0,0,0,6,0,0,1,0,4,0.0,3.77,0.0
+19,104081,Alessandro Scheppa,Alessandro,MEI,263,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104086,Roberto Pinheiro da Rosa,Roberto,ZAG,285,0,0,0,0,0,3,0,0,5,0,0,0,3,0,0,1,0,4,0.0,1.69,0.0
+19,104026,João Pedro Junqueira de Jesus,João Pedro,ATA,266,4,1,0,15,9,13,0,5,18,0,0,0,7,0,0,1,0,11,3.6,6.08,-0.86
+19,104080,André Luiz Ribeiro da Silva,André,GOL,263,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104074,Walce da Silva Costa Filho,Walce,ZAG,276,0,0,0,0,0,0,0,0,6,2,0,0,2,0,0,0,0,1,0.0,3.67,0.0
+19,94495,Alessandro Vinícius Gonçalves da Silva,Alessandro Vinícius,MEI,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104104,Lucas de Oliveira Teodoro Falcão,Falcão,MEI,314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,104087,Pedro Lucas Schwaizer,Pedro Lucas,ATA,285,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,2.69,0.0
+19,104128,Jaques Bonfim Nazaré Neto,Jaques,ZAG,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104088,Matheus Bungenstab Stockl,Matheus Stockl,ZAG,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104250,João Victor da Silva Marcelino,João Victor,ZAG,264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,104257,João Lucas de Almeida Carvalho,João Lucas,LAT,262,0,0,0,0,0,1,0,0,2,3,0,0,3,0,0,0,0,0,0.0,3.49,0.0
+19,104084,Carlos Miguel dos Santos Pereira,Carlos Miguel,GOL,285,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,102686,Yago Rafael Valadares Darub,Yago Darub,GOL,262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104326,Acácio Nuno Boing,Nuno,ZAG,314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,104356,Lucas Vinícius Dias Costa,Lucas Dias,ZAG,341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,104276,Lucas Felipe Calegari,Calegari,LAT,266,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104327,Eduardo Luis Tapparo,Dudu,MEI,314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104325,Arthur Rosseto Henriques,Arthur,GOL,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104404,Gabriel Alves da Cunha Borges,Gabriel,MEI,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104362,Gustavo Coutinho Silva Lopes,Gustavo Coutinho,ATA,356,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104333,Julian Yoiti Suzuki Bicudo,Julian,MEI,314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,104401,Vitor Mendes Alves,Vitor Mendes,ZAG,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104329,João Vitor de Oliveira,João Vitor,GOL,314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104328,Rodrigo Jardim dos Santos Almeida,Rodrigo,GOL,314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104408,Igor Alves dos Reis,Igor Reis,MEI,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104649,Heitor Rodrigues da Fonseca,Heitor,LAT,285,0,1,0,2,0,6,0,0,14,1,0,0,5,0,0,1,0,5,4.8,2.08,-0.14
+19,104650,Lucas Barros da Cunha,Lucas Barros,LAT,263,0,0,0,0,0,1,0,0,1,1,0,0,2,0,0,0,0,1,6.7,2.0,1.24
+19,104824,Gerson José Laurentino Júnior,Gerson Júnior,ATA,341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.75,0.0
+19,104991,Igo Gabriel Santos Pereira,Igo,GOL,341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104660,Vinícius Lopes da Silva,Vinícius,ATA,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104994,Wagner Leonardo Calvelo de Souza,Wagner Leonardo,ZAG,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105198,Raphael Lopes Silva,Raphael Lopes,ATA,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105176,Luiz Fernando Ferreira de Souza,Luiz Fernando,ATA,293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,105175,Khellven Douglas Silva Oliveira,Khellven ,LAT,293,0,0,0,0,0,0,0,0,4,0,0,0,4,0,0,0,0,3,0.0,1.25,0.0
+19,105111,Bruno Henrique Marques Torres,Bruninho,ATA,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,105068,Reinier Jesus Carvalho,Reinier,MEI,262,1,1,0,0,0,2,0,0,3,0,0,0,0,0,0,0,0,1,0.0,4.55,0.0
+19,105049,Luis Henrique Tomaz de Lima,Luis Henrique ,ATA,263,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104678,Tiago Rodrigues dos Reis,Tiago Reis,ATA,267,1,1,1,1,3,3,0,1,4,0,0,0,2,0,0,1,0,13,0.0,4.08,0.0
+19,105173,Francisco Talison Cavalcante Da Silva,Talison,LAT,356,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105201,Vinícius Santana da Silva,Vinícius Popó,ATA,283,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.74,0.0
+19,104651,Lucas Silva Alves,Lucas Alves,GOL,263,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105199,Vinícius de Souza Costa,Vinícius,MEI,262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,105208,Bento Matheus Krepski,Bento,GOL,293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,104415,Talison Ruan da Silva,Talison,LAT,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105282,Francisco Rodrigo de Sousa Barbosa,Diguinho,ZAG,356,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,94509,Raphael Cavalcante Veiga,Raphael Veiga,MEI,275,1,0,0,3,5,6,0,0,7,0,0,0,6,0,0,0,0,6,0.0,7.88,0.0
+19,105278,Iago Pereira Mendonça,Iago Mendonça,ZAG,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105397,Felipe Dias Fonte Mosquete,Felipe Mosquete,GOL,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105340,Flávio Henrique Sousa,Flávio,MEI,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105339,Heron Crespo da Silva,Heron,ZAG,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105396,Rafael Barbosa dos Santos,Rafael Barbosa,MEI,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105395,Alan Carlos de Paula Dias Filho,Alan,ZAG,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105341,Filipe Candido da Trindade,Filipe Trindade,ZAG,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105553,Alexander Silva de Lucena,Alexander,GOL,267,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,6,0,0.0,9.79,0.0
+19,105584,Lucas Piton Crivellaro,Lucas Piton,LAT,264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105612,Miguel Silveira dos Santos,Miguel,MEI,266,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0.0,2.21,0.0
+19,105566,Riquelme Carvalho Araújo Viana,Riquelme,LAT,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105585,Roni Medeiros de Moura,Roni,MEI,264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,105589,Lucas Bergantin Bragança,Lucas Bergantin,GOL,275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105786,Talles Magno Bacelar Martins,Talles Magno,ATA,267,2,0,0,4,8,15,0,0,13,0,0,0,3,0,0,3,0,17,8.9,3.23,2.03
+19,105807,Luan de Freitas Molarinho Chagas,Luan,ZAG,266,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105635,Geovane Silva Santos,Geovane,MEI,293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105836,Rondinelli da Silva Vieira ,Da Silva,ATA,284,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0.78,0.0
+19,105841,Iván Darío Angulo Cortés,Iván Angulo,ATA,275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,4.0,0.0
+19,105842,Lucas Eduardo Ribeiro de Souza,Edu,ZAG,283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105636,Gabriel Henrique Chavoni Fornari,Gabriel Fornari,ZAG,293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105846,Welligton Alexandre da Rocha,Welligton Rocha,ZAG,293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105837,Guilherme da Silva Azevedo,Guilherme Azevedo,ATA,284,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105647,Mauricio Magalhães Prado,Mauricio,MEI,283,1,0,0,1,1,2,0,1,8,0,0,0,3,0,0,0,0,2,0.0,2.6,0.0
+19,105866,João Pedro Celeri Machado,João Celeri,ATA,264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105838,Erik Jorgens de Menezes,Erik,LAT,285,0,0,0,0,0,3,0,0,3,0,0,0,3,0,0,0,0,0,0.0,2.05,0.0
+19,105897,Pablo Marí Villar,Pablo Marí,ZAG,262,2,0,0,0,1,1,0,1,9,4,0,0,14,0,0,2,0,12,5.0,7.54,-0.69
+19,105868,Daniel Marcos Meira Novaes,Daniel Marcos,LAT,264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105900,Allan Victor Oliveira Mota,Allanzinho,ATA,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105907,Alisson Fabrício dos Santos Taddei,Alisson Taddei,MEI,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105902,José Gabriel dos Santos Silva,José Gabriel,MEI,285,0,0,0,0,0,1,0,0,3,0,0,0,1,0,0,0,0,3,0.0,0.77,0.0
+19,105901,Edson Fernando da Silva Gomes,Edson,MEI,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105909,Vinicius Alessandro Mingotti,Vinicius Mingotti,ATA,293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105903,José Aldo Soares de Oliveira Filho,José Aldo,MEI,285,0,0,0,0,1,0,0,0,1,0,0,0,2,0,0,0,0,0,3.5,1.53,0.53
+19,105899,Ivonei Júnior da Silva Rabelo,Ivonei,MEI,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105906,Adriano Firmino dos Santos da Silva,Adriano,MEI,283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,106000,Lucas de Ramos Silveira,Lucas Ramos,MEI,285,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105910,Jonathan Monteiro,Jonathan,ZAG,283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105911,Rômulo Zanre Zwarg,Rômulo,MEI,283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105913,Welinton Macedo dos Santos,Welinton,ATA,283,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0.0,1.29,0.0
+19,106017,João Pedro Costa Contreiras Martins,João Pedro ,ATA,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,106002,João Lucas Souza Cardoso,Johnny ,ATA,285,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.77,-0.23
+19,106076,Daniel de Pauli Oliveira,Daniel Oliveira,MEI,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105914,Carlos Eduardo Bertolassi da Silva,Cadu Silva,ZAG,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,105912,Marco Antônio de Oliveira Coelho,Marco Antônio,MEI,283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,106161,Jonathan Luiz Moreira Rosa Júnior,Jonathan,ATA,314,1,0,0,0,1,5,0,0,5,0,0,0,1,0,0,0,0,6,6.8,3.9,1.95
+19,106160,Lucas Alexandre Galdino de Azevedo,Lucão,GOL,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,106083,Breno Washington Rodrigues da Silva,Breno,MEI,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,106077,Vanderley Ribeiro Correia Filho,Vanderley,ZAG,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,106200,Kaio Magno Bacelar Martins,Kaio Magno,ATA,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,106201,Lucas Figueiredo dos Santos,Lucas Figueiredo,ATA,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,106159,Alexandre Melo Ribeiro da Silva,Alexandre Melo,LAT,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,94931,Lucas Fernandes da Silva,Lucas Fernandes,MEI,276,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,102719,Matheus Celestino Moresche Rodrigues,Moresche,ATA,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,102700,Carlos Gabriel Moreira de Oliviera,Hulk,LAT,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,106219,Kawan Gabriel da Silva,Kawan,MEI,293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,94968,Luis Antônio da Rocha Júnior,Juninho Capixaba,LAT,284,0,1,0,2,2,27,0,3,30,5,0,0,22,0,0,7,0,26,0.0,7.93,0.0
+19,106202,Bruno Gomes da Silva Clevelário,Bruno Gomes,MEI,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,106199,Gabriel Fortes Chaves,Gabriel Pec,MEI,267,0,0,0,0,0,2,0,0,4,0,0,0,1,0,0,0,0,0,0.0,1.38,0.0
+19,94857,Jonatan David Gomez Ospina,Jonatan Gomez,MEI,341,2,2,0,7,9,32,0,1,30,0,0,0,9,0,0,3,0,12,0.0,6.61,0.0
+19,94542,Emilton Pedroso Domingues,Jarro Pedroso,ATA,341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,94975,Marco Antônio Rosa Furtado Júnior,Marco Antônio,MEI,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,94976,José Joaquim de Carvalho,Zeca,ATA,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,102771,Rodrigo Fernandes Nóbrega,Rodrigo Fernandes,MEI,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,102878,Miguel David Terans Pérez  ,Terans,MEI,282,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0.0,3.94,0.0
+19,94980,Geovane Santana Souza,Geovane Itinga,ATA,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,102852, Eduardo Feitoza Sampaio,Dudu,MEI,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3.0,0.0
+19,94981,Felipe Matheus Filgueira de Araújo,Felipinho,MEI,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2.0,0.0
+19,94982,Max Alexandre dos Santos Silva,Max,MEI,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,102891,Francisco Jozielson Soares de Gouveia,Romarinho Gouveia,ATA,356,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0
+19,102892,Yann Del Pino Rolim,Yann Rolim,MEI,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,4.0,0.0
